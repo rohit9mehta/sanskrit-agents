@@ -1,0 +1,1323 @@
+{
+ "sources": {
+  "vulgate": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vasubandhu-triMzikAvijJaptikArikA.txt",
+  "comm": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vasubandhu-triMzikAvijJaptikArikA-comm.txt",
+  "fetched": "2026-07-15",
+  "license": "CC BY-NC-SA 4.0 (GRETIL)"
+ },
+ "verses": [
+  {
+   "verse": 1,
+   "vulgate": {
+    "ab": "ātmadharmopacāro hi vividho yaḥ pravartate",
+    "cd": "vijñānapariṇāme 'sau pariṇāmaḥ sa ca tridhā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 1,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "ātmadharmopacāro hi vividho yaḥ pravartate",
+     "comm_line": 62,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 24,
+      "end": 24
+     }
+    },
+    {
+     "verse": 1,
+     "padas": "c",
+     "kind": "primary",
+     "text": "vijñānapariṇāme 'sau",
+     "comm_line": 66,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 26,
+      "end": 26
+     }
+    },
+    {
+     "verse": 1,
+     "padas": "d",
+     "kind": "primary",
+     "text": "pariṇāmaḥ sa ca tridhā",
+     "comm_line": 100,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 152,
+      "end": 152
+     }
+    }
+   ],
+   "bhasya_text": "ātmadharmopacāro hi vividho yaḥ pravartate vijñānapariṇāme 'sau pariṇāmaḥ sa ca tridhā",
+   "variants": []
+  },
+  {
+   "verse": 2,
+   "vulgate": {
+    "ab": "vipāko mananākhyaśca vijñaptirviṣayasya ca",
+    "cd": "tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam"
+   },
+   "bhasya_units": [
+    {
+     "verse": 2,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "vipāko mananākhyaś ca vijñaptir viṣayasya ca",
+     "comm_line": 106,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 167,
+      "end": 167
+     }
+    },
+    {
+     "verse": 2,
+     "padas": "cd",
+     "kind": "primary",
+     "text": "tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam",
+     "comm_line": 112,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 177,
+      "end": 177
+     }
+    },
+    {
+     "verse": 2,
+     "padas": "c",
+     "kind": "requote",
+     "text": "tatrālayākhyaṃ vijñānam",
+     "comm_line": 132,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 231,
+      "end": 231
+     }
+    }
+   ],
+   "bhasya_text": "vipāko mananākhyaś ca vijñaptir viṣayasya ca tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam",
+   "variants": []
+  },
+  {
+   "verse": 3,
+   "vulgate": {
+    "ab": "asaṃviditakopādisthānavijñaptikaṃ ca tat",
+    "cd": "sadā sparśamanaskāravitsañjñācetanānvitam"
+   },
+   "bhasya_units": [
+    {
+     "verse": 3,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "asaṃviditakopādisthānavijñaptikañ ca tat",
+     "comm_line": 118,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 202,
+      "end": 202
+     }
+    },
+    {
+     "verse": 3,
+     "padas": "cd",
+     "kind": "primary",
+     "text": "sadā sparśamanaskāravitsaṃjñācetanānvitam",
+     "comm_line": 136,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 237,
+      "end": 237
+     }
+    },
+    {
+     "verse": 3,
+     "padas": "cd",
+     "kind": "requote",
+     "text": "sadāsparśamanaskāravitsaṃjñācetanānvitam",
+     "comm_line": 270,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 237,
+      "end": 237
+     }
+    }
+   ],
+   "bhasya_text": "asaṃviditakopādisthānavijñaptikañ ca tat sadā sparśamanaskāravitsaṃjñācetanānvitam",
+   "variants": [
+    {
+     "bhasya": "jnaptikancatatsad",
+     "vulgate": "jnaptikamcatatsad"
+    },
+    {
+     "bhasya": "aravitsamjnacetan",
+     "vulgate": "aravitsanjnacetan"
+    }
+   ]
+  },
+  {
+   "verse": 4,
+   "vulgate": {
+    "ab": "upekṣā vedanā tatrānivṛtāvyākṛtaṃ ca tat",
+    "cd": "tathā sparśādayastacca vartate srotasaughavat"
+   },
+   "bhasya_units": [
+    {
+     "verse": 4,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "upekṣā vedanā tatrānivṛtāvyākṛtañ ca tat",
+     "comm_line": 158,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 307,
+      "end": 307
+     }
+    },
+    {
+     "verse": 4,
+     "padas": "b",
+     "kind": "requote",
+     "text": "anivṛtāvyākṛtañ ca tat",
+     "comm_line": 161,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 312,
+      "end": 312
+     }
+    },
+    {
+     "verse": 4,
+     "padas": "c",
+     "kind": "primary",
+     "text": "tathā sparśādayaḥ",
+     "comm_line": 166,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 319,
+      "end": 319
+     }
+    },
+    {
+     "verse": 4,
+     "padas": "d",
+     "kind": "primary",
+     "text": "tac ca vartate srotasaughavat",
+     "comm_line": 174,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 334,
+      "end": 334
+     }
+    }
+   ],
+   "bhasya_text": "upekṣā vedanā tatrānivṛtāvyākṛtañ ca tat tathā sparśādayaḥ tac ca vartate srotasaughavat",
+   "variants": [
+    {
+     "bhasya": "avyakrtancatattat",
+     "vulgate": "avyakrtamcatattat"
+    },
+    {
+     "bhasya": "arsadayahtaccavar",
+     "vulgate": "arsadayastaccavar"
+    }
+   ]
+  },
+  {
+   "verse": 5,
+   "vulgate": {
+    "ab": "tasya vyāvṛtirarhatve tadāśritya pravartate",
+    "cd": "tadālambaṃ manonāma vijñānaṃ mananātmakam"
+   },
+   "bhasya_units": [
+    {
+     "verse": 5,
+     "padas": "a",
+     "kind": "primary",
+     "text": "tasya vyāvṛttir arhattve",
+     "comm_line": 180,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 344,
+      "end": 344
+     }
+    },
+    {
+     "verse": 5,
+     "padas": "bcd",
+     "kind": "primary",
+     "text": "tad āśritya pravartate | tadālambaṃ manonāma vijñānaṃ mananātmakam",
+     "comm_line": 188,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 361,
+      "end": 362
+     }
+    }
+   ],
+   "bhasya_text": "tasya vyāvṛttir arhattve tad āśritya pravartate | tadālambaṃ manonāma vijñānaṃ mananātmakam",
+   "variants": [
+    {
+     "bhasya": "yavyavrttirarhatt",
+     "vulgate": "yavyavrtirarhatv"
+    },
+    {
+     "bhasya": "ttirarhattvetadas",
+     "vulgate": "rtirarhatvetadas"
+    }
+   ]
+  },
+  {
+   "verse": 6,
+   "vulgate": {
+    "ab": "kleśaiścaturbhiḥ sahitaṃ nivṛtāvyākṛtaiḥ sadā",
+    "cd": "ātmaduṣṭyātmamohātmamānātmasnehasañjñitaiḥ"
+   },
+   "bhasya_units": [
+    {
+     "verse": 6,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "kleśaiś caturbhiḥ sahitaṃ nivṛtāvyākṛtaiḥ sadā",
+     "comm_line": 198,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 385,
+      "end": 385
+     }
+    },
+    {
+     "verse": 6,
+     "padas": "cd",
+     "kind": "primary",
+     "text": "ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ",
+     "comm_line": 206,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 403,
+      "end": 403
+     }
+    }
+   ],
+   "bhasya_text": "kleśaiś caturbhiḥ sahitaṃ nivṛtāvyākṛtaiḥ sadā ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ",
+   "variants": [
+    {
+     "bhasya": "adaatmadrstyatmam",
+     "vulgate": "adaatmadustyatmam"
+    },
+    {
+     "bhasya": "asnehasamjnitaih",
+     "vulgate": "asnehasanjnitaih"
+    }
+   ]
+  },
+  {
+   "verse": 7,
+   "vulgate": {
+    "ab": "yatrajastanmayairanyaiḥ sparśādyaiścārhato na tat",
+    "cd": "na nirodhasamāpattau mārge lokottare na ca"
+   },
+   "bhasya_units": [
+    {
+     "verse": 7,
+     "padas": "a",
+     "kind": "primary",
+     "text": "yatrajas tanmayair",
+     "comm_line": 222,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 425,
+      "end": 425
+     }
+    },
+    {
+     "verse": 7,
+     "padas": "b",
+     "kind": "primary",
+     "text": "anyaiḥ sparśādyaiś ca",
+     "comm_line": 228,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 434,
+      "end": 434
+     }
+    },
+    {
+     "verse": 7,
+     "padas": "bcd",
+     "kind": "primary",
+     "text": "arhato na tat | na nirodhasamāpattau mārge lokottare na ca",
+     "comm_line": 236,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 452,
+      "end": 453
+     }
+    },
+    {
+     "verse": 7,
+     "padas": "d",
+     "kind": "requote",
+     "text": "mārge lokottare na ceti",
+     "comm_line": 240,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 463,
+      "end": 463
+     }
+    }
+   ],
+   "bhasya_text": "yatrajas tanmayair arhato na tat | na nirodhasamāpattau mārge lokottare na ca",
+   "variants": [
+    {
+     "bhasya": "anmayairarhatona",
+     "vulgate": "anmayairanyaihsparsadyaiscarhatona"
+    }
+   ]
+  },
+  {
+   "verse": 8,
+   "vulgate": {
+    "ab": "dvitīyaḥ pariṇāmo 'yaṃ tṛtīyaḥ ṣaḍvidhasya yā",
+    "cd": "viṣayasyopalabdhiḥ sā kuśalākuśalādvayā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 8,
+     "padas": "a",
+     "kind": "primary",
+     "text": "dvitīyaḥ pariṇāmo 'yam",
+     "comm_line": 244,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 472,
+      "end": 472
+     }
+    },
+    {
+     "verse": 8,
+     "padas": "bc",
+     "kind": "primary",
+     "text": "tṛtīyaḥ ṣaḍvidhasya yā | viṣayasyopalabdhiḥ sā",
+     "comm_line": 250,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 475,
+      "end": 476
+     }
+    },
+    {
+     "verse": 8,
+     "padas": "d",
+     "kind": "primary",
+     "text": "kuśalākuśalādvayā",
+     "comm_line": 256,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 482,
+      "end": 482
+     }
+    }
+   ],
+   "bhasya_text": "dvitīyaḥ pariṇāmo 'yam tṛtīyaḥ ṣaḍvidhasya yā | viṣayasyopalabdhiḥ sā kuśalākuśalādvayā",
+   "variants": []
+  },
+  {
+   "verse": 9,
+   "vulgate": {
+    "ab": "sarvatragairviniyataiḥ kuśalaiścaitasairasau",
+    "cd": "samprayuktā tathā kleśairūpakleśaistrivedanā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 9,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "sarvatragair viniyataiḥ kuśalaiś caitasair asau | saṃprayuktā tathā kleśair upakleśais trivedanā",
+     "comm_line": 262,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 491,
+      "end": 492
+     }
+    }
+   ],
+   "bhasya_text": "sarvatragair viniyataiḥ kuśalaiś caitasair asau | saṃprayuktā tathā kleśair upakleśais trivedanā",
+   "variants": []
+  },
+  {
+   "verse": 10,
+   "vulgate": {
+    "ab": "ādyāḥ sparśādayaśchandādhimokṣasmṛtayaḥ saha",
+    "cd": "samādhidhībhyāṃ niyatāḥ śraddhātha hrirapatrapā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 10,
+     "padas": "a",
+     "kind": "primary",
+     "text": "adyāḥ sparśādayaḥ",
+     "comm_line": 266,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 495,
+      "end": 495
+     }
+    },
+    {
+     "verse": 10,
+     "padas": "bc",
+     "kind": "primary",
+     "text": "chandādhimokṣasmṛtayaḥ saha | samādhidhībhyāṃ niyatāḥ",
+     "comm_line": 276,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 506,
+      "end": 507
+     }
+    },
+    {
+     "verse": 10,
+     "padas": "d",
+     "kind": "primary",
+     "text": "śraddhātha hrīr apatrapā",
+     "comm_line": 297,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 574,
+      "end": 574
+     }
+    }
+   ],
+   "bhasya_text": "adyāḥ sparśādayaḥ chandādhimokṣasmṛtayaḥ saha | samādhidhībhyāṃ niyatāḥ śraddhātha hrīr apatrapā",
+   "variants": [
+    {
+     "bhasya": "arsadayahchandadh",
+     "vulgate": "arsadayaschandadh"
+    }
+   ]
+  },
+  {
+   "verse": 11,
+   "vulgate": {
+    "ab": "alobhādi trayaṃ vīryaṃ praśrabdhiḥ sāpramādikā",
+    "cd": "ahiṃsā kuśalāḥ kleśā rāgapratighamūḍhayaḥ"
+   },
+   "bhasya_units": [
+    {
+     "verse": 11,
+     "padas": "abc",
+     "kind": "primary",
+     "text": "alobhāditrayaṃ vīryaṃ praśrabdhiḥ sāpramādikā | āhiṃsā kuśalāḥ",
+     "comm_line": 298,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 575,
+      "end": 576
+     }
+    },
+    {
+     "verse": 11,
+     "padas": "d",
+     "kind": "primary",
+     "text": "kleśā rāgapratighamūḍhayaḥ",
+     "comm_line": 327,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 681,
+      "end": 681
+     }
+    }
+   ],
+   "bhasya_text": "alobhāditrayaṃ vīryaṃ praśrabdhiḥ sāpramādikā | āhiṃsā kuśalāḥ kleśā rāgapratighamūḍhayaḥ",
+   "variants": []
+  },
+  {
+   "verse": 12,
+   "vulgate": {
+    "ab": "mānadṛgvicikitsāśca krodhopanahane punaḥ",
+    "cd": "mrakṣaḥ pradāśa īrṣyārtha mātsaryaṃ saha māyayā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 12,
+     "padas": "a",
+     "kind": "primary",
+     "text": "mānadṛgvicikitsāś ca",
+     "comm_line": 328,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 682,
+      "end": 682
+     }
+    },
+    {
+     "verse": 12,
+     "padas": "bcd",
+     "kind": "primary",
+     "text": "mrakṣaḥ pradāśa īrṣyātha mātsaryaṃ saha māyayā",
+     "comm_line": 371,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 774,
+      "end": 774
+     }
+    }
+   ],
+   "bhasya_text": "mānadṛgvicikitsāś ca mrakṣaḥ pradāśa īrṣyātha mātsaryaṃ saha māyayā",
+   "variants": [
+    {
+     "bhasya": "kitsascamraksahp",
+     "vulgate": "kitsascakrodhopanahanepunahmraksahp"
+    },
+    {
+     "bhasya": "asairsyathamatsa",
+     "vulgate": "asairsyarthamatsa"
+    }
+   ]
+  },
+  {
+   "verse": 13,
+   "vulgate": {
+    "ab": "śāṭhyaṃ mado 'vihiṃsāhrīratrapā styānamuddhavaḥ",
+    "cd": "āśraddhamatha kausīdyaṃ pramādo muṣitā smṛtiḥ"
+   },
+   "bhasya_units": [
+    {
+     "verse": 13,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "śāṭhyaṃ mado 'vihiṃsāhrīr atrapā styānam uddhataḥ āśraddhyam atha kausīdyaṃ pramādo muṣitā smṛtiḥ",
+     "comm_line": 374,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 775,
+      "end": 776
+     }
+    }
+   ],
+   "bhasya_text": "śāṭhyaṃ mado 'vihiṃsāhrīr atrapā styānam uddhataḥ āśraddhyam atha kausīdyaṃ pramādo muṣitā smṛtiḥ",
+   "variants": [
+    {
+     "bhasya": "namuddhatahasradd",
+     "vulgate": "namuddhavahasradd"
+    },
+    {
+     "bhasya": "hasraddhyamathaka",
+     "vulgate": "hasraddhamathaka"
+    }
+   ]
+  },
+  {
+   "verse": 14,
+   "vulgate": {
+    "ab": "vikṣepo 'samprajanyaṃ ca kaukṛtyaṃ middhameva ca",
+    "cd": "vitarkaśca vicāraścetyupakleśā dvaye dvidhā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 14,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "vikṣepo 'saṃprajanyañ ca kaukṛtyaṃ middham eva ca | vitarkaś ca vicāraś cety upakleśā dvaye dvidhā",
+     "comm_line": 376,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 777,
+      "end": 778
+     }
+    },
+    {
+     "verse": 14,
+     "padas": "d",
+     "kind": "requote",
+     "text": "dvaye dvidheti",
+     "comm_line": 429,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 966,
+      "end": 966
+     }
+    }
+   ],
+   "bhasya_text": "vikṣepo 'saṃprajanyañ ca kaukṛtyaṃ middham eva ca | vitarkaś ca vicāraś cety upakleśā dvaye dvidhā",
+   "variants": [
+    {
+     "bhasya": "prajanyancakaukrt",
+     "vulgate": "prajanyamcakaukrt"
+    }
+   ]
+  },
+  {
+   "verse": 15,
+   "vulgate": {
+    "ab": "pañcānāṃ mūlavijñāne yathāpratyayamudbhavaḥ",
+    "cd": "vijñānānāṃ saha na vā taraṅgāṇāṃ yathā jale"
+   },
+   "bhasya_units": [
+    {
+     "verse": 15,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "pañcānāṃ mūlavijñāne yathāpratyayam udbhavaḥ | vijñānānāṃ saha na vā taraṅgāṇāṃ yathā jale",
+     "comm_line": 446,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1008,
+      "end": 1009
+     }
+    }
+   ],
+   "bhasya_text": "pañcānāṃ mūlavijñāne yathāpratyayam udbhavaḥ | vijñānānāṃ saha na vā taraṅgāṇāṃ yathā jale",
+   "variants": []
+  },
+  {
+   "verse": 16,
+   "vulgate": {
+    "ab": "manovijñānasambhūtiḥ sarvadāsañjñikādṛte",
+    "cd": "samāpattidvayānmiddhānmūrchanādapyacittakāt"
+   },
+   "bhasya_units": [
+    {
+     "verse": 16,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "manovijñānasaṃbhūtiḥ sarvadāsaṃjñikād ṛte | samāpattidvayān middhān mūrcchanād apy acittakāt",
+     "comm_line": 460,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1052,
+      "end": 1053
+     }
+    },
+    {
+     "verse": 16,
+     "padas": "bd",
+     "kind": "requote",
+     "text": "āsaṃjñikād ṛte samāpattidvayān middhān mūrcchanād apy acittakād iti",
+     "comm_line": 464,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1057,
+      "end": 1058
+     }
+    }
+   ],
+   "bhasya_text": "manovijñānasaṃbhūtiḥ sarvadāsaṃjñikād ṛte | samāpattidvayān middhān mūrcchanād apy acittakāt",
+   "variants": [
+    {
+     "bhasya": "arvadasamjnikadrt",
+     "vulgate": "arvadasanjnikadrt"
+    },
+    {
+     "bhasya": "dhanmurcchanadapy",
+     "vulgate": "dhanmurchanadapy"
+    }
+   ]
+  },
+  {
+   "verse": 17,
+   "vulgate": {
+    "ab": "vijñānapariṇāmo 'yaṃ vikalpo yadvikalpyate",
+    "cd": "tena tannāsti tenedaṃ sarvaṃ vijñaptimātrakam"
+   },
+   "bhasya_units": [
+    {
+     "verse": 17,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "vijñānapariṇāmo 'yaṃ vikalpo yad vikalpyate | tena tan nāsti tenedaṃ sarvaṃ vijñāptimātrakam",
+     "comm_line": 482,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1093,
+      "end": 1094
+     }
+    },
+    {
+     "verse": 17,
+     "padas": "cd",
+     "kind": "requote",
+     "text": "tenedaṃ sarvaṃ vijñāptimātrakam",
+     "comm_line": 496,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1122,
+      "end": 1122
+     }
+    }
+   ],
+   "bhasya_text": "vijñānapariṇāmo 'yaṃ vikalpo yad vikalpyate | tena tan nāsti tenedaṃ sarvaṃ vijñāptimātrakam",
+   "variants": []
+  },
+  {
+   "verse": 18,
+   "vulgate": {
+    "ab": "sarvabījaṃ hi vijñānaṃ pariṇāmastathā tathā",
+    "cd": "yātyanyonyavaśād yena vikalpaḥ sa sa jāyate"
+   },
+   "bhasya_units": [
+    {
+     "verse": 18,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "sarvabījaṃ hi vijñānaṃ pariṇāmas tathā tathā | yāty anyonyavaśād yena vikalpaḥ sa sa jāyate",
+     "comm_line": 502,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1134,
+      "end": 1135
+     }
+    },
+    {
+     "verse": 18,
+     "padas": "bc",
+     "kind": "requote",
+     "text": "pariṇāmas tathā tathā yāty anyonyavaśād iti",
+     "comm_line": 505,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1142,
+      "end": 1142
+     }
+    }
+   ],
+   "bhasya_text": "sarvabījaṃ hi vijñānaṃ pariṇāmas tathā tathā | yāty anyonyavaśād yena vikalpaḥ sa sa jāyate",
+   "variants": []
+  },
+  {
+   "verse": 19,
+   "vulgate": {
+    "ab": "karmaṇo vāsanā grāhadvayavāsanayā saha",
+    "cd": "kṣīṇe pūrvavipāke 'nyadvipākaṃ janayanti tat"
+   },
+   "bhasya_units": [
+    {
+     "verse": 19,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "karmaṇo vāsanā grāhadvayavāsanayā saha | kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tat",
+     "comm_line": 512,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1157,
+      "end": 1158
+     }
+    },
+    {
+     "verse": 19,
+     "padas": "cd",
+     "kind": "requote",
+     "text": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tad iti",
+     "comm_line": 519,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1180,
+      "end": 1180
+     }
+    },
+    {
+     "verse": 19,
+     "padas": "cd",
+     "kind": "requote",
+     "text": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayantīty",
+     "comm_line": 644,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1450,
+      "end": 1450
+     }
+    }
+   ],
+   "bhasya_text": "karmaṇo vāsanā grāhadvayavāsanayā saha | kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tat",
+   "variants": [
+    {
+     "bhasya": "ipakenyamvipakamj",
+     "vulgate": "ipakenyadvipakamj"
+    }
+   ]
+  },
+  {
+   "verse": 20,
+   "vulgate": {
+    "ab": "yena yena vikalpena yadyad vastu vikalpyate",
+    "cd": "parikalpita evāsau svabhāvo na sa vidyate"
+   },
+   "bhasya_units": [
+    {
+     "verse": 20,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "yena yena vikalpena yad yad vastu vikalpyate | parikalpita evāsau svabhāvo na sa vidyate",
+     "comm_line": 545,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1295,
+      "end": 1296
+     }
+    }
+   ],
+   "bhasya_text": "yena yena vikalpena yad yad vastu vikalpyate | parikalpita evāsau svabhāvo na sa vidyate",
+   "variants": []
+  },
+  {
+   "verse": 21,
+   "vulgate": {
+    "ab": "paratantrasvabhāvastu vikalpaḥ pratyayodbhavaḥ",
+    "cd": "niṣpannastasya pūrveṇa sadā rahitatā tu yā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 21,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "paratantrasvabhāvas tu vikalpaḥ pratyayodbhavaḥ",
+     "comm_line": 557,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1319,
+      "end": 1319
+     }
+    },
+    {
+     "verse": 21,
+     "padas": "cd",
+     "kind": "primary",
+     "text": "niṣpannas tasya pūrveṇa sadā rahitatā tu yā",
+     "comm_line": 569,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1332,
+      "end": 1332
+     }
+    }
+   ],
+   "bhasya_text": "paratantrasvabhāvas tu vikalpaḥ pratyayodbhavaḥ niṣpannas tasya pūrveṇa sadā rahitatā tu yā",
+   "variants": []
+  },
+  {
+   "verse": 22,
+   "vulgate": {
+    "ab": "ata eva sa naivānyo nānanyaḥ paratantrataḥ",
+    "cd": "anityatādivad vācyo nādṛṣṭe 'smin sa dṛśyate"
+   },
+   "bhasya_units": [
+    {
+     "verse": 22,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "ata eva sa naivānyo nānanyaḥ paratantrataḥ",
+     "comm_line": 573,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1341,
+      "end": 1341
+     }
+    },
+    {
+     "verse": 22,
+     "padas": "c",
+     "kind": "primary",
+     "text": "anityatādivad vācyo",
+     "comm_line": 577,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1356,
+      "end": 1356
+     }
+    },
+    {
+     "verse": 22,
+     "padas": "d",
+     "kind": "primary",
+     "text": "nādṛṣṭe 'smin sa dṛśyate",
+     "comm_line": 583,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1369,
+      "end": 1369
+     }
+    }
+   ],
+   "bhasya_text": "ata eva sa naivānyo nānanyaḥ paratantrataḥ anityatādivad vācyo nādṛṣṭe 'smin sa dṛśyate",
+   "variants": []
+  },
+  {
+   "verse": 23,
+   "vulgate": {
+    "ab": "trividhasya svabhāvasya trividhāṃ niḥsvabhāvatām",
+    "cd": "sandhāya sarvadharmāṇāṃ deśitā niḥsvabhāvatā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 23,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "trividhasya svabhāvasya trividhāṃ niḥsvabhāvatām | sandhāya sarvadharmāṇāṃ deśitā niḥsvabhāvatā",
+     "comm_line": 597,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1389,
+      "end": 1390
+     }
+    }
+   ],
+   "bhasya_text": "trividhasya svabhāvasya trividhāṃ niḥsvabhāvatām | sandhāya sarvadharmāṇāṃ deśitā niḥsvabhāvatā",
+   "variants": []
+  },
+  {
+   "verse": 24,
+   "vulgate": {
+    "ab": "prathamo lakṣaṇenaiva niḥsvabhāvo 'paraḥ punaḥ",
+    "cd": "na svayambhāva etasyetyaparā niḥsvabhāvatā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 24,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "prathamo lakṣaṇenaiva niḥsvabhāvo 'paraḥ punaḥ na svayaṃbhāva etasyety aparā niḥsvabhāvatā",
+     "comm_line": 606,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1400,
+      "end": 1401
+     }
+    }
+   ],
+   "bhasya_text": "prathamo lakṣaṇenaiva niḥsvabhāvo 'paraḥ punaḥ na svayaṃbhāva etasyety aparā niḥsvabhāvatā",
+   "variants": []
+  },
+  {
+   "verse": 25,
+   "vulgate": {
+    "ab": "dharmāṇāṃ paramārthaśca sa yatastathatāpi saḥ",
+    "cd": "sarvakālaṃ tathābhāvāt saiva vijñaptimātratā"
+   },
+   "bhasya_units": [
+    {
+     "verse": 25,
+     "padas": "ab",
+     "kind": "primary",
+     "text": "dharmāṇāṃ paramārthaś ca sa yatas tathatāpi saḥ",
+     "comm_line": 608,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1402,
+      "end": 1402
+     }
+    },
+    {
+     "verse": 25,
+     "padas": "ab",
+     "kind": "requote",
+     "text": "dharmāṇāṃ paramārthaś ca sa yatas tathāpi sa iti",
+     "comm_line": 613,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1413,
+      "end": 1413
+     }
+    },
+    {
+     "verse": 25,
+     "padas": "b",
+     "kind": "requote",
+     "text": "tathatāpi saḥ",
+     "comm_line": 617,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1426,
+      "end": 1426
+     }
+    },
+    {
+     "verse": 25,
+     "padas": "c",
+     "kind": "primary",
+     "text": "sarvakālaṃ tathābhāvāt",
+     "comm_line": 620,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1430,
+      "end": 1430
+     }
+    },
+    {
+     "verse": 25,
+     "padas": "d",
+     "kind": "primary",
+     "text": "saiva vijñaptimātratā",
+     "comm_line": 626,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1437,
+      "end": 1437
+     }
+    }
+   ],
+   "bhasya_text": "dharmāṇāṃ paramārthaś ca sa yatas tathatāpi saḥ sarvakālaṃ tathābhāvāt saiva vijñaptimātratā",
+   "variants": []
+  },
+  {
+   "verse": 26,
+   "vulgate": {
+    "ab": "yāvadvijñaptimātratve vijñānaṃ nāvatiṣṭhati",
+    "cd": "grāhadvayasyānuśayastāvanna vinivartate"
+   },
+   "bhasya_units": [
+    {
+     "verse": 26,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "yāvad vijñaptimātratve vijñānaṃ nāvatiṣṭhate | grāhadvayasyānuśayas tāvan na vinivartate",
+     "comm_line": 640,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1447,
+      "end": 1448
+     }
+    },
+    {
+     "verse": 26,
+     "padas": "ab",
+     "kind": "requote",
+     "text": "yāvad vijñaptimātratve vijñānaṃ nāvatiṣṭḥata",
+     "comm_line": 648,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1452,
+      "end": 1452
+     }
+    }
+   ],
+   "bhasya_text": "yāvad vijñaptimātratve vijñānaṃ nāvatiṣṭhate | grāhadvayasyānuśayas tāvan na vinivartate",
+   "variants": [
+    {
+     "bhasya": "atisthategrahadva",
+     "vulgate": "atisthatigrahadva"
+    }
+   ]
+  },
+  {
+   "verse": 27,
+   "vulgate": {
+    "ab": "vijñaptimātramevedamityapi hayupalambhataḥ",
+    "cd": "sthāpayannagrataḥ kiñcit tanmātre nāvatiṣṭhate"
+   },
+   "bhasya_units": [
+    {
+     "verse": 27,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "vijñaptimātram evedam ity api hy upalambhataḥ | sthāpayann agrataḥ kiñcit tanmātre nāvatiṣṭhate",
+     "comm_line": 654,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1470,
+      "end": 1471
+     }
+    },
+    {
+     "verse": 27,
+     "padas": "ab",
+     "kind": "requote",
+     "text": "vijñaptimātram evedam ity api hy upalambhata ity",
+     "comm_line": 658,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1474,
+      "end": 1474
+     }
+    }
+   ],
+   "bhasya_text": "vijñaptimātram evedam ity api hy upalambhataḥ | sthāpayann agrataḥ kiñcit tanmātre nāvatiṣṭhate",
+   "variants": [
+    {
+     "bhasya": "mityapihyupalamb",
+     "vulgate": "mityapihayupalamb"
+    }
+   ]
+  },
+  {
+   "verse": 28,
+   "vulgate": {
+    "ab": "yadālambanaṃ vijñānaṃ naivopalabhate tadā",
+    "cd": "sthitaṃ vijñānamātratve grāhyābhāve tadagrahāt"
+   },
+   "bhasya_units": [
+    {
+     "verse": 28,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "yadā tv ālambanaṃ jñānaṃ naivopalabhate tadā | sthitaṃ vijñaptimātratve grāhyābhābhāve tadagrahāt",
+     "comm_line": 664,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1484,
+      "end": 1485
+     }
+    },
+    {
+     "verse": 28,
+     "padas": "d",
+     "kind": "requote",
+     "text": "grāhyābhāve tadagrahād iti",
+     "comm_line": 667,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1491,
+      "end": 1491
+     }
+    }
+   ],
+   "bhasya_text": "yadā tv ālambanaṃ jñānaṃ naivopalabhate tadā | sthitaṃ vijñaptimātratve grāhyābhābhāve tadagrahāt",
+   "variants": [
+    {
+     "bhasya": "yadatvalambana",
+     "vulgate": "yadalambana"
+    },
+    {
+     "bhasya": "lambanamjnanamna",
+     "vulgate": "lambanamvijnanamna"
+    },
+    {
+     "bhasya": "tamvijnaptimatratve",
+     "vulgate": "tamvijnanamatratve"
+    },
+    {
+     "bhasya": "rahyabhabhavetadagr",
+     "vulgate": "rahyabhavetadagr"
+    }
+   ]
+  },
+  {
+   "verse": 29,
+   "vulgate": {
+    "ab": "acitto 'nupalambho 'sau jñānaṃ lokottaraṃ ca tat",
+    "cd": "āśrayasya parāvṛttirdvidhā dauṣṭhulyahānitaḥ"
+   },
+   "bhasya_units": [
+    {
+     "verse": 29,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "acitto 'nupalambo 'sau jñānaṃ lokottarañ ca tat āśrayasya parāvṛttir dvidhādauṣṭhulyahānitaḥ",
+     "comm_line": 673,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1499,
+      "end": 1500
+     }
+    },
+    {
+     "verse": 29,
+     "padas": "a",
+     "kind": "requote",
+     "text": "cācitto 'nupalambho 'sau",
+     "comm_line": 678,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1508,
+      "end": 1508
+     }
+    },
+    {
+     "verse": 29,
+     "padas": "b",
+     "kind": "requote",
+     "text": "jñānaṃ lokottarañ ca tad iti",
+     "comm_line": 680,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1510,
+      "end": 1510
+     }
+    },
+    {
+     "verse": 29,
+     "padas": "c",
+     "kind": "requote",
+     "text": "āśrayasya parāvṛttir iti",
+     "comm_line": 682,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1512,
+      "end": 1512
+     }
+    },
+    {
+     "verse": 29,
+     "padas": "d",
+     "kind": "requote",
+     "text": "dvidhādauṣṭhulyahānitaḥ",
+     "comm_line": 686,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1519,
+      "end": 1519
+     }
+    }
+   ],
+   "bhasya_text": "acitto 'nupalambo 'sau jñānaṃ lokottarañ ca tat āśrayasya parāvṛttir dvidhādauṣṭhulyahānitaḥ",
+   "variants": [
+    {
+     "bhasya": "nupalambosaujnan",
+     "vulgate": "nupalambhosaujnan"
+    },
+    {
+     "bhasya": "okottarancatatasr",
+     "vulgate": "okottaramcatatasr"
+    }
+   ]
+  },
+  {
+   "verse": 30,
+   "vulgate": {
+    "ab": "sa evānasravo dhāturacintyaḥ kuśalo dhruvaḥ",
+    "cd": "sukho vimuktikāyo 'sau dharmākhyo 'yaṃ mahāmuneḥ"
+   },
+   "bhasya_units": [
+    {
+     "verse": 30,
+     "padas": "abcd",
+     "kind": "primary",
+     "text": "sa evānāsravo dhātur acintyaḥ kuśalo dhruvaḥ | sukho vimuktikāyo 'sau dharmākhyo 'yaṃ mahāmuneḥ",
+     "comm_line": 675,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1501,
+      "end": 1502
+     }
+    },
+    {
+     "verse": 30,
+     "padas": "d",
+     "kind": "requote",
+     "text": "dharmākhyo 'yaṃ mahāmuner iti",
+     "comm_line": 690,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1528,
+      "end": 1528
+     }
+    },
+    {
+     "verse": 30,
+     "padas": "a",
+     "kind": "requote",
+     "text": "sa evānāsravo dhātur iti",
+     "comm_line": 700,
+     "trbh_hit": {
+      "score": 100.0,
+      "start": 1537,
+      "end": 1537
+     }
+    }
+   ],
+   "bhasya_text": "sa evānāsravo dhātur acintyaḥ kuśalo dhruvaḥ | sukho vimuktikāyo 'sau dharmākhyo 'yaṃ mahāmuneḥ",
+   "variants": []
+  }
+ ]
+}
