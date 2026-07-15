@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Large upstream-splitter training data + model (reference only, superseded)
+data/input/*.zip
+data/input/additional-data-0-128.json
+data/models/
+
+# Fetched/derived data that is re-creatable
+agent/data/raw/
+agent/data/cache/
+agent/data/vidyut-*/
