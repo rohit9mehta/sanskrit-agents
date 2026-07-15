@@ -53,12 +53,13 @@ justifying each contested choice.
    dependent decisions, 15 vidyut-logged claims (12 pass, 3 unsupported samāsa
    relations), one-shot delta documented
 
-## Next: Phase 1 (pipeline MVP, plan §4)
-- Orchestrate the loop for single verses; the spec is the friction list in
-  `agent/handrun/v02/notes.md` (claim-JSON → verify runner, verify_compound_claim
-  helper, pinned MW source, span lookahead, requote retrieval)
-- Run all 30 verses; compare vs MITRA Translate, raw frontier LLM, Buescher 2007
-  (Buescher must come from the physical book — never from model memory)
+## Next: Phase 1 (pipeline MVP) — plan in **`phase1-plan.md`**
+- Five workstreams: MW dictionary module, claim schema + verify runner,
+  retrieval bundle, reasoner (claude-opus-4-8, structured outputs) +
+  orchestration, full 30-verse run + baselines + comparison
+- Blocking prerequisite for the run stages: an Anthropic API credential
+  (none configured as of 2026-07-15); Buescher 2007 must be typed/scanned in
+  by Rohit — never filled from model memory
 
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern
