@@ -28,7 +28,11 @@ justifying each contested choice.
   marked by `iti ... tad ayuktam`). Commentary grounding fixed all three.
 
 ## Key resources
-- ByT5-Sanskrit: pip `dharmamitra-sanskrit-grammar`; HF `sebastian-nehrdich/byt5-sanskrit-multitask`
+- ByT5-Sanskrit: HF `chronbmm/sanskrit5-multitask` (the published EMNLP-2024 multitask
+  model; `sebastian-nehrdich/byt5-sanskrit-multitask` is 401/not public, and pip
+  `dharmamitra-sanskrit-grammar` 0.1.7 is broken against the live API — we speak the
+  current API schema directly in `agent/src/shastrartha/analyze.py`; see
+  `agent/data/MANIFEST.md`)
 - Vidyut (Pāṇinian derivation, Rust + Python bindings): github.com/ambuda-org/vidyut —
   good tiṅanta/kṛdanta/subanta coverage, PARTIAL samāsa coverage (verify compound members,
   not the compound relation)
@@ -36,13 +40,25 @@ justifying each contested choice.
 - Corpora: GRETIL, DCS (github.com/OliverHellwig/sanskrit), dharmamitra.org tools
 - Human baseline translation for eval: Buescher 2007 (Sthiramati's Triṃśikāvijñaptibhāṣya)
 
-## Current phase: Phase 0 (see plan §4)
-1. `pip install dharmamitra-sanskrit-grammar` and vidyut Python bindings; sanity-check both
-   on lines from `data/input/trbh.txt.unsandhied`
-2. Pull Triṃśikā root text (GRETIL/DCS); confirm bhāṣya covers all 30 kārikās
-3. Build the pratīka-matcher: align each kārikā to its commentary span in trbh.txt
-   (commentaries quote the mūla + `iti`; combine string match with embedding similarity)
-4. Hand-run the full agent loop on ONE verse before writing orchestration code
+## Phase 0: COMPLETE (2026-07-15; see plan §4)
+1. ✅ Toolbox sanity-checked (`agent/scripts/00–02`): local ByT5 primary analyzer
+   (the API under-splits compounds — `agent/logs/sanity/byt5_report.md`), vidyut
+   derivations + designed-negative + `unsupported` class all working
+2. ✅ Mūla built from GRETIL (`agent/data/mula/trimsika.json`): 30/30 kārikās covered,
+   bhāṣya reading primary, variants tabled (e.g. v.13 uddhataḥ vs vulgate uddhavaḥ)
+3. ✅ Pratīka-matcher (`agent/src/shastrartha/match.py`): 30/30 anchors + spans,
+   validated against a gold projection of GRETIL-comm pāda labels (72/72 units;
+   embeddings not needed — lexical matching sufficed, see alignment/spot_check.md)
+4. ✅ Hand-run on v.2 (`agent/handrun/v02/`): apparatus.md/.json with 5 commentary-
+   dependent decisions, 15 vidyut-logged claims (12 pass, 3 unsupported samāsa
+   relations), one-shot delta documented
+
+## Next: Phase 1 (pipeline MVP, plan §4)
+- Orchestrate the loop for single verses; the spec is the friction list in
+  `agent/handrun/v02/notes.md` (claim-JSON → verify runner, verify_compound_claim
+  helper, pinned MW source, span lookahead, requote retrieval)
+- Run all 30 verses; compare vs MITRA Translate, raw frontier LLM, Buescher 2007
+  (Buescher must come from the physical book — never from model memory)
 
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern

@@ -1,0 +1,14 @@
+{
+ "167": {
+  "raw": "vipāko mananākhyaś ca vijñaptir viṣayasya ca",
+  "api_seg": "vipākaḥ_manana_ākhyaḥ_ca_vijñaptiḥ_viṣayasya_ca_",
+  "local_S": "vipākaḥ_manana_ākhyaḥ_ca_vijñaptiḥ_viṣayasya_ca_",
+  "local_SLM": "vipākaḥ_vipāka_SNM manana_manana_Cp ākhyaḥ_ākhyā_SNM ca_ca_ vijñaptiḥ_vijñapti_SNF viṣayasya_viṣaya_SGM ca_ca_"
+ },
+ "177": {
+  "raw": "tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam",
+  "api_seg": "tatra_ālaya_ākhyam_vijñānam_vipākaḥ_sarvabījakam_",
+  "local_S": "tatra_ālaya_ākhyam_vijñānam_vipākaḥ_sarva_bījakam_",
+  "local_SLM": "tatra_tatra_ ālaya_ālaya_Cp ākhyam_ākhyā_SNNe vijñānam_vijñāna_SNNe vipākaḥ_vipāka_SNM sarva_sarva_Cp bījakam_bījaka_SNNe"
+ }
+}

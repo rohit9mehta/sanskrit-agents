@@ -1,0 +1,36 @@
+{
+ "verse": 2,
+ "text": {
+  "ab": "vipāko mananākhyaś ca vijñaptir viṣayasya ca",
+  "cd": "tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam"
+ },
+ "source_lines": {"ab": 167, "cd": 177, "iti": [168, 178]},
+ "commentary_span": [169, 201],
+ "reasoner": "claude (hand-run 2026-07-15)",
+ "verification_run_id": "handrun-v02-01",
+ "analysis": [
+  {"surface": "vipākaḥ", "lemma": "vipāka", "morph": {"pos": "subanta", "linga": "Pum", "vibhakti": "Prathama", "vacana": "Eka"}, "verification": "pass", "note": "name of pariṇāma #1"},
+  {"surface": "mananākhyaḥ", "lemma": "mananākhya", "morph": {"pos": "subanta", "linga": "Pum", "vibhakti": "Prathama", "vacana": "Eka"}, "samasa": {"type": "bahuvrīhi", "vigraha": "manana-ākhyā yasya", "members": ["manana", "ākhyā"]}, "verification": "stem pass; relation unsupported; member manana pass", "note": "= kliṣṭa manas (trbh 172)"},
+  {"surface": "ca", "lemma": "ca", "morph": {"pos": "avyaya"}, "verification": "pass (kosha)"},
+  {"surface": "vijñaptiḥ", "lemma": "vijñapti", "morph": {"pos": "subanta", "linga": "Stri", "vibhakti": "Prathama", "vacana": "Eka"}, "verification": "pass"},
+  {"surface": "viṣayasya", "lemma": "viṣaya", "morph": {"pos": "subanta", "linga": "Pum", "vibhakti": "Sasthi", "vacana": "Eka"}, "verification": "pass", "note": "objective genitive with vijñaptiḥ (trbh 173–174)"},
+  {"surface": "ca", "lemma": "ca", "morph": {"pos": "avyaya"}, "verification": "pass (kosha)", "note": "postponed for metre"},
+  {"surface": "tatra", "lemma": "tatra", "morph": {"pos": "avyaya"}, "verification": "pass (kosha)", "note": "'among these three' (trbh 179)"},
+  {"surface": "ālayākhyam", "lemma": "ālayākhya", "morph": {"pos": "subanta", "linga": "Napumsaka", "vibhakti": "Prathama", "vacana": "Eka"}, "samasa": {"type": "bahuvrīhi", "vigraha": "ālaya ākhyā yasya", "members": ["ālaya", "ākhyā"]}, "verification": "stem pass; relation unsupported"},
+  {"surface": "vijñānam", "lemma": "vijñāna", "morph": {"pos": "subanta", "linga": "Napumsaka", "vibhakti": "Prathama", "vacana": "Eka"}, "verification": "pass", "note": "vijānātīti vijñānam (trbh 187)"},
+  {"surface": "vipākaḥ", "lemma": "vipāka", "morph": {"pos": "subanta", "linga": "Pum", "vibhakti": "Prathama", "vacana": "Eka"}, "verification": "pass", "note": "predicative; = vipākapariṇāmaḥ (trbh 180–181)"},
+  {"surface": "sarvabījakam", "lemma": "sarvabījaka", "morph": {"pos": "subanta", "linga": "Napumsaka", "vibhakti": "Prathama", "vacana": "Eka"}, "samasa": {"type": "bahuvrīhi", "vigraha": "sarvāṇi bījāni yasmin (samāsānta -ka)", "members": ["sarva", "bīja(ka)"]}, "verification": "stem pass; relation unsupported; member bījakam pass", "note": "justified trbh 189"}
+ ],
+ "justifications": [
+  {"id": "J1", "decision": "2ab enumerates three named transformations; the third is the sixfold sense-consciousness", "chosen": "enumeration", "evidence": [{"lines": [169, 169], "quote": "sa eṣa trividhaḥ pariṇāmo vipākākhyo mananākhyo viṣayavijñaptyākhyaś ca"}, {"lines": [173, 174], "quote": "rūpādiviṣayapratyavabhāsatvāc cakṣurādivijñānaṃ ṣaṭprakāram api viṣayavijñaptiḥ"}], "depends_on_commentary": true},
+  {"id": "J2", "decision": "mananākhya = kliṣṭa manas", "chosen": "technical identification", "evidence": [{"lines": [172, 172], "quote": "kliṣṭaṃ mano nityaṃ mananātmakatvān mananākhyam"}], "depends_on_commentary": true},
+  {"id": "J3", "decision": "viṣayasya is objective genitive with vijñaptiḥ", "chosen": "objective genitive", "evidence": [{"lines": [173, 174], "quote": "…viṣayapratyavabhāsatvāt … viṣayavijñaptiḥ"}], "depends_on_commentary": true, "vidyut": "gen.sg. pass; dative counter-claim fails (sanity log)"},
+  {"id": "J4", "decision": "2cd: vipākaḥ predicative, ālaya-vijñāna = transformation #1", "chosen": "ordered definition, not description", "evidence": [{"lines": [175, 176], "quote": "yasya yat svarūpaṃ tad yathākramaṃ pradarśayann āha"}, {"lines": [179, 179], "quote": "tatreti yo 'yam anantaroktas trividhaḥ pariṇāmaḥ"}, {"lines": [180, 181], "quote": "ālayākhyam ity ālayavijñānasaṃjñakaṃ yad vijñānaṃ sa vipākapariṇāmaḥ"}, {"lines": [188, 188], "quote": "sarvadhātugatiyonijātiṣu kuśalākuśalakarmavipākatvād vipākaḥ"}], "depends_on_commentary": true},
+  {"id": "J5", "decision": "sarvabījakam is bahuvrīhi 'possessing all seeds'", "chosen": "bahuvrīhi", "evidence": [{"lines": [189, 189], "quote": "sarvadharmabījāśrayatvāt sarvabījakam"}], "depends_on_commentary": true, "vidyut": "whole-stem pass; relation unsupported"},
+  {"id": "J6", "decision": "ālaya rendered 'repository' with double etymology noted", "chosen": "sthāna + ā-√lī derivations", "evidence": [{"lines": [182, 184], "quote": "sarvasāṃkleśikadharmabījasthānatvād ālayaḥ … ālayaḥ sthānam iti paryāyau"}, {"lines": [185, 186], "quote": "atha vālīyante upanibadhyante 'smin sarvadharmāḥ kāryabhāvena…"}], "depends_on_commentary": false, "dictionary": "MW s.v. ālaya (154,1) 'receptacle, asylum'"}
+ ],
+ "translation": "[That transformation is threefold:] maturation (vipāka), that called 'mentation' (manana, i.e. the defiled mind), and the making-known of objects (viṣaya-vijñapti, the sixfold sense consciousness). Among these, the maturation[-transformation] is the consciousness called ālaya (the 'repository'), which holds all the seeds.",
+ "one_shot_delta": ["manana not identified with kliṣṭa manas", "vijñaptir viṣayasya left under-specified (not marked as sixfold sense-consciousness)", "2cd read as description, not the first ordered definition", "sarvabījaka's bahuvrīhi force unsecured"],
+ "baseline_comparison": {"buescher_2007": "pending — book not digitized in-session; do not fill from memory", "mitra_translate": "Phase 1", "raw_llm": "Phase 1"},
+ "open_questions": ["rendering of vijñapti (representation / making-known / untranslated)", "border-verse retrieval: span vs span_raw where next verse's discussion begins early (190–201)", "rank requote contexts (2c requoted at trbh 231) in Phase 1 retrieval"]
+}
