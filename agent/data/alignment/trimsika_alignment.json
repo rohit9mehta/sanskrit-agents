@@ -1,0 +1,2075 @@
+{
+ "threshold": 85.0,
+ "unmatched": [],
+ "verses": [
+  {
+   "verse": 1,
+   "units": [
+    {
+     "verse": 1,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 62,
+     "text": "ātmadharmopacāro hi vividho yaḥ pravartate",
+     "lines": [
+      24,
+      24
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 1,
+     "padas": "c",
+     "kind": "primary",
+     "comm_line": 66,
+     "text": "vijñānapariṇāme 'sau",
+     "lines": [
+      26,
+      26
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 1,
+     "padas": "d",
+     "kind": "primary",
+     "comm_line": 100,
+     "text": "pariṇāmaḥ sa ca tridhā",
+     "lines": [
+      152,
+      152
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    24,
+    24
+   ],
+   "span_raw": [
+    25,
+    166
+   ],
+   "span": [
+    25,
+    164
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 2,
+   "units": [
+    {
+     "verse": 2,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 106,
+     "text": "vipāko mananākhyaś ca vijñaptir viṣayasya ca",
+     "lines": [
+      167,
+      167
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 2,
+     "padas": "cd",
+     "kind": "primary",
+     "comm_line": 112,
+     "text": "tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam",
+     "lines": [
+      177,
+      177
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 2,
+     "padas": "c",
+     "kind": "requote",
+     "comm_line": 132,
+     "text": "tatrālayākhyaṃ vijñānam",
+     "lines": [
+      231,
+      231
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 2,
+     "padas": "c",
+     "kind": "requote",
+     "comm_line": 132,
+     "text": "tatrālayākhyaṃ vijñānam",
+     "lines": [
+      231,
+      231
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    167,
+    167
+   ],
+   "span_raw": [
+    169,
+    201
+   ],
+   "span": [
+    169,
+    201
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 3,
+   "units": [
+    {
+     "verse": 3,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 118,
+     "text": "asaṃviditakopādisthānavijñaptikañ ca tat",
+     "lines": [
+      202,
+      202
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 3,
+     "padas": "cd",
+     "kind": "primary",
+     "comm_line": 136,
+     "text": "sadā sparśamanaskāravitsaṃjñācetanānvitam",
+     "lines": [
+      237,
+      237
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 3,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 270,
+     "text": "sadāsparśamanaskāravitsaṃjñācetanānvitam",
+     "lines": [
+      498,
+      498
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 3,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 270,
+     "text": "sadāsparśamanaskāravitsaṃjñācetanānvitam",
+     "lines": [
+      498,
+      498
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    202,
+    202
+   ],
+   "span_raw": [
+    203,
+    306
+   ],
+   "span": [
+    203,
+    303
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 4,
+   "units": [
+    {
+     "verse": 4,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 158,
+     "text": "upekṣā vedanā tatrānivṛtāvyākṛtañ ca tat",
+     "lines": [
+      307,
+      307
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 4,
+     "padas": "b",
+     "kind": "requote",
+     "comm_line": 161,
+     "text": "anivṛtāvyākṛtañ ca tat",
+     "lines": [
+      312,
+      312
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 4,
+     "padas": "c",
+     "kind": "primary",
+     "comm_line": 166,
+     "text": "tathā sparśādayaḥ",
+     "lines": [
+      319,
+      319
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 4,
+     "padas": "d",
+     "kind": "primary",
+     "comm_line": 174,
+     "text": "tac ca vartate srotasaughavat",
+     "lines": [
+      334,
+      334
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 4,
+     "padas": "b",
+     "kind": "requote",
+     "comm_line": 161,
+     "text": "anivṛtāvyākṛtañ ca tat",
+     "lines": [
+      312,
+      312
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    307,
+    307
+   ],
+   "span_raw": [
+    308,
+    343
+   ],
+   "span": [
+    308,
+    342
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 5,
+   "units": [
+    {
+     "verse": 5,
+     "padas": "a",
+     "kind": "primary",
+     "comm_line": 180,
+     "text": "tasya vyāvṛttir arhattve",
+     "lines": [
+      344,
+      344
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 5,
+     "padas": "bcd",
+     "kind": "primary",
+     "comm_line": 188,
+     "text": "tad āśritya pravartate | tadālambaṃ manonāma vijñānaṃ mananātmakam",
+     "lines": [
+      361,
+      362
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    344,
+    344
+   ],
+   "span_raw": [
+    345,
+    384
+   ],
+   "span": [
+    345,
+    382
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 6,
+   "units": [
+    {
+     "verse": 6,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 198,
+     "text": "kleśaiś caturbhiḥ sahitaṃ nivṛtāvyākṛtaiḥ sadā",
+     "lines": [
+      385,
+      385
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 6,
+     "padas": "cd",
+     "kind": "primary",
+     "comm_line": 206,
+     "text": "ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ",
+     "lines": [
+      403,
+      403
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    385,
+    385
+   ],
+   "span_raw": [
+    386,
+    424
+   ],
+   "span": [
+    386,
+    423
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 7,
+   "units": [
+    {
+     "verse": 7,
+     "padas": "a",
+     "kind": "primary",
+     "comm_line": 222,
+     "text": "yatrajas tanmayair",
+     "lines": [
+      425,
+      425
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 7,
+     "padas": "b",
+     "kind": "primary",
+     "comm_line": 228,
+     "text": "anyaiḥ sparśādyaiś ca",
+     "lines": [
+      434,
+      434
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 7,
+     "padas": "bcd",
+     "kind": "primary",
+     "comm_line": 236,
+     "text": "arhato na tat | na nirodhasamāpattau mārge lokottare na ca",
+     "lines": [
+      452,
+      453
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 7,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 240,
+     "text": "mārge lokottare na ceti",
+     "lines": [
+      463,
+      463
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 7,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 240,
+     "text": "mārge lokottare na ceti",
+     "lines": [
+      463,
+      463
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    425,
+    425
+   ],
+   "span_raw": [
+    427,
+    471
+   ],
+   "span": [
+    427,
+    471
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 8,
+   "units": [
+    {
+     "verse": 8,
+     "padas": "a",
+     "kind": "primary",
+     "comm_line": 244,
+     "text": "dvitīyaḥ pariṇāmo 'yam",
+     "lines": [
+      472,
+      472
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 8,
+     "padas": "bc",
+     "kind": "primary",
+     "comm_line": 250,
+     "text": "tṛtīyaḥ ṣaḍvidhasya yā | viṣayasyopalabdhiḥ sā",
+     "lines": [
+      475,
+      476
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 8,
+     "padas": "d",
+     "kind": "primary",
+     "comm_line": 256,
+     "text": "kuśalākuśalādvayā",
+     "lines": [
+      482,
+      482
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    472,
+    472
+   ],
+   "span_raw": [
+    473,
+    490
+   ],
+   "span": [
+    473,
+    488
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 9,
+   "units": [
+    {
+     "verse": 9,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 262,
+     "text": "sarvatragair viniyataiḥ kuśalaiś caitasair asau | saṃprayuktā tathā kleśair upakleśais trivedanā",
+     "lines": [
+      491,
+      492
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    491,
+    492
+   ],
+   "span_raw": [
+    493,
+    494
+   ],
+   "span": [
+    493,
+    493
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 10,
+   "units": [
+    {
+     "verse": 10,
+     "padas": "a",
+     "kind": "primary",
+     "comm_line": 266,
+     "text": "adyāḥ sparśādayaḥ",
+     "lines": [
+      495,
+      495
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 10,
+     "padas": "bc",
+     "kind": "primary",
+     "comm_line": 276,
+     "text": "chandādhimokṣasmṛtayaḥ saha | samādhidhībhyāṃ niyatāḥ",
+     "lines": [
+      506,
+      507
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 10,
+     "padas": "d",
+     "kind": "primary",
+     "comm_line": 297,
+     "text": "śraddhātha hrīr apatrapā",
+     "lines": [
+      574,
+      574
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    495,
+    495
+   ],
+   "span_raw": [
+    496,
+    574
+   ],
+   "span": [
+    496,
+    574
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 11,
+   "units": [
+    {
+     "verse": 11,
+     "padas": "abc",
+     "kind": "primary",
+     "comm_line": 298,
+     "text": "alobhāditrayaṃ vīryaṃ praśrabdhiḥ sāpramādikā | āhiṃsā kuśalāḥ",
+     "lines": [
+      575,
+      576
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 11,
+     "padas": "d",
+     "kind": "primary",
+     "comm_line": 327,
+     "text": "kleśā rāgapratighamūḍhayaḥ",
+     "lines": [
+      681,
+      681
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    575,
+    576
+   ],
+   "span_raw": [
+    577,
+    681
+   ],
+   "span": [
+    577,
+    681
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 12,
+   "units": [
+    {
+     "verse": 12,
+     "padas": "a",
+     "kind": "primary",
+     "comm_line": 328,
+     "text": "mānadṛgvicikitsāś ca",
+     "lines": [
+      682,
+      682
+     ],
+     "score": 100.0,
+     "signals": [
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 12,
+     "padas": "bcd",
+     "kind": "primary",
+     "comm_line": 371,
+     "text": "mrakṣaḥ pradāśa īrṣyātha mātsaryaṃ saha māyayā",
+     "lines": [
+      774,
+      774
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    682,
+    682
+   ],
+   "span_raw": [
+    684,
+    774
+   ],
+   "span": [
+    684,
+    774
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 13,
+   "units": [
+    {
+     "verse": 13,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 374,
+     "text": "śāṭhyaṃ mado 'vihiṃsāhrīr atrapā styānam uddhataḥ āśraddhyam atha kausīdyaṃ pramādo muṣitā smṛtiḥ",
+     "lines": [
+      775,
+      776
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    775,
+    776
+   ],
+   "span_raw": [
+    777,
+    776
+   ],
+   "span": [
+    779,
+    1005
+   ],
+   "shared_with": 14,
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 14,
+   "units": [
+    {
+     "verse": 14,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 376,
+     "text": "vikṣepo 'saṃprajanyañ ca kaukṛtyaṃ middham eva ca | vitarkaś ca vicāraś cety upakleśā dvaye dvidhā",
+     "lines": [
+      777,
+      778
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 14,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 429,
+     "text": "dvaye dvidheti",
+     "lines": [
+      966,
+      966
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 14,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 429,
+     "text": "dvaye dvidheti",
+     "lines": [
+      966,
+      966
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    777,
+    778
+   ],
+   "span_raw": [
+    779,
+    1007
+   ],
+   "span": [
+    779,
+    1005
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 15,
+   "units": [
+    {
+     "verse": 15,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 446,
+     "text": "pañcānāṃ mūlavijñāne yathāpratyayam udbhavaḥ | vijñānānāṃ saha na vā taraṅgāṇāṃ yathā jale",
+     "lines": [
+      1008,
+      1009
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    1008,
+    1009
+   ],
+   "span_raw": [
+    1010,
+    1051
+   ],
+   "span": [
+    1010,
+    1050
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 16,
+   "units": [
+    {
+     "verse": 16,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 460,
+     "text": "manovijñānasaṃbhūtiḥ sarvadāsaṃjñikād ṛte | samāpattidvayān middhān mūrcchanād apy acittakāt",
+     "lines": [
+      1052,
+      1053
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 16,
+     "padas": "bd",
+     "kind": "requote",
+     "comm_line": 464,
+     "text": "āsaṃjñikād ṛte samāpattidvayān middhān mūrcchanād apy acittakād iti",
+     "lines": [
+      1057,
+      1058
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 16,
+     "padas": "bd",
+     "kind": "requote",
+     "comm_line": 464,
+     "text": "āsaṃjñikād ṛte samāpattidvayān middhān mūrcchanād apy acittakād iti",
+     "lines": [
+      1057,
+      1058
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1052,
+    1053
+   ],
+   "span_raw": [
+    1055,
+    1092
+   ],
+   "span": [
+    1055,
+    1089
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 17,
+   "units": [
+    {
+     "verse": 17,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 482,
+     "text": "vijñānapariṇāmo 'yaṃ vikalpo yad vikalpyate | tena tan nāsti tenedaṃ sarvaṃ vijñāptimātrakam",
+     "lines": [
+      1093,
+      1094
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 17,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 496,
+     "text": "tenedaṃ sarvaṃ vijñāptimātrakam",
+     "lines": [
+      1122,
+      1122
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 17,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 496,
+     "text": "tenedaṃ sarvaṃ vijñāptimātrakam",
+     "lines": [
+      1122,
+      1122
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1093,
+    1094
+   ],
+   "span_raw": [
+    1096,
+    1133
+   ],
+   "span": [
+    1096,
+    1131
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 18,
+   "units": [
+    {
+     "verse": 18,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 502,
+     "text": "sarvabījaṃ hi vijñānaṃ pariṇāmas tathā tathā | yāty anyonyavaśād yena vikalpaḥ sa sa jāyate",
+     "lines": [
+      1134,
+      1135
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 18,
+     "padas": "bc",
+     "kind": "requote",
+     "comm_line": 505,
+     "text": "pariṇāmas tathā tathā yāty anyonyavaśād iti",
+     "lines": [
+      1142,
+      1142
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 18,
+     "padas": "bc",
+     "kind": "requote",
+     "comm_line": 505,
+     "text": "pariṇāmas tathā tathā yāty anyonyavaśād iti",
+     "lines": [
+      1142,
+      1142
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1134,
+    1135
+   ],
+   "span_raw": [
+    1136,
+    1156
+   ],
+   "span": [
+    1136,
+    1154
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 19,
+   "units": [
+    {
+     "verse": 19,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 512,
+     "text": "karmaṇo vāsanā grāhadvayavāsanayā saha | kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tat",
+     "lines": [
+      1157,
+      1158
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 19,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 519,
+     "text": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tad iti",
+     "lines": [
+      1180,
+      1180
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 19,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 644,
+     "text": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayantīty",
+     "lines": [
+      1450,
+      1450
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 19,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 519,
+     "text": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tad iti",
+     "lines": [
+      1180,
+      1180
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 19,
+     "padas": "cd",
+     "kind": "requote",
+     "comm_line": 644,
+     "text": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayantīty",
+     "lines": [
+      1450,
+      1450
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1157,
+    1158
+   ],
+   "span_raw": [
+    1160,
+    1294
+   ],
+   "span": [
+    1160,
+    1293
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 20,
+   "units": [
+    {
+     "verse": 20,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 545,
+     "text": "yena yena vikalpena yad yad vastu vikalpyate | parikalpita evāsau svabhāvo na sa vidyate",
+     "lines": [
+      1295,
+      1296
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    1295,
+    1296
+   ],
+   "span_raw": [
+    1297,
+    1318
+   ],
+   "span": [
+    1297,
+    1317
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 21,
+   "units": [
+    {
+     "verse": 21,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 557,
+     "text": "paratantrasvabhāvas tu vikalpaḥ pratyayodbhavaḥ",
+     "lines": [
+      1319,
+      1319
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 21,
+     "padas": "cd",
+     "kind": "primary",
+     "comm_line": 569,
+     "text": "niṣpannas tasya pūrveṇa sadā rahitatā tu yā",
+     "lines": [
+      1332,
+      1332
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    1319,
+    1319
+   ],
+   "span_raw": [
+    1320,
+    1340
+   ],
+   "span": [
+    1320,
+    1340
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 22,
+   "units": [
+    {
+     "verse": 22,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 573,
+     "text": "ata eva sa naivānyo nānanyaḥ paratantrataḥ",
+     "lines": [
+      1341,
+      1341
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 22,
+     "padas": "c",
+     "kind": "primary",
+     "comm_line": 577,
+     "text": "anityatādivad vācyo",
+     "lines": [
+      1356,
+      1356
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 22,
+     "padas": "d",
+     "kind": "primary",
+     "comm_line": 583,
+     "text": "nādṛṣṭe 'smin sa dṛśyate",
+     "lines": [
+      1369,
+      1369
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    1341,
+    1341
+   ],
+   "span_raw": [
+    1342,
+    1388
+   ],
+   "span": [
+    1342,
+    1388
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 23,
+   "units": [
+    {
+     "verse": 23,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 597,
+     "text": "trividhasya svabhāvasya trividhāṃ niḥsvabhāvatām | sandhāya sarvadharmāṇāṃ deśitā niḥsvabhāvatā",
+     "lines": [
+      1389,
+      1390
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    1389,
+    1390
+   ],
+   "span_raw": [
+    1391,
+    1399
+   ],
+   "span": [
+    1391,
+    1397
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 24,
+   "units": [
+    {
+     "verse": 24,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 606,
+     "text": "prathamo lakṣaṇenaiva niḥsvabhāvo 'paraḥ punaḥ na svayaṃbhāva etasyety aparā niḥsvabhāvatā",
+     "lines": [
+      1400,
+      1401
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [],
+   "anchor": [
+    1400,
+    1401
+   ],
+   "span_raw": [
+    1402,
+    1401
+   ],
+   "span": [
+    1403,
+    1444
+   ],
+   "shared_with": 25,
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 25,
+   "units": [
+    {
+     "verse": 25,
+     "padas": "ab",
+     "kind": "primary",
+     "comm_line": 608,
+     "text": "dharmāṇāṃ paramārthaś ca sa yatas tathatāpi saḥ",
+     "lines": [
+      1402,
+      1402
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 25,
+     "padas": "ab",
+     "kind": "requote",
+     "comm_line": 613,
+     "text": "dharmāṇāṃ paramārthaś ca sa yatas tathāpi sa iti",
+     "lines": [
+      1413,
+      1413
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 25,
+     "padas": "b",
+     "kind": "requote",
+     "comm_line": 617,
+     "text": "tathatāpi saḥ",
+     "lines": [
+      1426,
+      1426
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 25,
+     "padas": "c",
+     "kind": "primary",
+     "comm_line": 620,
+     "text": "sarvakālaṃ tathābhāvāt",
+     "lines": [
+      1430,
+      1430
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 25,
+     "padas": "d",
+     "kind": "primary",
+     "comm_line": 626,
+     "text": "saiva vijñaptimātratā",
+     "lines": [
+      1437,
+      1437
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 25,
+     "padas": "ab",
+     "kind": "requote",
+     "comm_line": 613,
+     "text": "dharmāṇāṃ paramārthaś ca sa yatas tathāpi sa iti",
+     "lines": [
+      1413,
+      1413
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 25,
+     "padas": "b",
+     "kind": "requote",
+     "comm_line": 617,
+     "text": "tathatāpi saḥ",
+     "lines": [
+      1426,
+      1426
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1402,
+    1402
+   ],
+   "span_raw": [
+    1403,
+    1446
+   ],
+   "span": [
+    1403,
+    1444
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 26,
+   "units": [
+    {
+     "verse": 26,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 640,
+     "text": "yāvad vijñaptimātratve vijñānaṃ nāvatiṣṭhate | grāhadvayasyānuśayas tāvan na vinivartate",
+     "lines": [
+      1447,
+      1448
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 26,
+     "padas": "ab",
+     "kind": "requote",
+     "comm_line": 648,
+     "text": "yāvad vijñaptimātratve vijñānaṃ nāvatiṣṭḥata",
+     "lines": [
+      1452,
+      1452
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 26,
+     "padas": "ab",
+     "kind": "requote",
+     "comm_line": 648,
+     "text": "yāvad vijñaptimātratve vijñānaṃ nāvatiṣṭḥata",
+     "lines": [
+      1452,
+      1452
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1447,
+    1448
+   ],
+   "span_raw": [
+    1449,
+    1469
+   ],
+   "span": [
+    1449,
+    1469
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 27,
+   "units": [
+    {
+     "verse": 27,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 654,
+     "text": "vijñaptimātram evedam ity api hy upalambhataḥ | sthāpayann agrataḥ kiñcit tanmātre nāvatiṣṭhate",
+     "lines": [
+      1470,
+      1471
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 27,
+     "padas": "ab",
+     "kind": "requote",
+     "comm_line": 658,
+     "text": "vijñaptimātram evedam ity api hy upalambhata ity",
+     "lines": [
+      1474,
+      1474
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 27,
+     "padas": "ab",
+     "kind": "requote",
+     "comm_line": 658,
+     "text": "vijñaptimātram evedam ity api hy upalambhata ity",
+     "lines": [
+      1474,
+      1474
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1470,
+    1471
+   ],
+   "span_raw": [
+    1472,
+    1483
+   ],
+   "span": [
+    1472,
+    1481
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 28,
+   "units": [
+    {
+     "verse": 28,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 664,
+     "text": "yadā tv ālambanaṃ jñānaṃ naivopalabhate tadā | sthitaṃ vijñaptimātratve grāhyābhābhāve tadagrahāt",
+     "lines": [
+      1484,
+      1485
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 28,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 667,
+     "text": "grāhyābhāve tadagrahād iti",
+     "lines": [
+      1491,
+      1491
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 28,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 667,
+     "text": "grāhyābhāve tadagrahād iti",
+     "lines": [
+      1491,
+      1491
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1484,
+    1485
+   ],
+   "span_raw": [
+    1486,
+    1498
+   ],
+   "span": [
+    1486,
+    1496
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 29,
+   "units": [
+    {
+     "verse": 29,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 673,
+     "text": "acitto 'nupalambo 'sau jñānaṃ lokottarañ ca tat āśrayasya parāvṛttir dvidhādauṣṭhulyahānitaḥ",
+     "lines": [
+      1499,
+      1500
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 29,
+     "padas": "a",
+     "kind": "requote",
+     "comm_line": 678,
+     "text": "cācitto 'nupalambho 'sau",
+     "lines": [
+      1508,
+      1508
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 29,
+     "padas": "b",
+     "kind": "requote",
+     "comm_line": 680,
+     "text": "jñānaṃ lokottarañ ca tad iti",
+     "lines": [
+      1510,
+      1510
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 29,
+     "padas": "c",
+     "kind": "requote",
+     "comm_line": 682,
+     "text": "āśrayasya parāvṛttir iti",
+     "lines": [
+      1512,
+      1512
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 29,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 686,
+     "text": "dvidhādauṣṭhulyahānitaḥ",
+     "lines": [
+      1519,
+      1519
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 29,
+     "padas": "a",
+     "kind": "requote",
+     "comm_line": 678,
+     "text": "cācitto 'nupalambho 'sau",
+     "lines": [
+      1508,
+      1508
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 29,
+     "padas": "b",
+     "kind": "requote",
+     "comm_line": 680,
+     "text": "jñānaṃ lokottarañ ca tad iti",
+     "lines": [
+      1510,
+      1510
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 29,
+     "padas": "c",
+     "kind": "requote",
+     "comm_line": 682,
+     "text": "āśrayasya parāvṛttir iti",
+     "lines": [
+      1512,
+      1512
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 29,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 686,
+     "text": "dvidhādauṣṭhulyahānitaḥ",
+     "lines": [
+      1519,
+      1519
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1499,
+    1500
+   ],
+   "span_raw": [
+    1501,
+    1500
+   ],
+   "span": [
+    1504,
+    1558
+   ],
+   "shared_with": 30,
+   "confidence": 100.0,
+   "checked_by_human": false
+  },
+  {
+   "verse": 30,
+   "units": [
+    {
+     "verse": 30,
+     "padas": "abcd",
+     "kind": "primary",
+     "comm_line": 675,
+     "text": "sa evānāsravo dhātur acintyaḥ kuśalo dhruvaḥ | sukho vimuktikāyo 'sau dharmākhyo 'yaṃ mahāmuneḥ",
+     "lines": [
+      1501,
+      1502
+     ],
+     "score": 100.0,
+     "signals": [
+      "next-iti",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 30,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 690,
+     "text": "dharmākhyo 'yaṃ mahāmuner iti",
+     "lines": [
+      1528,
+      1528
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 30,
+     "padas": "a",
+     "kind": "requote",
+     "comm_line": 700,
+     "text": "sa evānāsravo dhātur iti",
+     "lines": [
+      1537,
+      1537
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "requotes": [
+    {
+     "verse": 30,
+     "padas": "d",
+     "kind": "requote",
+     "comm_line": 690,
+     "text": "dharmākhyo 'yaṃ mahāmuner iti",
+     "lines": [
+      1528,
+      1528
+     ],
+     "score": 100.0,
+     "signals": [
+      "prev-āha",
+      "sentence-end"
+     ]
+    },
+    {
+     "verse": 30,
+     "padas": "a",
+     "kind": "requote",
+     "comm_line": 700,
+     "text": "sa evānāsravo dhātur iti",
+     "lines": [
+      1537,
+      1537
+     ],
+     "score": 100.0,
+     "signals": [
+      "sentence-end"
+     ]
+    }
+   ],
+   "anchor": [
+    1501,
+    1502
+   ],
+   "span_raw": [
+    1504,
+    1558
+   ],
+   "span": [
+    1504,
+    1558
+   ],
+   "confidence": 100.0,
+   "checked_by_human": false
+  }
+ ]
+}

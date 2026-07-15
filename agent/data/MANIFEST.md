@@ -23,9 +23,17 @@ and `vidyut-*/` are gitignored.
   never edited. All commentary citations are trbh.txt line numbers.
 
 ### KNOWN_GAPS (clauses present in GRETIL-comm but absent from trbh.txt — do NOT patch)
-- opening `namo buddhāya` invocation
-- ~5 short clauses, e.g. `ātmādinirbhāso vikalpo rūpādinirbhāsaś cotpadyate tam`,
-  `naivālambanam` (inventory to be completed when the gold projection is built)
+Full inventory from the gold projection (scripts/05_project_gold.py, ≥3-token
+gaps; comm line → nearest trbh line):
+- comm 50–52 → trbh 1: title line + `namo buddhāya` invocation
+- comm 70 → trbh 45: `ātmādinirbhāso vikalpo rūpādinirbhāsaś cotpadyate tam`
+- comm 88 → trbh 97: `...asattvāt utpannāvasthāyāṃ vijñānasyāpi tadākāreṇotpannatvān`
+- comm 114 → trbh 196: `...tarhy aparicchinnālambanākāram kiṃ kāraṇam yasmād`
+- comm 140 → trbh 249: `...evendriyasya sukhādivedanānukūlo yo vikāras tena sadṛśo`
+- comm 316 → trbh 629: `praśrabdhisadbhāvāt tatra kāyakarmaṇyatā kāyasya svakāryeṣu`
+- comm 336 → trbh 714: `saṃniśrayadānakarma mūḍhasyaiva hi`
+- comm 382 → trbh 802: `ayañ ca kaukṛtyasparśasaṃniśrayadānakarmakaḥ dharmataiṣā yad`
+- comm 668 → trbh 1494: `api pratipadyate na kevalaṃ grāhyābhāvam evaṃ hi`
 
 ## Hugging Face models (cached in ~/.cache/huggingface)
 - chronbmm/sanskrit5-multitask (~2.3 GB) — ByT5-Sanskrit multitask (EMNLP Findings 2024).

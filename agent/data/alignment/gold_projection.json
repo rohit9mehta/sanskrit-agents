@@ -1,0 +1,1098 @@
+{
+ "token_similarity": 0.9954,
+ "units": [
+  {
+   "verse": 1,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 62,
+   "matcher_lines": [
+    24,
+    24
+   ],
+   "gold_lines": [
+    24
+   ],
+   "agree": true
+  },
+  {
+   "verse": 1,
+   "padas": "c",
+   "kind": "primary",
+   "comm_line": 66,
+   "matcher_lines": [
+    26,
+    26
+   ],
+   "gold_lines": [
+    26
+   ],
+   "agree": true
+  },
+  {
+   "verse": 1,
+   "padas": "d",
+   "kind": "primary",
+   "comm_line": 100,
+   "matcher_lines": [
+    152,
+    152
+   ],
+   "gold_lines": [
+    152
+   ],
+   "agree": true
+  },
+  {
+   "verse": 2,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 106,
+   "matcher_lines": [
+    167,
+    167
+   ],
+   "gold_lines": [
+    167
+   ],
+   "agree": true
+  },
+  {
+   "verse": 2,
+   "padas": "cd",
+   "kind": "primary",
+   "comm_line": 112,
+   "matcher_lines": [
+    177,
+    177
+   ],
+   "gold_lines": [
+    177
+   ],
+   "agree": true
+  },
+  {
+   "verse": 2,
+   "padas": "c",
+   "kind": "requote",
+   "comm_line": 132,
+   "matcher_lines": [
+    231,
+    231
+   ],
+   "gold_lines": [
+    231
+   ],
+   "agree": true
+  },
+  {
+   "verse": 3,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 118,
+   "matcher_lines": [
+    202,
+    202
+   ],
+   "gold_lines": [
+    202
+   ],
+   "agree": true
+  },
+  {
+   "verse": 3,
+   "padas": "cd",
+   "kind": "primary",
+   "comm_line": 136,
+   "matcher_lines": [
+    237,
+    237
+   ],
+   "gold_lines": [
+    237
+   ],
+   "agree": true
+  },
+  {
+   "verse": 3,
+   "padas": "cd",
+   "kind": "requote",
+   "comm_line": 270,
+   "matcher_lines": [
+    498,
+    498
+   ],
+   "gold_lines": [
+    498
+   ],
+   "agree": true
+  },
+  {
+   "verse": 4,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 158,
+   "matcher_lines": [
+    307,
+    307
+   ],
+   "gold_lines": [
+    307
+   ],
+   "agree": true
+  },
+  {
+   "verse": 4,
+   "padas": "b",
+   "kind": "requote",
+   "comm_line": 161,
+   "matcher_lines": [
+    312,
+    312
+   ],
+   "gold_lines": [
+    312
+   ],
+   "agree": true
+  },
+  {
+   "verse": 4,
+   "padas": "c",
+   "kind": "primary",
+   "comm_line": 166,
+   "matcher_lines": [
+    319,
+    319
+   ],
+   "gold_lines": [
+    319
+   ],
+   "agree": true
+  },
+  {
+   "verse": 4,
+   "padas": "d",
+   "kind": "primary",
+   "comm_line": 174,
+   "matcher_lines": [
+    334,
+    334
+   ],
+   "gold_lines": [
+    334
+   ],
+   "agree": true
+  },
+  {
+   "verse": 5,
+   "padas": "a",
+   "kind": "primary",
+   "comm_line": 180,
+   "matcher_lines": [
+    344,
+    344
+   ],
+   "gold_lines": [
+    344
+   ],
+   "agree": true
+  },
+  {
+   "verse": 5,
+   "padas": "bcd",
+   "kind": "primary",
+   "comm_line": 188,
+   "matcher_lines": [
+    361,
+    362
+   ],
+   "gold_lines": [
+    361,
+    362
+   ],
+   "agree": true
+  },
+  {
+   "verse": 6,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 198,
+   "matcher_lines": [
+    385,
+    385
+   ],
+   "gold_lines": [
+    385
+   ],
+   "agree": true
+  },
+  {
+   "verse": 6,
+   "padas": "cd",
+   "kind": "primary",
+   "comm_line": 206,
+   "matcher_lines": [
+    403,
+    403
+   ],
+   "gold_lines": [
+    403
+   ],
+   "agree": true
+  },
+  {
+   "verse": 7,
+   "padas": "a",
+   "kind": "primary",
+   "comm_line": 222,
+   "matcher_lines": [
+    425,
+    425
+   ],
+   "gold_lines": [
+    425
+   ],
+   "agree": true
+  },
+  {
+   "verse": 7,
+   "padas": "b",
+   "kind": "primary",
+   "comm_line": 228,
+   "matcher_lines": [
+    434,
+    434
+   ],
+   "gold_lines": [
+    434
+   ],
+   "agree": true
+  },
+  {
+   "verse": 7,
+   "padas": "bcd",
+   "kind": "primary",
+   "comm_line": 236,
+   "matcher_lines": [
+    452,
+    453
+   ],
+   "gold_lines": [
+    452,
+    453
+   ],
+   "agree": true
+  },
+  {
+   "verse": 7,
+   "padas": "d",
+   "kind": "requote",
+   "comm_line": 240,
+   "matcher_lines": [
+    463,
+    463
+   ],
+   "gold_lines": [
+    463
+   ],
+   "agree": true
+  },
+  {
+   "verse": 8,
+   "padas": "a",
+   "kind": "primary",
+   "comm_line": 244,
+   "matcher_lines": [
+    472,
+    472
+   ],
+   "gold_lines": [
+    472
+   ],
+   "agree": true
+  },
+  {
+   "verse": 8,
+   "padas": "bc",
+   "kind": "primary",
+   "comm_line": 250,
+   "matcher_lines": [
+    475,
+    476
+   ],
+   "gold_lines": [
+    475,
+    476
+   ],
+   "agree": true
+  },
+  {
+   "verse": 8,
+   "padas": "d",
+   "kind": "primary",
+   "comm_line": 256,
+   "matcher_lines": [
+    482,
+    482
+   ],
+   "gold_lines": [
+    482
+   ],
+   "agree": true
+  },
+  {
+   "verse": 9,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 262,
+   "matcher_lines": [
+    491,
+    492
+   ],
+   "gold_lines": [
+    491,
+    492
+   ],
+   "agree": true
+  },
+  {
+   "verse": 10,
+   "padas": "a",
+   "kind": "primary",
+   "comm_line": 266,
+   "matcher_lines": [
+    495,
+    495
+   ],
+   "gold_lines": [
+    495
+   ],
+   "agree": true
+  },
+  {
+   "verse": 10,
+   "padas": "bc",
+   "kind": "primary",
+   "comm_line": 276,
+   "matcher_lines": [
+    506,
+    507
+   ],
+   "gold_lines": [
+    506,
+    507
+   ],
+   "agree": true
+  },
+  {
+   "verse": 10,
+   "padas": "d",
+   "kind": "primary",
+   "comm_line": 297,
+   "matcher_lines": [
+    574,
+    574
+   ],
+   "gold_lines": [
+    574
+   ],
+   "agree": true
+  },
+  {
+   "verse": 11,
+   "padas": "abc",
+   "kind": "primary",
+   "comm_line": 298,
+   "matcher_lines": [
+    575,
+    576
+   ],
+   "gold_lines": [
+    575,
+    576
+   ],
+   "agree": true
+  },
+  {
+   "verse": 11,
+   "padas": "d",
+   "kind": "primary",
+   "comm_line": 327,
+   "matcher_lines": [
+    681,
+    681
+   ],
+   "gold_lines": [
+    681
+   ],
+   "agree": true
+  },
+  {
+   "verse": 12,
+   "padas": "a",
+   "kind": "primary",
+   "comm_line": 328,
+   "matcher_lines": [
+    682,
+    682
+   ],
+   "gold_lines": [
+    682
+   ],
+   "agree": true
+  },
+  {
+   "verse": 12,
+   "padas": "bcd",
+   "kind": "primary",
+   "comm_line": 371,
+   "matcher_lines": [
+    774,
+    774
+   ],
+   "gold_lines": [
+    774
+   ],
+   "agree": true
+  },
+  {
+   "verse": 13,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 374,
+   "matcher_lines": [
+    775,
+    776
+   ],
+   "gold_lines": [
+    776
+   ],
+   "agree": true
+  },
+  {
+   "verse": 14,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 376,
+   "matcher_lines": [
+    777,
+    778
+   ],
+   "gold_lines": [
+    777,
+    778
+   ],
+   "agree": true
+  },
+  {
+   "verse": 14,
+   "padas": "d",
+   "kind": "requote",
+   "comm_line": 429,
+   "matcher_lines": [
+    966,
+    966
+   ],
+   "gold_lines": [
+    966
+   ],
+   "agree": true
+  },
+  {
+   "verse": 15,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 446,
+   "matcher_lines": [
+    1008,
+    1009
+   ],
+   "gold_lines": [
+    1008,
+    1009
+   ],
+   "agree": true
+  },
+  {
+   "verse": 16,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 460,
+   "matcher_lines": [
+    1052,
+    1053
+   ],
+   "gold_lines": [
+    1052,
+    1053
+   ],
+   "agree": true
+  },
+  {
+   "verse": 16,
+   "padas": "bd",
+   "kind": "requote",
+   "comm_line": 464,
+   "matcher_lines": [
+    1057,
+    1058
+   ],
+   "gold_lines": [
+    1057,
+    1058
+   ],
+   "agree": true
+  },
+  {
+   "verse": 17,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 482,
+   "matcher_lines": [
+    1093,
+    1094
+   ],
+   "gold_lines": [
+    1093,
+    1094
+   ],
+   "agree": true
+  },
+  {
+   "verse": 17,
+   "padas": "cd",
+   "kind": "requote",
+   "comm_line": 496,
+   "matcher_lines": [
+    1122,
+    1122
+   ],
+   "gold_lines": [
+    1122
+   ],
+   "agree": true
+  },
+  {
+   "verse": 18,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 502,
+   "matcher_lines": [
+    1134,
+    1135
+   ],
+   "gold_lines": [
+    1134,
+    1135
+   ],
+   "agree": true
+  },
+  {
+   "verse": 18,
+   "padas": "bc",
+   "kind": "requote",
+   "comm_line": 505,
+   "matcher_lines": [
+    1142,
+    1142
+   ],
+   "gold_lines": [
+    1142
+   ],
+   "agree": true
+  },
+  {
+   "verse": 19,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 512,
+   "matcher_lines": [
+    1157,
+    1158
+   ],
+   "gold_lines": [
+    1157,
+    1158
+   ],
+   "agree": true
+  },
+  {
+   "verse": 19,
+   "padas": "cd",
+   "kind": "requote",
+   "comm_line": 519,
+   "matcher_lines": [
+    1180,
+    1180
+   ],
+   "gold_lines": [
+    1180
+   ],
+   "agree": true
+  },
+  {
+   "verse": 19,
+   "padas": "cd",
+   "kind": "requote",
+   "comm_line": 644,
+   "matcher_lines": [
+    1450,
+    1450
+   ],
+   "gold_lines": [
+    1450
+   ],
+   "agree": true
+  },
+  {
+   "verse": 20,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 545,
+   "matcher_lines": [
+    1295,
+    1296
+   ],
+   "gold_lines": [
+    1295,
+    1296
+   ],
+   "agree": true
+  },
+  {
+   "verse": 21,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 557,
+   "matcher_lines": [
+    1319,
+    1319
+   ],
+   "gold_lines": [
+    1319
+   ],
+   "agree": true
+  },
+  {
+   "verse": 21,
+   "padas": "cd",
+   "kind": "primary",
+   "comm_line": 569,
+   "matcher_lines": [
+    1332,
+    1332
+   ],
+   "gold_lines": [
+    1332
+   ],
+   "agree": true
+  },
+  {
+   "verse": 22,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 573,
+   "matcher_lines": [
+    1341,
+    1341
+   ],
+   "gold_lines": [
+    1341
+   ],
+   "agree": true
+  },
+  {
+   "verse": 22,
+   "padas": "c",
+   "kind": "primary",
+   "comm_line": 577,
+   "matcher_lines": [
+    1356,
+    1356
+   ],
+   "gold_lines": [
+    1356
+   ],
+   "agree": true
+  },
+  {
+   "verse": 22,
+   "padas": "d",
+   "kind": "primary",
+   "comm_line": 583,
+   "matcher_lines": [
+    1369,
+    1369
+   ],
+   "gold_lines": [
+    1369
+   ],
+   "agree": true
+  },
+  {
+   "verse": 23,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 597,
+   "matcher_lines": [
+    1389,
+    1390
+   ],
+   "gold_lines": [
+    1389,
+    1390
+   ],
+   "agree": true
+  },
+  {
+   "verse": 24,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 606,
+   "matcher_lines": [
+    1400,
+    1401
+   ],
+   "gold_lines": [
+    1401
+   ],
+   "agree": true
+  },
+  {
+   "verse": 25,
+   "padas": "ab",
+   "kind": "primary",
+   "comm_line": 608,
+   "matcher_lines": [
+    1402,
+    1402
+   ],
+   "gold_lines": [
+    1402
+   ],
+   "agree": true
+  },
+  {
+   "verse": 25,
+   "padas": "ab",
+   "kind": "requote",
+   "comm_line": 613,
+   "matcher_lines": [
+    1413,
+    1413
+   ],
+   "gold_lines": [
+    1413
+   ],
+   "agree": true
+  },
+  {
+   "verse": 25,
+   "padas": "b",
+   "kind": "requote",
+   "comm_line": 617,
+   "matcher_lines": [
+    1426,
+    1426
+   ],
+   "gold_lines": [
+    1426
+   ],
+   "agree": true
+  },
+  {
+   "verse": 25,
+   "padas": "c",
+   "kind": "primary",
+   "comm_line": 620,
+   "matcher_lines": [
+    1430,
+    1430
+   ],
+   "gold_lines": [
+    1430
+   ],
+   "agree": true
+  },
+  {
+   "verse": 25,
+   "padas": "d",
+   "kind": "primary",
+   "comm_line": 626,
+   "matcher_lines": [
+    1437,
+    1437
+   ],
+   "gold_lines": [
+    1437
+   ],
+   "agree": true
+  },
+  {
+   "verse": 26,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 640,
+   "matcher_lines": [
+    1447,
+    1448
+   ],
+   "gold_lines": [
+    1447,
+    1448
+   ],
+   "agree": true
+  },
+  {
+   "verse": 26,
+   "padas": "ab",
+   "kind": "requote",
+   "comm_line": 648,
+   "matcher_lines": [
+    1452,
+    1452
+   ],
+   "gold_lines": [
+    1452
+   ],
+   "agree": true
+  },
+  {
+   "verse": 27,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 654,
+   "matcher_lines": [
+    1470,
+    1471
+   ],
+   "gold_lines": [
+    1470,
+    1471
+   ],
+   "agree": true
+  },
+  {
+   "verse": 27,
+   "padas": "ab",
+   "kind": "requote",
+   "comm_line": 658,
+   "matcher_lines": [
+    1474,
+    1474
+   ],
+   "gold_lines": [
+    1474
+   ],
+   "agree": true
+  },
+  {
+   "verse": 28,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 664,
+   "matcher_lines": [
+    1484,
+    1485
+   ],
+   "gold_lines": [
+    1484,
+    1485
+   ],
+   "agree": true
+  },
+  {
+   "verse": 28,
+   "padas": "d",
+   "kind": "requote",
+   "comm_line": 667,
+   "matcher_lines": [
+    1491,
+    1491
+   ],
+   "gold_lines": [
+    1491
+   ],
+   "agree": true
+  },
+  {
+   "verse": 29,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 673,
+   "matcher_lines": [
+    1499,
+    1500
+   ],
+   "gold_lines": [
+    1500
+   ],
+   "agree": true
+  },
+  {
+   "verse": 29,
+   "padas": "a",
+   "kind": "requote",
+   "comm_line": 678,
+   "matcher_lines": [
+    1508,
+    1508
+   ],
+   "gold_lines": [
+    1508
+   ],
+   "agree": true
+  },
+  {
+   "verse": 29,
+   "padas": "b",
+   "kind": "requote",
+   "comm_line": 680,
+   "matcher_lines": [
+    1510,
+    1510
+   ],
+   "gold_lines": [
+    1510
+   ],
+   "agree": true
+  },
+  {
+   "verse": 29,
+   "padas": "c",
+   "kind": "requote",
+   "comm_line": 682,
+   "matcher_lines": [
+    1512,
+    1512
+   ],
+   "gold_lines": [
+    1512
+   ],
+   "agree": true
+  },
+  {
+   "verse": 29,
+   "padas": "d",
+   "kind": "requote",
+   "comm_line": 686,
+   "matcher_lines": [
+    1519,
+    1519
+   ],
+   "gold_lines": [
+    1519
+   ],
+   "agree": true
+  },
+  {
+   "verse": 30,
+   "padas": "abcd",
+   "kind": "primary",
+   "comm_line": 675,
+   "matcher_lines": [
+    1501,
+    1502
+   ],
+   "gold_lines": [
+    1501,
+    1502
+   ],
+   "agree": true
+  },
+  {
+   "verse": 30,
+   "padas": "d",
+   "kind": "requote",
+   "comm_line": 690,
+   "matcher_lines": [
+    1528,
+    1528
+   ],
+   "gold_lines": [
+    1528
+   ],
+   "agree": true
+  },
+  {
+   "verse": 30,
+   "padas": "a",
+   "kind": "requote",
+   "comm_line": 700,
+   "matcher_lines": [
+    1537,
+    1537
+   ],
+   "gold_lines": [
+    1537
+   ],
+   "agree": true
+  }
+ ],
+ "gaps": [
+  {
+   "comm_lines": [
+    50,
+    52
+   ],
+   "tokens": "vasubandhu trimsikavijnaptikarika namo buddhaya",
+   "near_trbh_line": 1
+  },
+  {
+   "comm_lines": [
+    70
+   ],
+   "tokens": "atmadinirbhaso vikalpo rupadinirbhasas cotpadyate tam",
+   "near_trbh_line": 45
+  },
+  {
+   "comm_lines": [
+    88
+   ],
+   "tokens": "asattvat utpannavasthayam vijnanasyapi tadakarenotpannatvan",
+   "near_trbh_line": 97
+  },
+  {
+   "comm_lines": [
+    114
+   ],
+   "tokens": "tarhy aparicchinnalambanakaram kim karanam yasmad",
+   "near_trbh_line": 196
+  },
+  {
+   "comm_lines": [
+    140
+   ],
+   "tokens": "evendriyasya sukhadivedananukulo yo vikaras tena sadrso",
+   "near_trbh_line": 249
+  },
+  {
+   "comm_lines": [
+    316
+   ],
+   "tokens": "prasrabdhisadbhavat tatra kayakarmanyata kayasya svakaryesu",
+   "near_trbh_line": 629
+  },
+  {
+   "comm_lines": [
+    336
+   ],
+   "tokens": "samnisrayadanakarma mudhasyaiva hi",
+   "near_trbh_line": 714
+  },
+  {
+   "comm_lines": [
+    382
+   ],
+   "tokens": "ayan ca kaukrtyasparsasamnisrayadanakarmakah dharmataisa yad",
+   "near_trbh_line": 802
+  },
+  {
+   "comm_lines": [
+    668
+   ],
+   "tokens": "api pratipadyate na kevalam grahyabhavam evam hi",
+   "near_trbh_line": 1494
+  }
+ ]
+}
