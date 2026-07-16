@@ -1,0 +1,612 @@
+{
+ "verse": 13,
+ "analysis": [
+  {
+   "surface": "śāṭhyam",
+   "surface_in_sandhi": "śāṭhyaṃ",
+   "lemma": "śāṭhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular item in the upakleśa-list.",
+   "verification": {
+    "status": "pass",
+    "detail": "śāṭhya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "madaḥ",
+   "surface_in_sandhi": "mado",
+   "lemma": "mada",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga appears as -o before the following word.",
+   "verification": {
+    "status": "pass",
+    "detail": "mada Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vihiṃsā",
+   "surface_in_sandhi": "'vihiṃsā",
+   "lemma": "vihiṃsa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "For Pāṇinian verification the lemma field gives the derivational base vihiṃsa- with feminine ā; the lexical/commentarial headword is vihiṃsā. The supplied line prints an avagraha before this segment, but Sthiramati’s lemma and definition are vihiṃsā, not avihiṃsā.",
+   "verification": {
+    "status": "pass",
+    "detail": "vihiṃsa Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ahrīḥ",
+   "surface_in_sandhi": "hrīr",
+   "lemma": "ahrī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na hrīḥ; hrīvipakṣaḥ",
+    "members": [
+     "a",
+     "hrī"
+    ]
+   },
+   "note": "Initial a- is hidden in sandhi after vihiṃsā; final -ḥ appears as -r before atrapā. The commentary’s technical equivalent is āhrīkya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ahrī as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "atrapā",
+   "surface_in_sandhi": "atrapā",
+   "lemma": "atrapa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na trapā; apatrāpyavipakṣaḥ",
+    "members": [
+     "a",
+     "trapa"
+    ]
+   },
+   "note": "For Pāṇinian verification the lemma field gives the privative base atrapa- whose feminine nominative singular is atrapā; the lexical contrast is trapā, and the commentary’s corresponding technical term is anapatrāpya. The nañ-tatpuruṣa relation is retained semantically though the verifier reports this relation as unsupported.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem atrapa as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "styānam",
+   "surface_in_sandhi": "styānam",
+   "lemma": "styāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "styāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "uddhataḥ",
+   "surface_in_sandhi": "uddhataḥ",
+   "lemma": "uddhata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The supplied bhāṣya reading has masculine uddhataḥ, but Sthiramati’s exposition lemmatizes the intended mental factor as auddhatyaṃ; the translation follows that gloss.",
+   "verification": {
+    "status": "pass",
+    "detail": "uddhata Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "āśraddhyam",
+   "surface_in_sandhi": "āśraddhyam",
+   "lemma": "āśraddhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Bhāṣya-supported -ya- abstract; not the vulgate āśraddham.",
+   "verification": {
+    "status": "pass",
+    "detail": "āśraddhya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "atha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable list-transition: ‘then/and next’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kausīdyam",
+   "surface_in_sandhi": "kausīdyaṃ",
+   "lemma": "kausīdya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "kausīdya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pramādaḥ",
+   "surface_in_sandhi": "pramādo",
+   "lemma": "pramāda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga appears as -o before muṣitā.",
+   "verification": {
+    "status": "pass",
+    "detail": "pramāda Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "muṣitā",
+   "surface_in_sandhi": "muṣitā",
+   "lemma": "muṣita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Participial adjective agreeing with smṛtiḥ; the phrase is glossed as kliṣṭā smṛtiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "muṣita Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "smṛtiḥ",
+   "surface_in_sandhi": "smṛtiḥ",
+   "lemma": "smṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Head noun of the phrase muṣitā smṛtiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "smṛti Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate śāṭhya not as generic ‘wickedness’ but as a technical mental crookedness that functions by bewildering others so as to conceal one’s own fault.",
+   "options_considered": [
+    "generic wickedness/roguery",
+    "deceit as strategic mental crookedness for concealing one’s own fault"
+   ],
+   "chosen": "śāṭhya = deceitful crookedness of mind used to hide one’s own faults",
+   "evidence": [
+    {
+     "lines": [
+      841,
+      842,
+      843,
+      844,
+      845
+     ],
+     "quote": "śāṭhyaṃ svadoṣapracchādanopāyasaṃgṛhītañ cetasaḥ kauṭilyam\nsvadoṣapracchādanopāyaḥ paravyāmohanam\ntat punar anyenānyat pratisaran\nvikṣipaty aparisphuṭaṃ vā pratipadyate\nata eva śāṭhyaṃ mrakṣād bhidyate",
+     "translation": "Deceit is the crookedness of mind comprised in a means for concealing one’s own fault; that means is the bewildering of another, by shifting from one thing to another, distracting, or responding unclearly; this is why śāṭhya differs from mrakṣa."
+    },
+    {
+     "lines": [
+      849,
+      850,
+      851,
+      852,
+      853
+     ],
+     "quote": "lābhasatkārādhyavasitopāyābhyāṃ rāgamohābhyāṃ svadoṣapracchādanārthaṃ\nparavyāmohanāya pravartate\ntayor eva sahitayoḥ prajñapyate\nidañ ca\nsamyagavavādalābhaparipanthakarmakam",
+     "translation": "It operates, through attachment and delusion directed to gain and honor as means, for hiding one’s own fault and bewildering another; it is posited on those two together and obstructs the obtaining of correct instruction."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Render mada as intoxicated pride/elation, not merely ‘intoxication’ or ‘rapture’, because the commentary defines its object and mental effect.",
+   "options_considered": [
+    "general intoxication",
+    "self-regarding elated pride that subjugates the mind"
+   ],
+   "chosen": "mada = self-intoxicated elation that takes over the mind",
+   "evidence": [
+    {
+     "lines": [
+      856,
+      857,
+      858,
+      859,
+      860,
+      861,
+      862
+     ],
+     "quote": "madaḥ svasaṃpattau raktasyoddharṣaś cetasaḥ paryādānam\nkulārogyayauvanabalarūpaiśvaryabuddhimedhāprakarṣaḥ svasaṃpattiḥ\nuddharṣo\nharṣaviśeṣaḥ\nyena harṣaviśeṣeṇa cittam asvatantrīkriyate tena\ntadātmatantrīkaraṇāt paryāttaṃ bhavatīty etad uktañ cetasaḥ paryādānam iti\nayañ ca sarvakleśopakleśasaṃniśrayadānakarmakaḥ",
+     "translation": "Mada is, in one attached to one’s own excellences, an elation, a taking-over of the mind. One’s excellences are superiority in family, health, youth, strength, beauty, power, intelligence, or wisdom. The elation is a special joy by which the mind is made unfree, hence ‘taking-over of the mind’; it provides support for all afflictions and secondary afflictions."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Despite the supplied apostrophe before vihiṃsā, the commentary compels vihiṃsā ‘harming’, not avihiṃsā ‘non-harming’.",
+   "options_considered": [
+    "avihiṃsā = non-harming/harmlessness",
+    "vihiṃsā = harmfulness, cruelty, harassment of beings"
+   ],
+   "chosen": "vihiṃsā = harmfulness/cruelty toward beings",
+   "evidence": [
+    {
+     "lines": [
+      863,
+      864,
+      865,
+      866,
+      867,
+      868,
+      869
+     ],
+     "quote": "vihiṃsā sattvaviheṭhanā\nvividhair vadhabandhanatāḍanatarjanādibhiḥ sattvānāṃ\nhiṃsā vihiṃsā\nviheṭhyante 'nayā sattvā vadhabandhanādibhir\nduḥkhadaurmanasyotpādanād iti sattvaviheṭhanā\nsā punaḥ pratighāṃśikī\nnirghṛṇatā sattveṣu cittarūkṣatā sattvaviheṭhanakarmikā vihiṃsety ucyate",
+     "translation": "Vihiṃsā is the injuring of beings: harming beings by various acts such as killing, binding, beating, and threatening. Beings are harassed by it through killing and binding and by the production of suffering and dejection. It is anger-related; mercilessness, harshness of mind toward beings, functioning to harass beings, is called vihiṃsā."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Do not translate hrī/trapā as positive ‘shame’ or ‘bashfulness’; the verse has privative forms corresponding to āhrīkya and anapatrāpya, distinguished as self-regarding and other-regarding lack of shame.",
+   "options_considered": [
+    "hrī/trapā as ordinary shame and bashfulness",
+    "ahrī/atrapā as privative technical faults: āhrīkya and anapatrāpya"
+   ],
+   "chosen": "ahrī and atrapā = the two shamelessnesses, āhrīkya and anapatrāpya",
+   "evidence": [
+    {
+     "lines": [
+      870,
+      871,
+      872
+     ],
+     "quote": "āhrīkyaṃ svayam avadyenālajjā\ntasmin karmaṇyātmānam ayogyaṃ manyamānasyāpi\nyāvadyenālajjā sāhrīkyaṃ hrīvipakṣabhūtam",
+     "translation": "Āhrīkya is not being ashamed by oneself regarding what is blameworthy; even when one regards oneself as unfit for that action, the lack of shame regarding the blameworthy is āhrīkya, the opposite of hrī."
+    },
+    {
+     "lines": [
+      873,
+      874,
+      875,
+      876
+     ],
+     "quote": "anapatrāpyaṃ parato 'vadyenālajjā\nlokaśāstraviruddham etan mayā kriyata ity\nevam avagacchato 'pi yā tayā pāpakriyayālajjā sāpatrāpyavipakṣabhūtam\nanapatrāpyam",
+     "translation": "Anapatrāpya is not being ashamed before others regarding what is blameworthy: even while recognizing ‘this done by me is opposed to the world and the śāstra,’ lack of shame about that evil action is anapatrāpya, the opposite of apatrāpya."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Translate styāna as a mental factor of unfitness and dull stiffness, not merely as the adjective ‘dense’ or ‘coagulated’.",
+   "options_considered": [
+    "physical density/stiffness",
+    "mental torpor and unworkability"
+   ],
+   "chosen": "styāna = torpor, mental unworkability/stiffness",
+   "evidence": [
+    {
+     "lines": [
+      881,
+      882,
+      883,
+      884,
+      885,
+      886,
+      887
+     ],
+     "quote": "styānañ cittasyākarmaṇyatā staimityam\nstimitasya bhāvaḥ staimityaṃ yadyogāc\ncittaṃ jaḍībhavati stimitaṃ bhavati nālambanaṃ pratipattuṃ samutsahate\netac\nca sarvakleśopakleśasahāyyadānakarmakam\nmohāṃśe prajñaptatvāc ca mohāṃśikam\neva na pṛthag vidyate",
+     "translation": "Styāna is the mind’s unfitness for work, its stiffness. Stiffness is that through whose association the mind becomes dull and inert and does not make effort to apprehend an object. It assists all afflictions and secondary afflictions; since it is posited in a portion of delusion, it is delusion-related and not separately existent."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Although the supplied verse surface is uddhataḥ, Sthiramati comments on auddhatyaṃ; therefore the translation gives the technical mental factor ‘restlessness/non-quiescence’, not an ‘arrogant/uplifted man’.",
+   "options_considered": [
+    "uddhataḥ as a masculine adjective/noun: uplifted, arrogant, agitated person",
+    "auddhatya as the technical secondary affliction: restlessness/non-tranquillity"
+   ],
+   "chosen": "uddhataḥ in the verse represents auddhatya = mental non-tranquillity/restlessness",
+   "evidence": [
+    {
+     "lines": [
+      888,
+      889,
+      890,
+      891
+     ],
+     "quote": "auddhatyaṃ cittasyāvyupaśamaḥ\nvyupaśamo hi śamathas tadviruddho 'vyupaśamaḥ\nsa punar eṣa rāgānukūlaṃ pūrvahasitarasitakrīḍitādyanusmarataś cetaso\n'vyupaśamahetuḥ śamathaparipanthakarmakaḥ",
+     "translation": "Auddhatya is the mind’s non-tranquillity. Tranquillity is calm, and non-tranquillity is its opposite. It arises when the mind recalls former laughter, talk, play, and the like in a way favorable to attachment; it causes non-tranquillity and obstructs calm."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Read and translate the bhāṣya-supported āśraddhyam as an abstract fault opposed to śraddhā, not the vulgate āśraddham or a vague ‘unbelief’.",
+   "options_considered": [
+    "āśraddham as in the vulgate",
+    "āśraddhyam as the abstract technical lack of faith/conviction"
+   ],
+   "chosen": "āśraddhya = lack of conviction/faith in karma, fruit, truths, and jewels",
+   "evidence": [
+    {
+     "lines": [
+      892,
+      893,
+      894,
+      895,
+      896,
+      897,
+      898,
+      899
+     ],
+     "quote": "āśraddhyāṃ karmaphalasatyaratneṣv anabhisaṃpratyayaḥ śraddhāvipakṣaḥ\nśraddhā\nhy astitvaguṇavattvaśakyatveṣv abhisaṃpratyayaḥ prasādo 'bhilāṣaś ca\nyathākramam\naśraddhā tadviparyeṇāstitvaguṇavattvaśakyatveṣv\nanabhisaṃpratyayo 'prasādo 'nabhilāṣaś ca\nkausīdyasaṃniśrayadānakarmakam\naśraddadhānasya prayogacchandābhāvāt kausīdyasaṃniśraya-dānakarmakatvam",
+     "translation": "Faithlessness is lack of conviction regarding karma, its fruit, the truths, and the jewels; it is the opposite of faith. Faith is conviction, clarity, and aspiration regarding existence, possession of qualities, and attainability respectively. Non-faith is the contrary: lack of conviction, lack of clarity, and lack of aspiration, and it gives support to sloth because one without faith lacks desire for practice."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Translate kausīdya specifically as the mind’s failure to exert itself in wholesome action and as the opposite of vigor.",
+   "options_considered": [
+    "ordinary laziness in general",
+    "technical sloth: lack of effort in wholesome practice"
+   ],
+   "chosen": "kausīdya = sloth, lack of effort in the wholesome",
+   "evidence": [
+    {
+     "lines": [
+      900,
+      901,
+      902,
+      903,
+      904
+     ],
+     "quote": "kausīdyaṃ kuśale cetaso 'nabhyutsāho vīryavipakṣaḥ\nkuśale\nkāyavāṅmanaḥkarmaṇi nidrāpārśvaśayanasukham āgamya yo mohāṃśikaś cetaso\n'nabhyutsāhaḥ\netac ca kuśalapakṣaprayogaparipanthakarmakam",
+     "translation": "Kausīdya is the mind’s non-exertion in the wholesome, the opposite of vigor: delusion-related lack of effort in wholesome bodily, verbal, and mental action through resorting to the pleasure of sleep and lying on one’s side. It obstructs undertaking the wholesome side."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J9",
+   "decision": "Do not render pramāda here as intoxication or madness; Sthiramati defines it as a constructed fault based on greed, hatred, delusion, and sloth, with ethical consequences.",
+   "options_considered": [
+    "intoxication/madness",
+    "heedlessness or carelessness in guarding and cultivating the mind"
+   ],
+   "chosen": "pramāda = heedlessness, failure to guard the mind and cultivate the wholesome",
+   "evidence": [
+    {
+     "lines": [
+      905,
+      906,
+      907,
+      908,
+      909,
+      910
+     ],
+     "quote": "pramādo yair lobhadveṣamohakausīdyaiḥ kleśād rāgadveṣamohādikāc cittaṃ na\nrakṣati kaśalaṃ ca tatpratipakṣabhūtaṃ na bhāvayati\nteṣu\nlobhadveṣamohakausīdyeṣu pramādaḥ prajñapyate\nayañ\ncākuśalavṛddhikuśalaparihāṇisaṃniśrayadānakarmakaḥ",
+     "translation": "Pramāda is that by which, through greed, hatred, delusion, and sloth—through affliction beginning with attachment, hatred, and delusion—one does not guard the mind and does not cultivate the wholesome that is its antidote. It is posited on greed, hatred, delusion, and sloth and gives support to the increase of the unwholesome and the decline of the wholesome."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J10",
+   "decision": "Construe muṣitā as an adjective modifying smṛtiḥ and translate the phrase by the commentator’s equation with kliṣṭā smṛtiḥ, not literally as ‘stolen memory’.",
+   "options_considered": [
+    "stolen memory",
+    "lost mindfulness",
+    "afflicted/corrupted mindfulness"
+   ],
+   "chosen": "muṣitā smṛtiḥ = corrupted/afflicted mindfulness",
+   "evidence": [
+    {
+     "lines": [
+      911,
+      912,
+      913,
+      914
+     ],
+     "quote": "muṣitā smṛtiḥ kliṣṭā smṛtiḥ\nkliṣṭeti kleśasaṃprayuktā\niyañ ca\nvikṣepasaṃniśrayadānakarmikā",
+     "translation": "Muṣitā smṛtiḥ is afflicted mindfulness; ‘afflicted’ means associated with affliction. It functions to give support to distraction."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Deceitful crookedness (śāṭhya), self-intoxicated pride (mada), harmfulness (vihiṃsā);\nshamelessness in oneself (ahrī/āhrīkya), no compunction before others (atrapā/anapatrāpya), torpor (styāna), restlessness (auddhatya);\nthen faithlessness (āśraddhya), sloth (kausīdya), heedlessness (pramāda),\nand corrupted mindfulness—afflicted mindfulness (muṣitā smṛtiḥ).",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely read the printed mado 'vihiṃsā as avihiṃsā, ‘non-harming’; Sthiramati’s gloss makes the intended item vihiṃsā, harmfulness toward beings.",
+  "It might render hrī and trapā as positive shame/bashfulness; the commentary instead identifies the privative faults āhrīkya and anapatrāpya.",
+  "It might follow uddhataḥ or ByT5’s uddhan and translate ‘uplifted/arrogant’; the commentary’s lemma is auddhatyaṃ, the mind’s non-tranquillity/restlessness.",
+  "It might take pramāda and mada in their broad dictionary senses of intoxication, but Sthiramati gives precise Yogācāra functions for each.",
+  "It might render muṣitā smṛtiḥ literally as ‘stolen memory’; Sthiramati explicitly glosses it as afflicted mindfulness."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented a_vihiṃsā, but Sthiramati explicitly lemmatizes and defines vihiṃsā at trbh 863–869; I therefore do not take the verse-item as avihiṃsā ‘non-harming’. For Pāṇinian verification I record the derivational base as vihiṃsa- rather than ByT5’s lexical stem vihiṃsā.",
+  "ByT5 treated the a before hrīḥ as a separate item; I analyze ahrīḥ as a privative nañ-tatpuruṣa/lexical item, since Sthiramati glosses the corresponding factor as āhrīkya, hrīvipakṣabhūtam at trbh 870–872.",
+  "ByT5 segmented a_trapā; I analyze the surface atrapā as the feminine nominative singular of privative atrapa-, corresponding to Sthiramati’s anapatrāpya at trbh 873–876. The nañ-tatpuruṣa relation is retained semantically though the verifier does not support that compound relation.",
+  "ByT5 gives uddhataḥ with lemma uddhan; as an inflected nominal I analyze the surface as stem uddhata, Pum Prathama Eka, while translating the intended upakleśa by Sthiramati’s lemma auddhatyaṃ at trbh 888.",
+  "ByT5 gives muṣitā with lemma muṣ; because this is not a finite verb but an agreeing participial adjective, the subanta lemma is muṣita, Stri Prathama Eka."
+ ],
+ "open_questions": [
+  "The supplied bhāṣya quotation’s uddhataḥ remains textually difficult against Sthiramati’s immediate lemma auddhatyaṃ; this apparatus retains the supplied surface form but translates the intended technical factor from the commentary.",
+  "The avagraha in mado 'vihiṃsā is difficult if the intended item is vihiṃsā; Sthiramati’s gloss makes the semantic and doctrinal identification secure."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 31744,
+   "completion_tokens": 32520,
+   "reasoning_tokens": 21387
+  },
+  "est_cost": 0.583,
+  "retrieval": {
+   "anchor": [
+    775,
+    776
+   ],
+   "span": [
+    779,
+    1005
+   ],
+   "shared_with": 14,
+   "requotes": []
+  }
+ }
+}

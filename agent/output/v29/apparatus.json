@@ -1,0 +1,494 @@
+{
+ "verse": 29,
+ "analysis": [
+  {
+   "surface": "acittaḥ",
+   "surface_in_sandhi": "acitto",
+   "lemma": "acitta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate with asau. Sthiramati explains it as absence of grāhaka-citta, so the sense is not simply “unconscious” or “inconceivable.”",
+   "verification": {
+    "status": "pass",
+    "detail": "acitta Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anupalambaḥ",
+   "surface_in_sandhi": "'nupalambo",
+   "lemma": "anupalamba",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Bhāṣya verse reading has -lamba-; Sthiramati’s prose gloss/requotation uses the regular anupalambha- form. The meaning is fixed as non-apprehension of the grāhya-artha.",
+   "verification": {
+    "status": "pass",
+    "detail": "anupalamba Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "'sau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine deictic, construed with acittaḥ and anupalambaḥ; rendered by English “it/that.”",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "jñānam",
+   "surface_in_sandhi": "jñānaṃ",
+   "lemma": "jñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative predicate with tat; the form is identical with accusative singular.",
+   "verification": {
+    "status": "pass",
+    "detail": "jñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "lokottaram",
+   "surface_in_sandhi": "lokottarañ",
+   "lemma": "lokottara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "lokād uttaram; lokād uttīrṇam",
+    "members": [
+     "loka",
+     "uttara"
+    ]
+   },
+   "note": "Agrees with jñānam/tat; sandhi shows final -m as homorganic ñ before ca.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem lokottara as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction joining this predication to the preceding predicates.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative deictic referring to the jñāna just characterized.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "āśrayasya",
+   "surface_in_sandhi": "āśrayasya",
+   "lemma": "āśraya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on parāvṛttiḥ: “turning-about of the basis.” Sthiramati defines the basis here as sarvabījaka ālayavijñāna.",
+   "verification": {
+    "status": "pass",
+    "detail": "āśraya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "parāvṛttiḥ",
+   "surface_in_sandhi": "parāvṛttir",
+   "lemma": "parāvṛtti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject/predicative term; Sthiramati supplies bhavati and says it occurs after that lokottara jñāna.",
+   "verification": {
+    "status": "pass",
+    "detail": "parāvṛtti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dvidhā",
+   "surface_in_sandhi": "dvidhā",
+   "lemma": "dvidhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed continuously with the following in the prompt; Sthiramati isolates dvidhā and applies it to the two obscuration-dauṣṭhulyas.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dauṣṭhulyahānitaḥ",
+   "surface_in_sandhi": "dauṣṭhulyahānitaḥ",
+   "lemma": "dauṣṭhulyahāni",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dauṣṭhulyasya hāniḥ",
+    "members": [
+     "dauṣṭhulya",
+     "hāni"
+    ]
+   },
+   "note": "Revised for the verifier: treated as a feminine ablatival form of the compound stem dauṣṭhulyahāni, with -taḥ reflecting the ablatival/tasil value “from/through,” as confirmed by Sthiramati’s prahāṇāt/prāpyate construal. This is not the regular simple i-stem ablative hāneḥ, but the intended syntactic force is Panchami singular.",
+   "verification": {
+    "status": "fail",
+    "detail": "compound stem dauṣṭhulyahāni as Stri/Panchami/Eka: fail; relation tatpurusa: unsupported (logged)",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "dauṣṭhulyahānyāḥ",
+     "dauṣṭhulyahāneḥ"
+    ]
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate acitta not as “inconceivable” or merely “unconscious,” but as lacking grasper-mind; translate anupalamba as non-apprehension of the grāhya object.",
+   "options_considered": [
+    "acitta as inconceivable/unthought",
+    "acitta as simply unconscious or inanimate",
+    "acitta as absence of grāhaka-citta, with anupalamba as absence of apprehension of grāhya-artha"
+   ],
+   "chosen": "acitta = absence of apprehender-mind; anupalamba = non-apprehension of the grasped object",
+   "evidence": [
+    {
+     "lines": [
+      1507,
+      1508
+     ],
+     "quote": "grāhakacittābhāvād grāhyārthānupalambhāc\ncācitto 'nupalambho 'sau",
+     "translation": "Because of the absence of apprehender-mind and because of non-apprehension of the object-to-be-grasped, ‘that is acitta and anupalambha.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Render lokottara as “world-transcending/supramundane,” not merely “extraordinary,” because Sthiramati derives it from having crossed beyond the world through non-worldly, non-conceptual occurrence.",
+   "options_considered": [
+    "lokottara as merely unusual or extraordinary",
+    "lokottara as superior to worldly things in a loose sense",
+    "lokottara as beyond the world because nirvikalpa and not occurring as worldly practice"
+   ],
+   "chosen": "lokottara = world-transcending supramundane knowledge",
+   "evidence": [
+    {
+     "lines": [
+      1509,
+      1510
+     ],
+     "quote": "anucitatvāl loke samudācārābhāvān nirvikalpatvāc ca lokād uttīrṇam iti\njñānaṃ lokottarañ ca tad iti",
+     "translation": "Because it is not customary, because it does not occur in the world, and because it is non-conceptual, it has crossed beyond the world; therefore, ‘that is supramundane knowledge.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Take jñānam, lokottaram, and tat as nominatives: ‘that is supramundane knowledge,’ not as an accusative object.",
+   "options_considered": [
+    "jñānam as accusative object of an implied verb",
+    "jñānam/lokottaram/tat as neuter nominative predicate expression"
+   ],
+   "chosen": "jñānam lokottaram ca tat is a neuter nominative predication",
+   "evidence": [
+    {
+     "lines": [
+      1510,
+      1511
+     ],
+     "quote": "jñānaṃ lokottarañ ca tad iti\ntasya jñānasyānantaraṃ āśrayasya parāvṛttir bhavatīti jñāpanārtham āha",
+     "translation": "‘And that is supramundane knowledge’; to make known that after that knowledge the turning-about of the basis occurs, he says ..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Translate āśrayasya parāvṛttiḥ as the turning-about of the basis, with the basis specifically identified as the all-seed ālaya-vijñāna, and construe it as occurring after the lokottara jñāna.",
+   "options_considered": [
+    "āśraya as a generic support, body, or basis",
+    "āśraya as specifically sarvabījaka ālayavijñāna",
+    "parāvṛtti as simultaneous with the preceding predicates",
+    "parāvṛtti as following after the supramundane knowledge"
+   ],
+   "chosen": "āśraya = sarvabījaka ālayavijñāna; parāvṛtti follows that knowledge",
+   "evidence": [
+    {
+     "lines": [
+      1511,
+      1513
+     ],
+     "quote": "tasya jñānasyānantaraṃ āśrayasya parāvṛttir bhavatīti jñāpanārtham āha\nāśrayasya parāvṛttir iti\nāśrayo 'tra sarvabījakam ālayavijñānam",
+     "translation": "To indicate that after that knowledge the turning-about of the basis occurs, he says ‘the turning-about of the basis.’ Here ‘basis’ is the all-seed ālaya-vijñāna."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Render parāvṛtti as Yogācāra ‘turning-about/transformation,’ not merely physical turning or reversal.",
+   "options_considered": [
+    "parāvṛtti as simple turning back or reversal",
+    "parāvṛtti as a technical transformation of the basis"
+   ],
+   "chosen": "parāvṛtti is a transformative turning involving cessation of the old dispositions and presence of fitness, dharmakāya, and nondual knowledge",
+   "evidence": [
+    {
+     "lines": [
+      1514,
+      1516
+     ],
+     "quote": "tasya parāvṛttir yā\ndauṣṭhulyavipākadvayavāsanābhāvena nivṛttau satyāṃ\nkarmaṇyatādharmakāyādvayajñānabhāvena parāvṛttiḥ",
+     "translation": "Its turning-about is the turning-about in which, when cessation has occurred through the absence of the latent impressions of the two—dauṣṭhulya and vipāka—there is the presence of fitness, dharma-body, and nondual knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Construe dvidhā dauṣṭhulya-hānitaḥ as ‘through abandonment of the twofold dauṣṭhulya,’ not as a vague twofold abandonment or merely twofold parāvṛtti.",
+   "options_considered": [
+    "dvidhā as modifying hāni: two abandonments",
+    "dvidhā as modifying parāvṛtti alone",
+    "dvidhā as specifying the two obstruction-dauṣṭhulyas whose abandonment yields the turning-about"
+   ],
+   "chosen": "dvidhā qualifies dauṣṭhulya: the twofold dauṣṭhulya of the kleśa- and jñeya-obstructions",
+   "evidence": [
+    {
+     "lines": [
+      1519,
+      1521
+     ],
+     "quote": "dvidhādauṣṭhulyahānitaḥ\ndvidheti kleśāvaraṇadauṣṭhulyaṃ jñeyāvaraṇadauṣṭhulyañ ca\ndauṣṭhulyam",
+     "translation": "‘Through abandonment of twofold dauṣṭhulya.’ ‘Twofold’ means the dauṣṭhulya of the afflictive obstruction and the dauṣṭhulya of the obstruction concerning what is to be known."
+    },
+    {
+     "lines": [
+      1529
+     ],
+     "quote": "dvidhā āvaraṇabhedena sottarā niruttarā cāśrayaparāvṛttir uktā",
+     "translation": "By the distinction of the obstructions, āśraya-parāvṛtti is said to be twofold: with a higher remainder and unsurpassed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Translate dauṣṭhulya with the technical sense ‘unwieldiness/unfitness,’ not merely ‘grossness’ or ‘badness.’",
+   "options_considered": [
+    "dauṣṭhulya as ordinary coarseness/grossness",
+    "dauṣṭhulya as moral badness in general",
+    "dauṣṭhulya as technical unfitness of the basis, seed of the two obstructions"
+   ],
+   "chosen": "dauṣṭhulya = the basis’s akarmaṇyatā and the seeds of the two obstructions",
+   "evidence": [
+    {
+     "lines": [
+      1521,
+      1523
+     ],
+     "quote": "dauṣṭhulyam\nāśrayasyākarmaṇyatā\ntat punaḥ kleśajñeyāvaraṇayor bījam",
+     "translation": "Dauṣṭhulya is the basis’s lack of fitness/workability; that, again, is the seed of the afflictive and knowable-obstructions."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Take hānitaḥ as ablatival-causal: the turning-about is obtained through the abandonment of the twofold dauṣṭhulya.",
+   "options_considered": [
+    "hānitaḥ as a genitive ‘of loss’",
+    "hānitaḥ as a regular feminine ablative form hānyāḥ",
+    "hānitaḥ as an ablatival causal form: through/from abandonment"
+   ],
+   "chosen": "hānitaḥ = because of/from abandonment",
+   "evidence": [
+    {
+     "lines": [
+      1517,
+      1519
+     ],
+     "quote": "sā punar āśrayaparāvṛttiḥ kasya prahāṇāt prāpyate\nata āha\ndvidhādauṣṭhulyahānitaḥ",
+     "translation": "Again, by the abandoning of what is that turning-about of the basis obtained? Therefore he says: ‘through abandonment of twofold dauṣṭhulya.’"
+    },
+    {
+     "lines": [
+      1525,
+      1528
+     ],
+     "quote": "āśrayaparāvṛttiḥ śrāvakādigatadauṣṭhulyahānitaś ca prāpyate yad āha\nvimuktikāya iti\nbodhisattvagatadauṣṭhulyahānitaś ca prāpyate yad āha\ndharmākhyo 'yaṃ mahāmuner iti",
+     "translation": "Āśraya-parāvṛtti is obtained through abandonment of dauṣṭhulya belonging to śrāvakas and so on—hence ‘liberation-body’; and it is obtained through abandonment of dauṣṭhulya belonging to bodhisattvas—hence ‘this is called dharma [body] of the Great Sage.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "It is without grasping mind (acitta), non-apprehension (anupalamba);\nand that is world-transcending knowledge (lokottara-jñāna).\nThen comes the turning-about of the basis (āśraya-parāvṛtti),\nthrough the abandonment of the twofold unwieldiness (dauṣṭhulya).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render acitta as “unconscious” and thereby deny jñāna; Sthiramati instead says grāhaka-citta is absent while the state is still lokottara jñāna.",
+  "It might take anupalamba as a vague failure of cognition; Sthiramati specifies non-apprehension of the grāhya-artha, the object-to-be-grasped.",
+  "It might translate lokottara as merely “extraordinary”; Sthiramati explains it as having crossed beyond the world because it is nirvikalpa and lacks worldly occurrence.",
+  "It might take āśraya as any support or the body; Sthiramati defines it here as the sarvabījaka ālayavijñāna.",
+  "It might construe dvidhā as twofold abandonment or twofold transformation in general; Sthiramati identifies two dauṣṭhulyas, those of the kleśa- and jñeya-obstructions.",
+  "It might read dauṣṭhulya as ordinary ‘grossness’; Sthiramati defines it technically as the basis’s akarmaṇyatā and as the seed of the two obstructions."
+ ],
+ "analyzer_disagreements": [
+  "The analyzer’s api_seg gives dauṣṭhulya_hānyāḥ, but the supplied bhāṣya/local reading is dauṣṭhulya-hānitaḥ; I follow hānitaḥ.",
+  "ByT5 tags hānitaḥ as hāni_SBF. After verifier review I retain the feminine Panchami singular features for the compound, while noting that the -taḥ ending is ablatival/tasil-like rather than the regular simple i-stem ablative.",
+  "ByT5 separates dauṣṭhulya as a compound member and hānitaḥ as the head; I combine them in the tatpuruṣa compound dauṣṭhulyahāni before the ablatival -taḥ.",
+  "The bhāṣya verse reading anupalambaḥ is retained morphologically; the commentary’s prose uses anupalambha-, so the translation follows that regular technical sense of non-apprehension."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15899,
+   "completion_tokens": 29124,
+   "reasoning_tokens": 20972
+  },
+  "est_cost": 0.4846,
+  "retrieval": {
+   "anchor": [
+    1499,
+    1500
+   ],
+   "span": [
+    1504,
+    1558
+   ],
+   "shared_with": 30,
+   "requotes": []
+  }
+ }
+}

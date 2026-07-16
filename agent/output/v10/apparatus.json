@@ -1,0 +1,523 @@
+{
+ "verse": 10,
+ "analysis": [
+  {
+   "surface": "ādyāḥ",
+   "surface_in_sandhi": "adyāḥ",
+   "lemma": "ādya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The supplied verse prints adyāḥ, but the commentary reads and explains ādyāḥ; analysis follows the bhāṣya gloss. See J1.",
+   "verification": {
+    "status": "pass",
+    "detail": "ādya Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sparśādayaḥ",
+   "surface_in_sandhi": "sparśādayaḥ",
+   "lemma": "sparśādi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sparśaḥ eṣām ādiḥ",
+    "members": [
+     "sparśa",
+     "ādi"
+    ]
+   },
+   "note": "The bhāṣya reading preserves the visarga before chandā-; the compound is explained explicitly in the commentary. See J2.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sparśādi as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "chandādhimokṣasmṛtayaḥ",
+   "surface_in_sandhi": "chandādhimokṣasmṛtayaḥ",
+   "lemma": "chandādhimokṣasmṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "chandaḥ ca adhimokṣaḥ ca smṛtiḥ ca",
+    "members": [
+     "chanda",
+     "adhimokṣa",
+     "smṛti"
+    ]
+   },
+   "note": "Itaretara-dvandva with the gender and inflection of the final member smṛti; it names the first three of the five viniyata factors. See J3 and J5.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem chandādhimokṣasmṛti as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Construes with the instrumental dual samādhidhībhyām; it enumerates, not mutual co-presence. See J3.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "samādhidhībhyām",
+   "surface_in_sandhi": "samādhidhībhyām",
+   "lemma": "samādhidhī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "samādhiḥ ca dhīḥ ca",
+    "members": [
+     "samādhi",
+     "dhī"
+    ]
+   },
+   "note": "Dvandva, instrumental dual governed by saha; not a tatpuruṣa such as ‘wisdom of concentration.’ See J3 and J5.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem samādhidhī as Stri/Trtiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niyatāḥ",
+   "surface_in_sandhi": "niyatāḥ",
+   "lemma": "niyata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Participial adjective functioning as the name of the viniyata class; masculine plural is understood with dharmāḥ, not with the feminine chandādhimokṣasmṛtayaḥ alone. See J3 and J4.",
+   "verification": {
+    "status": "pass",
+    "detail": "niyata Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "śraddhā",
+   "surface_in_sandhi": "śraddhā",
+   "lemma": "śraddha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Begins the next, kuśala, group; printed in sandhi with atha as śraddhātha. Stem corrected for vidyut verification to the derivational base śraddha, which gives the feminine nominative singular surface śraddhā; the lexical feminine cited in dictionaries is śraddhā. See J6.",
+   "verification": {
+    "status": "pass",
+    "detail": "śraddha Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "tha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Transitional particle introducing the kuśala group; its initial a is absorbed in the printed śraddhātha. See J6.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hrīḥ",
+   "surface_in_sandhi": "hrīr",
+   "lemma": "hrī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga sandhi before apatrapā gives hrīr. One of the kuśala items introduced here. See J6.",
+   "verification": {
+    "status": "pass",
+    "detail": "hrī Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "apatrapā",
+   "surface_in_sandhi": "apatrapā",
+   "lemma": "apatrapa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "One of the kuśala items introduced here; no definition is included in the supplied commentary span. Stem corrected for vidyut verification to the derivational base apatrapa, which gives the feminine nominative singular surface apatrapā; the lexical feminine is apatrapā. See J6.",
+   "verification": {
+    "status": "pass",
+    "detail": "apatrapa Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Read and translate the opening as ‘the initial ones … are the omnipresent,’ following the commentary’s explicit gloss.",
+   "options_considered": [
+    "ādyāḥ as ‘initial/first’ with the technical sense sarvatraga",
+    "adyāḥ as printed, unrelated to ādya",
+    "a literal but non-technical ‘the first ones’ without supplying the sarvatraga category"
+   ],
+   "chosen": "ādyāḥ means the already-first-mentioned omnipresent factors (sarvatraga), not an unlengthened adyāḥ from ad/adya.",
+   "evidence": [
+    {
+     "lines": [
+      496
+     ],
+     "quote": "ādau nirdiṣṭatvād ādyāḥ sarvatragā ity arthaḥ",
+     "translation": "Because they were indicated at the beginning, they are ‘initial’; the meaning is ‘omnipresent.’"
+    },
+    {
+     "lines": [
+      498,
+      499
+     ],
+     "quote": "sadāsparśamanaskāravitsaṃjñācetanānvitam\niti prathamato nirdiṣṭāḥ",
+     "translation": "The earlier quoted phrase shows that they were indicated first."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Analyze the compound as bahuvrīhi and translate ‘those beginning with contact,’ not merely ‘contact and so on’ without its category function.",
+   "options_considered": [
+    "bahuvrīhi, ‘those whose beginning is contact’",
+    "loose ellipsis, ‘contact etc.’ with no technical category",
+    "taking sparśa alone as the subject"
+   ],
+   "chosen": "sparśādayaḥ is a bahuvrīhi: ‘those whose first is contact,’ i.e. the five omnipresent factors beginning with sparśa.",
+   "evidence": [
+    {
+     "lines": [
+      500
+     ],
+     "quote": "sparśa eṣām ādir iti sparśādayaḥ",
+     "translation": "Contact is their beginning; therefore they are ‘those beginning with contact.’"
+    },
+    {
+     "lines": [
+      501,
+      502
+     ],
+     "quote": "te punaḥ\nsparśamanaskārādayaḥ pañca dharmāḥ sarvacittam anugacchantīti sarvatragāḥ",
+     "translation": "Those, again, are the five dharmas beginning with contact and attention; because they accompany every mind, they are omnipresent."
+    },
+    {
+     "lines": [
+      503,
+      504
+     ],
+     "quote": "tathā hy eta ālayavijñāne kliṣṭe manasi pravṛttivijñāneṣu cāviśeṣeṇa\npravartante",
+     "translation": "For these occur without distinction in ālayavijñāna, in the afflicted mind, and in the active consciousnesses."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Treat chandādhimokṣasmṛtayaḥ as a three-member dvandva and samādhidhībhyām as a two-member instrumental dual dvandva joined by saha.",
+   "options_considered": [
+    "five separate mental factors in two dvandvas joined by saha",
+    "samādhidhī as a tatpuruṣa, ‘understanding of concentration’",
+    "saha as implying necessary simultaneous presence of all five"
+   ],
+   "chosen": "chandādhimokṣasmṛtayaḥ saha samādhidhībhyām enumerates five distinct viniyata dharmas; saha governs the instrumental dual and does not assert that they always co-occur.",
+   "evidence": [
+    {
+     "lines": [
+      505,
+      506,
+      507
+     ],
+     "quote": "viniyatān adhikṛtyāha\nchandādhimokṣasmṛtayaḥ saha\nsamādhidhībhyāṃ niyatāḥ",
+     "translation": "With regard to the determinate factors he says: desire, resolve, and mindfulness, together with samādhi and dhī, are niyata."
+    },
+    {
+     "lines": [
+      568,
+      569,
+      570,
+      571
+     ],
+     "quote": "ete hi pañca dharmāḥ parasparaṃ vyatiricyāpi pravartante\nevañ ca\nyatrādhimokṣas tatra nāvaśyam itarair api bhavitavyam\nevaṃ sarvatra vācyam",
+     "translation": "For these five dharmas occur even while distinct from one another. Thus, where adhimokṣa is present, the others need not necessarily also be present; this should be said in every case."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Translate niyatāḥ as ‘object-specific determinate factors’ because the commentary defines them by restriction to a special object, not by universal occurrence.",
+   "options_considered": [
+    "object-specific/determinate (viniyata)",
+    "necessary or invariably present",
+    "restrained/controlled from ni-√yam in a non-technical sense"
+   ],
+   "chosen": "niyatāḥ is the technical class viniyatāḥ, ‘determinate/object-specific,’ not ‘necessary’ or merely ‘restrained.’",
+   "evidence": [
+    {
+     "lines": [
+      508,
+      509
+     ],
+     "quote": "viśeṣe niyatatvād viniyatāḥ\neṣāṃ hi viśeṣa eva viṣayo na sarvaḥ",
+     "translation": "They are viniyata because they are determined with respect to a specific case; for their object is precisely a specific one, not every object."
+    },
+    {
+     "lines": [
+      572
+     ],
+     "quote": "uktā viniyatāḥ",
+     "translation": "The determinate factors have been stated."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Use technical English glosses constrained by the commentary rather than dictionary defaults such as ‘meter’ for chanda, ‘tradition’ for smṛti, or ‘meditation’ alone for samādhi.",
+   "options_considered": [
+    "commentary-based technical glosses",
+    "chanda as ‘metre’",
+    "smṛti as ‘sacred tradition’",
+    "samādhi as only ‘meditation’ without one-pointedness",
+    "dhī as generic ‘thought’ rather than prajñā/pravicaya"
+   ],
+   "chosen": "Translate the five viniyata terms according to Sthiramati’s definitions: chanda as desire/aspiration, adhimokṣa as resolve/ascertainment, smṛti as mindfulness/recollection, samādhi as concentration, and dhī as discernment/prajñā.",
+   "evidence": [
+    {
+     "lines": [
+      510
+     ],
+     "quote": "tatra chando 'bhiprete vastuny abhilāṣaḥ",
+     "translation": "Here chanda is desire for an intended object."
+    },
+    {
+     "lines": [
+      515
+     ],
+     "quote": "darśanaśravaṇādiprārthanā chandaḥ",
+     "translation": "Chanda is the aspiration for seeing, hearing, and the like."
+    },
+    {
+     "lines": [
+      517
+     ],
+     "quote": "adhimokṣo niścite vastuni tathaivāvadhāraṇam",
+     "translation": "Adhimokṣa is ascertainment just so with respect to a settled object."
+    },
+    {
+     "lines": [
+      524,
+      525
+     ],
+     "quote": "evam etan nānyathety avadhāraṇam\nadhimokṣaḥ",
+     "translation": "The ascertainment ‘this is so, not otherwise’ is adhimokṣa."
+    },
+    {
+     "lines": [
+      529
+     ],
+     "quote": "smṛtiḥ saṃstute vastuny asaṃpramoṣaś cetaso 'bhilapanatā",
+     "translation": "Smṛti is non-loss with respect to a familiar object, the mind’s verbal noting."
+    },
+    {
+     "lines": [
+      533,
+      534
+     ],
+     "quote": "pūrvagṛhītasya vastunaḥ punaḥ punar ālambanākārasmaraṇam abhilapanatā\nabhilapanam evābhilapanatā",
+     "translation": "Verbal noting is repeatedly remembering the object-aspect of a previously apprehended thing; verbal noting itself is verbal-noting-ness."
+    },
+    {
+     "lines": [
+      538,
+      539,
+      540,
+      541
+     ],
+     "quote": "samādhir upaparīkṣye vastuni cittasyaikāgratā\nupaparīkṣyaṃ vastu guṇato\ndoṣato vā\nekāgratā ekālambanatā",
+     "translation": "Samādhi is the one-pointedness of mind on an object to be examined, whether by its qualities or defects; one-pointedness is having one object."
+    },
+    {
+     "lines": [
+      545,
+      546,
+      547,
+      548,
+      549,
+      550
+     ],
+     "quote": "dhīḥ prajñā\nsāpy upaparīkṣya eva vastuni pravicayo yogāyogavihito 'nyathā\nveti\npravicinotīti pravicayaḥ\nyaḥ samyaṅ mithyā vā\nsaṃkīrṇasvasāmānyalakṣaṇeṣv iva dharmeṣu vivekāvabodhaḥ",
+     "translation": "Dhī is prajñā. It too, with respect to an object to be examined, is analysis produced by correct method, by incorrect method, or otherwise. Analysis is so called because one analyzes; whether correct or mistaken, it is discriminative understanding of dharmas with mixed own- and common-characteristics."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Do not include śraddhā, hrī, and apatrapā among the five niyata factors; translate them as the next, wholesome, items.",
+   "options_considered": [
+    "atha as a transition to the kuśala group",
+    "śraddhā, hrī, and apatrapā as additional niyata factors",
+    "śraddhātha as a single compound word"
+   ],
+   "chosen": "śraddhā atha hrīḥ apatrapā starts the kuśala group; atha marks transition after the viniyata factors.",
+   "evidence": [
+    {
+     "lines": [
+      572,
+      573,
+      574
+     ],
+     "quote": "uktā viniyatāḥ\ntadanantaroddiṣṭās tv idānīṃ kuśalā vaktavyā ity ata āha\nśraddhātha hrīr apatrapā",
+     "translation": "The determinate factors have been stated. Now the wholesome factors indicated immediately after them are to be stated; therefore he says: ‘faith, then shame, apatrapā.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The initial ones (ādyāḥ)—those beginning with contact (sparśa)—are the omnipresent (sarvatraga);\ndesire (chanda), resolve (adhimokṣa), and mindfulness (smṛti),\ntogether with concentration (samādhi) and discernment (dhī/prajñā), are the object-specific determinate factors (niyata/viniyata);\nthen come faith (śraddhā), shame (hrī), and compunction (apatrapā).",
+ "one_shot_delta": [
+  "A commentary-blind translation could accept the printed adyāḥ or render ādyāḥ merely as ‘first,’ missing Sthiramati’s explicit equation with the omnipresent factors (sarvatraga).",
+  "It could render niyatāḥ as ‘necessary’ or ‘always present’; Sthiramati instead defines the five as object-specific and explicitly says they need not co-occur.",
+  "It could construe samādhidhībhyām as ‘by the understanding of samādhi’; the commentary treats samādhi and dhī as separate members of a five-factor list.",
+  "It could translate chanda as ‘metre’ or smṛti as ‘tradition’; the commentary defines chanda as desire/aspiration and smṛti as non-loss/recollection of a familiar object.",
+  "It could continue the niyata list through śraddhā, hrī, and apatrapā; line 573 marks these as the beginning of the kuśala group."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 analyzed adyāḥ as ad_PNMGd; the commentary line 496 reads and glosses ādyāḥ, so this is overridden to ādya-stem, Pum Prathama Bahu.",
+  "ByT5 lemmatized niyatāḥ under the root niyam; for the required subanta analysis it is recorded as the nominal participial stem niyata, Pum Prathama Bahu, understood with dharmāḥ/viniyatāḥ on commentary evidence.",
+  "ByT5 gives compound-internal head analyses for sparśādayaḥ, chandādhimokṣasmṛtayaḥ, and samādhidhībhyām; the apparatus normalizes these to whole compound stems and supplies samāsa analyses as required, without changing the accepted inflection except as noted above.",
+  "After the vidyut report, ByT5's śraddhā lemma is represented for verification as the derivational base śraddha while keeping Stri Prathama Eka and the surface śraddhā.",
+  "After the vidyut report, ByT5's apatrapā lemma is represented for verification as the derivational base apatrapa while keeping Stri Prathama Eka and the surface apatrapā."
+ ],
+ "open_questions": [
+  "The supplied verse text has adyāḥ, but the commentary line 496 has ādyāḥ and explains it from ādau nirdiṣṭatvāt; the apparatus follows the commentary while recording the supplied surface_in_sandhi.",
+  "The supplied commentary span introduces śraddhā, hrī, and apatrapā as kuśala but does not yet define them; their English glosses are therefore minimal and conventional."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 18739,
+   "completion_tokens": 28670,
+   "reasoning_tokens": 20295
+  },
+  "est_cost": 0.4863,
+  "retrieval": {
+   "anchor": [
+    495,
+    495
+   ],
+   "span": [
+    496,
+    574
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

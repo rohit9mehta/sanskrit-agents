@@ -86,6 +86,25 @@ def _enum(cls, name: str):
         ) from None
 
 
+# Anusvāra vs homorganic nasal are orthographic variants of the same word
+# (text: saṃjñita; vidyut derivation: saYjYita). Canonicalize any nasal
+# before a stop to M so surface matching is spelling-insensitive.
+_NASAL_EQ = re.compile(r"[NYRnm](?=[kKgGcCjJwWqQtTdDpPbB])")
+
+
+def normalize_nasals(slp1: str) -> str:
+    return _NASAL_EQ.sub("M", slp1)
+
+
+def forms_match(surface_slp1: str, derived: list[str]) -> str | None:
+    """The derived form equal to the surface up to nasal orthography."""
+    want = normalize_nasals(surface_slp1)
+    for d in derived:
+        if normalize_nasals(d) == want:
+            return d
+    return None
+
+
 def kosha_key_candidates(surface_slp1: str) -> list[str]:
     """The kosha stores pausal/underlying finals (devas, not devaH)."""
     cands = [surface_slp1]
@@ -209,29 +228,34 @@ def _record(
 def derive_subanta(
     stem_slp1: str, linga: str, vibhakti: str, vacana: str
 ) -> list:
-    """All prakriyās for the claimed (stem, liṅga, vibhakti, vacana)."""
+    """All prakriyās for the claimed (stem, liṅga, vibhakti, vacana).
+
+    Feminine ā/ī stems must go through nyāp-anta derivation — basic() does
+    NOT fail on them, it silently produces wrong forms (mAyA+Trtiya → mAyA),
+    so nyap comes FIRST for those and both result sets are merged."""
     args = dict(
         linga=_enum(pk.Linga, linga),
         vibhakti=_enum(pk.Vibhakti, vibhakti),
         vacana=_enum(pk.Vacana, vacana),
     )
-    prakriyas = list(
-        vyakarana().derive(
-            pk.Pada.Subanta(pratipadika=pk.Pratipadika.basic(stem_slp1), **args)
-        )
-    )
-    # Feminine ā/ī stems may need nyāp-anta treatment.
-    if not prakriyas and stem_slp1[-1] in ("A", "I"):
+
+    def _derive(pratipadika):
         try:
-            prakriyas = list(
-                vyakarana().derive(
-                    pk.Pada.Subanta(
-                        pratipadika=pk.Pratipadika.nyap(stem_slp1), **args
-                    )
-                )
-            )
+            return list(vyakarana().derive(pk.Pada.Subanta(pratipadika=pratipadika, **args)))
         except Exception:
-            pass
+            return []
+
+    makers = [lambda: pk.Pratipadika.basic(stem_slp1)]
+    if stem_slp1[-1] in ("A", "I"):
+        nyap = lambda: pk.Pratipadika.nyap(stem_slp1)  # noqa: E731
+        makers = ([nyap] + makers) if linga == "Stri" else (makers + [nyap])
+
+    prakriyas, seen = [], set()
+    for make in makers:
+        for p in _derive(make()):
+            if p.text not in seen:
+                seen.add(p.text)
+                prakriyas.append(p)
     return prakriyas
 
 
@@ -281,7 +305,8 @@ def verify_subanta_claim(
     try:
         prakriyas = derive_subanta(to_slp1(stem_iast), linga, vibhakti, vacana)
         derived = [p.text for p in prakriyas]
-        hit = next((p for p in prakriyas if p.text == surface_slp1), None)
+        matched = forms_match(surface_slp1, derived)
+        hit = next((p for p in prakriyas if p.text == matched), None)
         result = "pass" if hit else "fail"
         trace = _trace(hit) if hit else (_trace(prakriyas[0]) if prakriyas else [])
         return _record(
@@ -342,31 +367,62 @@ def verify_tinanta_claim(
     }
     surface_slp1 = to_slp1(surface_iast)
     try:
-        candidates = find_dhatus(to_slp1(root_iast), gana, surface_slp1=surface_slp1)
-        if not candidates:
-            return _record(
-                run_id=run_id,
-                context=context,
-                surface_iast=surface_iast,
-                claim=claim,
-                method="prakriya",
-                result="fail",
-                expected_forms=[],
-                prakriya_rules=[],
-                notes=f"{notes} [no dhātupāṭha entry for root "
-                f"{root_iast!r}{f' in gana {gana}' if gana else ''}]".strip(),
-            )
         derived: list[str] = []
         hit = None
-        tried = []
-        for dhatu, aupadeshika in candidates:
-            if prefixes:
-                dhatu = dhatu.with_prefixes([to_slp1(p) for p in prefixes])
-            tried.append(aupadeshika)
-            for p in derive_tinanta(dhatu, prayoga, lakara, purusha, vacana):
-                derived.append(p.text)
-                if p.text == surface_slp1 and hit is None:
-                    hit = p
+        tried: list[str] = []
+
+        # Primary: kosha-driven — if the surface is a known tiṅanta, rebuild
+        # each entry's dhātu FAITHFULLY (aupadeshika + gaṇa + sanādi + its own
+        # prefixes) and re-derive under the CLAIMED features. Root naming is
+        # convention-laden (kalpay/kalpi/kḷp are one dhātu), so a name
+        # mismatch is noted, not failed — the feature check is the verdict.
+        root_note = ""
+        for key in kosha_key_candidates(surface_slp1):
+            for e in kosha().get(key):
+                if not _is_tinanta(e):
+                    continue
+                de = e.dhatu_entry
+                d = pk.Dhatu.mula(de.dhatu.aupadeshika, de.dhatu.gana)
+                if de.dhatu.sanadi:
+                    d = d.with_sanadi(list(de.dhatu.sanadi))
+                if de.dhatu.prefixes:
+                    d = d.with_prefixes(list(de.dhatu.prefixes))
+                tried.append(
+                    de.dhatu.aupadeshika
+                    + (f"+{list(de.dhatu.sanadi)}" if de.dhatu.sanadi else "")
+                )
+                for p in derive_tinanta(d, prayoga, lakara, purusha, vacana):
+                    derived.append(p.text)
+                    if hit is None and normalize_nasals(p.text) == normalize_nasals(surface_slp1):
+                        hit = p
+                        claimed_full = "".join(to_slp1(x) for x in prefixes) + to_slp1(root_iast)
+                        if claimed_full not in (de.clean_text, e.lemma):
+                            root_note = (
+                                f"claimed root {claim['lemma']!r}; kosha dhātu is "
+                                f"{de.clean_text} ({de.dhatu.aupadeshika})"
+                            )
+            if hit is not None:
+                break
+
+        # Fallback: dhātupāṭha scan by cleaned aupadeshika, claim's prefixes.
+        if hit is None:
+            for dhatu, aupadeshika in find_dhatus(to_slp1(root_iast), gana):
+                if prefixes:
+                    dhatu = dhatu.with_prefixes([to_slp1(p) for p in prefixes])
+                tried.append(aupadeshika)
+                for p in derive_tinanta(dhatu, prayoga, lakara, purusha, vacana):
+                    derived.append(p.text)
+                    if hit is None and normalize_nasals(p.text) == normalize_nasals(surface_slp1):
+                        hit = p
+
+        if not tried:
+            return _record(
+                run_id=run_id, context=context, surface_iast=surface_iast,
+                claim=claim, method="prakriya", result="fail",
+                expected_forms=[], prakriya_rules=[],
+                notes=f"{notes} [surface not in kosha and no dhātupāṭha entry "
+                f"for root {root_iast!r}{f' in gana {gana}' if gana else ''}]".strip(),
+            )
         result = "pass" if hit else "fail"
         return _record(
             run_id=run_id,
@@ -377,7 +433,8 @@ def verify_tinanta_claim(
             result=result,
             expected_forms=sorted({to_iast(t) for t in derived}),
             prakriya_rules=_trace(hit) if hit else [],
-            notes=f"{notes} [dhātus tried: {', '.join(tried)}]".strip(),
+            notes=f"{notes} [dhātus tried: {', '.join(tried[:6])}]"
+            + (f" [{root_note}]" if root_note else ""),
         )
     except Exception as e:
         return _record(

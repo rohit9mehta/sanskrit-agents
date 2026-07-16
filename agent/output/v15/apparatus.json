@@ -1,0 +1,480 @@
+{
+ "verse": 15,
+ "analysis": [
+  {
+   "surface": "pañcānām",
+   "surface_in_sandhi": "pañcānāṃ",
+   "lemma": "pañcan",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantive numeral construed with vijñānānām: “of the five consciousnesses.” The neuter gender is by agreement with vijñāna.",
+   "verification": {
+    "status": "pass",
+    "detail": "pañcan Napumsaka/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "mūlavijñāne",
+   "surface_in_sandhi": "mūlavijñāne",
+   "lemma": "mūlavijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "mūlaṃ vijñānam, ālayavijñānam",
+    "members": [
+     "mūla",
+     "vijñāna"
+    ]
+   },
+   "note": "Technical term identified by the bhāṣya as ālayavijñāna; locative taken as the basis in/on which the five arise.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mūlavijñāna as Napumsaka/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yathāpratyayam",
+   "surface_in_sandhi": "yathāpratyayam",
+   "lemma": "yathāpratyayam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "avyayibhava",
+    "vigraha": "yasya yasya yaḥ pratyayaḥ saṃnihitaḥ, tasya tasya",
+    "members": [
+     "yathā",
+     "pratyaya"
+    ]
+   },
+   "note": "Avyayībhāva functioning adverbially: “according to the condition present for each.” Formal compound ending is treated as neuter accusative singular.",
+   "verification": {
+    "status": "fail",
+    "detail": "compound claimed but subanta features (linga/vibhakti/vacana) missing",
+    "flag": "UNVERIFIED"
+   }
+  },
+  {
+   "surface": "udbhavaḥ",
+   "surface_in_sandhi": "udbhavaḥ",
+   "lemma": "udbhava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate noun: “arising”; glossed by the bhāṣya as ātmalābha, obtaining its own existence.",
+   "verification": {
+    "status": "pass",
+    "detail": "udbhava Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijñānānām",
+   "surface_in_sandhi": "vijñānānāṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on udbhavaḥ and linked with pañcānām: “the arising of the five consciousnesses.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverb “together,” glossed yugapat.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates saha, not udbhavaḥ: “not together,” i.e. successively.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Alternative particle: “or.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "taraṅgāṇām",
+   "surface_in_sandhi": "taraṅgāṇāṃ",
+   "lemma": "taraṅga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive with an understood udbhava/pravṛtti: “as [the arising] of waves.”",
+   "verification": {
+    "status": "pass",
+    "detail": "taraṅga Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yathā",
+   "surface_in_sandhi": "yathā",
+   "lemma": "yathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Introduces the dṛṣṭānta, the illustrative comparison.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "jale",
+   "surface_in_sandhi": "jale",
+   "lemma": "jala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "“Water”; the commentary’s udakaugha confirms this sense and the locative setting for the wave simile.",
+   "verification": {
+    "status": "pass",
+    "detail": "jala Napumsaka/Saptami/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The genitives pañcānām and vijñānānām are construed together; the ‘five’ are not an unspecified set of five entities but the five sense-consciousnesses, and the commentary also notes the manovijñāna that attends them.",
+   "options_considered": [
+    "an unspecified ‘five’",
+    "five faculties or sense-organs",
+    "the five sense-consciousnesses, construed with vijñānānām"
+   ],
+   "chosen": "pañcānām vijñānānām = “of the five consciousnesses,” namely eye-consciousness and the rest, with attendant mind-consciousness noted by the bhāṣya.",
+   "evidence": [
+    {
+     "lines": [
+      1010
+     ],
+     "quote": "pañcānām iti cakṣurādivijñānānāṃ tadanucaramanovijñānasahitḥnḥm",
+     "translation": "“‘Of the five’ means of the eye-consciousness and the rest, together with the mind-consciousness attending them.”"
+    },
+    {
+     "lines": [
+      1033,
+      1034
+     ],
+     "quote": "saced dvayos trayāṇāṃ sacet pañcānāṃ vijñānānām utpattipratyayaḥ\npratyupasthito bhavati sakṛd yāvat pañcānāṃ pravṛttir bhavati",
+     "translation": "“If the arising-condition of two, three, or five consciousnesses is present, then the activity of as many as five occurs at once.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is not translated as “the root of consciousness.” The bhāṣya defines mūlavijñāna as ālayavijñāna and explains why it is called ‘root’: it is the seed-support and basis for the arising of the eye etc. consciousnesses.",
+   "options_considered": [
+    "“in the root of consciousness” as a genitival/tatpuruṣa sense",
+    "a generic foundational cognition",
+    "the technical root-consciousness, ālayavijñāna"
+   ],
+   "chosen": "mūlavijñāna is the root/base consciousness, specifically ālayavijñāna.",
+   "evidence": [
+    {
+     "lines": [
+      1012,
+      1013
+     ],
+     "quote": "cakṣurādivijñānānāṃ bījāśrayatvāt tadutpatter gatiṣu janmopādānāc\ncālayavijñānaṃ mūlavijñānam ity ucyate",
+     "translation": "“Because it is the seed-support of the eye-consciousness and the rest, and because from their arising there is appropriation of birth in the destinies, the ālaya-consciousness is called root-consciousness.”"
+    },
+    {
+     "lines": [
+      1030,
+      1031
+     ],
+     "quote": "evam eva viśālamate tadoghasthānīyam ālayavijñānaṃ saṃniśritya\npratiṣṭhāya saced ekasya cakṣurvijñānasyotpattipratyayaḥ",
+     "translation": "“So too, Viśālamati, relying on and being based upon the ālaya-consciousness, which occupies the place of that flood, if the arising-condition of one eye-consciousness…”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The phrase does not merely mean ‘somehow according to conditions’; it means that whichever consciousness has its condition present obtains its own arising necessarily.",
+   "options_considered": [
+    "arising randomly when conditions generally exist",
+    "arising according to each one’s own present condition",
+    "arising as a vague simile with no necessity"
+   ],
+   "chosen": "yathāpratyayam udbhavaḥ = arising according to the condition present for each, with udbhava glossed as ātmalābha.",
+   "evidence": [
+    {
+     "lines": [
+      1014,
+      1015
+     ],
+     "quote": "yathāpratyayam udbhava iti yasya\nyasya yaḥ pratyayaḥ saṃnihitas tasya tasya niyamenodbhava ātmalābhaḥ",
+     "translation": "“‘Arising according to condition’ means: for whichever [consciousness] whatever condition is present, of that one there is necessarily arising, the obtaining of its own being.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The negation na has scope over saha, not over udbhavaḥ. The phrase does not mean ‘arise together, or do not arise’; it contrasts simultaneous and non-simultaneous/successive arising.",
+   "options_considered": [
+    "together or not arising at all",
+    "with or without something else",
+    "simultaneously or successively"
+   ],
+   "chosen": "saha na vā = together or not together, i.e. simultaneously or successively.",
+   "evidence": [
+    {
+     "lines": [
+      1016,
+      1017
+     ],
+     "quote": "saha na\nveti yugapat krameṇa vā",
+     "translation": "“‘Together or not’ means simultaneously or in sequence.”"
+    },
+    {
+     "lines": [
+      1018,
+      1019
+     ],
+     "quote": "taraṅgāṇāṃ yathā jala ity ālayavijñānāt\npravṛttivijñānānāṃ yugapad ayugapac cotpattau dṛṣṭāntaḥ",
+     "translation": "“‘As waves in water’ is the example for the simultaneous and non-simultaneous arising of the active consciousnesses from the ālaya-consciousness.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The genitive taraṅgāṇām has an understood ‘arising/activity’: as one or many waves arise in water when their conditions are present, one or many pravṛttivijñānas arise based on ālayavijñāna when their conditions are present.",
+   "options_considered": [
+    "a decorative simile only",
+    "waves as the material cause of water",
+    "waves as an analogy for condition-dependent one-or-many arising in the ālaya stream"
+   ],
+   "chosen": "The wave-in-water simile illustrates one or many conditioned arisings from the ālaya-basis, not a merely decorative comparison.",
+   "evidence": [
+    {
+     "lines": [
+      1021,
+      1022,
+      1023,
+      1024,
+      1025,
+      1026
+     ],
+     "quote": "tadyathā viśālamate mahata udakaughasya vahataḥ saced ekasya\ntaraṅgasyotpattipratyayaḥ pratyupasthito bhavaty ekam eva\ntaraṅgaṃ pravartate\nsaced dvayos trayāṇāṃ saṃbahulānāṃ\ntaraṅgāṇām utpattipratyayaḥ pratyupasthito bhavati yāvat\nsaṃbahulāni taraṅgāṇi pravartante",
+     "translation": "“For example, Viśālamati, when the arising-condition of one wave is present in a great flowing flood of water, just one wave proceeds; when the arising-condition of two, three, or many waves is present, then many waves proceed.”"
+    },
+    {
+     "lines": [
+      1030,
+      1031,
+      1032,
+      1033,
+      1034
+     ],
+     "quote": "evam eva viśālamate tadoghasthānīyam ālayavijñānaṃ saṃniśritya\npratiṣṭhāya saced ekasya cakṣurvijñānasyotpattipratyayaḥ\npratyupasthito bhavaty ekam eva cakṣurvijñānaṃ pravartate\nsaced dvayos trayāṇāṃ sacet pañcānāṃ vijñānānām utpattipratyayaḥ\npratyupasthito bhavati sakṛd yāvat pañcānāṃ pravṛttir bhavati",
+     "translation": "“Likewise, relying on and based upon ālayavijñāna, which takes the place of that flood, if the arising-condition of one eye-consciousness is present, one eye-consciousness proceeds; if the arising-condition of two, three, or five consciousnesses is present, the activity of as many as five occurs at once.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The commentary explicitly argues that immediate antecedent condition is not restricted consciousness-by-consciousness in the way an object-condition is; therefore the verse’s ‘together’ is doctrinally real, not impossible or merely loose.",
+   "options_considered": [
+    "only one consciousness can arise from one immediately preceding condition",
+    "simultaneous arising is only figurative",
+    "several consciousnesses can arise simultaneously when their object-conditions are present"
+   ],
+   "chosen": "Simultaneous arising of several consciousnesses is allowed when object-conditions are present, despite a single samanantarapratyaya.",
+   "evidence": [
+    {
+     "lines": [
+      1039,
+      1040,
+      1041,
+      1042
+     ],
+     "quote": "na hi vijñānapratiniyamenālambanapratyayavat samanantarapratyaya iṣyate\nsarvavijñānotpattau sarvasya vijñānasya tatsamanantarapratyayatvābhyupagamāt\nata ekasmād api samanantarapratyayād ālambanapratyayasānnidhye dvayor\nbahūnāṃ vā vijñānānām utpattir na virūdhyate",
+     "translation": "“For an immediately preceding condition is not accepted as fixed to each consciousness in the way an object-condition is, since it is admitted that, in the arising of all consciousnesses, every consciousness has that as its immediately preceding condition. Therefore, from even one immediately preceding condition, when object-conditions are present, the arising of two or many consciousnesses is not contradicted.”"
+    },
+    {
+     "lines": [
+      1047
+     ],
+     "quote": "tasmād alambanasadbhāve pañcānām api cotpattir ity abhyupeyam",
+     "translation": "“Therefore, when an object is present, the arising even of all five must be accepted.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Based in the root consciousness (mūlavijñāna, the ālayavijñāna),\nthe five consciousnesses (vijñāna)—eye and the rest, with attendant mind-consciousness (manovijñāna)—\ncome into being (udbhava) according to the condition present (yathāpratyayam):\ntogether, or not together,\nas waves [arise] in water.",
+ "one_shot_delta": [
+  "A commentary-blind translation could leave pañcānām as an unspecified “five”; the bhāṣya fixes it as the five eye-and-rest consciousnesses and notes attendant manovijñāna.",
+  "It could take mūlavijñāne as “in the root of consciousness”; the bhāṣya identifies it with ālayavijñāna, the seed-support/base consciousness.",
+  "It could read saha na vā as “together, or not arise”; Sthiramati glosses it as yugapat krameṇa vā, “simultaneously or successively.”",
+  "It could treat the wave simile as ornament. The commentary uses it to explain condition-dependent one-or-many arising of pravṛttivijñānas from ālaya and to defend simultaneous arising against an objection about samanantarapratyaya."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented mūlavijñāne as mūla_Cp + vijñāne; I analyze it as one inflected compound stem mūlavijñāna, because the bhāṣya explicitly says ālayavijñānaṃ mūlavijñānam ity ucyate at trbh 1012–1013.",
+  "ByT5 left yathāpratyayam without explicit nominal/indeclinable features; I analyze it as an avyayībhāva compound functioning adverbially, with formal neuter accusative singular ending, following the bhāṣya’s gloss at trbh 1014–1015.",
+  "ByT5’s taraṃga has been normalized to the stem-form taraṅga used by the verse-form taraṅgāṇām; this is orthographic normalization, not a change of grammatical analysis."
+ ],
+ "open_questions": [
+  "trbh 1010 is visibly corrupt in the supplied text at sahitḥnḥm; I have understood it contextually as sahitānām, “accompanied by,” while the identification of pañcānām with cakṣurādivijñānānām is independently supported by trbh 1033–1034."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15508,
+   "completion_tokens": 21711,
+   "reasoning_tokens": 13822
+  },
+  "est_cost": 0.3722,
+  "retrieval": {
+   "anchor": [
+    1008,
+    1009
+   ],
+   "span": [
+    1010,
+    1050
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

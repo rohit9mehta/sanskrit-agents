@@ -1,0 +1,456 @@
+{
+ "verse": 19,
+ "analysis": [
+  {
+   "surface": "karmaṇaḥ",
+   "surface_in_sandhi": "karmaṇo",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on vāsanāḥ; Sthiramati defines the relevant karman as meritorious, demeritorious, and unmoving volition.",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vāsanāḥ",
+   "surface_in_sandhi": "vāsanā",
+   "lemma": "vāsanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Plural subject of janayanti: karmic impressions (karmavāsanāḥ). The sandhi form vāsanā reflects loss of visarga before grāha-.",
+   "verification": {
+    "status": "pass",
+    "detail": "vāsanā Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "grāhadvayavāsanayā",
+   "surface_in_sandhi": "grāhadvayavāsanayā",
+   "lemma": "grāhadvayavāsanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "grāhadvayasya vāsanā; grāhadvayam = grāhyagrāhaś ca grāhakagrāhaś ca",
+    "members": [
+     "grāha",
+     "dvaya",
+     "vāsanā"
+    ]
+   },
+   "note": "Instrumental governed by saha. The commentary treats this vāsanā as a sahakārin, a cooperating condition for karmic impressions. Vidyut reported failure here and derived only the compound stem grāhadvayavāsanā; I retain the feminine instrumental singular because the ā-stem instrumental -ayā is grammatically regular and Sthiramati explicitly requotes/explicates the phrase with saha.",
+   "verification": {
+    "status": "fail",
+    "detail": "compound stem grāhadvayavāsanā as Stri/Trtiya/Eka: fail; relation tatpurusa: unsupported (logged)",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "grāhadvayavāsanā"
+    ]
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Postposition ‘with/together with’, construed with the instrumental grāhadvayavāsanayā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kṣīṇe",
+   "surface_in_sandhi": "kṣīṇe",
+   "lemma": "kṣīṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past-passive-participial adjective agreeing with pūrvavipāke; together they form a locative absolute.",
+   "verification": {
+    "status": "pass",
+    "detail": "kṣīṇa Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "pūrvavipāke",
+   "surface_in_sandhi": "pūrvavipāke",
+   "lemma": "pūrvavipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "pūrvaḥ vipākaḥ; specifically pūrvajanmopacitena karmaṇā abhinirvṛtto vipākaḥ",
+    "members": [
+     "pūrva",
+     "vipāka"
+    ]
+   },
+   "note": "Locative absolute with kṣīṇe: ‘when the previous maturation/result has been exhausted’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem pūrvavipāka as Pum/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anyam",
+   "surface_in_sandhi": "'nyaṃ",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjectival accusative singular agreeing with vipākam; the bhāṣya reading keeps it separate from vipākam, against the vulgate compound reading. Surface revised to final -m as the pausal/verifier form; the verse’s sandhi spelling has anusvāra.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vipākam",
+   "surface_in_sandhi": "vipākaṃ",
+   "lemma": "vipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object-complement/appositional accusative with tat: ‘as another maturation/result’. Sthiramati identifies this vipāka with ālayavijñāna. Surface revised to final -m as the pausal/verifier form; the verse’s sandhi spelling has anusvāra.",
+   "verification": {
+    "status": "pass",
+    "detail": "vipāka Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "janayanti",
+   "surface_in_sandhi": "janayanti",
+   "lemma": "janay",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "janay",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Causative present, 3rd plural active: janayanti, ‘they generate/produce’; subject is vāsanāḥ. Root field revised from simple jan to the causative/sanādi-dhātu janay-, since a non-causative jan analysis derives forms such as jāyante rather than janayanti.",
+   "verification": {
+    "status": "fail",
+    "detail": "janay Lat/Prathama/Bahu: fail",
+    "flag": "UNVERIFIED"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative neuter pronoun, picked up by the commentary as tad evālayavijñānam, ‘that very ālaya-consciousness’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "I translate as ‘the karmic impressions’ rather than as a single ‘impression of action’ or a vague psychological trace, because Sthiramati defines karmavāsanā technically and construes the karmic impressions in the plural as producers of vipāka when assisted by grāhadvayavāsanā.",
+   "options_considered": [
+    "singular vāsanā, ‘an impression of action’",
+    "generic psychological ‘habit’ without the ālayavijñāna definition",
+    "plural karmic impressions, karmavāsanāḥ, as technical capacities in ālayavijñāna"
+   ],
+   "chosen": "karmaṇaḥ vāsanāḥ means plural karmic impressions (karmavāsanāḥ), capacities deposited in ālayavijñāna by karma, and these are the subject of janayanti.",
+   "evidence": [
+    {
+     "lines": [
+      1160,
+      1161,
+      1162
+     ],
+     "quote": "puṇyāpuṇyāneñjyacetanā karma / tena karmaṇā yad / anāgatātmabhāvābhinirvṛttaye ālayavijñāne sāmarthyam āhitaṃ sā karmavāsanā",
+     "translation": "Karma is meritorious, demeritorious, and unmoving volition; the capacity deposited in ālaya-consciousness by that karma for the production of a future embodied existence is the karmic impression."
+    },
+    {
+     "lines": [
+      1176,
+      1177
+     ],
+     "quote": "evañ ca na kevalāḥ karmavāsanā grāhadvayavāsanānanugṛhītā vipākañ janayantīty / uktaṃ bhavati",
+     "translation": "Thus it is being said that karmic impressions alone, not assisted by the impression of the twofold grasping, do not generate maturation."
+    },
+    {
+     "lines": [
+      1182,
+      1183
+     ],
+     "quote": "ākṣepakāle paryantāvasthite yathābalaṃ karmavāsanā grāhadvayavāsanāsahitā / upabhūktād vipākād anyaṃ vipākaṃ tad evālayavijñānaṃ janayanti",
+     "translation": "When, at the time of projection, the prior maturation has reached its limit, the karmic impressions, according to their strength and accompanied by the impression of the twofold grasping, generate another maturation than the experienced one—namely that very ālaya-consciousness."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is not an unspecified ‘double grasping’ or ‘grasping of two things’. Sthiramati explicitly defines grāhadvaya as the pair apprehended/apprehender and then defines grāhadvayavāsanā as the seed for future same-kind apprehensions. Its role with saha is that of a cooperating condition, like water for a seed’s sprout.",
+   "options_considered": [
+    "‘with two graspers’ as a literal but undefined dual",
+    "‘with the impression of grasping two objects’",
+    "‘with the impression of the twofold apprehended/apprehender grasping’ as a cooperating condition"
+   ],
+   "chosen": "grāhadvayavāsanayā saha means ‘together with the impression of the twofold grasping’, where the two graspings are grāhyagrāha and grāhakagrāha; this impression functions cooperatively with karmic impressions.",
+   "evidence": [
+    {
+     "lines": [
+      1163
+     ],
+     "quote": "grāhadvayaṃ grāhyagraho grāhakagrāhaś ca",
+     "translation": "The twofold grasping is the grasping of the apprehended and the grasping of the apprehender."
+    },
+    {
+     "lines": [
+      1164,
+      1165,
+      1166,
+      1167
+     ],
+     "quote": "tatra vijñānāt pṛthag eva / svasantānādhyāsitaṃ grāhyam astīty adhyavasāyo grāhyagrāhaḥ / tac ca vijñānena / pratīyate vijñāyate gṛhyata iti yo 'yaṃ niścayaḥ sa grahakagrāhaḥ",
+     "translation": "There, the determination that an apprehensible object, projected on one’s own continuum, exists quite apart from cognition is the grasping of the apprehended; and the certainty that it is perceived, cognized, grasped by cognition is the grasping of the apprehender."
+    },
+    {
+     "lines": [
+      1168,
+      1169
+     ],
+     "quote": "pūrvotpannagrāhyagrāhakagrāhākṣiptam / anāgatatajjātīyagrāhyagrāhakagrāhotpattibījaṃ grāhadvayavāsanā",
+     "translation": "The impression of the twofold grasping is the seed, projected by previously arisen graspings of apprehended and apprehender, for the arising in the future of graspings of apprehended and apprehender of that same class."
+    },
+    {
+     "lines": [
+      1172,
+      1173,
+      1174
+     ],
+     "quote": "grāhadvayavāsanā tu sarvakarmavāsanānāṃ yathāsvam ākṣiptātmabhāvotpādane / pravṛttānāṃ sahakāritvaṃ pratipadyate / tadyathā abādayo bījasyāṅkurotpattāv",
+     "translation": "The impression of the twofold grasping assumes the role of cooperator for all karmic impressions engaged in producing the embodied existence each has projected, just as water and the like do in the production of a sprout from a seed."
+    },
+    {
+     "lines": [
+      1178,
+      1179
+     ],
+     "quote": "ata evāha / grahādvayavāsanayā saheti",
+     "translation": "For this very reason he says: ‘together with the impression of the twofold grasping.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The phrase is not merely locative place/time ‘in a previous result’, nor does kṣīṇa imply total nihilistic cessation. Sthiramati glosses the previous vipāka and says that this wording avoids the eternalist extreme; the following production of another vipāka avoids the annihilationist extreme.",
+   "options_considered": [
+    "simple locative, ‘in the former maturation’",
+    "‘after the previous result is destroyed’ in an annihilationist sense",
+    "locative absolute marking exhaustion/limit of the prior maturation"
+   ],
+   "chosen": "kṣīṇe pūrvavipāke is a locative absolute: ‘when the previous maturation/result has been exhausted’—more exactly, when the prior vipāka produced by karma accumulated in a previous birth has reached its limit at the time of projection.",
+   "evidence": [
+    {
+     "lines": [
+      1181,
+      1182
+     ],
+     "quote": "pūrvajanmopacitena karmaṇā ya iti vipāko 'bhinirvṛttas tasmin kṣīṇa ity / ākṣepakāle paryantāvasthite yathābalaṃ karmavāsanā grāhadvayavāsanāsahitā",
+     "translation": "The maturation produced by karma accumulated in a previous birth—when that is exhausted, that is, when it has reached its final state at the time of projection—the karmic impressions, according to their strength and accompanied by the impression of the twofold grasping, act."
+    },
+    {
+     "lines": [
+      1185,
+      1186,
+      1187
+     ],
+     "quote": "kṣīṇe pūrvavipāka ity anena / śāśvatāntaṃ pariharati / anyaṃ vipākaṃ janayantīty ucchedāntam",
+     "translation": "By ‘when the previous maturation has been exhausted’ he avoids the eternalist extreme; by ‘they generate another maturation’ he avoids the annihilationist extreme."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "I keep anyaṃ and vipākaṃ separate and translate tat explicitly as ālayavijñāna on Sthiramati’s authority. The commentary further states that there is no vipāka other than ālayavijñāna, so ‘another maturation’ is not some independent result apart from ālaya-consciousness.",
+   "options_considered": [
+    "vulgate anyadvipākam as a single compound",
+    "tat as a vague deictic left unidentified",
+    "anyaṃ vipākaṃ as another result distinct from ālayavijñāna",
+    "anyaṃ vipākaṃ tat as ‘that very ālayavijñāna as another maturation’"
+   ],
+   "chosen": "The bhāṣya reading is anyaṃ vipākaṃ, ‘another maturation’, not the vulgate compound anyadvipākam; tat is the neuter accusative pronoun referring to tad evālayavijñānam, ‘that very ālaya-consciousness’.",
+   "evidence": [
+    {
+     "lines": [
+      1180
+     ],
+     "quote": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tad iti",
+     "translation": "Sthiramati quotes the pāda as ‘when the previous maturation has been exhausted, they generate that as another maturation,’ with anyaṃ vipākaṃ as two words."
+    },
+    {
+     "lines": [
+      1183,
+      1184
+     ],
+     "quote": "upabhūktād vipākād anyaṃ vipākaṃ tad evālayavijñānaṃ janayanti / ālayavijñānavyatirekeṇānyasya vipākasyābhāvāt",
+     "translation": "They generate another maturation than the experienced maturation, namely that very ālaya-consciousness, because apart from ālaya-consciousness there is no other maturation."
+    },
+    {
+     "lines": [
+      1449,
+      1450,
+      1451
+     ],
+     "quote": "atha vā yās tāḥ karmavāsanā grāhadvayavāsanāsahitāḥ / kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayantīty / uktaṃ tasmāt kathaṃ prahāṇam aprahāṇaṃ cety ata āha",
+     "translation": "A later requotation again has the karmic impressions accompanied by the impression of the twofold grasping ‘generating another maturation when the previous maturation has been exhausted,’ confirming the separated bhāṣya reading."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The karmic impressions (karmavāsanāḥ), together with the impression of the twofold grasping (grāhadvayavāsanā),\nwhen the previous maturation (pūrvavipāka) has been exhausted,\ngenerate that—ālaya-consciousness (ālayavijñāna)—as another maturation (vipāka).",
+ "one_shot_delta": [
+  "A commentary-blind rendering could take vāsanā as singular; Sthiramati’s plural karmavāsanāḥ are the subject of janayanti.",
+  "It could leave grāhadvaya vague as ‘two graspings’; the commentary defines it as grāhyagrāha plus grāhakagrāha and makes its vāsanā a cooperating condition, not an independent karmic producer.",
+  "It could accept the vulgate anyadvipākam as a compound; both the bhāṣya quote and later requote support the separated anyaṃ vipākaṃ.",
+  "It could translate tat merely as ‘that’ without identifying it; Sthiramati explicitly glosses it as tad evālayavijñānam and says no vipāka exists apart from ālayavijñāna.",
+  "It could miss the locative absolute and doctrinal force of kṣīṇe pūrvavipāke: the old maturation reaches exhaustion, avoiding eternalism, while a new maturation is generated, avoiding annihilationism."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 local_SLM line tags vāsanā as singular nominative feminine, but the finite verb janayanti is plural and the commentary repeatedly has plural karmavāsanāḥ/karmavāsanā as the subject; I therefore analyze the pausal form as vāsanāḥ, Stri Prathama Bahu.",
+  "ByT5 gives kṣīṇe under kṣi; I record the inflected nominal/adjectival stem kṣīṇa, Pum Saptami Eka, because it agrees with vipāke and is glossed by Sthiramati as tasmin kṣīṇa iti.",
+  "ByT5 segments grāha-dvaya-vāsanayā; the apparatus records the required whole inflected compound stem grāhadvayavāsanā, with internal members shown under samāsa.",
+  "ByT5 segments pūrva-vipāke; the apparatus records the required whole compound stem pūrvavipāka, supported by the bhāṣya quote pūrvavipāke."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 8,
+  "fail": 2,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 24400,
+   "completion_tokens": 22947,
+   "reasoning_tokens": 14698
+  },
+  "est_cost": 0.4174,
+  "retrieval": {
+   "anchor": [
+    1157,
+    1158
+   ],
+   "span": [
+    1160,
+    1293
+   ],
+   "shared_with": null,
+   "requotes": [
+    [
+     1450,
+     1450
+    ]
+   ]
+  }
+ }
+}

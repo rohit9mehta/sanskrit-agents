@@ -1,0 +1,463 @@
+{
+ "verse": 18,
+ "analysis": [
+  {
+   "surface": "sarvabījam",
+   "surface_in_sandhi": "sarvabījaṃ",
+   "lemma": "sarvabīja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sarvadharmotpādanaśaktirūpāṇi sarvāṇi bījāni yasmin tat",
+    "members": [
+     "sarva",
+     "bīja"
+    ]
+   },
+   "note": "Predicate qualifier of vijñānam; the bhāṣya identifies this vijñāna as ālayavijñāna.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvabīja as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal/explanatory particle: “for.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñānam",
+   "surface_in_sandhi": "vijñānaṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative neuter; contextually ālayavijñāna according to Sthiramati, not vijñāna in general.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pariṇāmaḥ",
+   "surface_in_sandhi": "pariṇāmas",
+   "lemma": "pariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of yāti; defined by the bhāṣya as alteration from a previous state, with ālayavijñāna as the relevant basis.",
+   "verification": {
+    "status": "pass",
+    "detail": "pariṇāma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First member of the distributive repetition tathā tathā, glossed by the bhāṣya with tasya tasya vikalpasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second member of the distributive repetition; “such-and-such,” i.e. suited to each respective vikalpa.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yāti",
+   "surface_in_sandhi": "yāty",
+   "lemma": "yā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yā",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Glossed by prāpnoti in the bhāṣya: “reaches/comes into.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yā Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anyonyavaśāt",
+   "surface_in_sandhi": "anyonyavaśād",
+   "lemma": "anyonyavaśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "anyonyasya vaśaḥ",
+    "members": [
+     "anyonya",
+     "vaśa"
+    ]
+   },
+   "note": "Causal ablative: “because of / through mutual influence or dependence.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anyonyavaśa as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yena",
+   "surface_in_sandhi": "yena",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental relative; morphologically also compatible with neuter, but here analyzed with pariṇāmaḥ as antecedent and rendered functionally as “whereby / by reason of which.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpaḥ",
+   "surface_in_sandhi": "vikalpaḥ",
+   "lemma": "vikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of jāyate; the bhāṣya characterizes it as anekaprakāra, “of manifold kinds.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vikalpa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First member of distributive sa sa: “this or that / each respective.”",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second member of distributive sa sa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "jāyate",
+   "surface_in_sandhi": "jāyate",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jan",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Intransitive middle present in sense: “arises, is born”; the bhāṣya reinforces this with utpattir bhavati.",
+   "verification": {
+    "status": "pass",
+    "detail": "jan Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Reference of sarvabījaṃ vijñānam and the compound sense of sarvabīja.",
+   "options_considered": [
+    "vijñāna in general is all-seeded",
+    "a non-conscious pradhāna or similar principle is the all-seed",
+    "ālayavijñāna is all-seeded through possessing all dharma-producing powers"
+   ],
+   "chosen": "“Consciousness” here means ālayavijñāna, qualified as “all-seeded” because it carries the powers/seeds for producing all dharmas.",
+   "evidence": [
+    {
+     "lines": [
+      1136
+     ],
+     "quote": "tatra sarvadharmotpādanaśaktyanugamāt sarvabījaṃ vijñānam ity ālayavijñānam",
+     "translation": "Here, because it is accompanied by the power to produce all dharmas, ‘all-seeded consciousness’ means ālayavijñāna."
+    },
+    {
+     "lines": [
+      1137,
+      1138,
+      1139
+     ],
+     "quote": "vijñānaṃ hy asarvabījam apy astīty ataḥ sarvabījam ity āha\nvijñānād anyad\napi kaiścit pradhānādi sarvabījaṃ kalpyata iti vijñānam ity āha",
+     "translation": "Since there is also consciousness that is not all-seeded, he says ‘all-seeded’; and since some imagine something other than consciousness, such as pradhāna, to be all-seeded, he says ‘consciousness.’"
+    },
+    {
+     "lines": [
+      1140,
+      1141
+     ],
+     "quote": "atha vā\nekapadavyabhicāre 'pi viśeṣaṇaviśeṣyatvadarśanān nāyaṃ doṣaḥ",
+     "translation": "Alternatively, even if a single word is non-exclusive, this is no fault, because a qualifier-qualified relation is observed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Meaning of pariṇāma, force of yāti, and scope of tathā tathā.",
+   "options_considered": [
+    "pariṇāma as an unspecified transformation merely occurring in various ways",
+    "pariṇāma as a separate substance or product",
+    "pariṇāma as a change of state reaching the immediate productive condition for each vikalpa"
+   ],
+   "chosen": "pariṇāma is “alteration from a prior state,” and tathā tathā yāti means that this transformation reaches the state capable of immediately producing each respective vikalpa.",
+   "evidence": [
+    {
+     "lines": [
+      1142,
+      1143,
+      1144,
+      1145
+     ],
+     "quote": "pariṇāmas tathā tathā yāty anyonyavaśād iti\npūrvāvasthāto 'nyathābhāvaḥ pariṇāmaḥ\ntathā tatheti tasya tasya\nvikalpasyānantarotpādanasamarthāvasthāṃ prāpnotīty arthaḥ",
+     "translation": "On ‘the transformation goes thus and thus because of mutual influence’: transformation is becoming otherwise than the previous state. ‘Thus and thus’ means ‘of each respective vikalpa’; the meaning is that it reaches a state capable of immediately producing that vikalpa."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Scope of “mutual influence/dependence” in anyonyavaśāt.",
+   "options_considered": [
+    "mutual influence among the vikalpas themselves",
+    "subjection to an external controller",
+    "reciprocal conditionality between pravṛtti-vijñāna and ālayavijñāna-pariṇāma"
+   ],
+   "chosen": "anyonyavaśāt is reciprocal conditioning: eye-etc. consciousness and the ālaya-consciousness transformation are each a condition (nimitta) for the other.",
+   "evidence": [
+    {
+     "lines": [
+      1146,
+      1147,
+      1148,
+      1149,
+      1150,
+      1151
+     ],
+     "quote": "anyonyavaśād iti\ntathā hi cakṣurādivijñānaṃ svaśaktiparipoṣe vartamāne\nśaktiviśiṣṭasyālayavijñānapariṇāmasya nimittaṃ so 'pi ālayavijñānapariṇāmaś\ncakṣurādivijñānasya nimittaṃ bhavati\nevam anyonyavaśād yasmād ubhayaṃ\npravartate tasmād ālayavijñānād anyenānadhiṣṭhitād anekaprakāro vikalpaḥ sa sa",
+     "translation": "On ‘because of mutual influence’: when the nourishment of its own power is present, eye-etc. consciousness is a condition for the power-qualified transformation of ālayavijñāna; that ālayavijñāna-transformation too becomes a condition for eye-etc. consciousness. Thus, because both proceed through mutual influence, from that ālayavijñāna ..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Construal of yena, sa sa, vikalpaḥ, and the voice/sense of jāyate.",
+   "options_considered": [
+    "yena as introducing an external instrument or agent",
+    "sa sa as mere emphasis without distributive force",
+    "jāyate as a passive ‘is produced’ by an unstated external maker",
+    "yena as ‘whereby,’ with sa sa marking manifold respective vikalpas arising from ālayavijñāna"
+   ],
+   "chosen": "yena is rendered as correlative ‘whereby / by reason of which’; sa sa vikalpaḥ is distributive, ‘this or that construction,’ manifold and arising from ālayavijñāna without another governing basis. jāyate is therefore translated intransitively as ‘arises.’",
+   "evidence": [
+    {
+     "lines": [
+      1150,
+      1151,
+      1152
+     ],
+     "quote": "evam anyonyavaśād yasmād ubhayaṃ\npravartate tasmād ālayavijñānād anyenānadhiṣṭhitād anekaprakāro vikalpaḥ sa sa\njāyate",
+     "translation": "Thus, since both proceed through mutual influence, from that ālayavijñāna, not presided over by another, a manifold vikalpa, this or that, arises."
+    },
+    {
+     "lines": [
+      1153,
+      1154
+     ],
+     "quote": "tatra ca vartamāne janmani yathālayavijñānāt\npravṛttivijñānasyotpattir bhavati tathākhyātam",
+     "translation": "And there, with respect to the present life, how the arising of active consciousness occurs from ālayavijñāna has thus been explained."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For consciousness—store-consciousness (ālayavijñāna)—is all-seeded (sarvabīja):\nby mutual influence its transformation (pariṇāma)\nreaches such-and-such states,\nand thereby this or that construction (vikalpa) arises.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take vijñāna as consciousness in general; Sthiramati explicitly identifies it as ālayavijñāna and explains why both sarvabīja and vijñāna are needed.",
+  "It might render tathā tathā vaguely as “in various ways”; the bhāṣya specifies: the transformation reaches states capable of immediately producing each respective vikalpa.",
+  "It might take anyonyavaśāt as vague mutual control or mutual influence among concepts; the commentary makes it the reciprocal nimitta-relation between cakṣurādi/prवṛtti-vijñāna and ālayavijñānapariṇāma.",
+  "It might posit another governing basis or producer for vikalpa; Sthiramati says vikalpa arises from ālayavijñāna, anyenānadhiṣṭhitāt, “not presided over by another.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments sarva_bījam; I analyze sarvabījam as one inflected compound stem sarvabīja, because the bhāṣya treats sarvabījaṃ vijñānam as a qualifier-qualified expression identifying ālayavijñāna (trbh 1136–1137, 1141).",
+  "ByT5 segments anyonya_vaśāt; I analyze anyonyavaśāt as one inflected tatpuruṣa compound stem anyonyavaśa in the causal ablative, because the bhāṣya expounds anyonyavaśāt as reciprocal causal conditioning (nimitta) between cakṣurādivijñāna and ālayavijñānapariṇāma (trbh 1146–1150)."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5843,
+   "completion_tokens": 16774,
+   "reasoning_tokens": 13313
+  },
+  "est_cost": 0.2691,
+  "retrieval": {
+   "anchor": [
+    1134,
+    1135
+   ],
+   "span": [
+    1136,
+    1154
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

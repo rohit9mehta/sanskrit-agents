@@ -16,6 +16,14 @@ from .schema import Apparatus, WordAnalysis
 _IND_RE = re.compile(r"(^|[\s(¦])ind\.")
 
 
+def _is_tasil(surface_iast: str, vibhakti: str | None) -> bool:
+    """-taḥ/-tas ablative-equivalent adverbs (tasil) are not derivable as
+    subanta pañcamī; the claim is downgraded to `unsupported`, not failed."""
+    return vibhakti == "Panchami" and (
+        surface_iast.endswith("taḥ") or surface_iast.endswith("tas")
+    )
+
+
 def _mw_says_indeclinable(surface_iast: str) -> bool:
     from .dictionary import mw_entries
 
@@ -68,6 +76,25 @@ def verify_word(w: WordAnalysis, verse: int, run_id: str) -> WordResult:
     ctx = _ctx(verse)
     m = w.morph
     try:
+        if w.samasa is not None and m.pos == "avyaya":
+            # avyayībhāva (e.g. yathāpratyayam): the whole form is an
+            # indeclinable; relation is unsupported; members kosha-checked.
+            verify.mark_unsupported(
+                w.surface,
+                f"avyayībhāva ({w.samasa.vigraha}): relation not expressible; "
+                f"members {', '.join(w.samasa.members)}",
+                run_id=run_id, context=ctx, source="reasoner",
+            )
+            for mem in w.samasa.members:
+                verify.kosha_check(mem, run_id=run_id, context=ctx, source="reasoner",
+                                   notes=f"member of avyayībhāva {w.surface}")
+            key, entries = verify.kosha_lookup(w.surface)
+            if (entries and any(e.is_avyaya for e in entries)) or _mw_says_indeclinable(w.surface):
+                return WordResult(w.surface, "pass",
+                                  "avyayībhāva; whole form known indeclinable (kosha/MW)")
+            return WordResult(w.surface, "unsupported",
+                              "avyayībhāva; whole form not in kosha/MW as indeclinable")
+
         if w.samasa is not None:
             if m.pos != "subanta" or not (m.linga and m.vibhakti and m.vacana):
                 return WordResult(
@@ -84,7 +111,12 @@ def verify_word(w: WordAnalysis, verse: int, run_id: str) -> WordResult:
                 f"compound stem {w.lemma} as {m.linga}/{m.vibhakti}/{m.vacana}: "
                 f"{stem['result']}; relation {w.samasa.type}: unsupported (logged)"
             )
-            return WordResult(w.surface, res["status"], detail, stem["expected_forms"])
+            status = res["status"]
+            if status == "fail" and _is_tasil(w.surface, m.vibhakti):
+                return WordResult(w.surface, "unsupported",
+                                  detail + "; -tas (tasil) adverb not derivable as subanta",
+                                  stem["expected_forms"])
+            return WordResult(w.surface, status, detail, stem["expected_forms"])
 
         if m.pos == "subanta":
             if not (m.linga and m.vibhakti and m.vacana):
@@ -93,11 +125,13 @@ def verify_word(w: WordAnalysis, verse: int, run_id: str) -> WordResult:
                 w.surface, w.lemma, m.linga, m.vibhakti, m.vacana,
                 run_id=run_id, context=ctx, source="reasoner",
             )
-            return WordResult(
-                w.surface, rec["result"],
-                f"{w.lemma} {m.linga}/{m.vibhakti}/{m.vacana}: {rec['result']}",
-                rec["expected_forms"],
-            )
+            status = rec["result"]
+            detail = f"{w.lemma} {m.linga}/{m.vibhakti}/{m.vacana}: {status}"
+            if status == "fail" and _is_tasil(w.surface, m.vibhakti):
+                return WordResult(w.surface, "unsupported",
+                                  detail + "; -tas (tasil) adverb not derivable as subanta",
+                                  rec["expected_forms"])
+            return WordResult(w.surface, status, detail, rec["expected_forms"])
 
         if m.pos == "tinanta":
             if not (m.root and m.prayoga and m.lakara and m.purusha and m.vacana):

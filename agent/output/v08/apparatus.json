@@ -1,0 +1,460 @@
+{
+ "verse": 8,
+ "analysis": [
+  {
+   "surface": "dvitīyaḥ",
+   "surface_in_sandhi": "dvitīyaḥ",
+   "lemma": "dvitīya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective agreeing with pariṇāmaḥ; the bhāṣya treats this as the conclusion of the already explained second transformation.",
+   "verification": {
+    "status": "pass",
+    "detail": "dvitīya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pariṇāmaḥ",
+   "surface_in_sandhi": "pariṇāmo",
+   "lemma": "pariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga sandhi before ayam gives pariṇāmo.",
+   "verification": {
+    "status": "pass",
+    "detail": "pariṇāma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after pariṇāmo and marked by avagraha in the printed verse; refers to the second transformation just concluded.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tṛtīyaḥ",
+   "surface_in_sandhi": "tṛtīyaḥ",
+   "lemma": "tṛtīya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine because the supplied head is vijñānapariṇāmaḥ, explicitly given by the bhāṣya as vākyaśeṣa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tṛtīya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ṣaḍvidhasya",
+   "surface_in_sandhi": "ṣaḍvidhasya",
+   "lemma": "ṣaḍvidha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "ṣaṭ vidhāḥ/prakārāḥ yasya saḥ",
+    "members": [
+     "ṣaṣ",
+     "vidha"
+    ]
+   },
+   "note": "Qualifies viṣayasya; glossed as ṣaṭprakārasya, with the six object-types listed in the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ṣaḍvidha as Pum/Sasthi/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yā",
+   "surface_in_sandhi": "yā",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun agreeing with upalabdhiḥ and correlated with sā.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "viṣayasya",
+   "surface_in_sandhi": "viṣayasy",
+   "lemma": "viṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Objective genitive with upalabdhiḥ: apprehension of the object. Final a coalesces with initial u of upalabdhiḥ to o.",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣaya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "upalabdhiḥ",
+   "surface_in_sandhi": "opalabdhiḥ",
+   "lemma": "upalabdhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by the bhāṣya as grahaṇa and pratipatti, i.e. apprehension/perceptual taking-up, not mere acquisition. Initial u appears as o after viṣayasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "upalabdhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sā",
+   "surface_in_sandhi": "sā",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun referring back to yā ... upalabdhiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kuśalā",
+   "surface_in_sandhi": "kuśalā",
+   "lemma": "kuśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First of the three ethical alternatives predicated of the apprehension; defined by the bhāṣya as conjoined with non-greed, non-hatred, and non-delusion.",
+   "verification": {
+    "status": "pass",
+    "detail": "kuśala Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "akuśalā",
+   "surface_in_sandhi": "kuśalā",
+   "lemma": "akuśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na kuśalā",
+    "members": [
+     "a",
+     "kuśala"
+    ]
+   },
+   "note": "Second ethical alternative; initial a is lost in external sandhi after kuśalā. Defined by the bhāṣya as conjoined with greed, hatred, and delusion.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem akuśala as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "advayā",
+   "surface_in_sandhi": "dvayā",
+   "lemma": "advaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na dvayam; na kuśalā nākuśalā",
+    "members": [
+     "a",
+     "dvaya"
+    ]
+   },
+   "note": "Third ethical alternative; initial a is lost in external sandhi after akuśalā. Sthiramati glosses it as avyākṛtā and as neither kuśalā nor akuśalā, so it is not translated here as metaphysical ‘non-dual’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem advaya as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse is not saying that ‘this second transformation is third’; it closes the second transformation and then begins the third. The masculine tṛtīyaḥ is construed with the supplied masculine vijñānapariṇāmaḥ.",
+   "options_considered": [
+    "one continuous predication: ‘this second transformation is the third’",
+    "two-part structure: conclusion of the second transformation, then introduction of the third",
+    "tṛtīyaḥ agreeing directly with feminine upalabdhiḥ"
+   ],
+   "chosen": "Take dvitīyaḥ pariṇāmo 'yam as a concluding sentence about the second transformation, and take tṛtīyaḥ as introducing the third consciousness-transformation with supplied vijñānapariṇāmaḥ.",
+   "evidence": [
+    {
+     "lines": [
+      473,
+      474
+     ],
+     "quote": "uddiṣṭo nidiṣṭaś ceti nigamayati\ndvitīyapariṇāmāntaraṃ tṛtīyaḥ pariṇāmo vaktavya ity ata āha",
+     "translation": "He concludes that what was stated has also been explained. Since, after the second transformation, the third transformation remains to be stated, therefore he says..."
+    },
+    {
+     "lines": [
+      475,
+      476,
+      477
+     ],
+     "quote": "tṛtīyaḥ ṣaḍvidhasya yā\nviṣayasyopalabdhiḥ sā\ntṛtīyo vijñānapariṇāma iti vākyaśeṣaḥ",
+     "translation": "‘The third: whatever apprehension there is of the sixfold object, that...’ The remainder of the sentence is: ‘the third consciousness-transformation.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The genitive phrase is ‘of the sixfold object,’ not ‘of a sixfold apprehension’ or an unspecified sixfold consciousness.",
+   "options_considered": [
+    "sixfold apprehension",
+    "sixfold consciousness",
+    "sixfold object as explicitly listed by the bhāṣya"
+   ],
+   "chosen": "ṣaḍvidhasya qualifies viṣayasya: the object is sixfold, namely the domains whose nature is form, sound, smell, taste, tangible, and dharma.",
+   "evidence": [
+    {
+     "lines": [
+      478,
+      479
+     ],
+     "quote": "ṣaḍvidhasyeti ṣaṭprakārasya\nrūpaśabdagandharasaspraṣṭavya dharmātmakasya viṣayasya yā upalabdhir grahaṇaṃ",
+     "translation": "‘Sixfold’ means ‘of six kinds’: whatever apprehension, grasping, there is of an object whose nature is form, sound, smell, taste, tangible, and dharma..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The bhāṣya glosses upalabdhi with grahaṇa and pratipatti, so the relevant sense is perceptual/cognitive taking-up, not acquisition or possession.",
+   "options_considered": [
+    "obtainment/acquisition of an object",
+    "the object’s own apprehension",
+    "apprehension/grasping of the object"
+   ],
+   "chosen": "Translate upalabdhiḥ as ‘apprehension’ and construe viṣayasya as its objective genitive: apprehension of the object.",
+   "evidence": [
+    {
+     "lines": [
+      479,
+      480
+     ],
+     "quote": "rūpaśabdagandharasaspraṣṭavya dharmātmakasya viṣayasya yā upalabdhir grahaṇaṃ\npratipattir ity arthaḥ",
+     "translation": "Whatever apprehension of the object whose nature is form, sound, smell, taste, tangible, and dharma—‘apprehension’ means grasping; the sense is cognition/recognition."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The pronouns frame the apprehension as the subject subsequently classified ethically.",
+   "options_considered": [
+    "sā referring to viṣayaḥ, the object",
+    "sā referring to a supplied feminine entity other than upalabdhiḥ",
+    "sā referring back to yā ... upalabdhiḥ"
+   ],
+   "chosen": "Read yā ... sā as a relative-correlative construction whose referent is the feminine upalabdhiḥ.",
+   "evidence": [
+    {
+     "lines": [
+      475,
+      476,
+      481
+     ],
+     "quote": "tṛtīyaḥ ṣaḍvidhasya yā\nviṣayasyopalabdhiḥ sā\nsā punaḥ kiṃ kuśalākuśalāvyākṛtety ata āha",
+     "translation": "‘Whatever apprehension there is of the sixfold object, that...’ Again, is that wholesome, unwholesome, or undetermined? Therefore he says..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Sthiramati first restates the question as the standard triad kuśala/akuśala/avyākṛta, then glosses advayā as avyākṛtā and as ‘not wholesome, not unwholesome.’",
+   "options_considered": [
+    "advayā as ‘non-dual’ in a metaphysical sense",
+    "kuśalākuśalādvayā as one opaque compound meaning ‘good-and-bad nondual’",
+    "three ethical alternatives: wholesome, unwholesome, and neither/undetermined"
+   ],
+   "chosen": "Translate kuśalā akuśalā advayā as ‘wholesome, unwholesome, or neither,’ with advayā meaning the ethically undetermined (avyākṛta), not metaphysical non-duality.",
+   "evidence": [
+    {
+     "lines": [
+      481,
+      482,
+      483
+     ],
+     "quote": "sā punaḥ kiṃ kuśalākuśalāvyākṛtety ata āha\nkuśalākuśalādvayā\nkuśalākuśalādvayety avyākṛtāpi",
+     "translation": "Again, is it wholesome, unwholesome, or undetermined? Therefore he says: ‘wholesome, unwholesome, or neither.’ By saying ‘wholesome, unwholesome, or neither,’ the undetermined too is included."
+    },
+    {
+     "lines": [
+      484,
+      485,
+      486,
+      487
+     ],
+     "quote": "alobhādveṣāmohaiḥ saṃprayuktā kuśalā\nlobhadveṣamohaiḥ saṃprayuktākuśalā\nkuśalākuśalair asaṃprayuktādvayā na\nkuśalā nākuśalety arthaḥ",
+     "translation": "Conjoined with non-greed, non-hatred, and non-delusion, it is wholesome. Conjoined with greed, hatred, and delusion, it is unwholesome. Unconjoined with wholesome and unwholesome factors, it is neither: the meaning is ‘not wholesome and not unwholesome.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "This is the second transformation (pariṇāma).\nThe third consciousness-transformation (vijñāna-pariṇāma)\nis whatever apprehension (upalabdhi) there is\nof the sixfold object (viṣaya):\nthat is wholesome (kuśala), unwholesome (akuśala),\nor neither—the undetermined (advayā/avyākṛta).",
+ "one_shot_delta": [
+  "A commentary-blind translation might join dvitīyaḥ and tṛtīyaḥ into a contradictory single predication, instead of seeing that the first phrase concludes the second transformation and the rest introduces the third.",
+  "It might take tṛtīyaḥ to agree with upalabdhiḥ; Sthiramati supplies the masculine vijñānapariṇāmaḥ.",
+  "It might render upalabdhi as ‘acquisition’ and miss the bhāṣya’s grahaṇa/pratipatti sense: apprehension or perceptual grasping of the object.",
+  "It might leave ‘sixfold’ vague or attach it to apprehension; Sthiramati attaches it to the object and lists the six object-types.",
+  "It might translate advayā as ‘non-dual’; Sthiramati makes it the ethically undetermined third option, ‘not wholesome and not unwholesome.’"
+ ],
+ "analyzer_disagreements": [
+  "The api_seg output has maya in the last pāda; the verse and the commentary at trbh 479 require viṣayasya, and local_S also gives viṣayasya_upalabdhiḥ.",
+  "ByT5 local_SLM treats kuśala and akuśala as compound members and separates a + dvayā. I analyze kuśalā, akuśalā, and advayā as three feminine nominative singular predicate adjectives in external sandhi, because Sthiramati asks whether sā is kuśalā, akuśalā, or avyākṛtā (trbh 481) and then defines kuśalā, akuśalā, and advayā separately (trbh 484–487).",
+  "For advayā I use the lexical nañ-compound stem advaya rather than a separate word a plus dvaya; the commentary’s gloss na kuśalā nākuśalā at trbh 486–487 supports privative advaya as ‘neither of the two’."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5201,
+   "completion_tokens": 15876,
+   "reasoning_tokens": 12284
+  },
+  "est_cost": 0.2537,
+  "retrieval": {
+   "anchor": [
+    472,
+    472
+   ],
+   "span": [
+    473,
+    488
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

@@ -1,0 +1,512 @@
+{
+ "verse": 27,
+ "analysis": [
+  {
+   "surface": "vijñaptimātram",
+   "surface_in_sandhi": "vijñaptimātram",
+   "lemma": "vijñaptimātra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "vijñaptir eva mātram",
+    "members": [
+     "vijñapti",
+     "mātra"
+    ]
+   },
+   "note": "Predicate nominative neuter in the quoted clause with idam; the accusative would be formally identical, but the commentary paraphrases it as the assertion “this is objectless; no external object exists.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñaptimātra as Napumsaka/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evedam",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Final -a coalesces with initial i- of idam in the printed sandhi-unit evedam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "evedam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative subject of the quoted assertion; its initial i- participates in eva + idam → evedam.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "ity",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Quotation-marker; before api it appears as ity.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "api",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "With hi, yields “for even.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hy",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The bhāṣya reading is api hi, with hi + upalambhataḥ printed as hy upalambhataḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "upalambhataḥ",
+   "surface_in_sandhi": "upalambhataḥ",
+   "lemma": "upalambhatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival/tasil-type indeclinable from upalambha, not a regular a-stem subanta; Sthiramati glosses it by grahaṇataḥ and citrīkaraṇataḥ.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha"
+   }
+  },
+  {
+   "surface": "sthāpayan",
+   "surface_in_sandhi": "sthāpayann",
+   "lemma": "sthāpayant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular of the causative present active participial stem sthāpayant: “placing/setting.” It takes kiñcit as its object and shares the masculine singular subject implied by the commentary’s ābhimānikaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "sthāpayant Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "agrataḥ",
+   "surface_in_sandhi": "agrataḥ",
+   "lemma": "agratas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Commentary fixes the sense as abhimukham, “in front/facing,” not “first/in the beginning.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kiñcit",
+   "surface_in_sandhi": "kiñcit",
+   "lemma": "kiñcit",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter accusative singular object of sthāpayan; the commentary illustrates it with neuter accusative practice-supports such as āsthisaṃkalikam and vinīlakam. The citation lemma kaścit is not used here as the derivational stem, since the neuter singular form is kiñcit.",
+   "verification": {
+    "status": "pass",
+    "detail": "kiñcit Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tanmātre",
+   "surface_in_sandhi": "tanmātre",
+   "lemma": "tanmātra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "tad eva mātram",
+    "members": [
+     "tad",
+     "mātra"
+    ]
+   },
+   "note": "Locative governed by avatiṣṭhate. Here tat refers back to vijñapti/vijñaptimātratā; this is not the Sāṃkhya “subtle element.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tanmātra as Napumsaka/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nāvatiṣṭhate",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesces with following avatiṣṭhate in the printed sandhi-unit nāvatiṣṭhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "avatiṣṭhate",
+   "surface_in_sandhi": "nāvatiṣṭhate",
+   "lemma": "sthā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "sthā",
+    "prefixes": [
+     "ava"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada present 3rd singular of ava-√sthā, “to abide/stand”; root is recorded bare with prefix separately. Its initial a coalesces with na in nāvatiṣṭhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "ava-sthā Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Read the verse as a corrective to ābhimāna based on mere hearing; this controls the concessive “even” in the translation.",
+   "options_considered": [
+    "The subject is an accomplished yogin established in vijñaptimātratā.",
+    "The subject is a conceited person whose claim to establishment must be rejected."
+   ],
+   "chosen": "The verse describes a conceited learner who thinks he is established in purified representation-only, not someone who has genuinely attained that state.",
+   "evidence": [
+    {
+     "lines": [
+      1472,
+      1473
+     ],
+     "quote": "iti atha vā yaḥ punar ābhimānikaḥ śrutamātrakeṇa jānīyad ahaṃ\nvijñaptimātratāyāṃ śuddhāyāṃ sthita iti tadgrahavyudāsārtham āha",
+     "translation": "Or else: someone conceited might, from mere hearing, think, “I am established in purified representation-only”; to remove that grasp, he says..."
+    },
+    {
+     "lines": [
+      1474,
+      1475
+     ],
+     "quote": "vijñaptimātram evedam ity api hy upalambhata ity\nādi",
+     "translation": "...the verse beginning “Even [thinking] ‘This is mere representation’—for he apprehends...”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Translate vijñaptimātram evedam as “This is mere representation alone,” not as a mere quantity of information or as a claim compatible with external objects.",
+   "options_considered": [
+    "“vijñapti-mātra” as a non-technical “mere notice/information.”",
+    "“vijñapti-mātra” as representation plus an external object.",
+    "“vijñapti-mātra” as restrictive objectless representation-only."
+   ],
+   "chosen": "vijñapti-mātra means objectless “mere representation,” excluding a bāhyārtha, an external object.",
+   "evidence": [
+    {
+     "lines": [
+      1476
+     ],
+     "quote": "vijñaptimātram evedaṃ artharahitaṃ na bāhyo 'rtho 'stīty evam",
+     "translation": "“This is mere representation, objectless; there is no external object”—in this way..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Render with “as he apprehends—grasps and pictures,” while recognizing that this apprehension is precisely what has not yet been abandoned.",
+   "options_considered": [
+    "upalambhataḥ as liberating direct realization.",
+    "upalambhataḥ as perception of a real external object.",
+    "upalambhataḥ as still-operative grasping/mental picturing."
+   ],
+   "chosen": "upalambhataḥ denotes problematic apprehension/grasping/mental picturing and supplies the reason he does not abide in representation-only.",
+   "evidence": [
+    {
+     "lines": [
+      1477
+     ],
+     "quote": "upalambhato grahaṇataḥ citrīkaraṇata ity artho",
+     "translation": "upalambhataḥ means grahaṇataḥ, “from/by grasping,” and citrīkaraṇataḥ, “from/by making a mental image.”"
+    },
+    {
+     "lines": [
+      1481
+     ],
+     "quote": "vijñānopalambhāprahāṇāt",
+     "translation": "Because the apprehension of consciousness has not been abandoned."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Take agrataḥ as “in front/facing,” sthāpayan as a mental act, and kiñcit as one among the many Yogācāra supports, not a real external thing placed physically before the practitioner.",
+   "options_considered": [
+    "agrataḥ as “first/in the beginning.”",
+    "sthāpayan as physically placing an external object.",
+    "kiñcit as an unspecified real external thing.",
+    "A mental placing-before of one among many practice-supports."
+   ],
+   "chosen": "agrataḥ sthāpayan kiñcit means mentally setting some practice-support before himself.",
+   "evidence": [
+    {
+     "lines": [
+      1477
+     ],
+     "quote": "ity artho 'grata ity abhimukhaṃ",
+     "translation": "agrataḥ means abhimukham, “facing/in front.”"
+    },
+    {
+     "lines": [
+      1478
+     ],
+     "quote": "sthāpayann iti yathāśrutaṃ manasā",
+     "translation": "sthāpayan means mentally, just as it has been heard/taught."
+    },
+    {
+     "lines": [
+      1479,
+      1480
+     ],
+     "quote": "bahuprakāratvād yogācārālambanānāṃ kiṃcid ity āhāsthisaṃkalikaṃ vā vinīlakaṃ\nvā vipūyakaṃ vā vipaḍumakaṃ vā vyādhmātakādikaṃ vā",
+     "translation": "Because Yogācāra supports are of many kinds, by “something” he means, for example, a skeleton-support, a livid one, a festering one, a discolored one, a bloated one, and so on."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Connect tanmātra back to vijñaptimātratā rather than reading it as a Sāṃkhya subtle element or as “in that object alone.”",
+   "options_considered": [
+    "tanmātra as a Sāṃkhya subtle element.",
+    "tanmātra as merely “that object alone.”",
+    "tanmātra as the mere representation-only just under discussion."
+   ],
+   "chosen": "tanmātre is the locative “in that mere [representation],” i.e. in representation-only, and nāvatiṣṭhate is failure to be established there.",
+   "evidence": [
+    {
+     "lines": [
+      1473
+     ],
+     "quote": "vijñaptimātratāyāṃ śuddhāyāṃ sthita",
+     "translation": "Established in purified representation-only."
+    },
+    {
+     "lines": [
+      1480,
+      1481
+     ],
+     "quote": "tanmātre nāvatiṣṭhate\nvijñānopalambhāprahāṇāt",
+     "translation": "He does not abide in that mere [representation], because the apprehension of consciousness has not been abandoned."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Use the bhāṣya’s api hy upalambhataḥ rather than the vulgate-like hayu sequence.",
+   "options_considered": [
+    "api hi / api hy, the bhāṣya reading.",
+    "api hayu, the vulgate variant as transmitted in the prompt."
+   ],
+   "chosen": "The bhāṣya reading is api hi, yielding “for even,” with hi sandhied to hy before upalambhataḥ.",
+   "evidence": [
+    {
+     "lines": [
+      1474
+     ],
+     "quote": "vijñaptimātram evedam ity api hy upalambhata ity",
+     "translation": "“Even [thinking] ‘This is mere representation’—for he apprehends...”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For even as he apprehends—grasps and pictures—\n“This is mere representation (vijñapti-mātra) alone,”\nmentally setting some support (ālambana) before him,\nhe does not abide in that mere [representation] (tanmātra).",
+ "one_shot_delta": [
+  "A commentary-blind translation might make this verse praise the cognition “all this is vijñapti-mātra”; Sthiramati says it targets an ābhimānika relying on mere hearing.",
+  "It might treat the “something” placed in front as a real external object; the commentary makes it a mentally set practice-support among Yogācāra ālambanas.",
+  "It might render upalambhataḥ as neutral or successful perception; Sthiramati glosses it as grahaṇa/citrīkaraṇa and says the problem is non-abandonment of vijñānopalambha.",
+  "It might miss that vijñapti-mātra excludes external objects; the commentary explicitly glosses it as artharahita and says no bāhyārtha exists.",
+  "It might take tanmātra as a Sāṃkhya subtle element or “that object alone”; the commentary ties it to abiding in purified vijñaptimātratā."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 splits vijñaptimātram into vijñapti + mātram; I record the whole inflected compound stem vijñaptimātra, as required for compounds and as supported by the commentary’s vijñaptimātratā and gloss of vijñaptimātram.",
+  "ByT5/local segmentation gives evā/eva around evedam; I analyze the printed form as regular eva + idam with a+i → e, not as an independent evā.",
+  "ByT5 tags upalambhataḥ as a subanta of upalambha; a regular a-stem subanta would not yield -taḥ, and Sthiramati glosses it with ablatival -taḥ action expressions grahaṇataḥ and citrīkaraṇataḥ, so I analyze it as an indeclinable upalambhatas.",
+  "ByT5 gives the verb lemma as avasthā; per instruction I record the bare root sthā with prefix ava for avatiṣṭhate.",
+  "ByT5 gives sthāpayan with lemma sthāpay; I record the participial nominal stem sthāpayant for the subanta analysis, so that masculine nominative singular yields pausal sthāpayan and sandhied sthāpayann.",
+  "ByT5 gives lemma kaścit for kiñcit; I record the neuter singular stem/form kiñcit for the derivational analysis, while retaining the same neuter accusative singular construal supported by the commentary."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14194,
+   "completion_tokens": 27263,
+   "reasoning_tokens": 19957
+  },
+  "est_cost": 0.4515,
+  "retrieval": {
+   "anchor": [
+    1470,
+    1471
+   ],
+   "span": [
+    1472,
+    1481
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

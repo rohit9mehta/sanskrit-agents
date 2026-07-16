@@ -1,0 +1,449 @@
+{
+ "verse": 21,
+ "analysis": [
+  {
+   "surface": "paratantrasvabhāvaḥ",
+   "surface_in_sandhi": "paratantrasvabhāvas",
+   "lemma": "paratantrasvabhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "paratantraḥ svabhāvaḥ",
+    "members": [
+     "paratantra",
+     "svabhāva"
+    ]
+   },
+   "note": "Technical term: the dependent nature; construed as the item being defined by vikalpa (J1).",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem paratantrasvabhāva as Pum/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tu",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Contrastive/continuative particle.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vikalpaḥ",
+   "surface_in_sandhi": "vikalpaḥ",
+   "lemma": "vikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Not merely ‘option’; Sthiramati equates it with parikalpa/abhūtaparikalpa, the tri-realm mind-and-mental factors (J2).",
+   "verification": {
+    "status": "pass",
+    "detail": "vikalpa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pratyayodbhavaḥ",
+   "surface_in_sandhi": "pratyayodbhavaḥ",
+   "lemma": "pratyayodbhava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "pratyayebhyaḥ udbhavaḥ",
+    "members": [
+     "pratyaya",
+     "udbhava"
+    ]
+   },
+   "note": "Adjectival compound agreeing with vikalpaḥ/paratantrasvabhāvaḥ; pratyaya is read as causes/conditions, not belief (J3).",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem pratyayodbhava as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niṣpannaḥ",
+   "surface_in_sandhi": "niṣpannas",
+   "lemma": "niṣpanna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial stem used substantively; the bhāṣya identifies it as pariniṣpanna/pariniṣpannasvabhāva (J4).",
+   "verification": {
+    "status": "pass",
+    "detail": "niṣpanna Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasya",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to the paratantra, according to Sthiramati’s explicit gloss tasyeti paratantrasya (J5).",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "pūrveṇa",
+   "surface_in_sandhi": "pūrveṇa",
+   "lemma": "pūrva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental governed by rahitatā/rahita: ‘devoid of the former’; Sthiramati glosses the former as parikalpita and then as grāhya-grāhaka (J5–J6). Formally the ending could also be neuter; Pum is chosen because it points to the prior svabhāva, parikalpitaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "pūrva Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "sadā",
+   "surface_in_sandhi": "sadā",
+   "lemma": "sadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by sarvakālam, ‘at all times’ (J6).",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "rahitatā",
+   "surface_in_sandhi": "rahitatā",
+   "lemma": "rahitatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Abstract feminine noun in -tā, ‘being devoid/absence’; not a compound with tā. Sthiramati expands it as atyantarahitatā (J6). I retain Stri/Prathama/Eka despite the verifier report: rahitatā is an ā-stem feminine nominative singular, and the agreeing relative yā plus the bhāṣya’s atyantarahitatā yā confirm singular nominative; rahitatāḥ would be nominative plural and would not fit the verse or commentary.",
+   "verification": {
+    "status": "fail",
+    "detail": "rahitatā Stri/Prathama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "rahitatāḥ"
+    ]
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tu",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Continuative/emphatic particle.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yā",
+   "surface_in_sandhi": "yā",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun agreeing with rahitatā; the bhāṣya supplies the masculine correlate saḥ referring to pariniṣpannasvabhāvaḥ (J4, J6).",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate the opening as ‘the dependent nature is construction.’ The bhāṣya says that vikalpa states the paratantra’s own form and pratyayodbhava states the reason for the designation paratantra.",
+   "options_considered": [
+    "‘the dependent nature is construction’",
+    "‘construction has a dependent nature’",
+    "‘the dependent essence is optionality’"
+   ],
+   "chosen": "paratantrasvabhāvaḥ is the dependent nature being defined as vikalpa, not merely ‘a construction whose nature is dependent.’",
+   "evidence": [
+    {
+     "lines": [
+      1320,
+      1321,
+      1322
+     ],
+     "quote": "atra ca vikalpa iti paratantrasvarūpam āha\npratyayodbhava ity anenāpi\nparatantrābhidhānapravṛttinimittam āha",
+     "translation": "Here, by ‘vikalpa’ he states the dependent’s own form; by ‘born from conditions’ too he states the basis for applying the designation ‘dependent.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Render vikalpa as ‘construction’ and identify its scope as citta-caittas, not as ordinary ‘alternative/option.’",
+   "options_considered": [
+    "technical ‘construction/imagination’",
+    "ordinary ‘option/alternative’",
+    "a single act of conceptual choice"
+   ],
+   "chosen": "vikalpa is Yogācāra constructive imagination/false construction, concretely the mind and mental factors of the three realms.",
+   "evidence": [
+    {
+     "lines": [
+      1323,
+      1324,
+      1325,
+      1326
+     ],
+     "quote": "tatra parikalpaḥ\nkuśalākuśalāvyākṛtabhedabhinnās traidhātukāś cittacaittāḥ\nyathoktam\nabhūtaparikalpas tu cittacaittās tridhātukā iti",
+     "translation": "There, construction is the mind and mental factors belonging to the three realms, differentiated as wholesome, unwholesome, and indeterminate. As has been said: ‘False construction is the mind and mental factors of the three realms.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Read pratyaya in its Buddhist causal sense, because Sthiramati glosses it with hetupratyaya and explains paratantra as having its self-attainment bound to other causes and conditions.",
+   "options_considered": [
+    "born of causal conditions",
+    "arising from beliefs/convictions",
+    "arising from mere conceptual notions"
+   ],
+   "chosen": "pratyayodbhava means ‘born/produced from causes and conditions.’",
+   "evidence": [
+    {
+     "lines": [
+      1327,
+      1328,
+      1329
+     ],
+     "quote": "parair hetupratyayais tantryata iti paratantra utpādyata ity arthaḥ\nsvato\n'nyahetupratyayapratibaddhātmalābha iti yāvaduktaṃ bhavati",
+     "translation": "It is paratantra because it is governed by other causes and conditions; the meaning is ‘produced.’ In short, its acquisition of its own being is bound to causes and conditions other than itself."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Translate niṣpannaḥ as ‘the perfected nature,’ since the commentary introduces the question about pariniṣpanna and concludes with pariniṣpannasvabhāvaḥ; its mode is avikārapariniṣpatti, unchanging consummation.",
+   "options_considered": [
+    "perfected nature (pariniṣpannasvabhāva)",
+    "ordinary ‘accomplished/produced’ entity",
+    "a past event that has been completed"
+   ],
+   "chosen": "niṣpannaḥ is the pariniṣpanna/pariniṣpannasvabhāva, the perfected nature, not an ordinary produced result.",
+   "evidence": [
+    {
+     "lines": [
+      1331,
+      1332,
+      1333
+     ],
+     "quote": "pariniṣpannaḥ katham ity ata āha\nniṣpannas tasya pūrveṇa sadā rahitatā tu yā\navikārapariniṣpattyā sa pariniṣpannaḥ",
+     "translation": "How is the perfected to be stated? Therefore he says: ‘The perfected is whatever is its always being devoid of the former.’ Because of unchanging consummation, it is perfected."
+    },
+    {
+     "lines": [
+      1340
+     ],
+     "quote": "sa pariniṣpannasvabhāvaḥ",
+     "translation": "That is the perfected nature."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Translate ‘its being devoid of the former’ as the dependent nature’s being devoid of the imagined subject–object duality, not as a temporal phrase ‘by/before the previous one.’",
+   "options_considered": [
+    "tasya = of the dependent nature; pūrveṇa = of the former imagined grasper–grasped",
+    "tasya = of vikalpa merely as the nearest noun",
+    "pūrveṇa = temporally ‘earlier/before’",
+    "pūrveṇa = by a previous condition"
+   ],
+   "chosen": "tasya refers to the paratantra; pūrveṇa refers to the former parikalpita, specifically the imagined grasper–grasped structure in vikalpa.",
+   "evidence": [
+    {
+     "lines": [
+      1334,
+      1335,
+      1336,
+      1337,
+      1338
+     ],
+     "quote": "tasyeti paratantrasya pūrveṇeti\nparikalpitena tasmin vikalpe grāhyagrāhakabhāvaḥ parikalpitaḥ\ntathā hi\ntasmin vikalpe grāhyagrāhakatvam avidyamānam eva parikalpyata iti parikalpitam\nucyate",
+     "translation": "‘Of that’ means of the dependent; ‘by the former’ means by the imagined. In that construction the state of grasped and grasper is imagined. For so it is: in that construction, grasped-and-grasper-hood, though precisely nonexistent, is imagined; therefore it is called imagined."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Render rahitatā as ‘being devoid/absence’ and sadā as ‘always,’ strengthened by the bhāṣya’s sarvakālam and atyantarahitatā.",
+   "options_considered": [
+    "constant absolute absence/devoidness",
+    "occasional separation",
+    "mere lack of a previous temporal state"
+   ],
+   "chosen": "sadā rahitatā is constant and absolute devoidness/absence of the grasper–grasped in the dependent nature.",
+   "evidence": [
+    {
+     "lines": [
+      1339,
+      1340
+     ],
+     "quote": "tena grāhyagrāhakeṇa paratantrasya sadā sarvakālam atyantarahitatā yā\nsa pariniṣpannasvabhāvaḥ",
+     "translation": "The constant, at-all-times, absolute devoidness of the dependent from that grasped-and-grasper—that is the perfected nature."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "But the dependent nature (paratantra-svabhāva)\nis construction (vikalpa), born of conditions (pratyaya).\nThe perfected nature (pariniṣpanna-svabhāva) is\nits always being devoid of the former—\nthe imagined grasper-and-grasped.",
+ "one_shot_delta": [
+  "Without the bhāṣya, vikalpa might be rendered as ordinary ‘option’ or ‘alternative’; Sthiramati instead makes it the Yogācāra false construction consisting of three-realm mind and mental factors.",
+  "Without the bhāṣya, pratyaya might be taken as ‘belief’ or ‘notion’; Sthiramati’s hetupratyaya explanation fixes it as causal conditions.",
+  "Without the bhāṣya, tasya and pūrveṇa could be taken mechanically as ‘of it’ and ‘by/before the former’; Sthiramati specifies: ‘of the dependent’ and ‘of the imagined,’ namely grasper–grasped duality in vikalpa.",
+  "Without the bhāṣya, niṣpannaḥ could sound like an ordinary produced/accomplished thing; Sthiramati identifies it with the pariniṣpanna-svabhāva and defines it through unchanging consummation and absolute absence."
+ ],
+ "analyzer_disagreements": [
+  "niṣpannaḥ: ByT5 lemmatizes the form to the verbal root/stem niṣpad as a participial analysis; for a subanta, I record the nominal stem niṣpanna, while noting its participial origin.",
+  "rahitatā: ByT5 splits rahita_rahita_Cp + tā_tā_SNF. I take the verse-word as one abstract feminine stem rahitatā, supported by Sthiramati’s atyantarahitatā at trbh 1339 and by its agreement with yā. The later verifier’s rahitatāḥ output is not adopted, since that would be nominative plural and contextually impossible."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13757,
+   "completion_tokens": 15801,
+   "reasoning_tokens": 9217
+  },
+  "est_cost": 0.2783,
+  "retrieval": {
+   "anchor": [
+    1319,
+    1319
+   ],
+   "span": [
+    1320,
+    1340
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

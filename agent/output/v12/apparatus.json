@@ -1,0 +1,425 @@
+{
+ "verse": 12,
+ "analysis": [
+  {
+   "surface": "mānadṛgvicikitsāḥ",
+   "surface_in_sandhi": "mānadṛgvicikitsāś",
+   "lemma": "mānadṛgvicikitsā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "mānaś ca dṛk ca vicikitsā ca",
+    "members": [
+     "māna",
+     "dṛś",
+     "vicikitsā"
+    ]
+   },
+   "note": "One inflected enumerative dvandva; internal dṛś appears as dṛg before v by compound-internal sandhi. The feminine plural ending follows the final member vicikitsā-.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mānadṛgvicikitsā as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "mrakṣaḥ",
+   "surface_in_sandhi": "mrakṣaḥ",
+   "lemma": "mrakṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Catalogue nominative; an upakleśa in this context.",
+   "verification": {
+    "status": "pass",
+    "detail": "mrakṣa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pradāśaḥ",
+   "surface_in_sandhi": "pradāśa",
+   "lemma": "pradāśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Catalogue nominative; final visarga is not printed before the following vowel in the verse sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "pradāśa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "īrṣyā",
+   "surface_in_sandhi": "īrṣyā",
+   "lemma": "īrṣyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Catalogue nominative; coalesces with following atha in the printed sandhi unit īrṣyātha. The verifier rejected this as deriving īrṣyāḥ, but the analysis is retained: an ā-stem feminine nominative singular is īrṣyā, and trbh 774 quotes it in a nominative catalogue of upakleśas.",
+   "verification": {
+    "status": "fail",
+    "detail": "īrṣyā Stri/Prathama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "īrṣyāḥ"
+    ]
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "tha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is absorbed after final ā of īrṣyā in the printed īrṣyātha; parsed as the particle atha, not as -artha-.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "mātsaryam",
+   "surface_in_sandhi": "mātsaryaṃ",
+   "lemma": "mātsarya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular in the catalogue; the form is homonymous with accusative singular.",
+   "verification": {
+    "status": "pass",
+    "detail": "mātsarya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Comitative particle governing māyayā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "māyayā",
+   "surface_in_sandhi": "māyayā",
+   "lemma": "māyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular governed by saha; because the commentary classifies this portion as upakleśa-material, the gloss is the moral-psychological sense ‘deceit,’ not metaphysical ‘illusion’ or ‘magic’. The verifier rejected this as deriving māyā, but the analysis is retained: māyā has instrumental singular māyayā, and the construction saha māyayā at trbh 774 requires the instrumental.",
+   "verification": {
+    "status": "fail",
+    "detail": "māyā Stri/Trtiya/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "māyā"
+    ]
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is not a tatpuruṣa such as ‘doubt about a view of conceit’; Sthiramati treats māna, dṛg, and vicikitsā as separate items and then sums the preceding discussion as the six kleśas.",
+   "options_considered": [
+    "itaretara-dvandva of three items",
+    "tatpuruṣa: ‘doubt concerning the view of conceit’",
+    "three separate uninflected words"
+   ],
+   "chosen": "mānadṛgvicikitsāḥ is an enumerative dvandva: ‘conceit, views, and doubt’.",
+   "evidence": [
+    {
+     "lines": [
+      715
+     ],
+     "quote": "mānaḥ",
+     "translation": "‘Māna.’"
+    },
+    {
+     "lines": [
+      752
+     ],
+     "quote": "dṛg iti sāmānyanirdeśe 'pi kleśādhikārāt pañcaiva kleśātmikāḥ",
+     "translation": "Although ‘dṛg’ is stated generally, because the topic is the afflictions, only the five that are afflictive in nature are meant."
+    },
+    {
+     "lines": [
+      767,
+      768
+     ],
+     "quote": "vicikitsā\nkarmaphalasatyaratneṣu vimatiḥ",
+     "translation": "‘Vicikitsā’: indecision regarding karma, its fruits, the truths, and the jewels."
+    },
+    {
+     "lines": [
+      772
+     ],
+     "quote": "uktāḥ ṣaṭkleśās tadanantaroddiṣṭās tv idānīm upakleśā vaktavyā ity ata āha",
+     "translation": "The six afflictions have been stated; now the minor afflictions mentioned immediately after them are to be explained."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The English ‘conceit’ is chosen over generic ‘measure’, ‘opinion’, or ‘notion’ because the commentary defines māna by mental elevation and self-superiority.",
+   "options_considered": [
+    "measure",
+    "opinion/notion",
+    "conceit/pride"
+   ],
+   "chosen": "māna = conceit/pride, specifically elevation of mind.",
+   "evidence": [
+    {
+     "lines": [
+      716,
+      717,
+      718,
+      719,
+      720,
+      721
+     ],
+     "quote": "māno hi nāma sarva eva satkāyadṛṣṭisamāśrayeṇa pravartate\nsa punaś\ncittasyonnatilakṣaṇaḥ\ntathā hy ātmātmīyabhāvaṃ skandheṣv adhyāropyāyam aham\nidaṃ mamety ātmānaṃ tena tena viśeṣeṇonnamayati\nanyebhyo 'dhikaṃ manyate",
+     "translation": "All that is called māna proceeds dependent on personality-view. It is characterized by elevation of mind: having superimposed self and what belongs to self on the aggregates, one raises oneself in this or that respect, thinking ‘I am this; this is mine,’ and thinks oneself superior to others."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although the verse uses the general word dṛg, the commentary restricts it by the context of kleśa to the five kleśa-natured dṛṣṭis beginning with satkāyadṛṣṭi, explicitly excluding mundane right view and supramundane view.",
+   "options_considered": [
+    "seeing/vision",
+    "ordinary right view",
+    "uncontaminated right view",
+    "the five afflictive views"
+   ],
+   "chosen": "dṛg = the five afflictive views, not ordinary seeing or right view.",
+   "evidence": [
+    {
+     "lines": [
+      752,
+      753,
+      754
+     ],
+     "quote": "dṛg iti sāmānyanirdeśe 'pi kleśādhikārāt pañcaiva kleśātmikāḥ\nsatkāyadṛṣṭyādikā dṛṣṭayaḥ saṃbadhyante\nna laukikī samyagdṛṣṭir anāsravā vā",
+     "translation": "Although ‘dṛg’ is stated generally, since the topic is afflictions, only the five views whose nature is afflictive, beginning with personality-view, are connected here—not mundane right view or the uncontaminated one."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary defines vicikitsā as vimati, indecision, specifically with respect to karma, fruits, truths, and jewels; hence not medical inquiry or mere curiosity.",
+   "options_considered": [
+    "inquiry/questioning",
+    "error",
+    "doubt or indecision"
+   ],
+   "chosen": "vicikitsā = doubt/indecision regarding Buddhist doctrinal objects.",
+   "evidence": [
+    {
+     "lines": [
+      767,
+      768,
+      769,
+      770,
+      771
+     ],
+     "quote": "vicikitsā\nkarmaphalasatyaratneṣu vimatiḥ\nvividhā matir vimatiḥ syān na\nsyād iti\nprajñātaś ceyaṃ jātyantaram evoktā",
+     "translation": "‘Vicikitsā’: indecision regarding karma, its fruits, the truths, and the jewels. ‘Indecision’ is divided thinking—‘it may be, it may not be’; and this has been stated as a distinct kind from prajñā."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The bhāṣya line quotes īrṣyātha without r; metrically and syntactically this is the nominative īrṣyā followed by the particle atha introducing the next item.",
+   "options_considered": [
+    "īrṣyā + atha",
+    "īrṣyā-artha / īrṣyārtha",
+    "a single compound īrṣyātha"
+   ],
+   "chosen": "īrṣyātha is parsed as īrṣyā + atha, ‘envy; then …’, not as īrṣyārtha-.",
+   "evidence": [
+    {
+     "lines": [
+      774
+     ],
+     "quote": "mrakṣaḥ pradāśa īrṣyātha mātsaryaṃ saha māyayā",
+     "translation": "Concealment, spite, envy—then stinginess together with deceit."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The commentary introduces the quoted sequence as the upakleśas now to be explained. Therefore mātsaryam, though identical in form to an accusative, is a neuter nominative in the list, and saha māyayā is comitative: ‘together with deceit’.",
+   "options_considered": [
+    "a nominative list of upakleśas with comitative saha",
+    "mātsaryam as an accusative object of an implicit verb",
+    "māyayā as an instrumental of means, ‘by deception’"
+   ],
+   "chosen": "mrakṣaḥ, pradāśaḥ, īrṣyā, and mātsaryam are nominative catalogue items; māyayā is instrumental governed by saha.",
+   "evidence": [
+    {
+     "lines": [
+      772
+     ],
+     "quote": "uktāḥ ṣaṭkleśās tadanantaroddiṣṭās tv idānīm upakleśā vaktavyā ity ata āha",
+     "translation": "The six afflictions have been stated; now the minor afflictions mentioned immediately after them are to be explained."
+    },
+    {
+     "lines": [
+      774
+     ],
+     "quote": "mrakṣaḥ pradāśa īrṣyātha mātsaryaṃ saha māyayā",
+     "translation": "Concealment, spite, envy—then stinginess together with deceit."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Conceit (māna), the afflictive views (dṛg), and doubt (vicikitsā);\nconcealment (mrakṣa), spite (pradāśa), envy (īrṣyā)—then\nstinginess (mātsarya), together with deceit (māyā).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take mānadṛgvicikitsāḥ as a semantic compound such as ‘doubt about the view of conceit’; Sthiramati instead defines māna, dṛg, and vicikitsā separately and counts them among the six kleśas.",
+  "It might render dṛg as ordinary ‘seeing’ or even as right view; the commentary restricts it to the five afflictive views and explicitly excludes laukikī samyagdṛṣṭi and anāsravā dṛṣṭi.",
+  "It might translate māna by a dictionary sense such as ‘opinion’ or ‘measure’; Sthiramati’s gloss requires ‘conceit’, the elevation of mind that thinks itself superior.",
+  "It might read īrṣyātha as a corrupted or variant īrṣyārtha; the bhāṣya quotation supports īrṣyā + atha, ‘envy; then …’.",
+  "It might take mātsaryaṃ as an accusative or māyayā as ‘by illusion’; the commentary’s catalogue frame makes mātsaryaṃ a neuter nominative upakleśa and saha māyayā a comitative phrase."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 represents māna and dṛś as compound components and vicikitsāḥ as the inflected item; I record the checkable word as the whole inflected dvandva stem mānadṛgvicikitsā- in Prathama Bahu Stri, since the commentary treats māna, dṛg, and vicikitsā separately and then counts the completed set as the six kleśas (trbh 715, 752, 767, 772).",
+  "ByT5’s SNNe tag for mātsaryam is formally ambiguous between nominative and accusative neuter singular; I specify Prathama because the verse is a nominative catalogue introduced by the commentary as upakleśāḥ vaktavyāḥ and then quoted (trbh 772, 774)."
+ ],
+ "open_questions": [
+  "The supplied commentary span stops before any detailed in-span definitions of mrakṣa, pradāśa, īrṣyā, mātsarya, and māyā; their English glosses here are the standard Buddhist-technical lexical glosses constrained by trbh 772’s classification of this sequence as upakleśas."
+ ],
+ "verification_summary": {
+  "pass": 7,
+  "fail": 2,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 18402,
+   "completion_tokens": 21935,
+   "reasoning_tokens": 15330
+  },
+  "est_cost": 0.3842,
+  "retrieval": {
+   "anchor": [
+    682,
+    682
+   ],
+   "span": [
+    684,
+    774
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

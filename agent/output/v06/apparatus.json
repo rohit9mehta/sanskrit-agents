@@ -1,0 +1,407 @@
+{
+ "verse": 6,
+ "analysis": [
+  {
+   "surface": "kleśaiḥ",
+   "surface_in_sandhi": "kleśaiś",
+   "lemma": "kleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental governed by sahitam/saṃprayuktam: the afflictions with which the mind is conjoined.",
+   "verification": {
+    "status": "pass",
+    "detail": "kleśa Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "caturbhiḥ",
+   "surface_in_sandhi": "caturbhiḥ",
+   "lemma": "catur",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Numeral qualifying kleśaiḥ; the commentary restricts the association to four kleśas, not all six.",
+   "verification": {
+    "status": "pass",
+    "detail": "catur Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sahitam",
+   "surface_in_sandhi": "sahitaṃ",
+   "lemma": "sahita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular agreeing with the prior vijñānam/manas; the form is homophonous with accusative singular. The commentary glosses it as saṃprayuktam.",
+   "verification": {
+    "status": "pass",
+    "detail": "sahita Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nivṛtāvyākṛtaiḥ",
+   "surface_in_sandhi": "nivṛtāvyākṛtaiḥ",
+   "lemma": "nivṛtāvyākṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "nivṛtāś ca te avyākṛtāś ca",
+    "members": [
+     "nivṛta",
+     "avyākṛta"
+    ]
+   },
+   "note": "Qualifies kleśaiḥ: the four afflictions are both obscured/afflicted and ethically indeterminate.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nivṛtāvyākṛta as Pum/Trtiya/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sadā",
+   "surface_in_sandhi": "sadā",
+   "lemma": "sadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by the commentary as sarvakālam, ‘at all times’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ",
+   "surface_in_sandhi": "ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ",
+   "lemma": "ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "ātmadṛṣṭiś cātmamohaś cātmamānaś cātmasnehaś ceti saṃjñitāḥ",
+    "members": [
+     "ātmadṛṣṭi",
+     "ātmamoha",
+     "ātmamāna",
+     "ātmasneha",
+     "saṃjñita"
+    ]
+   },
+   "note": "Qualifies kleśaiḥ. The four internal ātmadṛṣṭi/ātmamoha/ātmamāna/ātmasneha terms are unpacked by the commentary as seeing, ignorance, conceit, and attachment/love with respect to self; the whole means ‘called by the names …’. Vidyut-prakriya derives the parasavarṇa spelling ātmadṛṣṭyātmamohātmamānātmasnehasañjñitaiḥ, but I retain the bhāṣya’s quoted anusvāra spelling saṃjñitaiḥ as the verse reading; MW likewise gives the lexical stem as saṃjñita. This is treated as an orthographic/morphophonological difference, not a change of case, number, gender, or interpretation.",
+   "verification": {
+    "status": "fail",
+    "detail": "compound stem ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñita as Pum/Trtiya/Bahu: fail; relation tatpurusa: unsupported (logged)",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "ātmadṛṣṭyātmamohātmamānātmasnehasañjñitaiḥ"
+    ]
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Because verse 6 is elliptical, translate sahitam as predicated of the previously introduced manas/vijñāna, not of ālayavijñāna itself as the grammatical subject.",
+   "options_considered": [
+    "make ālayavijñāna the grammatical subject of sahitam",
+    "leave the subject entirely unexpressed in English",
+    "supply the previously introduced mind/manas as subject"
+   ],
+   "chosen": "The supplied subject in translation is ‘this mind (manas)’, carried over from the previous verse.",
+   "evidence": [
+    {
+     "lines": [
+      417,
+      418,
+      419
+     ],
+     "quote": "āha ca\navidyayā cātmadṛṣṭyā cāsmimānena tṛṣṇayā\nebhiś caturbhiḥ saṃkliṣṭaṃ mananālakṣaṇaṃ manaḥ",
+     "translation": "And he says: ‘By ignorance, by self-view, by I-conceit, and by craving—by these four—the mind whose characteristic is mentation is defiled.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The word excludes other caittas; it is not a general statement about all mental factors.",
+   "options_considered": [
+    "all mental factors in general",
+    "non-afflictive mental factors",
+    "afflictions/kleśas specifically"
+   ],
+   "chosen": "kleśaiḥ means ‘with afflictions’, a subset of mental factors.",
+   "evidence": [
+    {
+     "lines": [
+      386,
+      387,
+      388
+     ],
+     "quote": "caittā hi dviprakārāḥ kleśās tad anye ca\ntadanyebhyo vyavacchedārtham āha\nkleśair iti",
+     "translation": "Mental factors are of two kinds: afflictions and the others. To exclude those others, he says ‘with afflictions.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Do not read this as a vague ‘fourfold’ epithet; it means four out of the six kleśas, since the mind is not associated with all six.",
+   "options_considered": [
+    "four kinds of mental factors generally",
+    "all six kleśas",
+    "exactly four kleśas"
+   ],
+   "chosen": "caturbhiḥ restricts the kleśas to four.",
+   "evidence": [
+    {
+     "lines": [
+      389,
+      390
+     ],
+     "quote": "kleśā api ṣaṭ\nna ca taiḥ saṃprayujyate 'taś caturbhir ity āha",
+     "translation": "The afflictions too are six; and it is not associated with those [all], therefore he says ‘with four.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary glosses sahita directly with saṃprayukta, so it is stronger and more technical than loose accompaniment.",
+   "options_considered": [
+    "loosely accompanied by",
+    "possessed of",
+    "technically conjoined/associated with"
+   ],
+   "chosen": "sahitam is translated as ‘conjoined/associated’ in the technical sense of saṃprayoga.",
+   "evidence": [
+    {
+     "lines": [
+      391
+     ],
+     "quote": "sahitam iti saṃprayuktam",
+     "translation": "‘Sahitam’ means ‘associated/conjoined.’"
+    },
+    {
+     "lines": [
+      401
+     ],
+     "quote": "yāvat tad asti tāvat taiḥ saṃprayuktam",
+     "translation": "As long as it exists, it is associated with them."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The four kleśas here are distinguished from akuśala kleśas; nivṛta is explained by being kliṣṭa, and avyākṛta by not being classed as wholesome or unwholesome.",
+   "options_considered": [
+    "unwholesome",
+    "ceased/restrained and unexpounded",
+    "obscured-neutral: afflicted but ethically indeterminate"
+   ],
+   "chosen": "nivṛtāvyākṛtaiḥ means ‘obscured-neutral’ or ‘afflicted yet ethically indeterminate’.",
+   "evidence": [
+    {
+     "lines": [
+      392,
+      393,
+      394,
+      395
+     ],
+     "quote": "kleśā api dvividhāḥ\nakuśalā nivṛtāvyākṛtāś ca\nakuśalebhyo viśeṣārtham āha\nnivṛtāvyākṛtair iti",
+     "translation": "Afflictions too are of two kinds: unwholesome and obscured-neutral. To distinguish them from the unwholesome ones, he says ‘obscured-neutral.’"
+    },
+    {
+     "lines": [
+      396,
+      397,
+      398
+     ],
+     "quote": "na hi nivṛtena vijñānenākuśalānāṃ saṃprayogaḥ saṃbhavati\nnivṛtāḥ kliṣṭatvāt\navyākṛtāḥ kuśalākuśalatvenāvyākaraṇāt",
+     "translation": "For there is no association of unwholesome [factors] with an obscured cognition. They are obscured because they are afflicted; they are indeterminate because they are not determined as wholesome or unwholesome."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The scope is temporal and constant: whenever that mind exists, it is associated with these four.",
+   "options_considered": [
+    "frequently",
+    "eternally without qualification",
+    "always whenever the mind exists"
+   ],
+   "chosen": "sadā is translated as ‘always, so long as it exists’.",
+   "evidence": [
+    {
+     "lines": [
+      399,
+      400,
+      401
+     ],
+     "quote": "sadeti\nsarvakālam\nyāvat tad asti tāvat taiḥ saṃprayuktam",
+     "translation": "‘Always’ means ‘at all times’: as long as it exists, it is associated with them."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The bhāṣya quotes ātmadṛṣṭi and glosses it by darśana and satkāyadṛṣṭi; the four names are self-view, delusion about self, self-conceit, and self-love/attachment.",
+   "options_considered": [
+    "vulgate ātmaduṣṭi, ‘self-corruption’",
+    "a single compound meaning ‘self-corrupting delusion’",
+    "four named kleśas beginning with ātmadṛṣṭi, ‘self-view’"
+   ],
+   "chosen": "Read ātmadṛṣṭi, not ātmaduṣṭi, and take the final compound as naming four specific kleśas.",
+   "evidence": [
+    {
+     "lines": [
+      402,
+      403
+     ],
+     "quote": "sāmānyanirdeśād viśeṣato na jñāyanta iti viśeṣato nirdiśati\nātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ",
+     "translation": "Since from a general designation they are not known specifically, he states them specifically: ‘called self-view, self-delusion, self-conceit, and self-love.’"
+    },
+    {
+     "lines": [
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410
+     ],
+     "quote": "upādānaskandheṣv ātmeti darśanam ātmadṛṣṭiḥ satkāyadṛṣṭir ity arthaḥ\nmoho\n'jñānam\nātmany ajñānam ātmamohaḥ\nātmaviṣaye māna ātmamāno 'smimāna ity\narthaḥ\nātmani sneha ātmasneha ātmapremety arthaḥ",
+     "translation": "Seeing ‘self’ in the aggregates of clinging is self-view; the meaning is satkāyadṛṣṭi. Delusion is ignorance. Ignorance regarding self is self-delusion. Conceit with self as its object is self-conceit; the meaning is I-conceit. Affection/love toward self is self-love; the meaning is love for self."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Avoid a translation that implies the text affirms an ātman; the commentary frames these as confusion, self-view, conceit, and attachment concerning what is taken to be self.",
+   "options_considered": [
+    "translate ātma as a doctrinally real Self",
+    "take ātma merely as a neutral reflexive ‘own’",
+    "translate as a misconstrued/self-imagined object, here focused on ālayavijñāna"
+   ],
+   "chosen": "The ‘self’ in the four names is not an accepted real self; in this context it is an object imagined as self, especially with respect to ālayavijñāna.",
+   "evidence": [
+    {
+     "lines": [
+      411,
+      412,
+      413,
+      414,
+      415,
+      416
+     ],
+     "quote": "tatrālayavijñānasvarūpe\nsaṃmūḍhaḥ sann ālayavijñāne ātmadṛṣṭim utpādayati\nātmadarśanād yā\ncittasyonnatiḥ so 'smimānaḥ\netasmiṃs traye saty ātmābhimate vastuni yo\n'bhiṣvaṅgaḥ sa ātmasnehaḥ",
+     "translation": "There, with regard to the own-nature of ālayavijñāna, being deluded, one produces self-view toward ālayavijñāna. The elevation of mind that arises from seeing self is I-conceit. When these three are present, the clinging to an object conceived as self is self-love."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Always, so long as it exists, this [mind (manas)]\nis conjoined (saṃprayukta) with four obscured-neutral afflictions\n(kleśa; nivṛtāvyākṛta):\nthose called self-view (ātmadṛṣṭi), delusion about self (ātmamoha),\nself-conceit (ātmamāna), and self-love/attachment (ātmasneha).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render nivṛtāvyākṛtaiḥ from the dictionary as ‘restrained/unmanifest and unexpounded’; Sthiramati instead makes it the technical class ‘obscured-neutral’, i.e. afflicted yet not classed as wholesome or unwholesome (trbh 392–398).",
+  "It might take sahitam as loose ‘accompanied by’; the bhāṣya explicitly glosses it as saṃprayuktam, technical conjunction/association (trbh 391).",
+  "It might miss that caturbhiḥ means four out of the six kleśas, not all afflictions or a generic fourfoldness (trbh 389–390).",
+  "It might accept the vulgate ātmaduṣṭi or translate the long compound vaguely; the commentary reads ātmadṛṣṭi and defines all four names one by one (trbh 403–410).",
+  "It might take ‘always’ as rhetorical; Sthiramati specifies ‘at all times’ as ‘as long as it exists, it is associated with them’ (trbh 399–401)."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split nivṛtāvyākṛtaiḥ into nivṛta + avyākṛtaiḥ and tagged nivṛta as a separate participial item; I analyze the bhāṣya reading as one karmadhāraya compound stem nivṛtāvyākṛta, instr. pl. masc., because the commentary quotes nivṛtāvyākṛtair iti at trbh 395 and defines nivṛtāḥ/avyākṛtāḥ as two properties of the same kleśas at trbh 397–398.",
+  "ByT5 supplied component Cp tags for the long final expression; I analyze ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ as one inflected compound stem, instr. pl. masc., qualifying kleśaiḥ, because trbh 403 quotes it as the verse expression and trbh 404–410 unpack its four names. Vidyut derives the alternative parasavarṇa spelling with sañjñita; I do not adopt it as the verse surface because the bhāṣya reading explicitly has saṃjñitaiḥ, and the semantic/morphological analysis is otherwise unchanged.",
+  "If ByT5’s sahitam_SAM is taken as accusative singular, I construe sahitam contextually as neuter nominative singular with the prior vijñānam/manas; the surface form is nominative/accusative singular homophonous."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 5,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15118,
+   "completion_tokens": 27240,
+   "reasoning_tokens": 19871
+  },
+  "est_cost": 0.454,
+  "retrieval": {
+   "anchor": [
+    385,
+    385
+   ],
+   "span": [
+    386,
+    423
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

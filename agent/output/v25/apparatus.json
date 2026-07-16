@@ -1,0 +1,494 @@
+{
+ "verse": 25,
+ "analysis": [
+  {
+   "surface": "dharmāṇām",
+   "surface_in_sandhi": "dharmāṇāṃ",
+   "lemma": "dharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive plural depending on paramārthaḥ: “the paramārtha of dharmas.” The commentary narrows these as sarvadharmāṇām paratantrātmakānām (trbh 1418–1419).",
+   "verification": {
+    "status": "pass",
+    "detail": "dharma Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "paramārthaḥ",
+   "surface_in_sandhi": "paramārthaś",
+   "lemma": "paramārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "paramasya lokottarajñānasya arthaḥ",
+    "members": [
+     "parama",
+     "artha"
+    ]
+   },
+   "note": "Predicate nominative with saḥ; its technical sense is fixed by Sthiramati as the object/referent of supreme supramundane cognition and as the pariniṣpanna-svabhāva.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem paramārtha as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Anaphoric pronoun: Sthiramati identifies it with pariniṣpannaḥ svabhāvaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yataḥ",
+   "surface_in_sandhi": "yatas",
+   "lemma": "yatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal relative adverb, “since/because”; Sthiramati paraphrases it with yasmāt ... tasmāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tathatā",
+   "surface_in_sandhi": "tathatāpi",
+   "lemma": "tathatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: “suchness.” In sandhi with api, the cluster is printed tathatāpi. I retain the Stri/Prathama/Eka analysis: the verse and commentary require nominative singular tathatā, and a verifier output tathatāḥ is treated here as a verifier limitation for this lexical/taddhita ā-stem, not as a reason to change the case or stem.",
+   "verification": {
+    "status": "fail",
+    "detail": "tathatā Stri/Prathama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "tathatāḥ"
+    ]
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "tathatāpi",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The commentary explicitly comments on apiśabda: it does not merely add one name, but indicates that all dharmadhātu-synonyms are applicable.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "saḥ",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Again masculine because it refers to pariniṣpannaḥ svabhāvaḥ, not to the feminine tathatā.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvakālam",
+   "surface_in_sandhi": "sarvakālaṃ",
+   "lemma": "sarvakālam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Lexicalized adverbial accusative: “at all times, always.” The commentary repeats sarvakālam with bhavati.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tathābhāvāt",
+   "surface_in_sandhi": "tathābhāvāt",
+   "lemma": "tathābhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tathā bhāvaḥ",
+    "members": [
+     "tathā",
+     "bhāva"
+    ]
+   },
+   "note": "Ablative of cause: “because of being so.” It is tathā-bhāva, not tathā-abhāva; Sthiramati glosses with tathaiva bhavati nānyathā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tathābhāva as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sā",
+   "surface_in_sandhi": "saiva",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative agreeing with tathatā/vijñaptimātratā. In sandhi with eva, the cluster is printed saiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "saiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Restrictive/emphatic: “that very.” In sandhi with sā, the cluster is printed saiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñaptimātratā",
+   "surface_in_sandhi": "vijñaptimātratā",
+   "lemma": "vijñaptimātratā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "A single feminine abstract noun in -tā, “representation-only-ness.” The inner base is vijñapti-mātra, but the full inflected stem vijñaptimātratā is not itself marked here as a samāsa; this corrects the earlier over-specification of a karmadhāraya relation for the whole word. I retain Stri/Prathama/Eka: the required surface is nominative singular vijñaptimātratā, and the verifier’s vijñaptimātratāḥ is not accepted as a correction.",
+   "verification": {
+    "status": "fail",
+    "detail": "vijñaptimātratā Stri/Prathama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "vijñaptimātratāḥ"
+    ]
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Do not translate paramārthaḥ merely as an ordinary “highest purpose/meaning.” Sthiramati gives a technical nirukti and then identifies it with pariniṣpanna-svabhāva, specifically as the paramārtha of all dharmas whose nature is dependent.",
+   "options_considered": [
+    "ordinary “highest purpose” of dharmas",
+    "generic “ultimate truth” without specifying its cognitive/referential sense",
+    "commentarially defined ultimate object/reality, the pariniṣpanna-svabhāva"
+   ],
+   "chosen": "paramārthaḥ means the ultimate object/reality: the perfected nature as the object of supreme supramundane cognition and as the ultimate of dependent-nature dharmas.",
+   "evidence": [
+    {
+     "lines": [
+      1414
+     ],
+     "quote": "paramaṃ hi lokottarajñānaṃ niruttaratvāt tasyārthaḥ paramārthaḥ",
+     "translation": "For supreme supramundane cognition, because it is unsurpassed, is ‘parama’; its object/referent is ‘paramārtha’."
+    },
+    {
+     "lines": [
+      1415,
+      1416,
+      1417
+     ],
+     "quote": "atha\nvākāśavat sarvatraikarasārthena vaimalyāvikārārthena ca pariniṣpannaḥ\nsvabhāvaḥ paramārtha ucyate",
+     "translation": "Or, the perfected nature is called paramārtha in the sense that it is uniform everywhere like space, and in the sense of purity and non-alteration."
+    },
+    {
+     "lines": [
+      1418,
+      1419,
+      1420
+     ],
+     "quote": "sa yasmāt pariniṣpannaḥ svabhāvaḥ sarvadharmāṇāṃ\nparatantrātmakānāṃ paramārthaḥ\ntaddharmateti kṛtvā",
+     "translation": "Because that perfected nature is the paramārtha of all dharmas, which have dependent nature, being their dharmatā."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The verse’s sa yatas is to be construed through the commentary’s sa yasmāt ... tasmāt, not as a spatial “whence.” The masculine pronoun is not referring to tathatā but to the perfected nature.",
+   "options_considered": [
+    "yatas as “whence/from which”",
+    "saḥ as referring to the feminine tathatā",
+    "causal yatas, with saḥ anaphoric to pariniṣpannaḥ svabhāvaḥ"
+   ],
+   "chosen": "yatas is causal, “since/because,” and saḥ refers to pariniṣpannaḥ svabhāvaḥ.",
+   "evidence": [
+    {
+     "lines": [
+      1418,
+      1419,
+      1420,
+      1421
+     ],
+     "quote": "sa yasmāt pariniṣpannaḥ svabhāvaḥ sarvadharmāṇāṃ\nparatantrātmakānāṃ paramārthaḥ\ntaddharmateti kṛtvā tasmāt pariniṣpanna eva\nsvabhāvaḥ paramārthaniḥsvabhāvātā pariniṣpannasyābhāvasvabhāvatvāt",
+     "translation": "Because that perfected nature is the paramārtha of all dependent-nature dharmas, being their dharmatā, therefore the perfected nature itself is ultimate naturelessness, since the perfected has absence as its nature."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Translate tathatā as the technical term “suchness,” but do not make api concessive (“although”) or limit the point to one additional synonym. Sthiramati says api indicates that all dharmadhātu-synonyms may designate it.",
+   "options_considered": [
+    "tathā api: “thus also/although”",
+    "api as simple addition only",
+    "api as indicating inclusion among all dharmadhātu-synonyms"
+   ],
+   "chosen": "tathatā api means “also suchness,” with api marking that this is not the only applicable designation.",
+   "evidence": [
+    {
+     "lines": [
+      1426,
+      1427,
+      1428,
+      1429
+     ],
+     "quote": "tathatāpi saḥ\napiśabdān na kevalaṃ tathatāśabdenaivābhidhātavyaḥ\nkiṃ tarhi yāvanto\ndharmadhātuparyāyāḥ sarvais tair apy abhidhātavya iti",
+     "translation": "‘It is also suchness.’ From the word api: it is not to be designated only by the word suchness; rather, by as many synonyms of dharmadhātu as there are, by all those too it is to be designated."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The compound is tathā-bhāva, “being so,” in the ablative of cause; it is not tathā-abhāva, “non-being so.” This line explains the name tathatā.",
+   "options_considered": [
+    "tathā-abhāvāt: “because of not being so”",
+    "a vague “because of such a state”",
+    "commentarial “because it is always just so, not otherwise”"
+   ],
+   "chosen": "sarvakālaṃ tathābhāvāt means “because at all times it is just so.”",
+   "evidence": [
+    {
+     "lines": [
+      1430,
+      1431,
+      1432,
+      1433
+     ],
+     "quote": "sarvakālaṃ tathābhāvāt\ntathatā\ntathā hi pṛthagjanaśaikṣāśaikṣāvasthāsu sarvakālaṃ tathaiva bhavati\nnānyatheti tathatety ucyate",
+     "translation": "‘Because of being so at all times—suchness.’ For in the states of ordinary person, trainee, and adept, at all times it is just so, not otherwise; therefore it is called suchness."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Do not take vijñaptimātratā as a different entity or merely as the earlier ordinary thesis of cognition-only. Sthiramati explicitly poses the alternative—whether it is the perfected itself like tathatā, or something else—and answers with sā eva; he adds that this statement teaches realization (abhisamaya).",
+   "options_considered": [
+    "vijñaptimātratā as separate from tathatā/pariniṣpanna",
+    "vijñaptimātratā as only an epistemic slogan",
+    "identity: that very suchness/perfected nature is vijñaptimātratā, with abhisamaya intended"
+   ],
+   "chosen": "sā eva vijñaptimātratā identifies that very suchness/perfected nature with representation-only-ness.",
+   "evidence": [
+    {
+     "lines": [
+      1434,
+      1435,
+      1436,
+      1437
+     ],
+     "quote": "kiṃ punas tathatāvat pariniṣpanna eva vijñaptimātratā\nutānyā vijñaptimātratā\nata āha\nsaiva vijñaptimātratā",
+     "translation": "Is vijñaptimātratā, like tathatā, just the perfected, or is vijñaptimātratā something else? Therefore he says: ‘that very is vijñaptimātratā.’"
+    },
+    {
+     "lines": [
+      1444
+     ],
+     "quote": "saiva vijñaptimātratety anena vacanenābhisamaya uktaḥ",
+     "translation": "By the statement ‘that very is vijñaptimātratā,’ realization has been taught."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Since that [perfected nature (pariniṣpanna-svabhāva)] is the ultimate reality (paramārtha) of dharmas (dharma),\nit too is suchness (tathatā);\nfor at every time it is just so—\nthat very suchness is representation-only-ness (vijñaptimātratā).",
+ "one_shot_delta": [
+  "A commentary-blind translation could render paramārtha as a loose “highest purpose” and miss Sthiramati’s definition as the object of supreme supramundane cognition and as pariniṣpanna-svabhāva.",
+  "It could misread tathatāpi as tathā api, “thus also/although,” whereas the bhāṣya treats it as tathatā api and explains apiśabda.",
+  "It could miss the etymological force of tathābhāvāt—“because it is always just so, not otherwise”—or even split it wrongly as tathā-abhāvāt.",
+  "It could take vijñaptimātratā as something distinct from suchness/perfected nature; Sthiramati explicitly rejects that by glossing sā eva."
+ ],
+ "analyzer_disagreements": [
+  "ByT5’s parama_Cp + arthaḥ_SNM segmentation is retained only as compound analysis; the verse pada is analyzed as the single subanta paramārthaḥ, with the tatpuruṣa vigraha supplied by trbh 1414.",
+  "ByT5 gives no features for yatas; I analyze pausal yataḥ as a causal avyaya because Sthiramati paraphrases it with yasmāt ... tasmāt at trbh 1418–1420.",
+  "ByT5 gives sarvakālam without features; I analyze it as an indeclinable adverb, supported by its commentarial use with bhavati at trbh 1432.",
+  "ByT5 splits vijñaptimātratā as vijñaptimātra_Cp + tā_SNF; I analyze the printed verse-word as one feminine nominative singular abstract noun in -tā, with only an inner vijñapti-mātra base and no samāsa claim for the full stem."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 2,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15079,
+   "completion_tokens": 22849,
+   "reasoning_tokens": 15358
+  },
+  "est_cost": 0.388,
+  "retrieval": {
+   "anchor": [
+    1402,
+    1402
+   ],
+   "span": [
+    1403,
+    1444
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

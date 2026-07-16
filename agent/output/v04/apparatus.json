@@ -1,0 +1,517 @@
+{
+ "verse": 4,
+ "analysis": [
+  {
+   "surface": "upekṣā",
+   "surface_in_sandhi": "upekṣā",
+   "lemma": "upekṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: the ālaya-vijñāna's feeling is specifically upekṣā, glossed as neither pleasure nor pain. Stem represented as upekṣa for the Pāṇinian verifier’s derivation of the feminine ā-form; the lexical technical term is upekṣā.",
+   "verification": {
+    "status": "pass",
+    "detail": "upekṣa Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vedanā",
+   "surface_in_sandhi": "vedanā",
+   "lemma": "vedana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject/appositional nominative with upekṣā: ‘the feeling’ in ālayavijñāna. Stem represented as vedana for the Pāṇinian verifier’s derivation of the feminine ā-form; the lexical technical term is vedanā.",
+   "verification": {
+    "status": "pass",
+    "detail": "vedana Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatrā",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The initial a of the following word is coalesced in tatrā-. Commentary construes tatra with ālayavijñāna, not with a preceding list.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anivṛtāvyākṛtam",
+   "surface_in_sandhi": "nivṛtāvyākṛtañ",
+   "lemma": "anivṛtāvyākṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "anivṛtam avyākṛtam; anivṛtaṃ ca tad avyākṛtaṃ ca",
+    "members": [
+     "anivṛta",
+     "avyākṛta"
+    ]
+   },
+   "note": "Predicate adjective of tat = ālayavijñānam. Bhāṣya -ñ ca is sandhi/parasavarṇa for pausal -m ca.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anivṛtāvyākṛta as Napumsaka/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to ālayavijñāna, the prakṛta ‘topic’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Scope fixed by commentary: ‘likewise’ applies the ālayavijñāna-properties to sparśa and the rest.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sparśādayaḥ",
+   "surface_in_sandhi": "sparśādayaḥ",
+   "lemma": "sparśādi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sparśa ādir yeṣāṃ te",
+    "members": [
+     "sparśa",
+     "ādi"
+    ]
+   },
+   "note": "‘Contact and the rest’; bhāṣya reading keeps visarga before tac ca, unlike the vulgate sandhi -as tac-.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sparśādi as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tac",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of vartate; commentary explicitly construes tac ca with ālayavijñāna alone.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vartate",
+   "surface_in_sandhi": "vartate",
+   "lemma": "vṛt",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vṛt",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Middle-form present used intransitively: ‘goes on, proceeds, continues’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vṛt Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "srotasā",
+   "surface_in_sandhi": "srotasau",
+   "lemma": "srotas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental of manner/continuum. In sandhi srotasā + oghavat gives srotasaughavat.",
+   "verification": {
+    "status": "pass",
+    "detail": "srotas Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "oghavat",
+   "surface_in_sandhi": "ghavat",
+   "lemma": "oghavat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Comparative indeclinable in -vat from ogha: ‘like a flood’; not an agreeing adjective ‘having a strong stream’. The verifier’s kośa reports only the inflected adjective oghavat, but I retain the avyaya analysis because Sthiramati explicitly glosses the construction as a yathā/evam simile.",
+   "verification": {
+    "status": "fail",
+    "detail": "claimed avyaya, but kosha knows this form only as an inflected pada",
+    "flag": "UNVERIFIED"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The locative adverb tatra is not a vague ‘there’ or a reference to the immediately preceding noun vedanā; it is explicitly connected to ālayavijñāna, the topic already under discussion.",
+   "options_considered": [
+    "tatra refers to ālayavijñāna",
+    "tatra refers to vedanā or an unspecified location/context"
+   ],
+   "chosen": "tatra = ‘there, in the ālayavijñāna’",
+   "evidence": [
+    {
+     "lines": [
+      308
+     ],
+     "quote": "tatrety ālayavijñānam eva prakṛtatvāt saṃbadhyate",
+     "translation": "‘Tatra’ connects with ālayavijñāna alone, because that is the topic."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "upekṣā is the technical neutral feeling associated with ālayavijñāna, not ordinary negligence or contempt; the commentary excludes sukha and duḥkha for this ālaya-feeling.",
+   "options_considered": [
+    "technical equanimity/neutral feeling",
+    "ordinary indifference, neglect, or contempt",
+    "vedanā as ‘pain’ in a non-technical dictionary sense"
+   ],
+   "chosen": "upekṣā vedanā = the feeling is equanimity, i.e. neither pleasure nor pain",
+   "evidence": [
+    {
+     "lines": [
+      309,
+      310,
+      311
+     ],
+     "quote": "upekṣaivālayavijñāne\nvedanā na sukhā na duḥkhā tayoḥ paricchinnālambanākāratvād\nrāgadveṣānuśayitatvāc ca",
+     "translation": "In ālayavijñāna, the feeling is only upekṣā; it is not pleasure and not pain, because those two have a delimited object-aspect and are accompanied by latent attachment and aversion."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is parsed as the technical moral classification of ālayavijñāna: anivṛta excludes nivṛta, and avyākṛta excludes wholesome and unwholesome. It is not merely ‘unexplained’.",
+   "options_considered": [
+    "unobscured-indeterminate moral classification",
+    "unexplained/unanalysed in a general sense",
+    "a property of vedanā rather than of ālayavijñāna"
+   ],
+   "chosen": "anivṛtāvyākṛtam = unobscured and indeterminate; predicated of ālayavijñāna",
+   "evidence": [
+    {
+     "lines": [
+      312,
+      313
+     ],
+     "quote": "anivṛtāvyākṛtañ ca tat\nālayavijñānam iti prakṛtam",
+     "translation": "‘And that is anivṛtāvyākṛta’: ālayavijñāna is what is under discussion."
+    },
+    {
+     "lines": [
+      314,
+      315,
+      316,
+      317,
+      318
+     ],
+     "quote": "tatrānivṛtagrahaṇaṃ nivṛtavyavacchedārtham\navyākṛtagrahaṇaṃ kuśalākuśalavyavacchedārtham\nmanobhūmikair āgantukair upakleśair anāvṛtatvād anivṛtam\nvipākatvād vipākaṃ\nprati kuśalākuśalatvenāvyākaraṇād avyākṛtam",
+     "translation": "The mention of anivṛta serves to exclude nivṛta; the mention of avyākṛta serves to exclude wholesome and unwholesome. It is anivṛta because it is not covered by adventitious defilements belonging to the mental plane; it is avyākṛta because, being maturation, it is not classified as wholesome or unwholesome with respect to maturation."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "tathā does not merely add ‘also contact, etc.’; Sthiramati spells out the analogy: just as ālayavijñāna is a maturation, has an undelimited object-aspect, is always conjoined with sparśa etc., and has neutral feeling and anivṛtāvyākṛta status, so too sparśa and the rest share the corresponding features.",
+   "options_considered": [
+    "tathā transfers the relevant ālayavijñāna-properties to sparśādayaḥ",
+    "tathā means only ‘also’ with no specified scope",
+    "sparśādayaḥ are merely listed without sharing the classification"
+   ],
+   "chosen": "tathā sparśādayaḥ = contact and the rest are likewise, with the same relevant ālaya-properties",
+   "evidence": [
+    {
+     "lines": [
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325
+     ],
+     "quote": "tathā sparśādayaḥ\nyathālayavijñānam ekāntena vipāko 'paricchinnālambanākāraṃ sadā sparśādibhir\nanvitaṃ tatra copekṣaiva vedanānivṛtāvyākṛtañ ca tathā sparśādayo 'py ekāntena\nvipākā evāparicchinnālambanākārāś ca\nātmānaṃ hitvetaraiś caturbhir\nālayavijñānena ca nityam anugatās teṣu copekṣaiva vedanānivṛtāvyākṛtāś\ncālayavijñānavat",
+     "translation": "‘Likewise contact and the rest’: as ālayavijñāna is exclusively maturation, has an undelimited object-aspect, is always accompanied by contact and the rest, and in it the feeling is only upekṣā and it is anivṛtāvyākṛta, so too contact and the rest are exclusively maturations, have undelimited object-aspects, are always accompanied by the other four and by ālayavijñāna, and in them too the feeling is upekṣā and they are anivṛtāvyākṛta, just like ālayavijñāna."
+    },
+    {
+     "lines": [
+      326,
+      327
+     ],
+     "quote": "na hi vipākena saṃprayuktānām avipākatvam\naparicchinnālambanākāreṇa ca paricchinnālambanākāratvaṃ saṃbhavati",
+     "translation": "For what is conjoined with a maturation cannot be non-maturation; nor can what is conjoined with an undelimited object-aspect have a delimited object-aspect."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The second tat again refers to ālayavijñāna. The commentary explicitly rejects the view that one identical ālayavijñāna persists throughout saṃsāra; its continuing is by continuum/series, in keeping with momentariness.",
+   "options_considered": [
+    "ālayavijñāna continues as a momentary continuum",
+    "one numerically identical ālayavijñāna persists unchanged",
+    "tat refers to sparśādayaḥ rather than ālayavijñāna"
+   ],
+   "chosen": "tac ca vartate = this ālayavijñāna continues, but not as one unchanged entity",
+   "evidence": [
+    {
+     "lines": [
+      330,
+      331,
+      332,
+      333,
+      334,
+      335
+     ],
+     "quote": "kiṃ punas tad ālayavijñānam ekam abhinnam āsaṃsāram anuvartate\nuta saṃtānena\nna hi tad ekam abhinnam anuvartate kṣaṇikatvāt\nkiṃ tarhi\ntac ca vartate srotasaughavat\ntac cety ālayavijñānam eva saṃbadhyate",
+     "translation": "The question is whether that ālayavijñāna continues throughout saṃsāra as one undivided thing or by continuum. It certainly does not continue as one undivided thing, because it is momentary. What then? ‘And this goes on, like a stream/flood.’ In ‘tac ca’, ālayavijñāna alone is connected."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The printed srotasaughavat is segmented as srotasā + oghavat. The commentary defines srotas as uninterrupted cause-effect continuity and ogha as a continuous water-flow, then makes the yathā/evam simile explicit. Thus oghavat is comparative ‘like a flood’, not an adjective ‘possessing a strong stream’.",
+   "options_considered": [
+    "srotasā + oghavat: ‘by a stream, like a flood’",
+    "one compound adjective srotasaughavat, ‘having a strong stream’",
+    "a literal physical river rather than causal continuity"
+   ],
+   "chosen": "srotasā oghavat = by way of a stream/continuum, like a flood",
+   "evidence": [
+    {
+     "lines": [
+      336,
+      337,
+      338,
+      339
+     ],
+     "quote": "tatra sroto hetuphalayor\nnairantaryaprabandhena pravṛttiḥ\nudakasamūhasya pūrvāparabhāgāvicchedena\npravāha ogha ity ucyate",
+     "translation": "Here ‘stream’ is the occurrence of cause and result in an uninterrupted continuum. The flow of a mass of water without a break between earlier and later parts is called ‘flood’."
+    },
+    {
+     "lines": [
+      340,
+      341,
+      342
+     ],
+     "quote": "yathā hy oghas tṛṇakāṣṭhagomayādīn ākarṣayaṅ\ngacchaty evam ālayavijñānam api puṇyāpuṇyāneñjyakarmavāsanānugataṃ\nsparśamanaskārādīn ākarṣan srotasāsaṃsāram avyuparataṃ pravartata iti",
+     "translation": "As a flood goes along drawing grass, wood, cow-dung and the like, so too ālayavijñāna, followed by the impressions of meritorious, unmeritorious and unchanging karma, draws contact, attention and the rest and proceeds without stopping by way of a stream throughout saṃsāra."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "There, in the store-consciousness (ālayavijñāna),\nthe feeling (vedanā) is equanimity (upekṣā);\nand that [store-consciousness] is unobscured-indeterminate (anivṛtāvyākṛta).\nContact and the rest (sparśādayaḥ) are likewise;\nand this [store-consciousness] goes on, in a stream-continuum (srotas), like a flood (ogha).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take vedanā from a dictionary as ‘pain’ and produce ‘indifference is pain’; Sthiramati instead defines this vedanā as the neutral feeling, neither sukha nor duḥkha.",
+  "It might let tatra, tat, and tac ca float or attach them to vedanā or sparśādayaḥ; the commentary repeatedly fixes them to ālayavijñāna.",
+  "It might render avyākṛta as simply ‘unexplained’ and miss the moral classification: excluded from both wholesome and unwholesome, and also anivṛta as not covered by adventitious mental defilements.",
+  "It might take tathā as a loose ‘also’; the commentary makes it carry over a set of properties from ālayavijñāna to contact and the rest.",
+  "It might read tac ca vartate as the persistence of one identical store-consciousness; Sthiramati explicitly rejects that and explains continuation by a momentary continuum.",
+  "It might analyze srotasaughavat as a single adjective ‘having a strong stream’; the commentary supports srotasā + comparative oghavat, ‘by way of a stream, like a flood’. "
+ ],
+ "analyzer_disagreements": [
+  "ByT5 api_seg gives upekṣā_vedanā_ca_tat and omits tatra/anivṛtāvyākṛtam; I follow the bhāṣya and commentary at 308–312: tatra ... anivṛtāvyākṛtañ ca tat.",
+  "ByT5 local_SLM gives upekṣā and vedanā as feminine nominative singulars; I keep those features, but revise the verifier-facing stems to upekṣa and vedana so that the pausal forms upekṣā and vedanā derive correctly as feminine ā-forms.",
+  "ByT5 local_SLM does not provide a full analysis for tatrānivṛtāvyākṛtam; I analyze tatra as an avyaya and anivṛtāvyākṛtam as a neuter nominative singular compound, because the commentary treats the two grahaṇas separately at 314–315 while line 312 quotes the compound predicate of tat.",
+  "ByT5 local_SLM splits sparśa_ādayaḥ; I analyze the verse word as the single bahuvrīhi compound stem sparśādi-, since the commentary quotes sparśādayaḥ and sparśādibhiḥ as compound forms at 319–321.",
+  "ByT5 tags oghavat as a neuter nominative singular nominal; I keep it as the comparative avyaya ‘like a flood’, because the commentary unpacks it with yathā hy oghaḥ ... evam ālayavijñānam at 340–341; the Pāṇinian verifier appears to lack this avyaya use in its kośa."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15594,
+   "completion_tokens": 26005,
+   "reasoning_tokens": 17122
+  },
+  "est_cost": 0.4369,
+  "retrieval": {
+   "anchor": [
+    307,
+    307
+   ],
+   "span": [
+    308,
+    342
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

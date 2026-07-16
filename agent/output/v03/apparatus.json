@@ -1,0 +1,498 @@
+{
+ "verse": 3,
+ "analysis": [
+  {
+   "surface": "asaṃviditakopādisthānavijñaptikam",
+   "surface_in_sandhi": "asaṃviditakopādisthānavijñaptikañ",
+   "lemma": "asaṃviditakopādisthānavijñaptika",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "asaṃviditaka upādir yasmin, asaṃviditakā ca sthānavijñaptir yasmin",
+    "members": [
+     "asaṃviditaka",
+     "upādi",
+     "sthānavijñapti"
+    ]
+   },
+   "note": "The -ko- is internal sandhi of -ka + upādi; it is not the noun kopa. The commentary construes the compound possessively with yasmin: the ālayavijñāna has an unapprehended upādi and an unapprehended sthānavijñapti.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asaṃviditakopādisthānavijñaptika as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to ālayavijñānam, as the commentary explicitly supplies.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sadā",
+   "surface_in_sandhi": "sadā",
+   "lemma": "sadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The commentary glosses the scope as yāvad ālayavijñānam tāvat: throughout the duration of ālayavijñāna.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sparśamanaskāravitsaṃjñācetanānvitam",
+   "surface_in_sandhi": "sparśamanaskāravitsaṃjñācetanānvitam",
+   "lemma": "sparśamanaskāravitsaṃjñācetanānvita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sparśa-manaskāra-vedanā-saṃjñā-cetanābhiḥ anvitam",
+    "members": [
+     "sparśa",
+     "manaskāra",
+     "vid",
+     "saṃjñā",
+     "cetanā",
+     "anvita"
+    ]
+   },
+   "note": "The first five members form the list of the five sarvatraga mental factors; vid is glossed by the commentary as vedanā, not as ‘knower’. The outer compound relation is retained as a tṛtīyā-tatpuruṣa-like X-bhiḥ anvitam construction, while the listed factors are a dvandva in sense. Vidyut-prakriya derives the parasavarṇa orthography sparśamanaskāravitsañjñācetanānvitam, but the bhāṣya’s printed and requoted reading is sparśamanaskāravitsaṃjñācetanānvitam; I therefore retain the bhāṣya spelling rather than emend to the vulgate/normalized form.",
+   "verification": {
+    "status": "fail",
+    "detail": "compound stem sparśamanaskāravitsaṃjñācetanānvita as Napumsaka/Prathama/Eka: fail; relation tatpurusa: unsupported (logged)",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "sparśamanaskāravitsañjñācetanānvitam"
+    ]
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Do not read kopādi as kopa + ādi (‘anger etc.’). Read -ko- as the sandhi of asaṃviditaka + upādi, and let asaṃviditaka qualify both upādi and sthānavijñapti as Sthiramati states.",
+   "options_considered": [
+    "asaṃviditaka + upādi, with asaṃviditakā sthānavijñaptiḥ, as a possessive compound",
+    "a-saṃvidita-kopa-ādi-sthāna-vijñaptika, ‘having unrecognized anger etc. and place-presentation’"
+   ],
+   "chosen": "asaṃviditakopādisthānavijñaptikam is a possessive/bahuvrīhi description of ālayavijñāna: it has an unapprehended upādi and an unapprehended sthānavijñapti.",
+   "evidence": [
+    {
+     "lines": [
+      203,
+      204
+     ],
+     "quote": "asaṃviditaka upādir yasmin asaṃviditakā ca sthānavijñaptir yasmin tad\nālayavijñānam asaṃviditakopādisthānavijñaptikam",
+     "translation": "‘That ālaya-consciousness in which the upādi is unapprehended and in which the place-presentation is unapprehended is asaṃviditakopādisthānavijñaptikam.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Use Sthiramati’s upādāna-gloss rather than dictionary guesses such as ‘anger’, ‘affliction’, or a merely spatial ‘basis’.",
+   "options_considered": [
+    "appropriation/taking-up",
+    "substrate/basis without the act of appropriation",
+    "kopa/anger + ādi as a lexical sequence"
+   ],
+   "chosen": "upādi is translated as ‘appropriation’ or ‘taking-up’.",
+   "evidence": [
+    {
+     "lines": [
+      205,
+      206,
+      207,
+      208
+     ],
+     "quote": "upādānam upādiḥ\nsa punar ātmādivikalpavāsanā rūpādidharmavikalpavāsanā ca\ntatsadbhāvād ālayavijñānenātmādivikalpo rūpādivikalpaś ca kāryatvenopātta iti\ntad vāsanātmādivikalpānāṃ rūpādivikalpānāñ copādir ity ucyate",
+     "translation": "‘Upādi is upādāna, taking-up/appropriation. It is the latent impression of constructions of self and so on, and the latent impression of constructions of form and so on; because these exist, the constructions of self and form are taken up by ālaya-consciousness as effects. Therefore it is called the upādi of those constructions.’"
+    },
+    {
+     "lines": [
+      212,
+      213,
+      214
+     ],
+     "quote": "āśrayopādānañ copādiḥ\nāśraya ātmabhāvaḥ sādhiṣṭhānam indriyarūpaṃ nāma ca\ntasya punar yad upādānam upagamanam ekayogakṣematvena tad upādiḥ",
+     "translation": "‘Appropriation of the basis is also upādi. The basis is the embodied stream, with its seat, material sense-faculties, and name; its taking-up, its entering into a common risk-and-security, is upādi.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The verse does not deny that ālayavijñāna functions; it says that its appropriation and place-presentation are not apprehended in the relevant reflective/determinate way.",
+   "options_considered": [
+    "unapprehended/not consciously apprehended",
+    "unknown in every possible sense",
+    "nonexistent",
+    "merely not verbally reported"
+   ],
+   "chosen": "asaṃvidita is rendered ‘unapprehended’ or ‘not consciously apprehended’.",
+   "evidence": [
+    {
+     "lines": [
+      210,
+      211
+     ],
+     "quote": "tad iti pratisaṃvedanākāreṇāsaṃvidita ity atas tad asaṃviditakopādir ity\nucyate",
+     "translation": "‘Therefore, since it is not apprehended in the mode of reflexive experience as “that”, it is called asaṃviditakopādi.’"
+    },
+    {
+     "lines": [
+      220,
+      221
+     ],
+     "quote": "tat punar upādānam idantayā\npratisaṃvedayitum aśakyam ity ato 'saṃvidita ity ucyate",
+     "translation": "‘That appropriation cannot be reflexively apprehended as “this”; therefore it is called unapprehended.’"
+    },
+    {
+     "lines": [
+      223,
+      224
+     ],
+     "quote": "sāpy\naparicchinnālambanākārapravṛttatvād asaṃviditety ucyate",
+     "translation": "‘That too is called unapprehended because it proceeds with an undetermined object-aspect.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Do not reduce sthāna to a generic ‘place’ or vijñapti to a bare act of knowing; Sthiramati identifies the compound with bhājanalokasaṃniveśavijñapti.",
+   "options_considered": [
+    "place-presentation of the receptacle-world’s configuration",
+    "cognition of a location in general",
+    "presentation located in a place"
+   ],
+   "chosen": "sthānavijñapti is translated as ‘place-presentation’, specifically the presentation of the receptacle-world’s configuration.",
+   "evidence": [
+    {
+     "lines": [
+      222
+     ],
+     "quote": "sthānavijñaptir bhājanalokasaṃniveśavijñaptiḥ",
+     "translation": "‘The place-presentation is the presentation of the arrangement/configuration of the receptacle-world.’"
+    },
+    {
+     "lines": [
+      223,
+      224
+     ],
+     "quote": "sāpy\naparicchinnālambanākārapravṛttatvād asaṃviditety ucyate",
+     "translation": "‘That too is called unapprehended because it proceeds with an undetermined object-aspect.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Supply the antecedent ālayavijñāna in the translation; the commentary explicitly makes it the subject of the verse’s predicates.",
+   "options_considered": [
+    "tat as ālayavijñāna from the prior discussion",
+    "tat as an unspecified neuter ‘that’ with no supplied antecedent",
+    "tat as referring only to the immediately preceding compound"
+   ],
+   "chosen": "tat is ‘that storehouse consciousness (ālayavijñāna)’.",
+   "evidence": [
+    {
+     "lines": [
+      203,
+      204
+     ],
+     "quote": "asaṃviditaka upādir yasmin asaṃviditakā ca sthānavijñaptir yasmin tad\nālayavijñānam asaṃviditakopādisthānavijñaptikam",
+     "translation": "‘That ālaya-consciousness in which the upādi is unapprehended and in which the place-presentation is unapprehended is asaṃviditakopādisthānavijñaptikam.’"
+    },
+    {
+     "lines": [
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237
+     ],
+     "quote": "tatrālayākhyaṃ vijñānam\nity uktaṃ vijñānañ cāvaśyaṃ caittaiḥ saṃprayuktam ity ato vaktavyaṃ katamaiḥ\nkatibhiś ca tebhyaḥ saṃprayujyate\ntathā kiṃ taiḥ sarvadā saṃprayujyate\nuta\nnety ata āha\nsadā sparśamanaskāravitsaṃjñācetanānvitam",
+     "translation": "‘Here the consciousness called ālaya has been stated. Since consciousness is necessarily associated with mental factors, it must be said with which and with how many it is associated, and whether it is always associated with them or not; therefore he says: “always accompanied by contact, attention, feeling, recognition, and volition.”’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Render ‘always’ with its commentary-given scope, and take the final compound as answering which caittas accompany ālayavijñāna.",
+   "options_considered": [
+    "always throughout ālayavijñāna and accompanied by five sarvatraga dharmas",
+    "always in an unrestricted metaphysical sense",
+    "occasionally associated with these factors"
+   ],
+   "chosen": "sadā means throughout the duration of ālayavijñāna’s occurrence; anvitam means accompanied/associated with five universal mental factors.",
+   "evidence": [
+    {
+     "lines": [
+      239,
+      240,
+      241
+     ],
+     "quote": "sadeti yāvad ālayavijñānaṃ tāvad ebhiḥ\nsparśamanaskāravedanāsaṃjñācetanākhyaiḥ pañcabhiḥ sarvatragair dharmair\nanvitam",
+     "translation": "‘“Always” means: for as long as there is ālaya-consciousness, for that long it is accompanied by these five universal factors called contact, attention, feeling, recognition, and volition.’"
+    },
+    {
+     "lines": [
+      497,
+      498,
+      499,
+      500
+     ],
+     "quote": "tathā hi\nsadāsparśamanaskāravitsaṃjñācetanānvitam\niti prathamato nirdiṣṭāḥ\nsparśa eṣām ādir iti sparśādayaḥ",
+     "translation": "‘For thus, “always accompanied by contact, attention, feeling, recognition, and volition”: they were first stated; since contact is their first, they are “contact and the rest.”’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Translate the member vit by the technical factor vedanā, because Sthiramati explicitly equates them and then discusses which of the three vedanās is meant.",
+   "options_considered": [
+    "feeling/vedanā",
+    "knowledge",
+    "knower"
+   ],
+   "chosen": "vit is ‘feeling (vedanā)’, not ‘knower’ or ‘knowledge’.",
+   "evidence": [
+    {
+     "lines": [
+      242
+     ],
+     "quote": "vedanā vit",
+     "translation": "‘vit is vedanā.’"
+    },
+    {
+     "lines": [
+      302,
+      303
+     ],
+     "quote": "tatrālayavijñāne vid iti\nsāmānyopadeśena na vijñāyate tisṝṇāṃ vedanānāṃ katamā vedanā",
+     "translation": "‘Here, in the case of ālaya-consciousness, because “vid” is a general statement, it is not known which of the three feelings is the feeling meant.’"
+    },
+    {
+     "lines": [
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274
+     ],
+     "quote": "vedanā anubhavasvabhāvā\nsā punar\nviṣayasyāhlādakaparitāpakatadubhayākāraviviktasvarūpasākṣātkaraṇabhedāt tridhā\nbhavati\nsukhā\nduḥkhā\naduḥkhāsukhā ca",
+     "translation": "‘Feeling has the nature of experience. It is threefold according to the direct realization of the object’s pleasant, painful, or neither-of-the-two character: pleasant, painful, and neither-painful-nor-pleasant.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Use English terms guided by the bhāṣya’s functional definitions of the mental factors, not merely by broad dictionary meanings.",
+   "options_considered": [
+    "technical mental-factor renderings based on Sthiramati’s definitions",
+    "ordinary physical touch / ordinary attention / name / consciousness without technical restriction"
+   ],
+   "chosen": "The five terms are rendered as contact (sparśa), attention (manaskāra), feeling (vedanā), recognition (saṃjñā), and volition (cetanā).",
+   "evidence": [
+    {
+     "lines": [
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249
+     ],
+     "quote": "tatra sparśas trikasaṃnipāte indriyavikāraparicchedaḥ\nvedanāsaṃniśrayadānakarmakaḥ\nindriyaviṣayavijñānāni trīṇy eva trikam\ntasya\nkāryakāraṇabhāvena samavasthānaṃ trikasaṃnipātaḥ\ntasmin sati tatsamakālam\nviṣayasya sukhādivedanīyākāraparicchedo yaḥ sa sparśaḥ",
+     "translation": "‘Contact, when the triad has come together, is the discernment of a modification of the faculty and has the function of providing the support for feeling. The triad is precisely faculty, object, and consciousness; their standing together as cause and effect is the conjunction of the triad. When that occurs, the contemporaneous discernment of the object’s character as to-be-felt as pleasant and so on is contact.’"
+    },
+    {
+     "lines": [
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264
+     ],
+     "quote": "manaskāraś cetasa ābhogaḥ\nābhujanam ābhogaḥ\nālambane yena cittam\nabhimukhīkriyate\nsa punar ālambane cittadhāraṇakarmakaḥ\ncittadhāraṇaṃ\npunas tatraivālambane punaḥ punaś cittasyāvarjanam",
+     "translation": "‘Attention is the mind’s turning-toward; turning is that by which the mind is made face-to-face with the object. It has the function of holding the mind on the object, that is, repeatedly drawing the mind back to that very object.’"
+    },
+    {
+     "lines": [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296
+     ],
+     "quote": "saṃjñā viṣayanimittodgrahaṇam\nviṣaya ālambanam\nnimittaṃ tadviśeṣo\nnīlapītādyālambanavyavasthākāraṇam\ntasyodgrahaṇaṃ nirūpaṇaṃ nīlam etan na\npītam iti",
+     "translation": "‘Recognition is the grasping of the object’s sign. The object is the ālambana; the sign is its particular feature, the basis for determining an object as blue, yellow, and so on. Grasping it is determination: “this is blue, not yellow.”’"
+    },
+    {
+     "lines": [
+      297,
+      298
+     ],
+     "quote": "cetanā cittābhisaṃskāro manasaś ceṣṭā yasyāṃ satyām ālambanaṃ prati cetasaḥ\npraspanda iva bhavaty ayaskāntavaśād ayaḥpraspandavat",
+     "translation": "‘Volition is the mind’s conditioning activity, the movement of manas: when it is present, there is as it were a stirring of the mind toward the object, like the stirring of iron under the power of a magnet.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J9",
+   "decision": "Do not normalize the bhāṣya reading sparśamanaskāravitsaṃjñācetanānvitam to the vulgate/parasavarṇa spelling sparśamanaskāravitsañjñācetanānvitam merely to satisfy the verifier.",
+   "options_considered": [
+    "bhāṣya vitsaṃjñā",
+    "vulgate/normalized vitsañjñā"
+   ],
+   "chosen": "Retain the bhāṣya spelling vitsaṃjñā in the compound.",
+   "evidence": [
+    {
+     "lines": [
+      237
+     ],
+     "quote": "sadā sparśamanaskāravitsaṃjñācetanānvitam",
+     "translation": "The verse as quoted in the bhāṣya reads vitsaṃjñā."
+    },
+    {
+     "lines": [
+      497,
+      498,
+      499
+     ],
+     "quote": "tathā hi\nsadāsparśamanaskāravitsaṃjñācetanānvitam\niti prathamato nirdiṣṭāḥ",
+     "translation": "The later requotation again reads vitsaṃjñā, confirming the bhāṣya spelling."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "And that storehouse consciousness (ālayavijñāna)\nhas unapprehended appropriation (upādi)\nand an unapprehended place-presentation (sthānavijñapti);\nfor as long as it is, it is accompanied\nby contact (sparśa), attention (manaskāra), feeling (vedanā),\nrecognition (saṃjñā), and volition (cetanā).",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely split kopādi as kopa + ādi, yielding ‘anger etc.’; Sthiramati instead requires asaṃviditaka + upādi, with upādi = upādāna.",
+  "It might translate vid as ‘knowing’ or ‘knower’; Sthiramati explicitly says vedanā vit, making it the mental factor feeling.",
+  "It might take sthānavijñapti as a vague ‘place-cognition’; the bhāṣya identifies it as the presentation of the receptacle-world’s configuration and explains why it is unapprehended.",
+  "It might render sadā simply as ‘always’ without scope; the commentary construes it as ‘for as long as ālayavijñāna exists, for that long’ it is accompanied by the five universal factors."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented the first compound as a-saṃvidita-kopa-ādi-sthāna-vijñaptikam. The commentary at trbh 203–205 parses it as asaṃviditaka upādiḥ ... asaṃviditakā sthānavijñaptiḥ, with upādi defined as upādāna; therefore kopa and ādi are not verse members here.",
+  "ByT5 treated the privative a and saṃvidita as separate analyzed items. In the verse they are internal to the compound-member asaṃviditaka.",
+  "ByT5 treated vid as an independent masculine nominative item meaning ‘knower/knowing’. The commentary states vedanā vit at trbh 242 and later asks which of the three vedanās vid denotes at trbh 302–303, so vid is the vedanā member of the compound.",
+  "ByT5’s anvitam_anvita_SAM is overridden: anvitam is neuter nominative singular agreeing with tat/ālayavijñānam, as shown by trbh 203–204 and by the gloss yāvad ālayavijñānaṃ ... anvitam at trbh 239–241."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 22047,
+   "completion_tokens": 23710,
+   "reasoning_tokens": 14311
+  },
+  "est_cost": 0.4218,
+  "retrieval": {
+   "anchor": [
+    202,
+    202
+   ],
+   "span": [
+    203,
+    303
+   ],
+   "shared_with": null,
+   "requotes": [
+    [
+     498,
+     498
+    ]
+   ]
+  }
+ }
+}
