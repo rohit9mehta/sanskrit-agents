@@ -1,3 +1,5 @@
 {"ts": "2026-07-16T06:53:06+00:00", "tag": "smoke-structured", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 88, "completion_tokens": 82, "reasoning_tokens": 52, "est_cost": 0.001494}
 {"ts": "2026-07-16T06:56:59+00:00", "tag": "reason-v02", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 4826, "completion_tokens": 12004, "reasoning_tokens": 8192, "est_cost": 0.194538}
 {"ts": "2026-07-16T07:00:56+00:00", "tag": "reason-v02", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 5668, "completion_tokens": 9682, "reasoning_tokens": 6144, "est_cost": 0.162234}
+{"ts": "2026-07-16T07:06:06+00:00", "tag": "reason-v01", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 10664, "completion_tokens": 15201, "reasoning_tokens": 10748, "est_cost": 0.260007}
+{"ts": "2026-07-16T07:07:08+00:00", "tag": "reason-v01-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 15052, "completion_tokens": 5406, "reasoning_tokens": 1025, "est_cost": 0.126246}
