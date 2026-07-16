@@ -46,29 +46,35 @@ def run_raw_llm(mula: dict) -> None:
 def run_mitra(mula: dict) -> None:
     verses = {}
     if OUT_MITRA.exists():
-        verses = json.loads(OUT_MITRA.read_text())["verses"]
+        verses = {k: v for k, v in json.loads(OUT_MITRA.read_text())["verses"].items()
+                  if not v.startswith("[ERROR")}
     out = {"endpoint": MITRA_URL, "style_instruction": "balanced",
            "fetched": "2026-07-16", "verses": verses}
     for v in mula["verses"]:
         n = str(v["verse"])
         if n in verses:
             continue
-        try:
-            r = requests.post(
-                MITRA_URL, timeout=120,
-                json={"input_sanskrit": v["bhasya_text"],
-                      "target_language": "english",
-                      "style_instruction": "balanced"},
-            )
-            r.raise_for_status()
-            verses[n] = r.json()["translation"].strip()
-            print(f"mitra v.{n}: {verses[n][:70]}...", flush=True)
-        except Exception as e:
-            verses[n] = f"[ERROR: {type(e).__name__}: {e}]"
-            print(f"mitra v.{n}: ERROR {e}", flush=True)
+        for attempt in range(3):
+            try:
+                r = requests.post(
+                    MITRA_URL, timeout=120,
+                    json={"input_sanskrit": v["bhasya_text"],
+                          "target_language": "english",
+                          "style_instruction": "balanced"},
+                )
+                r.raise_for_status()
+                verses[n] = r.json()["translation"].strip()
+                print(f"mitra v.{n}: {verses[n][:70]}...", flush=True)
+                break
+            except Exception as e:
+                if attempt == 2:
+                    verses[n] = f"[ERROR: {type(e).__name__}: {e}]"
+                    print(f"mitra v.{n}: ERROR {e}", flush=True)
+                else:
+                    time.sleep(30 * (attempt + 1))
         OUT_MITRA.write_text(json.dumps(out, ensure_ascii=False, indent=1),
                              encoding="utf-8")
-        time.sleep(2)
+        time.sleep(8)
 
 
 def main() -> int:

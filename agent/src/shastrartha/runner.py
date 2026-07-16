@@ -7,10 +7,22 @@ right vidyut verifier, with NO silent drops — every word gets a status:
   tool_error  — vidyut raised; surfaced, not hidden
 """
 
+import re
 from dataclasses import dataclass, field
 
 from . import verify
 from .schema import Apparatus, WordAnalysis
+
+_IND_RE = re.compile(r"(^|[\s(¦])ind\.")
+
+
+def _mw_says_indeclinable(surface_iast: str) -> bool:
+    from .dictionary import mw_entries
+
+    try:
+        return any(_IND_RE.search(e["text"]) for e in mw_entries(surface_iast, limit=8))
+    except Exception:
+        return False
 
 
 @dataclass
@@ -100,26 +112,35 @@ def verify_word(w: WordAnalysis, verse: int, run_id: str) -> WordResult:
                 rec["expected_forms"],
             )
 
-        # avyaya: known-form check; kosha-miss is `unsupported` (vidyut cannot
-        # derive indeclinables), a non-avyaya kosha hit is a FAIL.
+        # avyaya: kosha known-form check first; where the kosha lacks an
+        # avyaya entry (a known coverage gap for taddhita adverbs like
+        # tridhā, sadā), MW arbitrates: an "ind." marker on the headword
+        # passes the claim with method recorded as MW, not Pāṇini.
         key, entries = verify.kosha_lookup(w.surface)
         if entries and any(e.is_avyaya for e in entries):
-            rec = verify.kosha_check(
-                w.surface, run_id=run_id, context=ctx, source="reasoner",
-            )
+            verify.kosha_check(w.surface, run_id=run_id, context=ctx, source="reasoner")
             return WordResult(w.surface, "pass", "avyaya known to kosha")
+        if _mw_says_indeclinable(w.surface):
+            verify.mark_unsupported(
+                w.surface,
+                "avyaya not in kosha (coverage gap); MW marks the headword 'ind.' "
+                "— accepted on MW's authority",
+                run_id=run_id, context=ctx, source="reasoner",
+            )
+            return WordResult(w.surface, "pass", "avyaya per MW (kosha gap; logged unsupported)")
         if entries:
             verify.kosha_check(w.surface, run_id=run_id, context=ctx, source="reasoner",
                                notes="claimed avyaya; kosha entries are inflected forms")
             return WordResult(
                 w.surface, "fail",
-                "claimed avyaya, but kosha knows this form only as an inflected pada",
+                "claimed avyaya, but kosha knows this form only as an inflected pada "
+                "and MW does not mark it 'ind.'",
             )
         verify.mark_unsupported(
-            w.surface, "claimed avyaya; not in kosha (cannot confirm or deny)",
+            w.surface, "claimed avyaya; not in kosha, no MW 'ind.' entry",
             run_id=run_id, context=ctx, source="reasoner",
         )
-        return WordResult(w.surface, "unsupported", "avyaya not in kosha")
+        return WordResult(w.surface, "unsupported", "avyaya not in kosha or MW")
     except Exception as e:  # defensive: a schema surprise must not kill the run
         return WordResult(w.surface, "tool_error", f"{type(e).__name__}: {e}")
 
