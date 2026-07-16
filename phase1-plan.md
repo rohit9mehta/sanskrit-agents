@@ -13,26 +13,29 @@ reference output shape and the regression baseline.
 
 ---
 
-## Prerequisites (Rohit — nothing else blocks on these)
+## Prerequisites — RESOLVED 2026-07-15 (provider decision by Rohit)
 
-1. **Anthropic API credential** (checked 2026-07-15: none configured on this
-   machine — no `ANTHROPIC_API_KEY`, no `ant` profile). Either
-   `export ANTHROPIC_API_KEY=...` in the shell profile, or install the `ant`
-   CLI and run `ant auth login`. Without it W4/W5 cannot run; W1–W3 can.
-2. **Buescher 2007** (physical book or scan): the kārikā translations for all
-   30 verses, typed or scanned into `agent/data/eval/buescher.json`
-   (`{verse: n, translation: "..."}`). The pipeline never fills this from
-   model memory — absent data stays "pending".
+1. ~~Anthropic API credential~~ → **OpenAI API key** supplied in `.env`
+   (gitignored, never committed). Budget authorized: **< $50**; pipeline
+   hard-stops at $25 estimated spend. Reasoner + raw-LLM baseline both use
+   the same OpenAI model for a fair A/B.
+2. ~~Buescher 2007 typed in by Rohit~~ → **human baseline sourced from the
+   web**: find a digitized published scholarly translation of the 30 kārikās
+   (Buescher if findable; else another published translation, e.g. Anacker
+   1984), fetched from a real URL and stored with full citation + source URL
+   in `agent/data/eval/human_baseline.json`. NEVER filled from model memory;
+   verses not found online stay "pending". Rohit may supply the physical
+   Buescher within a week if web sourcing fails.
 3. Optional: a decision on the MITRA baseline if endpoint discovery fails
    (see W5 fallback).
 
-## Design decisions (grounded in Phase 0 + API reference, 2026-07-15)
+## Design decisions (grounded in Phase 0 + live checks, 2026-07-15)
 
-- **Reasoner: `claude-opus-4-8`** via the Python SDK (`anthropic` package,
-  added to the `ml` dependency group). Adaptive thinking
-  (`thinking={"type": "adaptive"}`), `output_config={"effort": "high"}`,
-  no sampling params (removed on Opus 4.8). `max_tokens=16000`, non-streaming;
-  switch to `messages.stream()` only if timeouts appear.
+- **Reasoner: `gpt-5.5-2026-04-23`** (dated snapshot pinned for
+  reproducibility; best non-pro flagship on the supplied key, verified via
+  `/v1/models`). OpenAI Python SDK, Chat Completions with structured outputs
+  (`parse()` + Pydantic schema), `reasoning_effort="high"` where supported,
+  no temperature (unsupported on reasoning models).
 - **Structured outputs, not tool use.** The loop is code-controlled (a
   workflow, not a model-driven agent): we assemble context, make ONE
   `client.messages.parse()` call with a Pydantic apparatus schema, verify

@@ -393,6 +393,59 @@ def verify_tinanta_claim(
         )
 
 
+def verify_compound_claim(
+    surface_iast: str,
+    stem_iast: str,
+    linga: str,
+    vibhakti: str,
+    vacana: str,
+    samasa_type: str,
+    vigraha: str,
+    members: list[str],
+    *,
+    run_id: str,
+    context: dict,
+    source: str = "llm",
+) -> dict:
+    """Canonical compound policy (vidyut samāsa coverage is partial):
+    1. the whole inflected compound is checked as an opaque stem (prakriya);
+    2. the samāsa RELATION is logged `unsupported` with the claim recorded;
+    3. each member is kosha-checked (known-form).
+    Returns {"stem": rec, "relation": rec, "members": [recs], "status": ...}
+    where status rolls up to the stem check's result."""
+    stem_rec = verify_subanta_claim(
+        surface_iast, stem_iast, linga, vibhakti, vacana,
+        run_id=run_id, context=context, source=source,
+        notes=f"{samasa_type} checked as opaque stem",
+    )
+    relation_rec = mark_unsupported(
+        surface_iast,
+        f"samāsa relation ({samasa_type}: {vigraha}) not expressible in vidyut; "
+        f"members {', '.join(members)} checked separately",
+        run_id=run_id, context=context, source=source,
+    )
+    member_recs = []
+    for m in members:
+        key, entries = kosha_lookup(m)
+        member_recs.append(
+            _record(
+                run_id=run_id, context=context, surface_iast=m,
+                claim={"source": source, "lemma": m, "analysis": None},
+                method="kosha",
+                result="pass" if entries else "unsupported",
+                expected_forms=[], prakriya_rules=[],
+                notes=f"compound member of {surface_iast}"
+                + ("" if entries else " [not in kosha as bare form]"),
+            )
+        )
+    return {
+        "stem": stem_rec,
+        "relation": relation_rec,
+        "members": member_recs,
+        "status": stem_rec["result"],
+    }
+
+
 def kosha_check(
     surface_iast: str,
     *,
