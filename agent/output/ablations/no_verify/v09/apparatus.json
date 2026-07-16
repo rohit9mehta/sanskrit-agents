@@ -1,0 +1,373 @@
+{
+ "verse": 9,
+ "analysis": [
+  {
+   "surface": "sarvatragaiḥ",
+   "surface_in_sandhi": "sarvatragair",
+   "lemma": "sarvatraga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sarvatra gacchatīti gaḥ",
+    "members": [
+     "sarvatra",
+     "ga"
+    ]
+   },
+   "note": "Technical class-name used substantively/adjectivally with caitasaiḥ: “universal/all-pervasive” mental factors.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvatraga as Pum/Trtiya/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "viniyataiḥ",
+   "surface_in_sandhi": "viniyataiḥ",
+   "lemma": "viniyata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominalized past participial adjective from vi-ni-√yam, here a technical class-name: “determinate/restricted” mental factors.",
+   "verification": {
+    "status": "pass",
+    "detail": "viniyata Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kuśalaiḥ",
+   "surface_in_sandhi": "kuśalaiś",
+   "lemma": "kuśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical ethical class-name: wholesome mental factors.",
+   "verification": {
+    "status": "pass",
+    "detail": "kuśala Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "caitasaiḥ",
+   "surface_in_sandhi": "caitasair",
+   "lemma": "caitasa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Used substantively: mental factors/concomitants.",
+   "verification": {
+    "status": "pass",
+    "detail": "caitasa Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "asau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular, agreeing with saṃprayuktā and trivedanā; the antecedent is supplied from the preceding verse-context.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṃprayuktā",
+   "surface_in_sandhi": "saṃprayuktā",
+   "lemma": "saṃprayukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective from sam-pra-√yuj, predicative with asau; it governs the instrumental plurals.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃprayukta Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Connective adverb: “likewise/also,” extending the saṃprayuktā-construction to kleśaiḥ and upakleśaiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kleśaiḥ",
+   "surface_in_sandhi": "kleśair",
+   "lemma": "kleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical Yogācāra/Abhidharma term: afflictions.",
+   "verification": {
+    "status": "pass",
+    "detail": "kleśa Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "upakleśaiḥ",
+   "surface_in_sandhi": "upakleśais",
+   "lemma": "upakleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical term: secondary or subsidiary afflictions.",
+   "verification": {
+    "status": "pass",
+    "detail": "upakleśa Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "trivedanā",
+   "surface_in_sandhi": "trivedanā",
+   "lemma": "trivedanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "tisro vedanāḥ yasyāḥ sā",
+    "members": [
+     "tri",
+     "vedanā"
+    ]
+   },
+   "note": "Predicative bahuvrīhi agreeing with the feminine subject: “having three feelings,” not two separate words tri + vedanā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem trivedanā as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The series beginning with sarvatragaiḥ is not translated merely as ordinary adjectives such as “all-pervading, restrained, good” nor kleśa as generic “pain”; Sthiramati treats the items beginning with sarvatraga as headings already mentioned and requiring subsequent display.",
+   "options_considered": [
+    "Translate sarvatraga, viniyata, kuśala, kleśa, upakleśa as ordinary non-technical descriptors.",
+    "Translate them as technical class-headings in a caitasa/caitta taxonomy."
+   ],
+   "chosen": "technical class-names: universal, determinate, wholesome mental factors, afflictions, and secondary afflictions",
+   "evidence": [
+    {
+     "lines": [
+      493
+     ],
+     "quote": "ya ete sarvatragādaya uddiṣṭās te na vijñāyanta ity atas tatpradarśanārtham",
+     "translation": "Since these, beginning with the sarvatragas, have been stated but are not understood, therefore, for the purpose of displaying them..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The verse says that the feminine subject is “conjoined/associated” with the listed classes. tathā is therefore taken as “likewise/also,” adding kleśaiḥ and upakleśaiḥ to the same instrumental construction rather than starting an independent clause.",
+   "options_considered": [
+    "Construe only caitasaiḥ with saṃprayuktā and leave kleśaiḥ/upakleśaiḥ syntactically separate.",
+    "Construe the whole list of instrumentals with saṃprayuktā, tathā adding the later items."
+   ],
+   "chosen": "all the instrumental plurals are governed by saṃprayuktā, with tathā continuing the same construction",
+   "evidence": [
+    {
+     "lines": [
+      491,
+      492
+     ],
+     "quote": "sarvatragair viniyataiḥ kuśalaiś caitasair asau | saṃprayuktā tathā kleśair upakleśais trivedanā",
+     "translation": "With universal, determinate, and wholesome mental factors this is conjoined; likewise with afflictions and secondary afflictions; it has three feelings."
+    },
+    {
+     "lines": [
+      493
+     ],
+     "quote": "ya ete sarvatragādaya uddiṣṭās te na vijñāyanta",
+     "translation": "These, beginning with the sarvatragas, have been mentioned but are not understood."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although asau can be masculine or feminine in form, the feminine nominative predicates saṃprayuktā and trivedanā require the feminine reading here.",
+   "options_considered": [
+    "asau as nominative masculine singular, as in the analyzer output.",
+    "asau as nominative feminine singular agreeing with saṃprayuktā and trivedanā."
+   ],
+   "chosen": "asau is feminine nominative singular, with saṃprayuktā and trivedanā as feminine predicates",
+   "evidence": [
+    {
+     "lines": [
+      491,
+      492
+     ],
+     "quote": "caitasair asau | saṃprayuktā ... trivedanā",
+     "translation": "this [feminine] is conjoined with mental factors ... [and is] three-feelinged."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The printed verse has trivedanā as one word, and its feminine nominative singular form agrees predicatively with asau/saṃprayuktā. It is therefore not split as tri + vedanā, nor taken as an independent dvigu noun “the three feelings.”",
+   "options_considered": [
+    "Split tri and vedanā as two words.",
+    "Take trivedanā as a dvigu/tatpuruṣa substantive meaning “the three feelings.”",
+    "Take trivedanā as a bahuvrīhi adjective: “having three feelings.”"
+   ],
+   "chosen": "trivedanā is a bahuvrīhi predicate: “having three feelings”",
+   "evidence": [
+    {
+     "lines": [
+      492
+     ],
+     "quote": "saṃprayuktā tathā kleśair upakleśais trivedanā",
+     "translation": "conjoined likewise with afflictions and secondary afflictions, [it is] three-feelinged."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "With universal (sarvatraga), determinate (viniyata),\nand wholesome mental factors (caitasa), this [apprehension] is conjoined;\nlikewise with afflictions (kleśa) and secondary afflictions (upakleśa):\nit has three feelings (tri-vedanā).",
+ "one_shot_delta": [
+  "A commentary-blind rendering could treat sarvatraga, viniyata, kuśala, kleśa, and upakleśa as ordinary dictionary words; Sthiramati’s sarvatragādaya uddiṣṭāḥ shows they are technical headings to be displayed next.",
+  "It could follow the analyzer and make asau masculine; the verse’s feminine predicates require a feminine subject.",
+  "It could split trivedanā into tri + vedanā and translate “three feelings” as an independent noun phrase; the verse requires a predicative compound, “having three feelings.”",
+  "It could over-explain the individual members of these classes from the following verse; line 493 marks verse 9 only as the uddesa/listing whose pradarśana begins next."
+ ],
+ "analyzer_disagreements": [
+  "viniyataiḥ: the analyzer lemmatized it under viniyam; here it is analyzed as the nominal stem viniyata, Pum Trtiya Bahu, a technical class-name in the verse’s list.",
+  "asau: the analyzer marked nominative masculine singular; agreement with saṃprayuktā and trivedanā requires nominative feminine singular of adas.",
+  "saṃprayuktā: treated here as a subanta past passive participial adjective, Stri Prathama Eka, not as a finite verbal form.",
+  "tri_vedanā: the analyzer split the printed trivedanā into tri + vedanā; here it is one compound, Stri Prathama Eka, a predicative bahuvrīhi."
+ ],
+ "open_questions": [
+  "The supplied commentary on this verse does not define the individual items within the sarvatraga and following classes; that exposition begins in the lookahead to the next verse and is not used here as verse-9 evidence.",
+  "The explicit antecedent of asau lies outside this verse’s supplied span; the translation supplies “[apprehension]” only to make the feminine demonstrative intelligible in English."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3786,
+   "completion_tokens": 12543,
+   "reasoning_tokens": 9215
+  },
+  "est_cost": 0.1995,
+  "retrieval": {
+   "anchor": [
+    491,
+    492
+   ],
+   "span": [
+    493,
+    493
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

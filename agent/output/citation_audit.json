@@ -1,0 +1,3957 @@
+{
+ "totals": {
+  "verbatim": 287,
+  "near": 17,
+  "MISS": 0
+ },
+ "n_quotes": 304,
+ "rows": [
+  {
+   "verse": 1,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    25
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "lokaśāstrayor iti vākyaśeṣaḥ"
+  },
+  {
+   "verse": 1,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    28,
+    29,
+    30
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ātmā dharmāś copacaryanta ity ātmadharmopacāraḥ sa punar ātmaprajñaptir dharmaprajñaptiś c"
+  },
+  {
+   "verse": 1,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    49,
+    50,
+    51,
+    52,
+    53
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yac ca yatra nāsti tat tatropacaryate tad yathā bāhīke gauḥ evaṃ vijñānasvarūpe bahiś cātm"
+  },
+  {
+   "verse": 1,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    31,
+    32
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vividha ity anekaprakāraḥ"
+  },
+  {
+   "verse": 1,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    33,
+    34,
+    35
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ātmā jīvo jantur manujo māṇava ity evamādika ātmopacāraḥ skandhā dhātava āyatanāni rūpaṃ v"
+  },
+  {
+   "verse": 1,
+   "j": "J3",
+   "ev": 2,
+   "lines": [
+    36
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ayaṃ dviprakāro 'py upacāro vijñānapariṇāma eva na mukhye ātmani dharmeṣu ceti"
+  },
+  {
+   "verse": 1,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    26,
+    27
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñānapariṇāme 'sau ātmadharmopacāra iti saṃbadhyate"
+  },
+  {
+   "verse": 1,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    36,
+    37,
+    38
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ayaṃ dviprakāro 'py upacāro vijñānapariṇāma eva na mukhye ātmani dharmeṣu ceti kuta etat d"
+  },
+  {
+   "verse": 1,
+   "j": "J4",
+   "ev": 2,
+   "lines": [
+    55,
+    56
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "upacārasya ca nirādhārasyāsaṃbhavād avaśyaṃ vijñānapariṇāmo vastuto 'stīty upagantavyo yat"
+  },
+  {
+   "verse": 1,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ko 'yaṃ pariṇāmo nāma anyathātvam kāraṇakṣaṇanirodhasamakālaḥ kāraṇakṣaṇavilakṣaṇaḥ kāryas"
+  },
+  {
+   "verse": 1,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    61,
+    62,
+    63
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "evañ ca sarvaṃ vijñeyaṃ parikalpitasvabhāvatvād vastuto na vidyate vijñānaṃ punaḥ pratītya"
+  },
+  {
+   "verse": 1,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    149,
+    150,
+    151,
+    152
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñānapariṇāmaḥ kati prabheda iti na jñāyate atas tatprabhedopadarśanārtham āha pariṇāmaḥ"
+  },
+  {
+   "verse": 1,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    153,
+    154
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yatrātmādyupacāro dharmopacāraś ca sa punar hetubhāvena phalabhāvena ca bhidyate"
+  },
+  {
+   "verse": 1,
+   "j": "J6",
+   "ev": 2,
+   "lines": [
+    164
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yo 'sau trividhaḥ pariṇāma ukto 'sāv api na jñāyate"
+  },
+  {
+   "verse": 1,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    98,
+    99
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anyas tv āha asaty ātmani mukhye dharmeṣu copacāro na yujyate"
+  },
+  {
+   "verse": 1,
+   "j": "J7",
+   "ev": 1,
+   "lines": [
+    147,
+    148
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra yad uktaṃ asaty ātmani mukhye dharmeṣu copacāro na yukta iti tad ayuktam"
+  },
+  {
+   "verse": 2,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    169
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sa eṣa trividhaḥ pariṇāmo vipākākhyo mananākhyo viṣayavijñaptyākhyaś ca"
+  },
+  {
+   "verse": 2,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    170,
+    171
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra kuśalākuśalakarmavāsanāparipākavaśād yathākṣepaṃ phalābhinirvṛttir\nvipākaḥ"
+  },
+  {
+   "verse": 2,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    188
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvadhātugatiyonijātiṣu kuśalākuśalakarmavipākatvād vipākaḥ"
+  },
+  {
+   "verse": 2,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    172
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kliṣṭaṃ mano nityaṃ mananātmakatvān mananākhyam"
+  },
+  {
+   "verse": 2,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    173,
+    174
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "rūpādiviṣayapratyavabhāsatvāc cakṣurādivijñānaṃ ṣaṭprakāram api\nviṣayavijñaptiḥ"
+  },
+  {
+   "verse": 2,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    179,
+    180,
+    181
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatreti yo 'yam anantaroktas trividhaḥ pariṇāmaḥ\nālayākhyam ity\nālayavijñānasaṃjñakaṃ yad "
+  },
+  {
+   "verse": 2,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    183,
+    184
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvasāṃkleśikadharmabījasthānatvād ālayaḥ\nālayaḥ sthānam iti paryāyau"
+  },
+  {
+   "verse": 2,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    185,
+    186
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atha vālīyante upanibadhyante 'smin sarvadharmāḥ kāryabhāvena tad vālīyate\nupanibadhyate k"
+  },
+  {
+   "verse": 2,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    187
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijānātīti vijñānam"
+  },
+  {
+   "verse": 2,
+   "j": "J8",
+   "ev": 0,
+   "lines": [
+    189
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvadharmabījāśrayatvāt sarvabījakam"
+  },
+  {
+   "verse": 3,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    203,
+    204
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "asaṃviditaka upādir yasmin asaṃviditakā ca sthānavijñaptir yasmin tad\nālayavijñānam asaṃvi"
+  },
+  {
+   "verse": 3,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    205,
+    206,
+    207,
+    208
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "upādānam upādiḥ\nsa punar ātmādivikalpavāsanā rūpādidharmavikalpavāsanā ca\ntatsadbhāvād āla"
+  },
+  {
+   "verse": 3,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    212,
+    213,
+    214
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "āśrayopādānañ copādiḥ\nāśraya ātmabhāvaḥ sādhiṣṭhānam indriyarūpaṃ nāma ca\ntasya punar yad "
+  },
+  {
+   "verse": 3,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    210,
+    211
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tad iti pratisaṃvedanākāreṇāsaṃvidita ity atas tad asaṃviditakopādir ity\nucyate"
+  },
+  {
+   "verse": 3,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    220,
+    221
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tat punar upādānam idantayā\npratisaṃvedayitum aśakyam ity ato 'saṃvidita ity ucyate"
+  },
+  {
+   "verse": 3,
+   "j": "J3",
+   "ev": 2,
+   "lines": [
+    223,
+    224
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sāpy\naparicchinnālambanākārapravṛttatvād asaṃviditety ucyate"
+  },
+  {
+   "verse": 3,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    222
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sthānavijñaptir bhājanalokasaṃniveśavijñaptiḥ"
+  },
+  {
+   "verse": 3,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    223,
+    224
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sāpy\naparicchinnālambanākārapravṛttatvād asaṃviditety ucyate"
+  },
+  {
+   "verse": 3,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    203,
+    204
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "asaṃviditaka upādir yasmin asaṃviditakā ca sthānavijñaptir yasmin tad\nālayavijñānam asaṃvi"
+  },
+  {
+   "verse": 3,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrālayākhyaṃ vijñānam\nity uktaṃ vijñānañ cāvaśyaṃ caittaiḥ saṃprayuktam ity ato vaktavya"
+  },
+  {
+   "verse": 3,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    239,
+    240,
+    241
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sadeti yāvad ālayavijñānaṃ tāvad ebhiḥ\nsparśamanaskāravedanāsaṃjñācetanākhyaiḥ pañcabhiḥ s"
+  },
+  {
+   "verse": 3,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    497,
+    498,
+    499,
+    500
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tathā hi\nsadāsparśamanaskāravitsaṃjñācetanānvitam\niti prathamato nirdiṣṭāḥ\nsparśa eṣām ādi"
+  },
+  {
+   "verse": 3,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    242
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vedanā vit"
+  },
+  {
+   "verse": 3,
+   "j": "J7",
+   "ev": 1,
+   "lines": [
+    302,
+    303
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrālayavijñāne vid iti\nsāmānyopadeśena na vijñāyate tisṝṇāṃ vedanānāṃ katamā vedanā"
+  },
+  {
+   "verse": 3,
+   "j": "J7",
+   "ev": 2,
+   "lines": [
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vedanā anubhavasvabhāvā\nsā punar\nviṣayasyāhlādakaparitāpakatadubhayākāraviviktasvarūpasākṣ"
+  },
+  {
+   "verse": 3,
+   "j": "J8",
+   "ev": 0,
+   "lines": [
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra sparśas trikasaṃnipāte indriyavikāraparicchedaḥ\nvedanāsaṃniśrayadānakarmakaḥ\nindriya"
+  },
+  {
+   "verse": 3,
+   "j": "J8",
+   "ev": 1,
+   "lines": [
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "manaskāraś cetasa ābhogaḥ\nābhujanam ābhogaḥ\nālambane yena cittam\nabhimukhīkriyate\nsa punar"
+  },
+  {
+   "verse": 3,
+   "j": "J8",
+   "ev": 2,
+   "lines": [
+    291,
+    292,
+    293,
+    294,
+    295,
+    296
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "saṃjñā viṣayanimittodgrahaṇam\nviṣaya ālambanam\nnimittaṃ tadviśeṣo\nnīlapītādyālambanavyavas"
+  },
+  {
+   "verse": 3,
+   "j": "J8",
+   "ev": 3,
+   "lines": [
+    297,
+    298
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "cetanā cittābhisaṃskāro manasaś ceṣṭā yasyāṃ satyām ālambanaṃ prati cetasaḥ\npraspanda iva "
+  },
+  {
+   "verse": 4,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    308
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrety ālayavijñānam eva prakṛtatvāt saṃbadhyate"
+  },
+  {
+   "verse": 4,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    309,
+    310,
+    311
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "upekṣaivālayavijñāne\nvedanā na sukhā na duḥkhā tayoḥ paricchinnālambanākāratvād\nrāgadveṣān"
+  },
+  {
+   "verse": 4,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    312,
+    313
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anivṛtāvyākṛtañ ca tat\nālayavijñānam iti prakṛtam"
+  },
+  {
+   "verse": 4,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    314,
+    315,
+    316,
+    317,
+    318
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrānivṛtagrahaṇaṃ nivṛtavyavacchedārtham\navyākṛtagrahaṇaṃ kuśalākuśalavyavacchedārtham\nm"
+  },
+  {
+   "verse": 4,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tathā sparśādayaḥ\nyathālayavijñānam ekāntena vipāko 'paricchinnālambanākāraṃ sadā sparśādi"
+  },
+  {
+   "verse": 4,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    326,
+    327
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "na hi vipākena saṃprayuktānām avipākatvam\naparicchinnālambanākāreṇa ca paricchinnālambanāk"
+  },
+  {
+   "verse": 4,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    330,
+    331,
+    332,
+    333,
+    334,
+    335
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kiṃ punas tad ālayavijñānam ekam abhinnam āsaṃsāram anuvartate\nuta saṃtānena\nna hi tad eka"
+  },
+  {
+   "verse": 4,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    336,
+    337,
+    338,
+    339
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra sroto hetuphalayor\nnairantaryaprabandhena pravṛttiḥ\nudakasamūhasya pūrvāparabhāgāvic"
+  },
+  {
+   "verse": 4,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    340,
+    341,
+    342
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yathā hy oghas tṛṇakāṣṭhagomayādīn ākarṣayaṅ\ngacchaty evam ālayavijñānam api puṇyāpuṇyāneñ"
+  },
+  {
+   "verse": 5,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    345,
+    346,
+    349,
+    350,
+    351,
+    352
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kiṃ punar arhattvam\nyadyogād arhann ity ucyate\nkṣayajñānānutpādajñānalābhāt\ntasyāṃ hy avas"
+  },
+  {
+   "verse": 5,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    363,
+    364,
+    365
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tad āśritya pravartata iti tacchabdenālayavijñānam abhisaṃbadhyate\ntadvāsanāśrayo hy ālaya"
+  },
+  {
+   "verse": 5,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    366,
+    367,
+    368
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atha vā yasmin dhātau bhūmau vālayavijñānaṃ vipākas tad api\nkliṣṭaṃ manas taddhātukaṃ tadb"
+  },
+  {
+   "verse": 5,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    369,
+    370
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tadālambam ity ālayavijñānālambanam eva satkāyadṛṣṭyādibhiḥ saṃprayogād ahaṃ\nmamety ālayav"
+  },
+  {
+   "verse": 5,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    371,
+    372,
+    373,
+    374
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kathaṃ punar yata eva cittād utpadyate tad\neva tadālambanaṃ bhavati\nyathā tad anicchatāṃ k"
+  },
+  {
+   "verse": 5,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    375,
+    376,
+    377
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "manonāma vijñānam iti mana iti nāma ākhyā yasya vijñānasya tad ālayavijñānam\nāśritya prava"
+  },
+  {
+   "verse": 5,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    378,
+    379,
+    381,
+    382
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tat punaḥ kiṃ svabhāvam ity āha\nmananātmakam iti\nmananātmakatvān mana ity ucyate nairūkten"
+  },
+  {
+   "verse": 5,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    353,
+    354
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uktaḥ savibhaṅgo vipākapariṇāmaḥ\nidānīṃ mananākhyāṃ dvitīyaṃ pariṇāmam āha"
+  },
+  {
+   "verse": 5,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    357,
+    358,
+    359,
+    360
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra yathā cakṣurādivijñānānāṃ cakṣurādaya āśrayatvena rūpādayaś\ncālambanatvena prasiddhā"
+  },
+  {
+   "verse": 5,
+   "j": "J6",
+   "ev": 2,
+   "lines": [
+    375,
+    376,
+    377
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "manonāma vijñānam iti mana iti nāma ākhyā yasya vijñānasya tad ālayavijñānam\nāśritya prava"
+  },
+  {
+   "verse": 6,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    417,
+    418,
+    419
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "āha ca\navidyayā cātmadṛṣṭyā cāsmimānena tṛṣṇayā\nebhiś caturbhiḥ saṃkliṣṭaṃ mananālakṣaṇaṃ "
+  },
+  {
+   "verse": 6,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    386,
+    387,
+    388
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "caittā hi dviprakārāḥ kleśās tad anye ca\ntadanyebhyo vyavacchedārtham āha\nkleśair iti"
+  },
+  {
+   "verse": 6,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    389,
+    390
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kleśā api ṣaṭ\nna ca taiḥ saṃprayujyate 'taś caturbhir ity āha"
+  },
+  {
+   "verse": 6,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    391
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sahitam iti saṃprayuktam"
+  },
+  {
+   "verse": 6,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    401
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yāvat tad asti tāvat taiḥ saṃprayuktam"
+  },
+  {
+   "verse": 6,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    392,
+    393,
+    394,
+    395
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kleśā api dvividhāḥ\nakuśalā nivṛtāvyākṛtāś ca\nakuśalebhyo viśeṣārtham āha\nnivṛtāvyākṛtair "
+  },
+  {
+   "verse": 6,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    396,
+    397,
+    398
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "na hi nivṛtena vijñānenākuśalānāṃ saṃprayogaḥ saṃbhavati\nnivṛtāḥ kliṣṭatvāt\navyākṛtāḥ kuśa"
+  },
+  {
+   "verse": 6,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    399,
+    400,
+    401
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sadeti\nsarvakālam\nyāvat tad asti tāvat taiḥ saṃprayuktam"
+  },
+  {
+   "verse": 6,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    402,
+    403
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sāmānyanirdeśād viśeṣato na jñāyanta iti viśeṣato nirdiśati\nātmadṛṣṭyātmamohātmamānātmasne"
+  },
+  {
+   "verse": 6,
+   "j": "J7",
+   "ev": 1,
+   "lines": [
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "upādānaskandheṣv ātmeti darśanam ātmadṛṣṭiḥ satkāyadṛṣṭir ity arthaḥ\nmoho\n'jñānam\nātmany a"
+  },
+  {
+   "verse": 6,
+   "j": "J8",
+   "ev": 0,
+   "lines": [
+    411,
+    412,
+    413,
+    414,
+    415,
+    416
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrālayavijñānasvarūpe\nsaṃmūḍhaḥ sann ālayavijñāne ātmadṛṣṭim utpādayati\nātmadarśanād yā\n"
+  },
+  {
+   "verse": 7,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    427
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yatra jāto yatrajaḥ"
+  },
+  {
+   "verse": 7,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    428
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tanmayair iti yatra dhātau bhūmau vā jātas"
+  },
+  {
+   "verse": 7,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    428,
+    429,
+    430,
+    431
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tanmayair iti yatra dhātau bhūmau vā jātas\ntaddhātukais tadbhūmikair eva ca saṃprayujyate\n"
+  },
+  {
+   "verse": 7,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    441,
+    442
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "etair api yatra jātas tanmayair eva\nsaṃprayujyate nānyadhātubhūmikaiḥ"
+  },
+  {
+   "verse": 7,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kiṃ punaś caturbhir eva kleśaiḥ saṃprayujyate\nnety āha\nanyaiḥ sparśādyaiś ca\nsaṃprayujyata"
+  },
+  {
+   "verse": 7,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    443,
+    444,
+    445,
+    446
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atha vānyair iti mūlavijñānasaṃprayuktebhyo vyavacchedārtham\nmūlavijñāne hy anivṛtāvyākṛtā"
+  },
+  {
+   "verse": 7,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yadi tat kliṣṭaṃ manaḥ kuśalakliṣṭāvyākṛtāvasthāsv aviśeṣeṇa pravartate na\ntasya tarhi niv"
+  },
+  {
+   "verse": 7,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    456,
+    457,
+    458
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "bhāvāgrikabhāvanāprahātavyakleśavad arhattvaprāptyānantaryamārgeṇaiva\nprahīyate\ntad anyakl"
+  },
+  {
+   "verse": 7,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    459,
+    460,
+    461,
+    462
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ākiñcanyāyatanavītarāgasyāpy anāgāmino nirodhasamāpattilābhino mārgabalena\nnirodhasamāpatt"
+  },
+  {
+   "verse": 7,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    463,
+    464,
+    465,
+    466
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "mārge lokottare na ceti\nlokottaragrahaṇaṃ laukikavyavacchedārtham\nlaukike tu mārge kliṣṭaṃ"
+  },
+  {
+   "verse": 7,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    467,
+    468,
+    469,
+    470
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "nairātmyadarśanasyātmadarśanapratipakṣatvān na lokottaramārge\npravartitum utsaheta\nvipakṣa"
+  },
+  {
+   "verse": 8,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    473,
+    474
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uddiṣṭo nidiṣṭaś ceti nigamayati\ndvitīyapariṇāmāntaraṃ tṛtīyaḥ pariṇāmo vaktavya ity ata ā"
+  },
+  {
+   "verse": 8,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    475,
+    476,
+    477
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tṛtīyaḥ ṣaḍvidhasya yā\nviṣayasyopalabdhiḥ sā\ntṛtīyo vijñānapariṇāma iti vākyaśeṣaḥ"
+  },
+  {
+   "verse": 8,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    478,
+    479
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ṣaḍvidhasyeti ṣaṭprakārasya\nrūpaśabdagandharasaspraṣṭavya dharmātmakasya viṣayasya yā upal"
+  },
+  {
+   "verse": 8,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    479,
+    480
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "rūpaśabdagandharasaspraṣṭavya dharmātmakasya viṣayasya yā upalabdhir grahaṇaṃ\npratipattir "
+  },
+  {
+   "verse": 8,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    475,
+    476,
+    481
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tṛtīyaḥ ṣaḍvidhasya yā\nviṣayasyopalabdhiḥ sā\nsā punaḥ kiṃ kuśalākuśalāvyākṛtety ata āha"
+  },
+  {
+   "verse": 8,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    481,
+    482,
+    483
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sā punaḥ kiṃ kuśalākuśalāvyākṛtety ata āha\nkuśalākuśalādvayā\nkuśalākuśalādvayety avyākṛtāp"
+  },
+  {
+   "verse": 8,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    484,
+    485,
+    486,
+    487
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "alobhādveṣāmohaiḥ saṃprayuktā kuśalā\nlobhadveṣamohaiḥ saṃprayuktākuśalā\nkuśalākuśalair asa"
+  },
+  {
+   "verse": 9,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    493
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ya ete sarvatragādaya uddiṣṭās te na vijñāyanta ity atas tatpradarśanārtham"
+  },
+  {
+   "verse": 9,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    491,
+    492
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvatragair viniyataiḥ kuśalaiś caitasair asau | saṃprayuktā tathā kleśair upakleśais tri"
+  },
+  {
+   "verse": 9,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    493
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ya ete sarvatragādaya uddiṣṭās te na vijñāyanta"
+  },
+  {
+   "verse": 9,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    491,
+    492
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "caitasair asau | saṃprayuktā ... trivedanā"
+  },
+  {
+   "verse": 9,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    492
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "saṃprayuktā tathā kleśair upakleśais trivedanā"
+  },
+  {
+   "verse": 10,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    496
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ādau nirdiṣṭatvād ādyāḥ sarvatragā ity arthaḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    498,
+    499
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sadāsparśamanaskāravitsaṃjñācetanānvitam\niti prathamato nirdiṣṭāḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    500
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sparśa eṣām ādir iti sparśādayaḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    501,
+    502
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "te punaḥ\nsparśamanaskārādayaḥ pañca dharmāḥ sarvacittam anugacchantīti sarvatragāḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J2",
+   "ev": 2,
+   "lines": [
+    503,
+    504
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tathā hy eta ālayavijñāne kliṣṭe manasi pravṛttivijñāneṣu cāviśeṣeṇa\npravartante"
+  },
+  {
+   "verse": 10,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    505,
+    506,
+    507
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "viniyatān adhikṛtyāha\nchandādhimokṣasmṛtayaḥ saha\nsamādhidhībhyāṃ niyatāḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    568,
+    569,
+    570,
+    571
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ete hi pañca dharmāḥ parasparaṃ vyatiricyāpi pravartante\nevañ ca\nyatrādhimokṣas tatra nāva"
+  },
+  {
+   "verse": 10,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    508,
+    509
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "viśeṣe niyatatvād viniyatāḥ\neṣāṃ hi viśeṣa eva viṣayo na sarvaḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    572
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uktā viniyatāḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    510
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra chando 'bhiprete vastuny abhilāṣaḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    515
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "darśanaśravaṇādiprārthanā chandaḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 2,
+   "lines": [
+    517
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "adhimokṣo niścite vastuni tathaivāvadhāraṇam"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 3,
+   "lines": [
+    524,
+    525
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "evam etan nānyathety avadhāraṇam\nadhimokṣaḥ"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 4,
+   "lines": [
+    529
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "smṛtiḥ saṃstute vastuny asaṃpramoṣaś cetaso 'bhilapanatā"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 5,
+   "lines": [
+    533,
+    534
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "pūrvagṛhītasya vastunaḥ punaḥ punar ālambanākārasmaraṇam abhilapanatā\nabhilapanam evābhila"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 6,
+   "lines": [
+    538,
+    539,
+    540,
+    541
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "samādhir upaparīkṣye vastuni cittasyaikāgratā\nupaparīkṣyaṃ vastu guṇato\ndoṣato vā\nekāgratā"
+  },
+  {
+   "verse": 10,
+   "j": "J5",
+   "ev": 7,
+   "lines": [
+    545,
+    546,
+    547,
+    548,
+    549,
+    550
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "dhīḥ prajñā\nsāpy upaparīkṣya eva vastuni pravicayo yogāyogavihito 'nyathā\nveti\npravicinotī"
+  },
+  {
+   "verse": 10,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    572,
+    573,
+    574
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uktā viniyatāḥ\ntadanantaroddiṣṭās tv idānīṃ kuśalā vaktavyā ity ata āha\nśraddhātha hrīr ap"
+  },
+  {
+   "verse": 11,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    577
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "eta ekādaśa dharmā iti vākyaśeṣaḥ"
+  },
+  {
+   "verse": 11,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    679
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uktā ekādaśa kuśalāḥ"
+  },
+  {
+   "verse": 11,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    601,
+    602,
+    603,
+    604,
+    605
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "alobho lobhapratipakṣaḥ\nlobho nāma bhave bhavopakaraṇeṣu ca yāsaktiḥ\nprārthanā ca\ntatprati"
+  },
+  {
+   "verse": 11,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    607,
+    608,
+    609,
+    610,
+    611
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "adveṣo dveṣapratipakṣo maitrī\ndveṣo hi sattveṣu duḥkhe duḥkhasthānīyeṣu ca\ndharmeṣv āghāta"
+  },
+  {
+   "verse": 11,
+   "j": "J2",
+   "ev": 2,
+   "lines": [
+    613,
+    614,
+    615,
+    616,
+    617
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "amoho mohapratipakṣo yathābhūtasaṃpratipattiḥ\nmohaḥ karmaphalasatyaratneṣv\najñānam\nmohapra"
+  },
+  {
+   "verse": 11,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    619,
+    620,
+    621,
+    622,
+    623,
+    624
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vīryaṃ kausīdyapratipakṣaḥ kuśale cetaso 'bhyutsāhaḥ\nna tu kliṣṭe\nkliṣṭe\ntūtsāhaḥ kutsitat"
+  },
+  {
+   "verse": 11,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    625,
+    626,
+    627,
+    628,
+    629,
+    630,
+    631,
+    632,
+    633
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "praśrabdhir dauṣṭhulyapratipakṣaḥ kāyacittakarmaṇyatā\ndauṣṭhulyaṃ\nkāyacittayor akarmaṇyatā"
+  },
+  {
+   "verse": 11,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    638,
+    639,
+    640,
+    641,
+    642,
+    643,
+    644,
+    645
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sāpramādikā\nsahāpramādena pravartata iti sāpramādikā\nkā punar asau\nupekṣā\nkuta etat\nekānta"
+  },
+  {
+   "verse": 11,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    646,
+    647,
+    648,
+    649,
+    650
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrāpramādaḥ pramādapratipakṣaḥ\nalobhād yāvad vīryam apramādaḥ\nyān\nalobhādīn niśrityākuśa"
+  },
+  {
+   "verse": 11,
+   "j": "J5",
+   "ev": 2,
+   "lines": [
+    654
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "upekṣā cittasamatā cittapraśaṭhatā cittānābhogatā"
+  },
+  {
+   "verse": 11,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    670,
+    671,
+    672,
+    673,
+    674,
+    675,
+    676,
+    677,
+    678
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "avihiṃsā vihiṃsāpratipakṣaḥ\nvadhabandhanādibhiḥ sattvānām aviheṭhanam\navihiṃsā sattveṣu ka"
+  },
+  {
+   "verse": 11,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    679,
+    680,
+    681
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uktā ekādaśa kuśalāḥ\ntadanantaroddiṣṭās tu kleśā ity atas tān adhikṛtyāha\nkleśā rāgapratig"
+  },
+  {
+   "verse": 12,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    715
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "mānaḥ"
+  },
+  {
+   "verse": 12,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    752
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "dṛg iti sāmānyanirdeśe 'pi kleśādhikārāt pañcaiva kleśātmikāḥ"
+  },
+  {
+   "verse": 12,
+   "j": "J1",
+   "ev": 2,
+   "lines": [
+    767,
+    768
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vicikitsā\nkarmaphalasatyaratneṣu vimatiḥ"
+  },
+  {
+   "verse": 12,
+   "j": "J1",
+   "ev": 3,
+   "lines": [
+    772
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uktāḥ ṣaṭkleśās tadanantaroddiṣṭās tv idānīm upakleśā vaktavyā ity ata āha"
+  },
+  {
+   "verse": 12,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    716,
+    717,
+    718,
+    719,
+    720,
+    721
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "māno hi nāma sarva eva satkāyadṛṣṭisamāśrayeṇa pravartate\nsa punaś\ncittasyonnatilakṣaṇaḥ\nt"
+  },
+  {
+   "verse": 12,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    752,
+    753,
+    754
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "dṛg iti sāmānyanirdeśe 'pi kleśādhikārāt pañcaiva kleśātmikāḥ\nsatkāyadṛṣṭyādikā dṛṣṭayaḥ s"
+  },
+  {
+   "verse": 12,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    767,
+    768,
+    769,
+    770,
+    771
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vicikitsā\nkarmaphalasatyaratneṣu vimatiḥ\nvividhā matir vimatiḥ syān na\nsyād iti\nprajñātaś "
+  },
+  {
+   "verse": 12,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    774
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "mrakṣaḥ pradāśa īrṣyātha mātsaryaṃ saha māyayā"
+  },
+  {
+   "verse": 12,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    772
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "uktāḥ ṣaṭkleśās tadanantaroddiṣṭās tv idānīm upakleśā vaktavyā ity ata āha"
+  },
+  {
+   "verse": 12,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    774
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "mrakṣaḥ pradāśa īrṣyātha mātsaryaṃ saha māyayā"
+  },
+  {
+   "verse": 13,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    841,
+    842,
+    843,
+    844,
+    845
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "śāṭhyaṃ svadoṣapracchādanopāyasaṃgṛhītañ cetasaḥ kauṭilyam\nsvadoṣapracchādanopāyaḥ paravyā"
+  },
+  {
+   "verse": 13,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    849,
+    850,
+    851,
+    852,
+    853
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "lābhasatkārādhyavasitopāyābhyāṃ rāgamohābhyāṃ svadoṣapracchādanārthaṃ\nparavyāmohanāya prav"
+  },
+  {
+   "verse": 13,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "madaḥ svasaṃpattau raktasyoddharṣaś cetasaḥ paryādānam\nkulārogyayauvanabalarūpaiśvaryabudd"
+  },
+  {
+   "verse": 13,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    863,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vihiṃsā sattvaviheṭhanā\nvividhair vadhabandhanatāḍanatarjanādibhiḥ sattvānāṃ\nhiṃsā vihiṃsā"
+  },
+  {
+   "verse": 13,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    870,
+    871,
+    872
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "āhrīkyaṃ svayam avadyenālajjā\ntasmin karmaṇyātmānam ayogyaṃ manyamānasyāpi\nyāvadyenālajjā "
+  },
+  {
+   "verse": 13,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    873,
+    874,
+    875,
+    876
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anapatrāpyaṃ parato 'vadyenālajjā\nlokaśāstraviruddham etan mayā kriyata ity\nevam avagaccha"
+  },
+  {
+   "verse": 13,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "styānañ cittasyākarmaṇyatā staimityam\nstimitasya bhāvaḥ staimityaṃ yadyogāc\ncittaṃ jaḍībha"
+  },
+  {
+   "verse": 13,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    888,
+    889,
+    890,
+    891
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "auddhatyaṃ cittasyāvyupaśamaḥ\nvyupaśamo hi śamathas tadviruddho 'vyupaśamaḥ\nsa punar eṣa r"
+  },
+  {
+   "verse": 13,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "āśraddhyāṃ karmaphalasatyaratneṣv anabhisaṃpratyayaḥ śraddhāvipakṣaḥ\nśraddhā\nhy astitvaguṇ"
+  },
+  {
+   "verse": 13,
+   "j": "J8",
+   "ev": 0,
+   "lines": [
+    900,
+    901,
+    902,
+    903,
+    904
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kausīdyaṃ kuśale cetaso 'nabhyutsāho vīryavipakṣaḥ\nkuśale\nkāyavāṅmanaḥkarmaṇi nidrāpārśvaś"
+  },
+  {
+   "verse": 13,
+   "j": "J9",
+   "ev": 0,
+   "lines": [
+    905,
+    906,
+    907,
+    908,
+    909,
+    910
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "pramādo yair lobhadveṣamohakausīdyaiḥ kleśād rāgadveṣamohādikāc cittaṃ na\nrakṣati kaśalaṃ "
+  },
+  {
+   "verse": 13,
+   "j": "J10",
+   "ev": 0,
+   "lines": [
+    911,
+    912,
+    913,
+    914
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "muṣitā smṛtiḥ kliṣṭā smṛtiḥ\nkliṣṭeti kleśasaṃprayuktā\niyañ ca\nvikṣepasaṃniśrayadānakarmikā"
+  },
+  {
+   "verse": 14,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    915,
+    916,
+    917,
+    918,
+    919,
+    920
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vikṣepo rāgadveṣamohāṃśikaś cetaso visāraḥ\nvividhaṃ kṣipyate 'nena cittam\niti vikṣepaḥ\nyai"
+  },
+  {
+   "verse": 14,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    921,
+    922,
+    923,
+    924
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "asaṃprajanyaṃ kleśasaṃprayuktā prajñā yayāsaṃviditā kāyavākcittacaryā\nabhikramapratikramād"
+  },
+  {
+   "verse": 14,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    925,
+    926,
+    927,
+    928,
+    929,
+    930
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kaukṛtyaṃ cetaso vipratisāraḥ\nkutsitaṃ kṛtam iti kukṛtam\ntadbhāvaḥ\nkaukṛtyam\niha tu kukṛta"
+  },
+  {
+   "verse": 14,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    971,
+    972,
+    973
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrākuśalam akṛtvā kuśalañ ca kṛtvā yaś cetaso vilekhas tat saṃkliṣṭaṃ\nkaukṛtyam\nyat kuśa"
+  },
+  {
+   "verse": 14,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    931,
+    932,
+    933,
+    934,
+    935,
+    936,
+    937,
+    938,
+    939
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "middham asvatantravṛtticetaso 'bhisaṃkṣepaḥ\nvṛttir ālambane pravṛttiḥ\nsāsvatantrā cetaso y"
+  },
+  {
+   "verse": 14,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    940,
+    941,
+    942,
+    943,
+    944,
+    945,
+    946
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vitarkaḥ paryeṣako manojalpaḥ prajñācetanāviśeṣaḥ\nparyeṣakaḥ kim etad iti\nnirūpaṇākāraprav"
+  },
+  {
+   "verse": 14,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    954,
+    955,
+    956,
+    957,
+    958,
+    959,
+    960,
+    961,
+    962
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sa eva cittasyaudārikatā\naudārikateti\nsthūlatā vastumātraparyeṣaṇākāratvāt\neṣa ca nayo vic"
+  },
+  {
+   "verse": 14,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    966,
+    967,
+    968,
+    969,
+    970
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "dvaye dvidheti\ndvayañ ca dvayañ ca dvaye\nte punaḥ kaukṛtyamiddhe vitarkavicārau ca\nete ca\n"
+  },
+  {
+   "verse": 14,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    976,
+    977,
+    978,
+    979,
+    980,
+    981
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kāmavyāpādavihiṃsādivitarkāḥ kliṣṭāḥ\nnaiśkramyādivitarkā akliṣṭāḥ\nevaṃ\nparopaghātopāyavicā"
+  },
+  {
+   "verse": 15,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1010
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "pañcānām iti cakṣurādivijñānānāṃ tadanucaramanovijñānasahitḥnḥm"
+  },
+  {
+   "verse": 15,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1033,
+    1034
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "saced dvayos trayāṇāṃ sacet pañcānāṃ vijñānānām utpattipratyayaḥ\npratyupasthito bhavati sa"
+  },
+  {
+   "verse": 15,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1012,
+    1013
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "cakṣurādivijñānānāṃ bījāśrayatvāt tadutpatter gatiṣu janmopādānāc\ncālayavijñānaṃ mūlavijñā"
+  },
+  {
+   "verse": 15,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    1030,
+    1031
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "evam eva viśālamate tadoghasthānīyam ālayavijñānaṃ saṃniśritya\npratiṣṭhāya saced ekasya ca"
+  },
+  {
+   "verse": 15,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1014,
+    1015
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yathāpratyayam udbhava iti yasya\nyasya yaḥ pratyayaḥ saṃnihitas tasya tasya niyamenodbhava"
+  },
+  {
+   "verse": 15,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1016,
+    1017
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "saha na\nveti yugapat krameṇa vā"
+  },
+  {
+   "verse": 15,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1018,
+    1019
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "taraṅgāṇāṃ yathā jala ity ālayavijñānāt\npravṛttivijñānānāṃ yugapad ayugapac cotpattau dṛṣṭ"
+  },
+  {
+   "verse": 15,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tadyathā viśālamate mahata udakaughasya vahataḥ saced ekasya\ntaraṅgasyotpattipratyayaḥ pra"
+  },
+  {
+   "verse": 15,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1030,
+    1031,
+    1032,
+    1033,
+    1034
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "evam eva viśālamate tadoghasthānīyam ālayavijñānaṃ saṃniśritya\npratiṣṭhāya saced ekasya ca"
+  },
+  {
+   "verse": 15,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1039,
+    1040,
+    1041,
+    1042
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "na hi vijñānapratiniyamenālambanapratyayavat samanantarapratyaya iṣyate\nsarvavijñānotpatta"
+  },
+  {
+   "verse": 15,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    1047
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tasmād alambanasadbhāve pañcānām api cotpattir ity abhyupeyam"
+  },
+  {
+   "verse": 16,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1081,
+    1082
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "etāḥ pañcāvasthā varjayitvā tadanyāsu sarvāsv avasthāsu manovijñānapravṛttir\nveditavyā"
+  },
+  {
+   "verse": 16,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1083,
+    1084,
+    1085,
+    1086
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "evam āsaṃjñikādiṣu manovijñāne niruddhe tadapagame punaḥ kuta\nutpadyate yatas tasya kālakr"
+  },
+  {
+   "verse": 16,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1055
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvadeti sarvakālaṃ cakṣurādivijñānaiḥ saha vinā cety arthaḥ"
+  },
+  {
+   "verse": 16,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1056,
+    1057,
+    1058
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "asyotsargasyemam apavādam ārabhate\nāsaṃjñikād ṛte\nsamāpattidvayān middhān mūrcchanād apy a"
+  },
+  {
+   "verse": 16,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1081,
+    1082
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "etāḥ pañcāvasthā varjayitvā tadanyāsu sarvāsv avasthāsu manovijñānapravṛttir\nveditavyā"
+  },
+  {
+   "verse": 16,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1059,
+    1060
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatrāsaṃjñikam asaṃjñisattveṣu deveṣūpapannasya yaś cittacaitasikānāṃ\ndharmāṇāṃ nirodhaḥ"
+  },
+  {
+   "verse": 16,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1061
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "samāpattidvayam asaṃjñisamāpattir nirodhasamāpattiś ca"
+  },
+  {
+   "verse": 16,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1064,
+    1065
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "niḥsaraṇasaṃjñāpūrvakeṇa manasikāreṇa manovijñānasya tatsaṃprayuktānāñ ca\ncaittānāṃ yo nir"
+  },
+  {
+   "verse": 16,
+   "j": "J5",
+   "ev": 2,
+   "lines": [
+    1072,
+    1073,
+    1074
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "nirodhasamāpattir ākiñcanyāyatanavītarāgasya śāntavihārasaṃjñāpūrvakeṇa\nmanasikāreṇa sasaṃ"
+  },
+  {
+   "verse": 16,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1075,
+    1076
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "acittakaṃ middhaṃ gāḍhamiddhopahatatvād āśrayasya tāvatkālaṃ\nmanovijñānāpravṛtter acittaka"
+  },
+  {
+   "verse": 16,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    1077,
+    1078,
+    1079,
+    1080
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "acittikā mūrcchā\nāgantukenābhighātena vātapittaśleṣmavaiṣamyeṇa vā yad\nāśrayavaiṣamyaṃ\nman"
+  },
+  {
+   "verse": 17,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1096
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yo 'yaṃ vijñānapariṇāmas trividho 'nantaram abhihitaḥ so 'yaṃ vikalpaḥ"
+  },
+  {
+   "verse": 17,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1100
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tena trividhena vikalpenālayavijñānakliṣṭamanaḥpravṛttivijñānasvabhāvena"
+  },
+  {
+   "verse": 17,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1097,
+    1098,
+    1099
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "adhyāropitārthākārās traidhātukāś cittacaittā vikalpa ucyate\nyathoktam\nabhūtaparikalpas tu"
+  },
+  {
+   "verse": 17,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1100,
+    1101,
+    1102
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tena trividhena vikalpenālayavijñānakliṣṭamanaḥpravṛttivijñānasvabhāvena\nsasaṃprayogeṇa ya"
+  },
+  {
+   "verse": 17,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1125,
+    1126
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yasmāt pariṇāmātmakena vikalpena yad vikalpyate tena tan\nnāsti tasmād viṣayābhāvāt sarvaṃ "
+  },
+  {
+   "verse": 17,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1103
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "asadālambanatvāt"
+  },
+  {
+   "verse": 17,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1108,
+    1109,
+    1110,
+    1111,
+    1112,
+    1113,
+    1114
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "māyāgandharvanagarasvapnatimirādāv asaty apyālambane jāyate\nyadi ca\nvijñānasyālambanaprati"
+  },
+  {
+   "verse": 17,
+   "j": "J4",
+   "ev": 2,
+   "lines": [
+    1119,
+    1120
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tasmād adhyāropitarūpatvād vikalpasyālambanam asad iti\npratipattavyam"
+  },
+  {
+   "verse": 17,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1121,
+    1122,
+    1123,
+    1124,
+    1125,
+    1126
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anena tāvat samāropāntaṃ parihṛtyāpavādāntaparijihīrṣayā āha\ntenedaṃ sarvaṃ vijñāptimātrak"
+  },
+  {
+   "verse": 17,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1127,
+    1128,
+    1129,
+    1130,
+    1131
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvam iti traidhātukam\nasaṃskṛtañ ca\nmātraśabdas tadadhikaviṣayavyavacchedārthaḥ\nkakāraḥ\n"
+  },
+  {
+   "verse": 18,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1136
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra sarvadharmotpādanaśaktyanugamāt sarvabījaṃ vijñānam ity ālayavijñānam"
+  },
+  {
+   "verse": 18,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1137,
+    1138,
+    1139
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñānaṃ hy asarvabījam apy astīty ataḥ sarvabījam ity āha\nvijñānād anyad\napi kaiścit prad"
+  },
+  {
+   "verse": 18,
+   "j": "J1",
+   "ev": 2,
+   "lines": [
+    1140,
+    1141
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atha vā\nekapadavyabhicāre 'pi viśeṣaṇaviśeṣyatvadarśanān nāyaṃ doṣaḥ"
+  },
+  {
+   "verse": 18,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1142,
+    1143,
+    1144,
+    1145
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "pariṇāmas tathā tathā yāty anyonyavaśād iti\npūrvāvasthāto 'nyathābhāvaḥ pariṇāmaḥ\ntathā ta"
+  },
+  {
+   "verse": 18,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1146,
+    1147,
+    1148,
+    1149,
+    1150,
+    1151
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anyonyavaśād iti\ntathā hi cakṣurādivijñānaṃ svaśaktiparipoṣe vartamāne\nśaktiviśiṣṭasyālaya"
+  },
+  {
+   "verse": 18,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1150,
+    1151,
+    1152
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "evam anyonyavaśād yasmād ubhayaṃ\npravartate tasmād ālayavijñānād anyenānadhiṣṭhitād anekap"
+  },
+  {
+   "verse": 18,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1153,
+    1154
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra ca vartamāne janmani yathālayavijñānāt\npravṛttivijñānasyotpattir bhavati tathākhyāta"
+  },
+  {
+   "verse": 19,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1160,
+    1161,
+    1162
+   ],
+   "verdict": "near",
+   "score": 98.2,
+   "quote": "puṇyāpuṇyāneñjyacetanā karma / tena karmaṇā yad / anāgatātmabhāvābhinirvṛttaye ālayavijñān"
+  },
+  {
+   "verse": 19,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1176,
+    1177
+   ],
+   "verdict": "near",
+   "score": 98.8,
+   "quote": "evañ ca na kevalāḥ karmavāsanā grāhadvayavāsanānanugṛhītā vipākañ janayantīty / uktaṃ bhav"
+  },
+  {
+   "verse": 19,
+   "j": "J1",
+   "ev": 2,
+   "lines": [
+    1182,
+    1183
+   ],
+   "verdict": "near",
+   "score": 99.2,
+   "quote": "ākṣepakāle paryantāvasthite yathābalaṃ karmavāsanā grāhadvayavāsanāsahitā / upabhūktād vip"
+  },
+  {
+   "verse": 19,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1163
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "grāhadvayaṃ grāhyagraho grāhakagrāhaś ca"
+  },
+  {
+   "verse": 19,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    1164,
+    1165,
+    1166,
+    1167
+   ],
+   "verdict": "near",
+   "score": 98.0,
+   "quote": "tatra vijñānāt pṛthag eva / svasantānādhyāsitaṃ grāhyam astīty adhyavasāyo grāhyagrāhaḥ / "
+  },
+  {
+   "verse": 19,
+   "j": "J2",
+   "ev": 2,
+   "lines": [
+    1168,
+    1169
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "pūrvotpannagrāhyagrāhakagrāhākṣiptam / anāgatatajjātīyagrāhyagrāhakagrāhotpattibījaṃ grāha"
+  },
+  {
+   "verse": 19,
+   "j": "J2",
+   "ev": 3,
+   "lines": [
+    1172,
+    1173,
+    1174
+   ],
+   "verdict": "near",
+   "score": 98.6,
+   "quote": "grāhadvayavāsanā tu sarvakarmavāsanānāṃ yathāsvam ākṣiptātmabhāvotpādane / pravṛttānāṃ sah"
+  },
+  {
+   "verse": 19,
+   "j": "J2",
+   "ev": 4,
+   "lines": [
+    1178,
+    1179
+   ],
+   "verdict": "near",
+   "score": 97.0,
+   "quote": "ata evāha / grahādvayavāsanayā saheti"
+  },
+  {
+   "verse": 19,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1181,
+    1182
+   ],
+   "verdict": "near",
+   "score": 99.2,
+   "quote": "pūrvajanmopacitena karmaṇā ya iti vipāko 'bhinirvṛttas tasmin kṣīṇa ity / ākṣepakāle parya"
+  },
+  {
+   "verse": 19,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1185,
+    1186,
+    1187
+   ],
+   "verdict": "near",
+   "score": 97.5,
+   "quote": "kṣīṇe pūrvavipāka ity anena / śāśvatāntaṃ pariharati / anyaṃ vipākaṃ janayantīty ucchedānt"
+  },
+  {
+   "verse": 19,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1180
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janayanti tad iti"
+  },
+  {
+   "verse": 19,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1183,
+    1184
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "upabhūktād vipākād anyaṃ vipākaṃ tad evālayavijñānaṃ janayanti / ālayavijñānavyatirekeṇāny"
+  },
+  {
+   "verse": 19,
+   "j": "J4",
+   "ev": 2,
+   "lines": [
+    1449,
+    1450,
+    1451
+   ],
+   "verdict": "near",
+   "score": 98.5,
+   "quote": "atha vā yās tāḥ karmavāsanā grāhadvayavāsanāsahitāḥ / kṣīṇe pūrvavipāke 'nyaṃ vipākaṃ jana"
+  },
+  {
+   "verse": 20,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1297,
+    1298,
+    1299,
+    1300
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ādhyātmikabāhyavikalpyavastubhedena vikalpānām ānantyaṃ pradarśayann āha\nyena yena vikalpe"
+  },
+  {
+   "verse": 20,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1299,
+    1304
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yad yad vastu prakalpyate\nyad vastu vikalpyaviṣayas tad yasmāt sattābhāvān na vidyate"
+  },
+  {
+   "verse": 20,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1301,
+    1305,
+    1306,
+    1307
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "parikalpita evāsau svabhāva iti\ntasmāt tad vastu\nparikalpitasvabhāvam eva\nna hetupratyayap"
+  },
+  {
+   "verse": 20,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1313
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvam idaṃ vikalpamātram eva tadarthasya parikalpitarūpatvāt"
+  },
+  {
+   "verse": 20,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1302,
+    1303,
+    1304
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atra kāraṇam āha\nna sa vidyata iti\nyad vastu vikalpyaviṣayas tad yasmāt sattābhāvān na vid"
+  },
+  {
+   "verse": 20,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1315
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "na khalu punaḥ subhūte dharmās tathā vidyante yathā bālapṛthagjanā abhiniviṣṭā"
+  },
+  {
+   "verse": 20,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1308,
+    1309,
+    1310,
+    1311,
+    1312,
+    1313
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tathā hy\nekasmin vastuni tadabhāve ca parasparaviruddhānekavikalpapravṛttir dṛṣṭā\nna\nca ta"
+  },
+  {
+   "verse": 21,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1320,
+    1321,
+    1322
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atra ca vikalpa iti paratantrasvarūpam āha\npratyayodbhava ity anenāpi\nparatantrābhidhānapr"
+  },
+  {
+   "verse": 21,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1323,
+    1324,
+    1325,
+    1326
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tatra parikalpaḥ\nkuśalākuśalāvyākṛtabhedabhinnās traidhātukāś cittacaittāḥ\nyathoktam\nabhūt"
+  },
+  {
+   "verse": 21,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1327,
+    1328,
+    1329
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "parair hetupratyayais tantryata iti paratantra utpādyata ity arthaḥ\nsvato\n'nyahetupratyaya"
+  },
+  {
+   "verse": 21,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1331,
+    1332,
+    1333
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "pariniṣpannaḥ katham ity ata āha\nniṣpannas tasya pūrveṇa sadā rahitatā tu yā\navikāraparini"
+  },
+  {
+   "verse": 21,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1340
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sa pariniṣpannasvabhāvaḥ"
+  },
+  {
+   "verse": 21,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1334,
+    1335,
+    1336,
+    1337,
+    1338
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tasyeti paratantrasya pūrveṇeti\nparikalpitena tasmin vikalpe grāhyagrāhakabhāvaḥ parikalpi"
+  },
+  {
+   "verse": 21,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1339,
+    1340
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tena grāhyagrāhakeṇa paratantrasya sadā sarvakālam atyantarahitatā yā\nsa pariniṣpannasvabh"
+  },
+  {
+   "verse": 22,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1342,
+    1343,
+    1344,
+    1345,
+    1346,
+    1347,
+    1348
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ata eva sa naiveti parikalpitena svabhāvena paratantrasya sadā rahitatā\npariniṣpannaḥ\nrahi"
+  },
+  {
+   "verse": 22,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1349,
+    1350,
+    1351,
+    1352,
+    1353,
+    1354,
+    1355
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yadi hi pariniṣpannaḥ paratantrād anyaḥ syād\nevaṃ na parikalpitena paratantraḥ śūnyaḥ syāt"
+  },
+  {
+   "verse": 22,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1356,
+    1357
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anityatādivad vācyo\nnānyo nānanya iti vākyaśeṣaḥ"
+  },
+  {
+   "verse": 22,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1358,
+    1359,
+    1360,
+    1361,
+    1362,
+    1363,
+    1364,
+    1365
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yathā hy anityatā duḥkhatānātmatā ca\nsaṃskārādibhyo\nnānyā nānanyā\nyadi saṃskārebhyo 'nitya"
+  },
+  {
+   "verse": 22,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1366,
+    1367,
+    1368,
+    1369,
+    1370
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yadi grāhyagrāhakabhāvarahitaḥ paratantraḥ katham asau gṛhyate agṛhyamāṇo vā\nkatham astīti"
+  },
+  {
+   "verse": 22,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1371,
+    1372,
+    1373,
+    1374
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "nirvikalpalokottarajñānadṛśye pariniṣpanne svabhāve adṛṣṭe apratividdhe\nasākṣātkṛte tatpṛṣ"
+  },
+  {
+   "verse": 22,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1375,
+    1376
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "na punar\nlokottarajñānapṛṣṭhalabdhenāpi jñānena na dṛśyate"
+  },
+  {
+   "verse": 22,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1378,
+    1379,
+    1380,
+    1381,
+    1382,
+    1383,
+    1384,
+    1385
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tat pṛṣṭhalabdhena jñānena māyāmarīcisvapnapratiśrutkodakacandranirmitasamān\nsarvadharmān "
+  },
+  {
+   "verse": 23,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1391
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "traya eva svabhāvā na caturtho 'stīti jñāpanārthaṃ saṃkhyānirdeśaḥ"
+  },
+  {
+   "verse": 23,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1392,
+    1393
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "svena\nsvena lakṣaṇena vidyamānavad bhavatīti svbhāvaḥ"
+  },
+  {
+   "verse": 23,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1394,
+    1395
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "trividhā niḥsvabhāvatā lakṣaṇaniḥsvabhāvatā utpattiniḥsvabhāvatā\nparamārthaniḥsvabhāvatā c"
+  },
+  {
+   "verse": 23,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1396,
+    1397
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvadharmāḥ\nparikalpitaparatantrapariniṣpannātmakāḥ"
+  },
+  {
+   "verse": 23,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1394,
+    1395
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "trividhā niḥsvabhāvatā lakṣaṇaniḥsvabhāvatā utpattiniḥsvabhāvatā\nparamārthaniḥsvabhāvatā c"
+  },
+  {
+   "verse": 23,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1396,
+    1397
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvadharmāḥ\nparikalpitaparatantrapariniṣpannātmakāḥ"
+  },
+  {
+   "verse": 24,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1403
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "prathamaḥ parikalpitaḥ svabhāvo 'yaṃ ca lakṣaṇenaiva niḥsvabhāvas"
+  },
+  {
+   "verse": 24,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1404,
+    1405,
+    1406,
+    1407
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tallakṣaṇasyotprekṣitatvāt\nrūpalakṣaṇaṃ rūpam\nanubhavalakṣaṇā vedanetyādi\nataś ca svarūpāb"
+  },
+  {
+   "verse": 24,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1408
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "aparaḥ punar iti paratantrasvabhāvaḥ"
+  },
+  {
+   "verse": 24,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1409,
+    1410,
+    1411,
+    1412
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "na svayaṃbhāva etasya māyāvat\nparapratyayenotpatteḥ\nataś ca yathā prakhyāti tathāsyotpatti"
+  },
+  {
+   "verse": 25,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1414
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "paramaṃ hi lokottarajñānaṃ niruttaratvāt tasyārthaḥ paramārthaḥ"
+  },
+  {
+   "verse": 25,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1415,
+    1416,
+    1417
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atha\nvākāśavat sarvatraikarasārthena vaimalyāvikārārthena ca pariniṣpannaḥ\nsvabhāvaḥ param"
+  },
+  {
+   "verse": 25,
+   "j": "J1",
+   "ev": 2,
+   "lines": [
+    1418,
+    1419,
+    1420
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sa yasmāt pariniṣpannaḥ svabhāvaḥ sarvadharmāṇāṃ\nparatantrātmakānāṃ paramārthaḥ\ntaddharmat"
+  },
+  {
+   "verse": 25,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1418,
+    1419,
+    1420,
+    1421
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sa yasmāt pariniṣpannaḥ svabhāvaḥ sarvadharmāṇāṃ\nparatantrātmakānāṃ paramārthaḥ\ntaddharmat"
+  },
+  {
+   "verse": 25,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1426,
+    1427,
+    1428,
+    1429
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tathatāpi saḥ\napiśabdān na kevalaṃ tathatāśabdenaivābhidhātavyaḥ\nkiṃ tarhi yāvanto\ndharmad"
+  },
+  {
+   "verse": 25,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1430,
+    1431,
+    1432,
+    1433
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sarvakālaṃ tathābhāvāt\ntathatā\ntathā hi pṛthagjanaśaikṣāśaikṣāvasthāsu sarvakālaṃ tathaiva"
+  },
+  {
+   "verse": 25,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1434,
+    1435,
+    1436,
+    1437
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kiṃ punas tathatāvat pariniṣpanna eva vijñaptimātratā\nutānyā vijñaptimātratā\nata āha\nsaiva"
+  },
+  {
+   "verse": 25,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1444
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "saiva vijñaptimātratety anena vacanenābhisamaya uktaḥ"
+  },
+  {
+   "verse": 26,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1460,
+    1461,
+    1462
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yāvad advayalakṣaṇe vijñaptimātratve yoginaś cittaṃ na\npratiṣṭhitaṃ bhavati tāvad grāhyagr"
+  },
+  {
+   "verse": 26,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1454,
+    1455
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yāvac cittadharmatāyāṃ vijñaptimātrasaṃśabditāyāṃ vijñānaṃ\nnāvatiṣṭhate"
+  },
+  {
+   "verse": 26,
+   "j": "J2",
+   "ev": 1,
+   "lines": [
+    1460
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yāvad advayalakṣaṇe vijñaptimātratve yoginaś cittaṃ na"
+  },
+  {
+   "verse": 26,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1454,
+    1455
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñānaṃ\nnāvatiṣṭhate kiṃ tarhi grāhyagrāhakopalambhe carati"
+  },
+  {
+   "verse": 26,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1460,
+    1461
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yoginaś cittaṃ na\npratiṣṭhitaṃ bhavati"
+  },
+  {
+   "verse": 26,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1455,
+    1456,
+    1457
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kiṃ tarhi grāhyagrāhakopalambhe carati\ngrāhadvayaṃ grāhyagrāho\ngrāhakagrāhaś ca"
+  },
+  {
+   "verse": 26,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1463,
+    1464
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atra ca bahir upalambhāprahāṇenādhyātmikopalambhāprahāṇaṃ darśitam\niti"
+  },
+  {
+   "verse": 26,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1458,
+    1459
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tasyānuśayas tadāhitam anāgatagrāhadvayotpattaye bījam\nālayavijñāne"
+  },
+  {
+   "verse": 26,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1449,
+    1450,
+    1451
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atha vā yās tāḥ karmavāsanā grāhadvayavāsanāsahitāḥ\nkṣīṇe pūrvavipāke 'nyaṃ vipākaṃ janaya"
+  },
+  {
+   "verse": 26,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1461,
+    1462
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tāvad grāhyagrāhakānuśayo na vinivartate na prahīyata ity\narthaḥ"
+  },
+  {
+   "verse": 26,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    1451
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tasmāt kathaṃ prahāṇam aprahāṇaṃ cety ata āha"
+  },
+  {
+   "verse": 27,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1472,
+    1473
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "iti atha vā yaḥ punar ābhimānikaḥ śrutamātrakeṇa jānīyad ahaṃ\nvijñaptimātratāyāṃ śuddhāyāṃ"
+  },
+  {
+   "verse": 27,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1474,
+    1475
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñaptimātram evedam ity api hy upalambhata ity\nādi"
+  },
+  {
+   "verse": 27,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1476
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñaptimātram evedaṃ artharahitaṃ na bāhyo 'rtho 'stīty evam"
+  },
+  {
+   "verse": 27,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1477
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "upalambhato grahaṇataḥ citrīkaraṇata ity artho"
+  },
+  {
+   "verse": 27,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1481
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñānopalambhāprahāṇāt"
+  },
+  {
+   "verse": 27,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1477
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "ity artho 'grata ity abhimukhaṃ"
+  },
+  {
+   "verse": 27,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1478
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sthāpayann iti yathāśrutaṃ manasā"
+  },
+  {
+   "verse": 27,
+   "j": "J4",
+   "ev": 2,
+   "lines": [
+    1479,
+    1480
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "bahuprakāratvād yogācārālambanānāṃ kiṃcid ity āhāsthisaṃkalikaṃ vā vinīlakaṃ\nvā vipūyakaṃ "
+  },
+  {
+   "verse": 27,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1473
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñaptimātratāyāṃ śuddhāyāṃ sthita"
+  },
+  {
+   "verse": 27,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1480,
+    1481
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tanmātre nāvatiṣṭhate\nvijñānopalambhāprahāṇāt"
+  },
+  {
+   "verse": 27,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1474
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "vijñaptimātram evedam ity api hy upalambhata ity"
+  },
+  {
+   "verse": 28,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1486,
+    1488
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yasmin kāle deśanālambanaṃ avavādālambanaṃ prākṛtaṃ vā rūpaśabdādyālambanaṃ\n... tasmin kāl"
+  },
+  {
+   "verse": 28,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1486,
+    1487
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yasmin kāle deśanālambanaṃ avavādālambanaṃ prākṛtaṃ vā rūpaśabdādyālambanaṃ\njñānaṃ bahiś c"
+  },
+  {
+   "verse": 28,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1487
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "jñānaṃ bahiś cittān nopalabhate na paśyati na gṛhṇāti nābhiniviśate"
+  },
+  {
+   "verse": 28,
+   "j": "J3",
+   "ev": 1,
+   "lines": [
+    1488
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yathābhūtārthadarśanān na tu jātyandhavat"
+  },
+  {
+   "verse": 28,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1488,
+    1489
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tasmin kāle vijñānagrāhasya prahāṇaṃ\nsvacittadharmatāyāṃ ca pratiṣṭhito bhavati"
+  },
+  {
+   "verse": 28,
+   "j": "J4",
+   "ev": 1,
+   "lines": [
+    1495,
+    1496
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "grāhyagrāhakābhiniveśānuśayāḥ prahīyante svacittadharmatāyāṃ ca cittam\navasthitaṃ bhavati"
+  },
+  {
+   "verse": 28,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1484,
+    1485
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "yadā tv ālambanaṃ jñānaṃ naivopalabhate tadā | sthitaṃ vijñaptimātratve grāhyābhābhāve tad"
+  },
+  {
+   "verse": 28,
+   "j": "J5",
+   "ev": 1,
+   "lines": [
+    1494
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "samasamālambyālambakaṃ nirvikalpaṃ lokottaraṃ jñānam utpadyate"
+  },
+  {
+   "verse": 28,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1490,
+    1491
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "atraiva kāraṇam āha\ngrāhyābhāve tadagrahād iti"
+  },
+  {
+   "verse": 28,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    1492,
+    1493
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "grāhye sati grāhako bhavati na tu grāhyābhāva iti\ngrāhyābhāve grāhakābhāvam"
+  },
+  {
+   "verse": 29,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1507,
+    1508
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "grāhakacittābhāvād grāhyārthānupalambhāc\ncācitto 'nupalambho 'sau"
+  },
+  {
+   "verse": 29,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1509,
+    1510
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anucitatvāl loke samudācārābhāvān nirvikalpatvāc ca lokād uttīrṇam iti\njñānaṃ lokottarañ c"
+  },
+  {
+   "verse": 29,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1510,
+    1511
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "jñānaṃ lokottarañ ca tad iti\ntasya jñānasyānantaraṃ āśrayasya parāvṛttir bhavatīti jñāpanā"
+  },
+  {
+   "verse": 29,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1511,
+    1513
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "tasya jñānasyānantaraṃ āśrayasya parāvṛttir bhavatīti jñāpanārtham āha\nāśrayasya parāvṛtti"
+  },
+  {
+   "verse": 29,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1514,
+    1516
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "tasya parāvṛttir yā\ndauṣṭhulyavipākadvayavāsanābhāvena nivṛttau satyāṃ\nkarmaṇyatādharmakāy"
+  },
+  {
+   "verse": 29,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1519,
+    1521
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "dvidhādauṣṭhulyahānitaḥ\ndvidheti kleśāvaraṇadauṣṭhulyaṃ jñeyāvaraṇadauṣṭhulyañ ca\ndauṣṭhul"
+  },
+  {
+   "verse": 29,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    1529
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "dvidhā āvaraṇabhedena sottarā niruttarā cāśrayaparāvṛttir uktā"
+  },
+  {
+   "verse": 29,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    1521,
+    1523
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "dauṣṭhulyam\nāśrayasyākarmaṇyatā\ntat punaḥ kleśajñeyāvaraṇayor bījam"
+  },
+  {
+   "verse": 29,
+   "j": "J8",
+   "ev": 0,
+   "lines": [
+    1517,
+    1519
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "sā punar āśrayaparāvṛttiḥ kasya prahāṇāt prāpyate\nata āha\ndvidhādauṣṭhulyahānitaḥ"
+  },
+  {
+   "verse": 29,
+   "j": "J8",
+   "ev": 1,
+   "lines": [
+    1525,
+    1528
+   ],
+   "verdict": "near",
+   "score": 99.0,
+   "quote": "āśrayaparāvṛttiḥ śrāvakādigatadauṣṭhulyahānitaś ca prāpyate yad āha\nvimuktikāya iti\nbodhis"
+  },
+  {
+   "verse": 30,
+   "j": "J1",
+   "ev": 0,
+   "lines": [
+    1511,
+    1512,
+    1513,
+    1514,
+    1515,
+    1516
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "tasya jñānasyānantaraṃ āśrayasya parāvṛttir bhavatīti jñāpanārtham āha\nāśrayasya parāvṛtti"
+  },
+  {
+   "verse": 30,
+   "j": "J1",
+   "ev": 1,
+   "lines": [
+    1537,
+    1538,
+    1539
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sa evānāsravo dhātur iti\nsa evāśrayaparāvṛttirūpaḥ\nanāsravo dhātur ity ucyate nirdauṣṭhuly"
+  },
+  {
+   "verse": 30,
+   "j": "J2",
+   "ev": 0,
+   "lines": [
+    1539,
+    1540,
+    1541,
+    1542,
+    1543
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "anāsravo dhātur ity ucyate nirdauṣṭhulyatvāt\nsarvāsravavigata ity anāsravaḥ\nāryadharmahetu"
+  },
+  {
+   "verse": 30,
+   "j": "J3",
+   "ev": 0,
+   "lines": [
+    1544
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "acintyas tarkāgocaratvāt pratyātmavedyatvād dṛṣṭāntābhāvāc ca"
+  },
+  {
+   "verse": 30,
+   "j": "J4",
+   "ev": 0,
+   "lines": [
+    1545,
+    1546
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kuśalo\nviśuddhālambanatvāt kṣematvād anāsravadharmamayatvāc ca"
+  },
+  {
+   "verse": 30,
+   "j": "J5",
+   "ev": 0,
+   "lines": [
+    1547,
+    1548,
+    1549,
+    1550
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "dhruvo nityatvād\nakṣayatayā\nsukho nityatvād eva yad anityaṃ tad duḥkhaṃ ayaṃ ca nitya iti\n"
+  },
+  {
+   "verse": 30,
+   "j": "J6",
+   "ev": 0,
+   "lines": [
+    1525,
+    1526,
+    1527,
+    1528,
+    1529
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "āśrayaparāvṛttiḥ śrāvakādigatadauṣṭhulyahānitaś ca prāpyate yad āha\nvimuktikāya iti\nbodhis"
+  },
+  {
+   "verse": 30,
+   "j": "J6",
+   "ev": 1,
+   "lines": [
+    1551
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "kleśāvaraṇaprahāṇāc chrāvakāṇāṃ vimuktikāyaḥ"
+  },
+  {
+   "verse": 30,
+   "j": "J7",
+   "ev": 0,
+   "lines": [
+    1552,
+    1553,
+    1554,
+    1555
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "sa evāśrayaparāvṛttilakṣaṇo dharmākhyo 'py ucyate mahāmuner\nbhūmipāramitābhāvanayā kleśajñ"
+  },
+  {
+   "verse": 30,
+   "j": "J7",
+   "ev": 1,
+   "lines": [
+    1556,
+    1557
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "saṃsārāparityāgāt tadanupasaṃkleśatvād\nbodhisattvānāṃ sarvadharmavibhutvalābhataś ca dharm"
+  },
+  {
+   "verse": 30,
+   "j": "J7",
+   "ev": 2,
+   "lines": [
+    1558
+   ],
+   "verdict": "verbatim",
+   "score": 100.0,
+   "quote": "mahāmuner iti paramauneyayogād buddho bhagavān mahāmunir iti"
+  }
+ ]
+}

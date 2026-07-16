@@ -1,0 +1,502 @@
+{
+ "verse": 7,
+ "analysis": [
+  {
+   "surface": "yatrajaḥ",
+   "surface_in_sandhi": "yatrajas",
+   "lemma": "yatraja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yatra jātaḥ",
+    "members": [
+     "yatra",
+     "ja"
+    ]
+   },
+   "note": "The commentary gives the vigraha yatra jātaḥ, so this is treated as one compound adjective, not as two verse-words.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem yatraja as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tanmayaiḥ",
+   "surface_in_sandhi": "tanmayair",
+   "lemma": "tanmaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Not taken in its broad dictionary sense ‘made of that’; Sthiramati glosses it as taddhātuka/tadbhūmika. Formally this is treated as a lexical maya-derivative rather than entered here as a samāsa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tanmaya Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "arhataḥ",
+   "surface_in_sandhi": "arhato",
+   "lemma": "arhat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular ‘of/for an arhat’; not a finite verbal form of √arh.",
+   "verification": {
+    "status": "pass",
+    "detail": "arhat Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular referring, as the commentary says, to the kliṣṭaṃ manaḥ, the defiled mind.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "nirodhasamāpattau",
+   "surface_in_sandhi": "nirodhasamāpattau",
+   "lemma": "nirodhasamāpatti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "nirodhasya samāpattiḥ",
+    "members": [
+     "nirodha",
+     "samāpatti"
+    ]
+   },
+   "note": "Technical Buddhist term: cessation-attainment.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirodhasamāpatti as Stri/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "mārge",
+   "surface_in_sandhi": "mārge",
+   "lemma": "mārga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "mārga Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "lokottare",
+   "surface_in_sandhi": "lokottare",
+   "lemma": "lokottara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "lokād uttaraḥ",
+    "members": [
+     "loka",
+     "uttara"
+    ]
+   },
+   "note": "Adjective agreeing with mārge: ‘on/in the supramundane path’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem lokottara as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "With the preceding na: ‘nor/and not’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first word is not an independent yatra plus jaḥ in the verse; it is a compound whose force Sthiramati explains by a relative-location paraphrase.",
+   "options_considered": [
+    "Separate yatra ‘where’ + jaḥ ‘born’ as two words",
+    "A compound yatrajaḥ meaning ‘born where/wherever’",
+    "A non-technical ‘locally produced’ sense without dhātu/bhūmi reference"
+   ],
+   "chosen": "yatrajaḥ = ‘born wherever’, specifically born in a given dhātu or bhūmi.",
+   "evidence": [
+    {
+     "lines": [
+      427
+     ],
+     "quote": "yatra jāto yatrajaḥ",
+     "translation": "‘Born where’ is ‘where-born’."
+    },
+    {
+     "lines": [
+      428
+     ],
+     "quote": "tanmayair iti yatra dhātau bhūmau vā jātas",
+     "translation": "By ‘tanmayaiḥ’: born in whatever element/realm or level."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The instrumental tanmayaiḥ is construed with an understood saṃprayujyate and is restrictive: same realm/element and same level, not others.",
+   "options_considered": [
+    "‘Made of that’ or ‘absorbed in that’ in a general metaphysical sense",
+    "‘With those of that same realm/element and level’",
+    "Taking tanmayaiḥ without supplying any predicate"
+   ],
+   "chosen": "tanmayaiḥ means ‘with those belonging to that same dhātu and bhūmi’, and the supplied predicate is saṃprayujyate ‘is associated/conjoined’.",
+   "evidence": [
+    {
+     "lines": [
+      428,
+      429,
+      430,
+      431
+     ],
+     "quote": "tanmayair iti yatra dhātau bhūmau vā jātas\ntaddhātukais tadbhūmikair eva ca saṃprayujyate\nnānyadhātukair anyabhūmikair\nvā",
+     "translation": "By ‘tanmayaiḥ’: born in whatever element/realm or level, it is associated only with those belonging to that element and that level, not with those belonging to another element or another level."
+    },
+    {
+     "lines": [
+      441,
+      442
+     ],
+     "quote": "etair api yatra jātas tanmayair eva\nsaṃprayujyate nānyadhātubhūmikaiḥ",
+     "translation": "With these too, wherever it is born, it is associated only with those of that same kind, not with those of another element or level."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The words anyaiḥ sparśādyaiś ca are not entered as verse-words in this apparatus because the user-specified bhāṣya reading omits them; nevertheless Sthiramati explicitly comments them, so their force is recorded as contextual textual evidence.",
+   "options_considered": [
+    "Silently translating the vulgate phrase as part of the main verse",
+    "Ignoring Sthiramati’s comments on the longer phrase entirely",
+    "Analyzing the shorter bhāṣya surface while noting the longer commented wording as variant/contextual evidence"
+   ],
+   "chosen": "The shorter supplied bhāṣya surface is analyzed, while Sthiramati’s comments on anyaiḥ sparśādyaiś ca are treated as evidence for the longer/vulgate wording and for the semantic field of association.",
+   "evidence": [
+    {
+     "lines": [
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438
+     ],
+     "quote": "kiṃ punaś caturbhir eva kleśaiḥ saṃprayujyate\nnety āha\nanyaiḥ sparśādyaiś ca\nsaṃprayujyata iti saṃbadhyate\ncaśabdaḥ samuccayārthaḥ\nsparśādyair iti\nsparśamanaskāravedanāsaṃjñācetanābhiḥ",
+     "translation": "‘But is it associated only with the four afflictions?’ No, he says: ‘and with other factors beginning with contact.’ ‘Is associated’ is to be connected; the word ca has the sense of addition. ‘Beginning with contact’ means contact, attention, feeling, conception, and volition."
+    },
+    {
+     "lines": [
+      443,
+      444,
+      445,
+      446
+     ],
+     "quote": "atha vānyair iti mūlavijñānasaṃprayuktebhyo vyavacchedārtham\nmūlavijñāne hy anivṛtāvyākṛtāḥ sparśādayaḥ\nkliṣṭe tu manasi manovan\nnivṛtāvyākṛtāḥ",
+     "translation": "Alternatively, ‘other’ serves to exclude those associated with root-consciousness: in root-consciousness, contact and the rest are unobstructed-undetermined; but in the defiled mind, as in mental consciousness, they are obstructed-undetermined."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "arhataḥ is a genitive singular noun ‘of/for an arhat’, and tat refers to the kliṣṭaṃ manaḥ, not to an unspecified action or object of √arh.",
+   "options_considered": [
+    "‘The arhat does not deserve that’",
+    "‘That is not an arhat’",
+    "‘For an arhat, that defiled mind is not present’"
+   ],
+   "chosen": "arhato na tat = ‘for an arhat, that defiled mind is not’.",
+   "evidence": [
+    {
+     "lines": [
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454
+     ],
+     "quote": "yadi tat kliṣṭaṃ manaḥ kuśalakliṣṭāvyākṛtāvasthāsv aviśeṣeṇa pravartate na\ntasya tarhi nivṛttir asti\nanivṛtte ca tasmin kuto mokṣa iti kathaṃ na\nmokṣābhāvaḥ prasajyate\nna prasajyate yasmād\narhato na tat\nna nirodhasamāpattau mārge lokottare na ca\narhatas tāvad aśeṣakleśaprahāṇāt kliṣṭaṃ mano naivāsti",
+     "translation": "If that defiled mind operated indiscriminately in wholesome, afflicted, and undetermined states, then it would have no cessation; and if it did not cease, how could there be liberation? Would the absence of liberation not follow? It does not follow, because: ‘for an arhat that is not; nor in cessation-attainment, nor on the supramundane path.’ First, for an arhat, because all afflictions have been abandoned, the defiled mind simply does not exist."
+    },
+    {
+     "lines": [
+      456,
+      457,
+      458
+     ],
+     "quote": "bhāvāgrikabhāvanāprahātavyakleśavad arhattvaprāptyānantaryamārgeṇaiva\nprahīyate\ntad anyakleśavad arhattvāvasthāyān naiva vidyate",
+     "translation": "Like the afflictions of the summit of existence that are to be abandoned by cultivation, it is abandoned precisely by the uninterrupted path of attaining arhatship; like the other afflictions, it simply is not present in the state of arhatship."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The locative is the technical state nirodha-samāpatti, and the negation indicates non-operation/cessation there, not merely absence from a list.",
+   "options_considered": [
+    "A generic ‘cessation of attainment’",
+    "Any meditative absorption",
+    "The technical cessation-attainment in which the defiled mind is stopped"
+   ],
+   "chosen": "na nirodhasamāpattau means that the defiled mind is stopped in the state of cessation-attainment.",
+   "evidence": [
+    {
+     "lines": [
+      459,
+      460,
+      461,
+      462
+     ],
+     "quote": "ākiñcanyāyatanavītarāgasyāpy anāgāmino nirodhasamāpattilābhino mārgabalena\nnirodhasamāpatter labhyatvāṃ mārgavan nirodhasamāpattyavasthāyām api\nnirudhyate\nnirodhāc ca vyutthitasya punar ālayavijñānād eva pravartate",
+     "translation": "Even for a non-returner, dispassionate toward the sphere of nothingness and one who has obtained cessation-attainment, because cessation-attainment is obtained by the power of the path, it is stopped in the state of cessation-attainment as on the path; and when one has arisen from cessation, it operates again from the store-consciousness alone."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "lokottare restricts mārge: Sthiramati explicitly says the mention of ‘supramundane’ excludes the worldly path, where the defiled mind does operate.",
+   "options_considered": [
+    "‘Path’ in general, including worldly paths",
+    "A merely extraordinary/common-sense path",
+    "The supramundane path specifically, contrasted with the worldly path"
+   ],
+   "chosen": "mārge lokottare na ca = ‘nor on the supramundane path’, specifically excluding the worldly path.",
+   "evidence": [
+    {
+     "lines": [
+      463,
+      464,
+      465,
+      466
+     ],
+     "quote": "mārge lokottare na ceti\nlokottaragrahaṇaṃ laukikavyavacchedārtham\nlaukike tu mārge kliṣṭaṃ manaḥ\npravartata eva",
+     "translation": "As for ‘and not on the supramundane path’: the word ‘supramundane’ is for excluding the worldly. But on the worldly path the defiled mind does indeed operate."
+    },
+    {
+     "lines": [
+      467,
+      468,
+      469,
+      470
+     ],
+     "quote": "nairātmyadarśanasyātmadarśanapratipakṣatvān na lokottaramārge\npravartitum utsaheta\nvipakṣapratipakṣayor ayaugapadyāl lokottaramārge tan\nnirudhyate",
+     "translation": "Because the vision of selflessness is the antidote to the view of self, it cannot manage to operate on the supramundane path. Since opponent and antidote cannot occur simultaneously, it is stopped on the supramundane path."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Wherever it is born, it is associated only with factors of that same realm (dhātu) and level (bhūmi);\nfor an arhat, that defiled mind (kliṣṭaṃ manas) is not.\nNor is it present in cessation-attainment (nirodha-samāpatti),\nnor on the supramundane path (lokottara-mārga).",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely render tanmayaiḥ as ‘made of that’ or ‘absorbed in that’; Sthiramati defines it instead as association only with factors of the same dhātu and bhūmi.",
+  "It might fail to supply saṃprayujyate in the first pāda; Sthiramati repeatedly supplies ‘is associated/conjoined’.",
+  "It might construe arhataḥ through the verb √arh, as ‘deserving’, but the commentary makes it the genitive of the arhat and says the defiled mind is absent for an arhat.",
+  "It might treat lokottare mārge as any religious path or meditation; Sthiramati explicitly excludes the laukika path, on which the defiled mind still operates.",
+  "It might silently translate the vulgate anyaiḥ sparśādyaiś ca as if it were in the supplied bhāṣya surface; this apparatus keeps that phrase out of the word analysis while noting that Sthiramati comments it."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented yatra_jaḥ as two items; I analyze the verse-word as the single compound yatrajaḥ, because Sthiramati glosses yatra jāto yatrajaḥ at trbh 427.",
+  "ByT5 includes the vulgate tokens anyaiḥ sparśa ādyaiḥ ca; the requested bhāṣya reading omits them, so they are not included in the word analysis, though Sthiramati’s comments on them are cited as variant/contextual evidence.",
+  "ByT5 split nirodha samāpattau; I treat nirodhasamāpattau as one feminine locative singular compound, the technical nirodha-samāpatti.",
+  "ByT5’s tag for arhataḥ points to √arh as a present participial analysis; here the form is the technical noun-stem arhat, masculine genitive singular, as confirmed by arhatas tāvad at trbh 454."
+ ],
+ "open_questions": [
+  "The supplied bhāṣya reading omits anyaiḥ sparśādyaiś ca, yet Sthiramati explicitly comments those words at trbh 432–446. This apparatus follows the supplied bhāṣya surface for word analysis and treats the commented longer phrase as a textual/contextual variant."
+ ],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 6341,
+   "completion_tokens": 13185,
+   "reasoning_tokens": 9216
+  },
+  "est_cost": 0.2168,
+  "retrieval": {
+   "anchor": [
+    425,
+    425
+   ],
+   "span": [
+    427,
+    471
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

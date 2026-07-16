@@ -137,7 +137,16 @@ def _do_call(kwargs: dict, response_format):
     return c.chat.completions.parse(**kwargs, response_format=response_format)
 
 
-def _user_turn(b: RetrievalBundle) -> str:
+NO_COMMENTARY_NOTE = (
+    "\n\n## NOTE (ablation run)\n\nNo commentary is available for this run. "
+    "Base every decision on the grammar, the analyzer output, and the "
+    "dictionary alone. Justifications must NOT cite trbh lines (use empty "
+    "`lines` lists and set depends_on_commentary=false); describe your "
+    "grammatical/lexical reasoning instead."
+)
+
+
+def _user_turn(b: RetrievalBundle, include_commentary: bool = True) -> str:
     variants = ("\n".join(f"- bhāṣya `{v['bhasya']}` vs vulgate `{v['vulgate']}`"
                           for v in b.variants) or "none")
     analyze_txt = json.dumps(
@@ -148,6 +157,18 @@ def _user_turn(b: RetrievalBundle) -> str:
         for lem, entries in b.mw.items()) or "none retrieved"
     shared = (f"\nNOTE: verses {b.verse} and {b.shared_with} are quoted back-to-back "
               "and share this exposition." if b.shared_with else "")
+    commentary_sections = (
+        f"""
+
+## COMMENTARY SPAN (trbh {b.span[0]}–{b.span[1]}, line-numbered)
+
+{b.commentary_block()}
+
+## SEGMENTED COUNTERPART (2022 model output — convenience gloss, known ~15% line error rate)
+
+{chr(10).join(b.unsandhied_lines)}"""
+        if include_commentary else NO_COMMENTARY_NOTE
+    )
     return f"""## VERSE {b.verse} (bhāṣya reading; quoted at trbh {b.anchor})
 
 {b.verse_text}
@@ -157,15 +178,7 @@ Variant readings (skeleton-diff hunks): {variants}{shared}
 
 ## ANALYZE (ByT5-Sanskrit on the verse lines)
 
-{analyze_txt}
-
-## COMMENTARY SPAN (trbh {b.span[0]}–{b.span[1]}, line-numbered)
-
-{b.commentary_block()}
-
-## SEGMENTED COUNTERPART (2022 model output — convenience gloss, known ~15% line error rate)
-
-{chr(10).join(b.unsandhied_lines)}
+{analyze_txt}{commentary_sections}
 
 ## DICTIONARY (MW, cite as given)
 
@@ -178,10 +191,11 @@ def reason(
     bundle: RetrievalBundle,
     feedback: Optional[str] = None,
     prior: Optional[Apparatus] = None,
+    include_commentary: bool = True,
 ) -> tuple[Apparatus, dict]:
     messages = [
         {"role": "system", "content": PROMPT_PATH.read_text(encoding="utf-8")},
-        {"role": "user", "content": _user_turn(bundle)},
+        {"role": "user", "content": _user_turn(bundle, include_commentary)},
     ]
     if feedback and prior is not None:
         messages += [
@@ -191,5 +205,7 @@ def reason(
                 f"{feedback}\n\nRevise the apparatus per the system instructions "
                 "(correct only what is wrong; keep everything else stable)."},
         ]
-    tag = f"reason-v{bundle.verse:02d}" + ("-retry" if feedback else "")
+    tag = (f"reason-v{bundle.verse:02d}"
+           + ("" if include_commentary else "-nocomm")
+           + ("-retry" if feedback else ""))
     return _chat(messages, Apparatus, tag)

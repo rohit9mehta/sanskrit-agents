@@ -1,0 +1,537 @@
+{
+ "verse": 1,
+ "analysis": [
+  {
+   "surface": "ātmadharmopacāraḥ",
+   "surface_in_sandhi": "ātmadharmopacāro",
+   "lemma": "ātmadharmopacāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "ātmā dharmāś ca upacaryante iti ātmadharmopacāraḥ",
+    "members": [
+     "ātman",
+     "dharma",
+     "upacāra"
+    ]
+   },
+   "note": "Compound interpreted, with the bhāṣya, as the figurative imputation/designation of self and dharmas; the first two members form a nested dvandva in sense.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ātmadharmopacāra as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic causal/explanatory particle, rendered “for.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vividhaḥ",
+   "surface_in_sandhi": "vividho",
+   "lemma": "vividha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with ātmadharmopacāraḥ; glossed by the bhāṣya as anekaprakāraḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vividha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yaḥ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun referring to ātmadharmopacāraḥ and correlated with asau.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pravartate",
+   "surface_in_sandhi": "pravartate",
+   "lemma": "vṛt",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vṛt",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada intransitive form, here “takes place/is current.” The bhāṣya supplies lokaśāstrayoḥ as the unexpressed sphere in which it is current.",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-vṛt Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijñānapariṇāme",
+   "surface_in_sandhi": "vijñānapariṇāme",
+   "lemma": "vijñānapariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vijñānasya pariṇāmaḥ",
+    "members": [
+     "vijñāna",
+     "pariṇāma"
+    ]
+   },
+   "note": "Locative singular; construed as the locus/basis of the upacāra, not as a temporal absolute.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñānapariṇāma as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "'sau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The demonstrative points back to ātmadharmopacāraḥ; the bhāṣya explicitly connects vijñānapariṇāme ’sau with ātmadharmopacāraḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pariṇāmaḥ",
+   "surface_in_sandhi": "pariṇāmaḥ",
+   "lemma": "pariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Begins the second syntactic unit, “the transformation”; defined by the bhāṣya as anyathātvam and as the effect’s arising unlike the causal moment.",
+   "verification": {
+    "status": "pass",
+    "detail": "pariṇāma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to pariṇāma/vijñānapariṇāma, not to the upacāra.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Connective enclitic, “and.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tridhā",
+   "surface_in_sandhi": "tridhā",
+   "lemma": "tridhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable: “threefold, in three ways.” The bhāṣya takes it as introducing the subdivisions of vijñānapariṇāma.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya per MW (kosha gap; logged unsupported)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse’s pravartate has an unexpressed sphere of currency; the bhāṣya explicitly supplies lokaśāstrayoḥ. The translation therefore says the imputation is current “in world and śāstra.”",
+   "options_considered": [
+    "Leave pravartate without a supplied domain: “which occurs.”",
+    "Supply a vague adverb such as “generally.”",
+    "Supply the bhāṣya’s lokaśāstrayoḥ: “in world and śāstra.”"
+   ],
+   "chosen": "Supply “in the world and in śāstra/treatise” with pravartate.",
+   "evidence": [
+    {
+     "lines": [
+      25
+     ],
+     "quote": "lokaśāstrayor iti vākyaśeṣaḥ",
+     "translation": "The completion of the sentence is: “in the world and in the śāstras.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound does not mean service, attendance, or an act belonging to real selves and dharmas. Sthiramati defines it by a passive construction—self and dharmas are upacaryante—and immediately identifies it as ātmaprajñapti and dharmaprajñapti.",
+   "options_considered": [
+    "“Approach/service of self and dharmas.”",
+    "“Metaphor based on real self and real dharmas.”",
+    "“Figurative imputation/designation of self and dharmas.”"
+   ],
+   "chosen": "Render ātmadharmopacāra as “figurative imputation/designation of self and dharmas.”",
+   "evidence": [
+    {
+     "lines": [
+      28,
+      29,
+      30
+     ],
+     "quote": "ātmā dharmāś copacaryanta ity ātmadharmopacāraḥ sa punar ātmaprajñaptir dharmaprajñaptiś ca",
+     "translation": "Self and dharmas are figuratively designated: that is ātmadharmopacāra. It is, further, self-designation/imputation and dharma-designation/imputation."
+    },
+    {
+     "lines": [
+      49,
+      50,
+      51,
+      52,
+      53
+     ],
+     "quote": "yac ca yatra nāsti tat tatropacaryate tad yathā bāhīke gauḥ evaṃ vijñānasvarūpe bahiś cātmadharmābhāvāt parikalpita evātmā dharmāś ca na tu paramārthataḥ santīti",
+     "translation": "What is not present in a place is figuratively applied there, as in ‘the Bāhīka is an ox.’ Likewise, because self and dharmas are absent both in the nature of consciousness and outside it, self and dharmas are only imagined, not ultimately existent."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The bhāṣya glosses vividhaḥ as anekaprakāraḥ and then gives examples under self-upacāra and dharma-upacāra; it later calls the upacāra dviprakāraḥ.",
+   "options_considered": [
+    "Treat vividhaḥ as a merely ornamental “various.”",
+    "Make it refer to threefold pariṇāma.",
+    "Read it with the bhāṣya as many kinds of upacāra, principally self- and dharma-imputation."
+   ],
+   "chosen": "Take vividhaḥ as “manifold,” with self-imputation and dharma-imputation as its two main classes.",
+   "evidence": [
+    {
+     "lines": [
+      31,
+      32
+     ],
+     "quote": "vividha ity anekaprakāraḥ",
+     "translation": "‘Vividha’ means ‘of many kinds.’"
+    },
+    {
+     "lines": [
+      33,
+      34,
+      35
+     ],
+     "quote": "ātmā jīvo jantur manujo māṇava ity evamādika ātmopacāraḥ skandhā dhātava āyatanāni rūpaṃ vedanā saṃjñā saṃskārā vijñānam ity evamādiko dharmopacāraḥ",
+     "translation": "‘Self,’ ‘living being,’ ‘creature,’ ‘man,’ ‘person,’ and the like are self-upacāra; ‘aggregates,’ ‘elements,’ ‘sense-bases,’ ‘form,’ ‘feeling,’ ‘perception,’ ‘formations,’ ‘consciousness,’ and the like are dharma-upacāra."
+    },
+    {
+     "lines": [
+      36
+     ],
+     "quote": "ayaṃ dviprakāro 'py upacāro vijñānapariṇāma eva na mukhye ātmani dharmeṣu ceti",
+     "translation": "This twofold upacāra, too, is only with respect to the transformation of consciousness, not with respect to a primary/real self and dharmas."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya explicitly says that vijñānapariṇāme ’sau is to be connected with ātmadharmopacāra. It also explains why: self and dharmas do not exist outside the transformation of consciousness, and upacāra requires some basis, namely vijñānapariṇāma.",
+   "options_considered": [
+    "Take vijñānapariṇāme temporally: “when consciousness transforms.”",
+    "Take it as “into consciousness.”",
+    "Take it as the locus/basis: “upon/in the transformation of consciousness.”"
+   ],
+   "chosen": "Construe vijñānapariṇāme ’sau with ātmadharmopacāraḥ: “this [imputation] is upon/in the transformation of consciousness.”",
+   "evidence": [
+    {
+     "lines": [
+      26,
+      27
+     ],
+     "quote": "vijñānapariṇāme 'sau ātmadharmopacāra iti saṃbadhyate",
+     "translation": "‘This, in the transformation of consciousness’ is to be connected with ‘ātmadharmopacāra.’"
+    },
+    {
+     "lines": [
+      36,
+      37,
+      38
+     ],
+     "quote": "ayaṃ dviprakāro 'py upacāro vijñānapariṇāma eva na mukhye ātmani dharmeṣu ceti kuta etat dharmāṇām ātmanaś ca vijñānapariṇāmād bahir abhāvāt",
+     "translation": "This twofold upacāra is only with respect to the transformation of consciousness, not with respect to a primary/real self and dharmas. Why so? Because dharmas and self do not exist outside the transformation of consciousness."
+    },
+    {
+     "lines": [
+      55,
+      56
+     ],
+     "quote": "upacārasya ca nirādhārasyāsaṃbhavād avaśyaṃ vijñānapariṇāmo vastuto 'stīty upagantavyo yatrātmadharmopacāraḥ pravartate",
+     "translation": "Since an upacāra without a basis is impossible, one must accept that the transformation of consciousness really exists, there where the imputation of self and dharmas takes place."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Sthiramati defines pariṇāma as anyathātvam, a becoming-other, specifically the arising of an effect unlike the causal moment and simultaneous with that causal moment’s cessation. He also says that the word pariṇāma indicates the dependent arising of consciousness.",
+   "options_considered": [
+    "“Modification” as a vague change.",
+    "“Evolution” in a Sāṃkhya-like material sense.",
+    "“Transformation,” defined as other-becoming in a causal sequence of consciousness."
+   ],
+   "chosen": "Render pariṇāma as “transformation,” not as a static entity or mere external alteration.",
+   "evidence": [
+    {
+     "lines": [
+      39,
+      40,
+      41,
+      42,
+      43
+     ],
+     "quote": "ko 'yaṃ pariṇāmo nāma anyathātvam kāraṇakṣaṇanirodhasamakālaḥ kāraṇakṣaṇavilakṣaṇaḥ kāryasyātmalābhaḥ pariṇāmaḥ",
+     "translation": "What is this so-called transformation? Becoming otherwise. Transformation is the effect’s attaining its own existence, dissimilar to the causal moment and simultaneous with the cessation of the causal moment."
+    },
+    {
+     "lines": [
+      61,
+      62,
+      63
+     ],
+     "quote": "evañ ca sarvaṃ vijñeyaṃ parikalpitasvabhāvatvād vastuto na vidyate vijñānaṃ punaḥ pratītyasamutpannatvād dravyato 'stīty abhyupeyam pratītyasamutpannatvaṃ punar vijñānasya pariṇāmaśabdena jñāpitam",
+     "translation": "Thus everything knowable, being imagined in nature, does not exist in reality; but consciousness, being dependently arisen, is to be accepted as substantially existent. The dependent-arisenness of consciousness is indicated by the word ‘transformation.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The bhāṣya introduces the phrase pariṇāmaḥ sa ca tridhā precisely to answer how many subdivisions vijñānapariṇāma has. Thus tridhā does not classify the upacāra itself; it classifies the transformation in which the upacāra has its basis.",
+   "options_considered": [
+    "Take tridhā with ātmadharmopacāraḥ: “the imputation is threefold.”",
+    "Take saḥ as referring back to asau/upacāraḥ.",
+    "Take saḥ as referring to pariṇāma/vijñānapariṇāma, as the bhāṣya does."
+   ],
+   "chosen": "Let saḥ and tridhā qualify pariṇāma/vijñānapariṇāma: “that transformation is threefold.”",
+   "evidence": [
+    {
+     "lines": [
+      149,
+      150,
+      151,
+      152
+     ],
+     "quote": "vijñānapariṇāmaḥ kati prabheda iti na jñāyate atas tatprabhedopadarśanārtham āha pariṇāmaḥ sa ca tridhā",
+     "translation": "It is not known how many subdivisions the transformation of consciousness has. Therefore, in order to show its subdivisions, he says: ‘and that transformation is threefold.’"
+    },
+    {
+     "lines": [
+      153,
+      154
+     ],
+     "quote": "yatrātmādyupacāro dharmopacāraś ca sa punar hetubhāvena phalabhāvena ca bhidyate",
+     "translation": "That in which the imputation of self and the imputation of dharmas occur is further divided according to cause-aspect and effect-aspect."
+    },
+    {
+     "lines": [
+      164
+     ],
+     "quote": "yo 'sau trividhaḥ pariṇāma ukto 'sāv api na jñāyate",
+     "translation": "That threefold transformation which has been stated is itself not yet understood."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Lines 98–147 present another speaker’s objection; Sthiramati rejects it at lines 147–148. The translation therefore must not imply that real selves or dharmas are required as the primary terms of the figurative imputation.",
+   "options_considered": [
+    "Use the opponent’s theory as the bhāṣya’s own definition of upacāra.",
+    "Translate as if real primary selves and dharmas are presupposed.",
+    "Mark that theory as rejected and follow the Yogācāra construal."
+   ],
+   "chosen": "Treat the claim that upacāra requires a real primary self/dharmas as a rejected opponent’s view.",
+   "evidence": [
+    {
+     "lines": [
+      98,
+      99
+     ],
+     "quote": "anyas tv āha asaty ātmani mukhye dharmeṣu copacāro na yujyate",
+     "translation": "But another says: If there is no primary/real self and no primary/real dharmas, upacāra is not possible."
+    },
+    {
+     "lines": [
+      147,
+      148
+     ],
+     "quote": "tatra yad uktaṃ asaty ātmani mukhye dharmeṣu copacāro na yukta iti tad ayuktam",
+     "translation": "As for what was said there—‘if there is no primary/real self, and no primary/real dharmas, upacāra is not possible’—that is unreasonable."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For, in world and śāstra, the manifold figurative imputation (upacāra) of self (ātman) and dharmas (dharma) that is current—\nthis is upon the transformation of consciousness (vijñāna-pariṇāma);\nand that transformation (pariṇāma) is threefold.",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely miss the supplied lokaśāstrayoḥ and fail to say that the imputation is current “in world and śāstra.”",
+  "It might render upacāra by a generic dictionary sense such as “service” or “usage,” whereas the bhāṣya defines it as ātmaprajñapti and dharmaprajñapti, a figurative imputation/designation.",
+  "It might treat vijñānapariṇāme as a temporal phrase or as “into consciousness,” but Sthiramati construes it as the locus/basis of the self-and-dharma imputation.",
+  "It might take the long pūrvapakṣa on metaphor as Sthiramati’s own view and thereby imply real primary selves or dharmas; the bhāṣya explicitly rejects that.",
+  "It might attach tridhā to the imputation itself, but the commentary says the threefoldness belongs to vijñānapariṇāma/pariṇāma."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives the verbal lemma as prefixed pravṛt; this apparatus separates the bare root vṛt from the prefix pra, as required by the schema.",
+  "ByT5 segments vijñāna + pariṇāme; this apparatus records the inflected compound stem vijñānapariṇāma, since the bhāṣya treats vijñānapariṇāma as the technical unit under discussion.",
+  "ByT5 segments ātma + dharma + upacāraḥ without specifying the compound relation; this apparatus adds the bhāṣya’s passive-object/prajñapti interpretation of ātmadharmopacāra."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 10664,
+   "completion_tokens": 15201,
+   "reasoning_tokens": 10748
+  },
+  "est_cost": 0.26,
+  "retrieval": {
+   "anchor": [
+    24,
+    24
+   ],
+   "span": [
+    25,
+    164
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

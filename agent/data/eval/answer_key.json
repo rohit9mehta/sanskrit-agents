@@ -1,0 +1,168 @@
+{
+ "seed": 20260716,
+ "labels": {
+  "1": {
+   "A": "mitra",
+   "B": "agent",
+   "C": "raw_llm"
+  },
+  "2": {
+   "A": "mitra",
+   "B": "raw_llm",
+   "C": "agent"
+  },
+  "3": {
+   "A": "mitra",
+   "B": "agent",
+   "C": "raw_llm"
+  },
+  "4": {
+   "A": "agent",
+   "B": "mitra",
+   "C": "raw_llm"
+  },
+  "5": {
+   "A": "mitra",
+   "B": "raw_llm",
+   "C": "agent"
+  },
+  "6": {
+   "A": "agent",
+   "B": "mitra",
+   "C": "raw_llm"
+  },
+  "7": {
+   "A": "agent",
+   "B": "mitra",
+   "C": "raw_llm"
+  },
+  "8": {
+   "A": "mitra",
+   "B": "raw_llm",
+   "C": "agent"
+  },
+  "9": {
+   "A": "agent",
+   "B": "mitra",
+   "C": "raw_llm"
+  },
+  "10": {
+   "A": "agent",
+   "B": "raw_llm",
+   "C": "mitra"
+  },
+  "11": {
+   "A": "mitra",
+   "B": "agent",
+   "C": "raw_llm"
+  },
+  "12": {
+   "A": "agent",
+   "B": "raw_llm",
+   "C": "mitra"
+  },
+  "13": {
+   "A": "agent",
+   "B": "mitra",
+   "C": "raw_llm"
+  },
+  "14": {
+   "A": "raw_llm",
+   "B": "mitra",
+   "C": "agent"
+  },
+  "15": {
+   "A": "agent",
+   "B": "mitra",
+   "C": "raw_llm"
+  },
+  "16": {
+   "A": "raw_llm",
+   "B": "mitra",
+   "C": "agent"
+  },
+  "17": {
+   "A": "raw_llm",
+   "B": "mitra",
+   "C": "agent"
+  },
+  "18": {
+   "A": "mitra",
+   "B": "raw_llm",
+   "C": "agent"
+  },
+  "19": {
+   "A": "agent",
+   "B": "raw_llm",
+   "C": "mitra"
+  },
+  "20": {
+   "A": "raw_llm",
+   "B": "agent",
+   "C": "mitra"
+  },
+  "21": {
+   "A": "mitra",
+   "B": "raw_llm",
+   "C": "agent"
+  },
+  "22": {
+   "A": "raw_llm",
+   "B": "mitra",
+   "C": "agent"
+  },
+  "23": {
+   "A": "raw_llm",
+   "B": "agent",
+   "C": "mitra"
+  },
+  "24": {
+   "A": "raw_llm",
+   "B": "agent",
+   "C": "mitra"
+  },
+  "25": {
+   "A": "raw_llm",
+   "B": "agent",
+   "C": "mitra"
+  },
+  "26": {
+   "A": "raw_llm",
+   "B": "agent",
+   "C": "mitra"
+  },
+  "27": {
+   "A": "mitra",
+   "B": "raw_llm",
+   "C": "agent"
+  },
+  "28": {
+   "A": "raw_llm",
+   "B": "agent",
+   "C": "mitra"
+  },
+  "29": {
+   "A": "raw_llm",
+   "B": "agent",
+   "C": "mitra"
+  },
+  "30": {
+   "A": "agent",
+   "B": "raw_llm",
+   "C": "mitra"
+  }
+ },
+ "hard_subset": [
+  1,
+  2,
+  3,
+  6,
+  11,
+  13,
+  14,
+  16,
+  29,
+  30
+ ],
+ "hard_subset_rule": "top 10 verses by commentary-dependent justifications"
+}

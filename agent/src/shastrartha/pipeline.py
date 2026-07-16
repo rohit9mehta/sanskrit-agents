@@ -48,8 +48,11 @@ def _merge(app: Apparatus, report: VerifyReport, meta: dict) -> dict:
     return d
 
 
-def run_verse(n: int, analyze_fn, force: bool = False) -> dict:
-    out_dir = OUTPUT_DIR / f"v{n:02d}"
+def run_verse(n: int, analyze_fn, force: bool = False, mode: str = "full") -> dict:
+    """mode: 'full' | 'no_commentary' (retrieval ablated) | 'no_verify'
+    (verify-feedback retry ablated; attempt-1 accepted as-is)."""
+    out_dir = (OUTPUT_DIR / f"v{n:02d}" if mode == "full"
+               else OUTPUT_DIR / "ablations" / mode / f"v{n:02d}")
     out_json = out_dir / "apparatus.json"
     if out_json.exists() and not force:
         d = json.loads(out_json.read_text())
@@ -57,14 +60,17 @@ def run_verse(n: int, analyze_fn, force: bool = False) -> dict:
                 "est_cost": d["run"].get("est_cost", 0.0)}
 
     bundle = retrieve(n, analyze_fn)
+    include_commentary = mode != "no_commentary"
+    run_tag = "pipeline" if mode == "full" else f"ablation-{mode}"
 
-    app, usage1 = reason(bundle)
-    report = pipeline_verify(app, run_id=f"pipeline-v{n:02d}-a1")
+    app, usage1 = reason(bundle, include_commentary=include_commentary)
+    report = pipeline_verify(app, run_id=f"{run_tag}-v{n:02d}-a1")
     attempts, usages = 1, [usage1]
 
-    if report.failures:
-        app2, usage2 = reason(bundle, feedback=report.feedback(), prior=app)
-        report2 = pipeline_verify(app2, run_id=f"pipeline-v{n:02d}-a2")
+    if report.failures and mode != "no_verify":
+        app2, usage2 = reason(bundle, feedback=report.feedback(), prior=app,
+                              include_commentary=include_commentary)
+        report2 = pipeline_verify(app2, run_id=f"{run_tag}-v{n:02d}-a2")
         app, report = app2, report2
         attempts, usages = 2, [usage1, usage2]
 
@@ -74,6 +80,7 @@ def run_verse(n: int, analyze_fn, force: bool = False) -> dict:
     }
     meta = {
         "model": MODEL,
+        "mode": mode,
         "attempts": attempts,
         "usage": usage_total,
         "est_cost": round(estimated_cost(usage_total), 4),
