@@ -201,14 +201,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Subject of deśitā; same technical abstract as the accusative earlier, here the generally taught thesis. I retain feminine nominative singular despite the verifier report: as an ā-stem abstract in -tā, niḥsvabhāvatā has nominative singular niḥsvabhāvatā; a form niḥsvabhāvatāḥ would be nominative plural, not the verse form nor compatible with singular deśitā.",
+   "note": "Subject of deśitā; same technical abstract as the accusative earlier, here the generally taught thesis.",
    "verification": {
-    "status": "fail",
-    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: fail",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "niḥsvabhāvatāḥ"
-    ]
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: pass"
    }
   }
  ],
@@ -341,20 +337,20 @@
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 7,
-  "fail": 1,
+  "pass": 8,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 9778,
-   "completion_tokens": 17232,
-   "reasoning_tokens": 11773
+   "prompt_tokens": 3536,
+   "completion_tokens": 14020,
+   "reasoning_tokens": 11261
   },
-  "est_cost": 0.2878,
+  "est_cost": 0.2209,
   "retrieval": {
    "anchor": [
     1389,

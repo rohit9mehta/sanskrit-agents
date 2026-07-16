@@ -1,6 +1,6 @@
 # Triṃśikā v.1 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 11 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -20,7 +20,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 p
 | pariṇāmaḥ | pariṇāma | Pum. Prathama/Eka | pass |
 | saḥ | tad | Pum. Prathama/Eka | pass |
 | ca | ca | indecl. | pass |
-| tridhā | tridhā | indecl. | **fail — UNVERIFIED** |
+| tridhā | tridhā | indecl. | pass |
 
 ## Justifications
 
@@ -59,7 +59,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 p
 **J7. Lines 98–147 present another speaker’s objection; Sthiramati rejects it at lines 147–148. The translation therefore must not imply that real selves or dharmas are required as the primary terms of the figurative imputation.**
 - chosen: Treat the claim that upacāra requires a real primary self/dharmas as a rejected opponent’s view. (depends on commentary: **yes**)
 - trbh [98, 99]: `anyas tv āha asaty ātmani mukhye dharmeṣu copacāro na yujyate` — But another says: If there is no primary/real self and no primary/real dharmas, upacāra is not possible.
-- trbh [147, 148]: `tatra yad uktaṃ asaty ātmani mukhye dharmeṣu copacāro na yuktaḥ iti tad ayuktam` — As for what was said there—‘if there is no primary/real self, and no primary/real dharmas, upacāra is not possible’—that is unreasonable.
+- trbh [147, 148]: `tatra yad uktaṃ asaty ātmani mukhye dharmeṣu copacāro na yukta iti tad ayuktam` — As for what was said there—‘if there is no primary/real self, and no primary/real dharmas, upacāra is not possible’—that is unreasonable.
 
 ## Translation
 

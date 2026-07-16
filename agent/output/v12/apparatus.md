@@ -1,6 +1,6 @@
 # Triṃśikā v.12 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 7 pass / 2 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 9 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -14,11 +14,11 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 7 pa
 | ca | ca | indecl. | pass |
 | mrakṣaḥ | mrakṣa | Pum. Prathama/Eka | pass |
 | pradāśaḥ | pradāśa | Pum. Prathama/Eka | pass |
-| īrṣyā | īrṣyā | Stri. Prathama/Eka | **fail — UNVERIFIED** |
+| īrṣyā | īrṣyā | Stri. Prathama/Eka | pass |
 | atha | atha | indecl. | pass |
 | mātsaryam | mātsarya | Napumsaka. Prathama/Eka | pass |
 | saha | saha | indecl. | pass |
-| māyayā | māyā | Stri. Trtiya/Eka | **fail — UNVERIFIED** |
+| māyayā | māyā | Stri. Trtiya/Eka | pass |
 
 ## Justifications
 

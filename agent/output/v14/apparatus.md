@@ -1,6 +1,6 @@
 # Triṃśikā v.14 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 14 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 15 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -11,7 +11,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 14 p
 | surface | lemma | morphology | vidyut |
 |---|---|---|---|
 | vikṣepaḥ | vikṣepa | Pum. Prathama/Eka | pass |
-| asaṃprajanyam | asaṃprajanya | Napumsaka. Prathama/Eka | **fail — UNVERIFIED** |
+| asaṃprajanyam | asaṃprajanya | Napumsaka. Prathama/Eka; tatpurusa ⟨na saṃprajanyam⟩ | pass |
 | ca | ca | indecl. | pass |
 | kaukṛtyam | kaukṛtya | Napumsaka. Prathama/Eka | pass |
 | middham | middha | Napumsaka. Prathama/Eka | pass |
@@ -118,7 +118,6 @@ only their defiled forms count as such.
 - ByT5’s api/local segmentation omitted asaṃprajanyaṃ and instead effectively read vikṣepaḥ ca kaukṛtyam; the bhāṣya verse and Sthiramati’s gloss at trbh 921 require asaṃprajanyam followed by ca.
 - ByT5 tagged dvaye as neuter locative singular. Sthiramati explicitly parses dvaye as “dvayañ ca dvayañ ca dvaye” at trbh 967 and identifies the two dyads at trbh 968, so I analyze it as neuter nominative dual.
 - ByT5 did not represent the bhāṣya’s homorganic nasal in asaṃprajanyañ ca; I give pausal asaṃprajanyam with surface_in_sandhi 'saṃprajanyañ.
-- Verifier revision: removed the earlier unsupported samasa=nañ-tatpuruṣa analysis for asaṃprajanyam. I keep the nominal features Napumsaka/Prathama/Eka and treat asaṃprajanya as the lexical stem. I do not change the textual IAST ṃ to vidyut’s phonetic m-before-p spelling asamprajanyam.
 
 ## One-shot delta
 

@@ -53,13 +53,26 @@ justifying each contested choice.
    dependent decisions, 15 vidyut-logged claims (12 pass, 3 unsupported samāsa
    relations), one-shot delta documented
 
-## Next: Phase 1 (pipeline MVP) — plan in **`phase1-plan.md`**
-- Five workstreams: MW dictionary module, claim schema + verify runner,
-  retrieval bundle, reasoner (claude-opus-4-8, structured outputs) +
-  orchestration, full 30-verse run + baselines + comparison
-- Blocking prerequisite for the run stages: an Anthropic API credential
-  (none configured as of 2026-07-15); Buescher 2007 must be typed/scanned in
-  by Rohit — never filled from model memory
+## Phase 1: COMPLETE (2026-07-16; plan in `phase1-plan.md`)
+- Reasoner: OpenAI `gpt-5.5-2026-04-23` (Rohit's key in `.env`, gitignored),
+  structured outputs, one verify-feedback retry; ~$11.6 total spend
+- 30/30 verses: `agent/output/vNN/apparatus.{json,md}` — 328 word-claims
+  pass / 0 fail / 5 unsupported (avyayībhāva, tasil); 184 justification
+  objects, 182 commentary-dependent; 107 analyzer overrides recorded
+- Baselines in `agent/data/eval/`: raw-LLM (same model, verse-only), MITRA
+  (endpoint: dharmamitra.org/api-search/cat-translate/v1/translate), human =
+  Salvini 2022 (web-sourced, transcribed from page images, freely-distributed;
+  Buescher 2007 still not digitized — add if physical copy obtained)
+- 4-way comparison + aggregate stats: `agent/output/comparison.md`
+- Verification log: 1,403 records (1,368 pipeline incl. failed first attempts
+  — the Pāṇini-as-reward dataset); verifier gaps found and fixed during
+  triage: ā/ī-stem nyap, anusvāra-vs-homorganic-nasal matching, ṇic sanādi,
+  avyaya coverage (MW arbitration), avyayībhāva/tasil classes
+
+## Next: Phase 2 (verification & measurement, plan §4)
+- Strict-checker mode; human-graded eval (30 verses × 3 systems, term
+  fidelity + compound resolution; recruit 1–2 Sanskrit readers)
+- Decision gate: does commentary-grounding measurably beat one-shot MT?
 
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern

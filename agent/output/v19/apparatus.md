@@ -1,6 +1,6 @@
 # Triṃśikā v.19 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 8 pass / 2 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -12,13 +12,13 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 8 pa
 |---|---|---|---|
 | karmaṇaḥ | karman | Napumsaka. Sasthi/Eka | pass |
 | vāsanāḥ | vāsanā | Stri. Prathama/Bahu | pass |
-| grāhadvayavāsanayā | grāhadvayavāsanā | Stri. Trtiya/Eka; tatpurusa ⟨grāhadvayasya vāsanā; grāhadvayam = grāhyagrāhaś ca grāhakagrāhaś ca⟩ | **fail — UNVERIFIED** |
+| grāhadvayavāsanayā | grāhadvayavāsanā | Stri. Trtiya/Eka; tatpurusa ⟨grāhadvayasya vāsanā; grāhadvayam = grāhyagrāhaś ca grāhakagrāhaś ca⟩ | pass |
 | saha | saha | indecl. | pass |
 | kṣīṇe | kṣīṇa | Pum. Saptami/Eka | pass |
 | pūrvavipāke | pūrvavipāka | Pum. Saptami/Eka; karmadharaya ⟨pūrvaḥ vipākaḥ; specifically pūrvajanmopacitena karmaṇā abhinirvṛtto vipākaḥ⟩ | pass |
 | anyam | anya | Pum. Dvitiya/Eka | pass |
 | vipākam | vipāka | Pum. Dvitiya/Eka | pass |
-| janayanti | janay | janay, Kartari/Lat/Prathama/Bahu | **fail — UNVERIFIED** |
+| janayanti | jan | jan, Kartari/Lat/Prathama/Bahu | pass |
 | tat | tad | Napumsaka. Dvitiya/Eka | pass |
 
 ## Justifications

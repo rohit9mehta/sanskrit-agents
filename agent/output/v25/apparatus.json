@@ -134,14 +134,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Predicate nominative: “suchness.” In sandhi with api, the cluster is printed tathatāpi. I retain the Stri/Prathama/Eka analysis: the verse and commentary require nominative singular tathatā, and a verifier output tathatāḥ is treated here as a verifier limitation for this lexical/taddhita ā-stem, not as a reason to change the case or stem.",
+   "note": "Predicate nominative: “suchness.” In sandhi with api, the cluster is printed tathatāpi.",
    "verification": {
-    "status": "fail",
-    "detail": "tathatā Stri/Prathama/Eka: fail",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "tathatāḥ"
-    ]
+    "status": "pass",
+    "detail": "tathatā Stri/Prathama/Eka: pass"
    }
   },
   {
@@ -298,15 +294,18 @@
     "lakara": null,
     "purusha": null
    },
-   "samasa": null,
-   "note": "A single feminine abstract noun in -tā, “representation-only-ness.” The inner base is vijñapti-mātra, but the full inflected stem vijñaptimātratā is not itself marked here as a samāsa; this corrects the earlier over-specification of a karmadhāraya relation for the whole word. I retain Stri/Prathama/Eka: the required surface is nominative singular vijñaptimātratā, and the verifier’s vijñaptimātratāḥ is not accepted as a correction.",
-   "verification": {
-    "status": "fail",
-    "detail": "vijñaptimātratā Stri/Prathama/Eka: fail",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "vijñaptimātratāḥ"
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "vijñaptir eva mātram; vijñaptimātrasya bhāvaḥ",
+    "members": [
+     "vijñapti",
+     "mātra"
     ]
+   },
+   "note": "A single feminine abstract noun in -tā, “representation-only-ness.” The inner base is vijñapti-mātra; the final -tā is not a separate verse-word.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñaptimātratā as Stri/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
    }
   }
  ],
@@ -460,24 +459,24 @@
   "ByT5’s parama_Cp + arthaḥ_SNM segmentation is retained only as compound analysis; the verse pada is analyzed as the single subanta paramārthaḥ, with the tatpuruṣa vigraha supplied by trbh 1414.",
   "ByT5 gives no features for yatas; I analyze pausal yataḥ as a causal avyaya because Sthiramati paraphrases it with yasmāt ... tasmāt at trbh 1418–1420.",
   "ByT5 gives sarvakālam without features; I analyze it as an indeclinable adverb, supported by its commentarial use with bhavati at trbh 1432.",
-  "ByT5 splits vijñaptimātratā as vijñaptimātra_Cp + tā_SNF; I analyze the printed verse-word as one feminine nominative singular abstract noun in -tā, with only an inner vijñapti-mātra base and no samāsa claim for the full stem."
+  "ByT5 splits vijñaptimātratā as vijñaptimātra_Cp + tā_SNF; I analyze the printed verse-word as one feminine nominative singular abstract noun, with only an inner vijñapti-mātra compound."
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 11,
-  "fail": 2,
+  "pass": 13,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 15079,
-   "completion_tokens": 22849,
-   "reasoning_tokens": 15358
+   "prompt_tokens": 5675,
+   "completion_tokens": 14996,
+   "reasoning_tokens": 11263
   },
-  "est_cost": 0.388,
+  "est_cost": 0.242,
   "retrieval": {
    "anchor": [
     1402,

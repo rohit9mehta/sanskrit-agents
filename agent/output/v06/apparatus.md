@@ -1,6 +1,6 @@
 # Triṃśikā v.6 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 5 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 6 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -15,7 +15,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 5 pa
 | sahitam | sahita | Napumsaka. Prathama/Eka | pass |
 | nivṛtāvyākṛtaiḥ | nivṛtāvyākṛta | Pum. Trtiya/Bahu; karmadharaya ⟨nivṛtāś ca te avyākṛtāś ca⟩ | pass |
 | sadā | sadā | indecl. | pass |
-| ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ | ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñita | Pum. Trtiya/Bahu; tatpurusa ⟨ātmadṛṣṭiś cātmamohaś cātmamānaś cātmasnehaś ceti saṃjñitāḥ⟩ | **fail — UNVERIFIED** |
+| ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ | ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñita | Pum. Trtiya/Bahu; tatpurusa ⟨ātmadṛṣṭiś cātmamohaś cātmamānaś cātmasnehaś ceti saṃjñitāḥ⟩ | pass |
 
 ## Justifications
 
@@ -89,7 +89,7 @@ self-conceit (ātmamāna), and self-love/attachment (ātmasneha).
 ## Analyzer disagreements
 
 - ByT5 split nivṛtāvyākṛtaiḥ into nivṛta + avyākṛtaiḥ and tagged nivṛta as a separate participial item; I analyze the bhāṣya reading as one karmadhāraya compound stem nivṛtāvyākṛta, instr. pl. masc., because the commentary quotes nivṛtāvyākṛtair iti at trbh 395 and defines nivṛtāḥ/avyākṛtāḥ as two properties of the same kleśas at trbh 397–398.
-- ByT5 supplied component Cp tags for the long final expression; I analyze ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ as one inflected compound stem, instr. pl. masc., qualifying kleśaiḥ, because trbh 403 quotes it as the verse expression and trbh 404–410 unpack its four names. Vidyut derives the alternative parasavarṇa spelling with sañjñita; I do not adopt it as the verse surface because the bhāṣya reading explicitly has saṃjñitaiḥ, and the semantic/morphological analysis is otherwise unchanged.
+- ByT5 supplied component Cp tags for the long final expression; I analyze ātmadṛṣṭyātmamohātmamānātmasnehasaṃjñitaiḥ as one inflected compound stem, instr. pl. masc., qualifying kleśaiḥ, because trbh 403 quotes it as the verse expression and trbh 404–410 unpack its four names.
 - If ByT5’s sahitam_SAM is taken as accusative singular, I construe sahitam contextually as neuter nominative singular with the prior vijñānam/manas; the surface form is nominative/accusative singular homophonous.
 
 ## One-shot delta

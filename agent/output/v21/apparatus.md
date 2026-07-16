@@ -1,6 +1,6 @@
 # Triṃśikā v.21 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 11 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -18,7 +18,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 p
 | tasya | tad | Pum. Sasthi/Eka | pass |
 | pūrveṇa | pūrva | Pum. Trtiya/Eka | pass |
 | sadā | sadā | indecl. | pass |
-| rahitatā | rahitatā | Stri. Prathama/Eka | **fail — UNVERIFIED** |
+| rahitatā | rahitatā | Stri. Prathama/Eka | pass |
 | tu | tu | indecl. | pass |
 | yā | yad | Stri. Prathama/Eka | pass |
 
@@ -74,7 +74,7 @@ the imagined grasper-and-grasped.
 ## Analyzer disagreements
 
 - niṣpannaḥ: ByT5 lemmatizes the form to the verbal root/stem niṣpad as a participial analysis; for a subanta, I record the nominal stem niṣpanna, while noting its participial origin.
-- rahitatā: ByT5 splits rahita_rahita_Cp + tā_tā_SNF. I take the verse-word as one abstract feminine stem rahitatā, supported by Sthiramati’s atyantarahitatā at trbh 1339 and by its agreement with yā. The later verifier’s rahitatāḥ output is not adopted, since that would be nominative plural and contextually impossible.
+- rahitatā: ByT5 splits rahita_rahita_Cp + tā_tā_SNF. I take the verse-word as one abstract feminine stem rahitatā, supported by Sthiramati’s atyantarahitatā at trbh 1339 and by its agreement with yā.
 
 ## One-shot delta
 

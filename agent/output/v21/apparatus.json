@@ -207,14 +207,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Abstract feminine noun in -tā, ‘being devoid/absence’; not a compound with tā. Sthiramati expands it as atyantarahitatā (J6). I retain Stri/Prathama/Eka despite the verifier report: rahitatā is an ā-stem feminine nominative singular, and the agreeing relative yā plus the bhāṣya’s atyantarahitatā yā confirm singular nominative; rahitatāḥ would be nominative plural and would not fit the verse or commentary.",
+   "note": "Abstract feminine noun in -tā, ‘being devoid/absence’; not a compound with tā. Sthiramati expands it as atyantarahitatā (J6).",
    "verification": {
-    "status": "fail",
-    "detail": "rahitatā Stri/Prathama/Eka: fail",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "rahitatāḥ"
-    ]
+    "status": "pass",
+    "detail": "rahitatā Stri/Prathama/Eka: pass"
    }
   },
   {
@@ -415,24 +411,24 @@
  ],
  "analyzer_disagreements": [
   "niṣpannaḥ: ByT5 lemmatizes the form to the verbal root/stem niṣpad as a participial analysis; for a subanta, I record the nominal stem niṣpanna, while noting its participial origin.",
-  "rahitatā: ByT5 splits rahita_rahita_Cp + tā_tā_SNF. I take the verse-word as one abstract feminine stem rahitatā, supported by Sthiramati’s atyantarahitatā at trbh 1339 and by its agreement with yā. The later verifier’s rahitatāḥ output is not adopted, since that would be nominative plural and contextually impossible."
+  "rahitatā: ByT5 splits rahita_rahita_Cp + tā_tā_SNF. I take the verse-word as one abstract feminine stem rahitatā, supported by Sthiramati’s atyantarahitatā at trbh 1339 and by its agreement with yā."
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 10,
-  "fail": 1,
+  "pass": 11,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 13757,
-   "completion_tokens": 15801,
-   "reasoning_tokens": 9217
+   "prompt_tokens": 5249,
+   "completion_tokens": 11479,
+   "reasoning_tokens": 8194
   },
-  "est_cost": 0.2783,
+  "est_cost": 0.1879,
   "retrieval": {
    "anchor": [
     1319,

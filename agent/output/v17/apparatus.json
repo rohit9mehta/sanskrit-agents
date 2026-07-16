@@ -99,13 +99,13 @@
   {
    "surface": "vikalpyate",
    "surface_in_sandhi": "vikalpyate",
-   "lemma": "kalpay",
+   "lemma": "kḷp",
    "morph": {
     "pos": "tinanta",
     "linga": null,
     "vibhakti": null,
     "vacana": "Eka",
-    "root": "kalpay",
+    "root": "kḷp",
     "prefixes": [
      "vi"
     ],
@@ -114,11 +114,10 @@
     "purusha": "Prathama"
    },
    "samasa": null,
-   "note": "Passive: ‘is imagined/conceptually constructed.’ Revised per verifier: the form is derived from the causative/derived verbal base kalpay- with prefix vi, not directly as simple passive vi-√kḷp.",
+   "note": "Passive: ‘is imagined/conceptually constructed.’",
    "verification": {
-    "status": "fail",
-    "detail": "vi-kalpay Lat/Prathama/Eka: fail",
-    "flag": "UNVERIFIED"
+    "status": "pass",
+    "detail": "vi-kḷp Lat/Prathama/Eka: pass"
    }
   },
   {
@@ -481,25 +480,26 @@
   "It might treat -mātrakam as a substantive ‘measure’ or make -ka meaningful; Sthiramati says mātra excludes an additional object-domain and ka is only pādapūraṇa."
  ],
  "analyzer_disagreements": [
+  "ByT5 lemmatizes vikalpyate as vikalpay; I analyze it as Karmani Lat 3 sg of vi-√kḷp, since the form is passive and the commentary construes yad vikalpyate as a passively imagined vastu (trbh 1101–1102).",
   "ByT5 prints the compound members vijñāna + pariṇāmaḥ and vijñāpti + mātrakam separately; per the required format I give the inflected compounds under the whole stems vijñānapariṇāma and vijñāptimātraka.",
   "ByT5 leaves the two occurrences of tena undifferentiated; the commentary distinguishes the first as instrumental ‘by the threefold vikalpa’ (trbh 1100–1101) and the second as causal ‘therefore’ = tasmāt (trbh 1124–1126)."
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 12,
-  "fail": 1,
+  "pass": 13,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 16120,
-   "completion_tokens": 18052,
-   "reasoning_tokens": 10239
+   "prompt_tokens": 6094,
+   "completion_tokens": 12152,
+   "reasoning_tokens": 8191
   },
-  "est_cost": 0.3191,
+  "est_cost": 0.2006,
   "retrieval": {
    "anchor": [
     1093,

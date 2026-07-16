@@ -82,3 +82,6 @@
 {"ts": "2026-07-16T19:03:36+00:00", "tag": "reason-v29", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 5942, "completion_tokens": 17914, "reasoning_tokens": 13810, "est_cost": 0.286536}
 {"ts": "2026-07-16T19:06:27+00:00", "tag": "reason-v29-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 9957, "completion_tokens": 11210, "reasoning_tokens": 7162, "est_cost": 0.198021}
 {"ts": "2026-07-16T19:08:54+00:00", "tag": "reason-v30", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 7600, "completion_tokens": 8910, "reasoning_tokens": 4607, "est_cost": 0.15645}
+{"ts": "2026-07-16T19:16:51+00:00", "tag": "reason-v04-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 9932, "completion_tokens": 5814, "reasoning_tokens": 1535, "est_cost": 0.117006}
+{"ts": "2026-07-16T19:18:33+00:00", "tag": "reason-v19-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 14188, "completion_tokens": 4481, "reasoning_tokens": 512, "est_cost": 0.109779}
+{"ts": "2026-07-16T19:19:54+00:00", "tag": "reason-v24-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 8462, "completion_tokens": 3802, "reasoning_tokens": 1024, "est_cost": 0.082416}

@@ -1,6 +1,6 @@
 # Triṃśikā v.29 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 10 pass / 0 fail / 1 unsupported.
 
 ## Verse
 
@@ -20,7 +20,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 p
 | āśrayasya | āśraya | Pum. Sasthi/Eka | pass |
 | parāvṛttiḥ | parāvṛtti | Stri. Prathama/Eka | pass |
 | dvidhā | dvidhā | indecl. | pass |
-| dauṣṭhulyahānitaḥ | dauṣṭhulyahāni | Stri. Panchami/Eka; tatpurusa ⟨dauṣṭhulyasya hāniḥ⟩ | **fail — UNVERIFIED** |
+| dauṣṭhulyahānitaḥ | dauṣṭhulyahāni | indecl.; tatpurusa ⟨dauṣṭhulyasya hāniḥ⟩ | unsupported |
 
 ## Justifications
 
@@ -84,8 +84,8 @@ through the abandonment of the twofold unwieldiness (dauṣṭhulya).
 ## Analyzer disagreements
 
 - The analyzer’s api_seg gives dauṣṭhulya_hānyāḥ, but the supplied bhāṣya/local reading is dauṣṭhulya-hānitaḥ; I follow hānitaḥ.
-- ByT5 tags hānitaḥ as hāni_SBF. After verifier review I retain the feminine Panchami singular features for the compound, while noting that the -taḥ ending is ablatival/tasil-like rather than the regular simple i-stem ablative.
-- ByT5 separates dauṣṭhulya as a compound member and hānitaḥ as the head; I combine them in the tatpuruṣa compound dauṣṭhulyahāni before the ablatival -taḥ.
+- ByT5 tags hānitaḥ as hāni_SBF. I analyze dauṣṭhulyahānitaḥ as an indeclinable tasil-derived ablatival form from the compound stem dauṣṭhulyahāni, since hānitaḥ is not the regular feminine i-stem ablative and Sthiramati glosses the relation with prahāṇāt/prāpyate.
+- ByT5 separates dauṣṭhulya as a compound member and hānitaḥ as the head; I combine them in the tatpuruṣa compound dauṣṭhulyahāni before the tasil ending.
 - The bhāṣya verse reading anupalambaḥ is retained morphologically; the commentary’s prose uses anupalambha-, so the translation follows that regular technical sense of non-apprehension.
 
 ## One-shot delta

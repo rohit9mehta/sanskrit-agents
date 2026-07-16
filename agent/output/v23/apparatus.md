@@ -1,6 +1,6 @@
 # Triṃśikā v.23 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 7 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 8 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -17,7 +17,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 7 pa
 | sandhāya | dhā | indecl. | pass |
 | sarvadharmāṇām | sarvadharma | Pum. Sasthi/Bahu; karmadharaya ⟨sarve dharmāḥ⟩ | pass |
 | deśitā | deśita | Stri. Prathama/Eka | pass |
-| niḥsvabhāvatā | niḥsvabhāvatā | Stri. Prathama/Eka | **fail — UNVERIFIED** |
+| niḥsvabhāvatā | niḥsvabhāvatā | Stri. Prathama/Eka | pass |
 
 ## Justifications
 

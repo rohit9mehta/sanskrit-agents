@@ -1,6 +1,6 @@
 # Triṃśikā v.24 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 pass / 2 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 12 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -15,13 +15,13 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 p
 | eva | eva | indecl. | pass |
 | niḥsvabhāvaḥ | niḥsvabhāva | Pum. Prathama/Eka; bahuvrihi ⟨na vidyate svabhāvo yasya saḥ⟩ | pass |
 | aparaḥ | apara | Pum. Prathama/Eka | pass |
-| punaḥ | punar | indecl. | **fail — UNVERIFIED** |
+| punaḥ | punar | indecl. | pass |
 | na | na | indecl. | pass |
-| svayambhāvaḥ | svayambhāva | Pum. Prathama/Eka; tatpurusa ⟨svayaṃ bhāvaḥ⟩ | pass |
+| svayaṃbhāvaḥ | svayaṃbhāva | Pum. Prathama/Eka; tatpurusa ⟨svayaṃ bhāvaḥ⟩ | pass |
 | etasya | etad | Pum. Sasthi/Eka | pass |
 | iti | iti | indecl. | pass |
 | aparā | apara | Stri. Prathama/Eka | pass |
-| niḥsvabhāvatā | niḥsvabhāvatā | Stri. Prathama/Eka | **fail — UNVERIFIED** |
+| niḥsvabhāvatā | niḥsvabhāvatā | Stri. Prathama/Eka | pass |
 
 ## Justifications
 
@@ -40,7 +40,7 @@ ataś ca svarūpābhāvāt khapuṣpavat svarūpeṇaiva niḥsvabhāvaḥ` — 
 - chosen: aparaḥ punar denotes the dependent nature (paratantra-svabhāva). (depends on commentary: **yes**)
 - trbh [1408]: `aparaḥ punar iti paratantrasvabhāvaḥ` — ‘The other, again’ means the dependent nature.
 
-**J4. Although svayaṃbhāva/svayambhāva could be translated mechanically as ‘own-being,’ the commentary explains it by dependent origination from other conditions and names the resulting type utpatti-niḥsvabhāvatā. Thus the point is lack of independent arising, not sheer non-existence like the parikalpita.**
+**J4. Although svayaṃbhāva could be translated mechanically as ‘own-being,’ the commentary explains it by dependent origination from other conditions and names the resulting type utpatti-niḥsvabhāvatā. Thus the point is lack of independent arising, not sheer non-existence like the parikalpita.**
 - chosen: na svayaṃbhāva etasya is rendered ‘there is no self-arising of this,’ and aparā niḥsvabhāvatā is the arising-naturelessness of the dependent nature. (depends on commentary: **yes**)
 - trbh [1409, 1410, 1411, 1412]: `na svayaṃbhāva etasya māyāvat
 parapratyayenotpatteḥ
@@ -57,7 +57,7 @@ The other—the dependent nature (paratantra-svabhāva)—again has no self-aris
 ## Analyzer disagreements
 
 - ByT5 gives punar as the analyzed surface; since the verse has pāda-final/pausal punaḥ, I record surface punaḥ and lemma punar.
-- ByT5’s lemma svayambhāva is adopted, but its segmented surface svayaṃbhāvaḥ is normalized in the pausal surface field to svayambhāvaḥ for vidyut derivation; the printed sandhi-form remains svayaṃbhāva.
+- ByT5 normalizes the lemma as svayambhāva; I retain the bhāṣya spelling svayaṃbhāva for the stem, noting that anusvāra before bh is an orthographic variant.
 - ByT5 splits niḥsvabhāvatā as niḥsvabhāva_Cp + tā_SNF; I analyze it as one feminine nominal stem niḥsvabhāvatā, Prathama singular.
 
 ## One-shot delta

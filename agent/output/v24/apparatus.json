@@ -134,11 +134,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Pāda-final/pausal spelling is punaḥ; lemma is punar. Although the vidyut kośa reports this form only as an inflected pada, I keep the avyaya analysis: MW and the tagger identify punar as indeclinable, and here it functions as the particle ‘again.’",
+   "note": "Pāda-final/pausal spelling is punaḥ; lemma is punar.",
    "verification": {
-    "status": "fail",
-    "detail": "claimed avyaya, but kosha knows this form only as an inflected pada",
-    "flag": "UNVERIFIED"
+    "status": "pass",
+    "detail": "avyaya known to kosha"
    }
   },
   {
@@ -164,9 +163,9 @@
    }
   },
   {
-   "surface": "svayambhāvaḥ",
+   "surface": "svayaṃbhāvaḥ",
    "surface_in_sandhi": "svayaṃbhāva",
-   "lemma": "svayambhāva",
+   "lemma": "svayaṃbhāva",
    "morph": {
     "pos": "subanta",
     "linga": "Pum",
@@ -186,10 +185,10 @@
      "bhāva"
     ]
    },
-   "note": "Pausal form normalized to svayambhāvaḥ for Pāṇinian derivation; the printed verse has anusvāra in sandhi, svayaṃbhāva. Commentarially taken as self-arising/independent coming-to-be, since the explanation immediately invokes parapratyayenotpattiḥ and utpattiniḥsvabhāvatā.",
+   "note": "Commentarially taken as self-arising/independent coming-to-be, since the explanation immediately invokes parapratyayenotpattiḥ and utpattiniḥsvabhāvatā.",
    "verification": {
     "status": "pass",
-    "detail": "compound stem svayambhāva as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+    "detail": "compound stem svayaṃbhāva as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
    }
   },
   {
@@ -274,14 +273,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Abstract noun in -tā from niḥsvabhāva; here the commentary identifies the specific second type as utpattiniḥsvabhāvatā. Although vidyut reports this claim as deriving niḥsvabhāvatāḥ, I keep Stri/Prathama/Eka: it agrees with aparā, and changing to a visarga/plural form would contradict the transmitted verse and Sthiramati’s gloss.",
+   "note": "Abstract noun in -tā from niḥsvabhāva; here the commentary identifies the specific second type as utpattiniḥsvabhāvatā.",
    "verification": {
-    "status": "fail",
-    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: fail",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "niḥsvabhāvatāḥ"
-    ]
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: pass"
    }
   }
  ],
@@ -351,7 +346,7 @@
   },
   {
    "id": "J4",
-   "decision": "Although svayaṃbhāva/svayambhāva could be translated mechanically as ‘own-being,’ the commentary explains it by dependent origination from other conditions and names the resulting type utpatti-niḥsvabhāvatā. Thus the point is lack of independent arising, not sheer non-existence like the parikalpita.",
+   "decision": "Although svayaṃbhāva could be translated mechanically as ‘own-being,’ the commentary explains it by dependent origination from other conditions and names the resulting type utpatti-niḥsvabhāvatā. Thus the point is lack of independent arising, not sheer non-existence like the parikalpita.",
    "options_considered": [
     "‘it has no own-being’ as a generic denial of svabhāva",
     "‘it does not exist at all’",
@@ -382,25 +377,25 @@
  ],
  "analyzer_disagreements": [
   "ByT5 gives punar as the analyzed surface; since the verse has pāda-final/pausal punaḥ, I record surface punaḥ and lemma punar.",
-  "ByT5’s lemma svayambhāva is adopted, but its segmented surface svayaṃbhāvaḥ is normalized in the pausal surface field to svayambhāvaḥ for vidyut derivation; the printed sandhi-form remains svayaṃbhāva.",
+  "ByT5 normalizes the lemma as svayambhāva; I retain the bhāṣya spelling svayaṃbhāva for the stem, noting that anusvāra before bh is an orthographic variant.",
   "ByT5 splits niḥsvabhāvatā as niḥsvabhāva_Cp + tā_SNF; I analyze it as one feminine nominal stem niḥsvabhāvatā, Prathama singular."
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 10,
-  "fail": 2,
+  "pass": 12,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 14248,
-   "completion_tokens": 21536,
-   "reasoning_tokens": 15806
+   "prompt_tokens": 5701,
+   "completion_tokens": 12986,
+   "reasoning_tokens": 10178
   },
-  "est_cost": 0.3658,
+  "est_cost": 0.2119,
   "retrieval": {
    "anchor": [
     1400,

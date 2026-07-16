@@ -1,6 +1,6 @@
 # Triṃśikā v.3 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 4 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 5 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -14,7 +14,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 4 pa
 | ca | ca | indecl. | pass |
 | tat | tad | Napumsaka. Prathama/Eka | pass |
 | sadā | sadā | indecl. | pass |
-| sparśamanaskāravitsaṃjñācetanānvitam | sparśamanaskāravitsaṃjñācetanānvita | Napumsaka. Prathama/Eka; tatpurusa ⟨sparśa-manaskāra-vedanā-saṃjñā-cetanābhiḥ anvitam⟩ | **fail — UNVERIFIED** |
+| sparśamanaskāravitsaṃjñācetanānvitam | sparśamanaskāravitsaṃjñācetanānvita | Napumsaka. Prathama/Eka; tatpurusa ⟨sparśa-manaskāra-vedanā-saṃjñā-cetanābhiḥ anvitam⟩ | pass |
 
 ## Justifications
 
@@ -107,13 +107,6 @@ tasyodgrahaṇaṃ nirūpaṇaṃ nīlam etan na
 pītam iti` — ‘Recognition is the grasping of the object’s sign. The object is the ālambana; the sign is its particular feature, the basis for determining an object as blue, yellow, and so on. Grasping it is determination: “this is blue, not yellow.”’
 - trbh [297, 298]: `cetanā cittābhisaṃskāro manasaś ceṣṭā yasyāṃ satyām ālambanaṃ prati cetasaḥ
 praspanda iva bhavaty ayaskāntavaśād ayaḥpraspandavat` — ‘Volition is the mind’s conditioning activity, the movement of manas: when it is present, there is as it were a stirring of the mind toward the object, like the stirring of iron under the power of a magnet.’
-
-**J9. Do not normalize the bhāṣya reading sparśamanaskāravitsaṃjñācetanānvitam to the vulgate/parasavarṇa spelling sparśamanaskāravitsañjñācetanānvitam merely to satisfy the verifier.**
-- chosen: Retain the bhāṣya spelling vitsaṃjñā in the compound. (depends on commentary: **yes**)
-- trbh [237]: `sadā sparśamanaskāravitsaṃjñācetanānvitam` — The verse as quoted in the bhāṣya reads vitsaṃjñā.
-- trbh [497, 498, 499]: `tathā hi
-sadāsparśamanaskāravitsaṃjñācetanānvitam
-iti prathamato nirdiṣṭāḥ` — The later requotation again reads vitsaṃjñā, confirming the bhāṣya spelling.
 
 ## Translation
 

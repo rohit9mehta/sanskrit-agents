@@ -116,12 +116,16 @@ def kosha_key_candidates(surface_slp1: str) -> list[str]:
 
 
 def kosha_lookup(surface_iast: str) -> tuple[str | None, list]:
-    """Return (key_that_hit, entries) for a surface form, trying pausal keys."""
+    """Return (keys_that_hit, union of entries) across ALL pausal-key
+    candidates — visarga forms can hide distinct words under -s and -r
+    finals (punaḥ: subanta junk under `punas`, the avyaya under `punar`)."""
+    hits, entries = [], []
     for key in kosha_key_candidates(to_slp1(surface_iast)):
-        entries = kosha().get(key)
-        if entries:
-            return key, entries
-    return None, []
+        found = kosha().get(key)
+        if found:
+            hits.append(key)
+            entries.extend(found)
+    return (",".join(hits) if hits else None), entries
 
 
 def _clean_aupadeshika(aupadeshika: str) -> str:

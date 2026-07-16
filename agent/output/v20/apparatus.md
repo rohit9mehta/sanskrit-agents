@@ -1,6 +1,6 @@
 # Triṃśikā v.20 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 13 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 14 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -16,7 +16,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 13 p
 | yat | yad | Napumsaka. Prathama/Eka | pass |
 | yat | yad | Napumsaka. Prathama/Eka | pass |
 | vastu | vastu | Napumsaka. Prathama/Eka | pass |
-| vikalpyate | kalpay | vi-kalpay, Karmani/Lat/Prathama/Eka | **fail — UNVERIFIED** |
+| vikalpyate | kḷp | vi-kḷp, Karmani/Lat/Prathama/Eka | pass |
 | parikalpitaḥ | parikalpita | Pum. Prathama/Eka | pass |
 | eva | eva | indecl. | pass |
 | asau | adas | Pum. Prathama/Eka | pass |
@@ -72,7 +72,7 @@ it is not found to exist.
 
 ## Analyzer disagreements
 
-- For vikalpyate I now follow the verifier against my previous vi-√kḷp analysis: the form is analyzed as the present passive 3rd singular of the causative/secondary base vi-kalpay-, matching ByT5’s vikalpay analysis and Sthiramati’s prakalpyate gloss.
+- ByT5 gives vikalpyate with lemma/base vikalpay; I normalize it to the bare verbal root kḷp with prefix vi, as required by the apparatus format, while retaining present passive 3rd singular.
 - ByT5 lemmatizes parikalpitaḥ as parikalpay; as a subanta in this verse its nominal stem is parikalpita, a participial adjective predicated of svabhāvaḥ.
 - For yad yad and vastu I specify nominative singular rather than leaving the neuter nom./acc. ambiguity open, because the passive construction vikalpyate and Sthiramati’s gloss prakalpyate construe the object as the passive subject.
 

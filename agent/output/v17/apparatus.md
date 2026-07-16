@@ -1,6 +1,6 @@
 # Triṃśikā v.17 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 12 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 13 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -14,7 +14,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 12 p
 | ayam | idam | Pum. Prathama/Eka | pass |
 | vikalpaḥ | vikalpa | Pum. Prathama/Eka | pass |
 | yat | yad | Napumsaka. Prathama/Eka | pass |
-| vikalpyate | kalpay | vi-kalpay, Karmani/Lat/Prathama/Eka | **fail — UNVERIFIED** |
+| vikalpyate | kḷp | vi-kḷp, Karmani/Lat/Prathama/Eka | pass |
 | tena | tad | Pum. Trtiya/Eka | pass |
 | tat | tad | Napumsaka. Prathama/Eka | pass |
 | na | na | indecl. | pass |
@@ -84,6 +84,7 @@ Therefore all this is representation-only (vijñaptimātraka),
 
 ## Analyzer disagreements
 
+- ByT5 lemmatizes vikalpyate as vikalpay; I analyze it as Karmani Lat 3 sg of vi-√kḷp, since the form is passive and the commentary construes yad vikalpyate as a passively imagined vastu (trbh 1101–1102).
 - ByT5 prints the compound members vijñāna + pariṇāmaḥ and vijñāpti + mātrakam separately; per the required format I give the inflected compounds under the whole stems vijñānapariṇāma and vijñāptimātraka.
 - ByT5 leaves the two occurrences of tena undifferentiated; the commentary distinguishes the first as instrumental ‘by the threefold vikalpa’ (trbh 1100–1101) and the second as causal ‘therefore’ = tasmāt (trbh 1124–1126).
 

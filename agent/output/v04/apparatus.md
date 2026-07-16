@@ -1,6 +1,6 @@
 # Triṃśikā v.4 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 12 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 13 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -10,8 +10,8 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 12 p
 
 | surface | lemma | morphology | vidyut |
 |---|---|---|---|
-| upekṣā | upekṣa | Stri. Prathama/Eka | pass |
-| vedanā | vedana | Stri. Prathama/Eka | pass |
+| upekṣā | upekṣā | Stri. Prathama/Eka | pass |
+| vedanā | vedanā | Stri. Prathama/Eka | pass |
 | tatra | tatra | indecl. | pass |
 | anivṛtāvyākṛtam | anivṛtāvyākṛta | Napumsaka. Prathama/Eka; karmadharaya ⟨anivṛtam avyākṛtam; anivṛtaṃ ca tad avyākṛtaṃ ca⟩ | pass |
 | ca | ca | indecl. | pass |
@@ -22,7 +22,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 12 p
 | ca | ca | indecl. | pass |
 | vartate | vṛt | vṛt, Kartari/Lat/Prathama/Eka | pass |
 | srotasā | srotas | Napumsaka. Trtiya/Eka | pass |
-| oghavat | oghavat | indecl. | **fail — UNVERIFIED** |
+| oghavat | oghavat | Napumsaka. Prathama/Eka | pass |
 
 ## Justifications
 
@@ -67,8 +67,8 @@ kiṃ tarhi
 tac ca vartate srotasaughavat
 tac cety ālayavijñānam eva saṃbadhyate` — The question is whether that ālayavijñāna continues throughout saṃsāra as one undivided thing or by continuum. It certainly does not continue as one undivided thing, because it is momentary. What then? ‘And this goes on, like a stream/flood.’ In ‘tac ca’, ālayavijñāna alone is connected.
 
-**J6. The printed srotasaughavat is segmented as srotasā + oghavat. The commentary defines srotas as uninterrupted cause-effect continuity and ogha as a continuous water-flow, then makes the yathā/evam simile explicit. Thus oghavat is comparative ‘like a flood’, not an adjective ‘possessing a strong stream’.**
-- chosen: srotasā oghavat = by way of a stream/continuum, like a flood (depends on commentary: **yes**)
+**J6. The printed srotasaughavat is segmented as srotasā + oghavat. Morphologically oghavat is an inflected neuter nominative singular adjective-form, but the commentary defines srotas as uninterrupted cause-effect continuity and ogha as a continuous water-flow, then makes the yathā/evam simile explicit. Thus its force here is comparative, ‘flood-like, like a flood,’ not the MW possessive sense ‘having a strong stream’.**
+- chosen: srotasā oghavat = by way of a stream/continuum, flood-like (depends on commentary: **yes**)
 - trbh [336, 337, 338, 339]: `tatra sroto hetuphalayor
 nairantaryaprabandhena pravṛttiḥ
 udakasamūhasya pūrvāparabhāgāvicchedena
@@ -88,10 +88,8 @@ and this [store-consciousness] goes on, in a stream-continuum (srotas), like a f
 ## Analyzer disagreements
 
 - ByT5 api_seg gives upekṣā_vedanā_ca_tat and omits tatra/anivṛtāvyākṛtam; I follow the bhāṣya and commentary at 308–312: tatra ... anivṛtāvyākṛtañ ca tat.
-- ByT5 local_SLM gives upekṣā and vedanā as feminine nominative singulars; I keep those features, but revise the verifier-facing stems to upekṣa and vedana so that the pausal forms upekṣā and vedanā derive correctly as feminine ā-forms.
 - ByT5 local_SLM does not provide a full analysis for tatrānivṛtāvyākṛtam; I analyze tatra as an avyaya and anivṛtāvyākṛtam as a neuter nominative singular compound, because the commentary treats the two grahaṇas separately at 314–315 while line 312 quotes the compound predicate of tat.
 - ByT5 local_SLM splits sparśa_ādayaḥ; I analyze the verse word as the single bahuvrīhi compound stem sparśādi-, since the commentary quotes sparśādayaḥ and sparśādibhiḥ as compound forms at 319–321.
-- ByT5 tags oghavat as a neuter nominative singular nominal; I keep it as the comparative avyaya ‘like a flood’, because the commentary unpacks it with yathā hy oghaḥ ... evam ālayavijñānam at 340–341; the Pāṇinian verifier appears to lack this avyaya use in its kośa.
 
 ## One-shot delta
 
@@ -100,4 +98,4 @@ and this [store-consciousness] goes on, in a stream-continuum (srotas), like a f
 - It might render avyākṛta as simply ‘unexplained’ and miss the moral classification: excluded from both wholesome and unwholesome, and also anivṛta as not covered by adventitious mental defilements.
 - It might take tathā as a loose ‘also’; the commentary makes it carry over a set of properties from ālayavijñāna to contact and the rest.
 - It might read tac ca vartate as the persistence of one identical store-consciousness; Sthiramati explicitly rejects that and explains continuation by a momentary continuum.
-- It might analyze srotasaughavat as a single adjective ‘having a strong stream’; the commentary supports srotasā + comparative oghavat, ‘by way of a stream, like a flood’. 
+- It might analyze srotasaughavat as a single possessive expression ‘having a strong stream’; the commentary supports srotasā + oghavat with comparative force, ‘by way of a stream, flood-like’. 

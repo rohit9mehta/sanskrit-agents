@@ -124,14 +124,10 @@
      "anvita"
     ]
    },
-   "note": "The first five members form the list of the five sarvatraga mental factors; vid is glossed by the commentary as vedanā, not as ‘knower’. The outer compound relation is retained as a tṛtīyā-tatpuruṣa-like X-bhiḥ anvitam construction, while the listed factors are a dvandva in sense. Vidyut-prakriya derives the parasavarṇa orthography sparśamanaskāravitsañjñācetanānvitam, but the bhāṣya’s printed and requoted reading is sparśamanaskāravitsaṃjñācetanānvitam; I therefore retain the bhāṣya spelling rather than emend to the vulgate/normalized form.",
+   "note": "The first five members form the list of the five sarvatraga mental factors; vid is glossed by the commentary as vedanā, not as ‘knower’. The compound as a whole is construed like an instrumental tatpuruṣa with anvita.",
    "verification": {
-    "status": "fail",
-    "detail": "compound stem sparśamanaskāravitsaṃjñācetanānvita as Napumsaka/Prathama/Eka: fail; relation tatpurusa: unsupported (logged)",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "sparśamanaskāravitsañjñācetanānvitam"
-    ]
+    "status": "pass",
+    "detail": "compound stem sparśamanaskāravitsaṃjñācetanānvita as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
    }
   }
  ],
@@ -418,34 +414,6 @@
     }
    ],
    "depends_on_commentary": true
-  },
-  {
-   "id": "J9",
-   "decision": "Do not normalize the bhāṣya reading sparśamanaskāravitsaṃjñācetanānvitam to the vulgate/parasavarṇa spelling sparśamanaskāravitsañjñācetanānvitam merely to satisfy the verifier.",
-   "options_considered": [
-    "bhāṣya vitsaṃjñā",
-    "vulgate/normalized vitsañjñā"
-   ],
-   "chosen": "Retain the bhāṣya spelling vitsaṃjñā in the compound.",
-   "evidence": [
-    {
-     "lines": [
-      237
-     ],
-     "quote": "sadā sparśamanaskāravitsaṃjñācetanānvitam",
-     "translation": "The verse as quoted in the bhāṣya reads vitsaṃjñā."
-    },
-    {
-     "lines": [
-      497,
-      498,
-      499
-     ],
-     "quote": "tathā hi\nsadāsparśamanaskāravitsaṃjñācetanānvitam\niti prathamato nirdiṣṭāḥ",
-     "translation": "The later requotation again reads vitsaṃjñā, confirming the bhāṣya spelling."
-    }
-   ],
-   "depends_on_commentary": true
   }
  ],
  "translation": "And that storehouse consciousness (ālayavijñāna)\nhas unapprehended appropriation (upādi)\nand an unapprehended place-presentation (sthānavijñapti);\nfor as long as it is, it is accompanied\nby contact (sparśa), attention (manaskāra), feeling (vedanā),\nrecognition (saṃjñā), and volition (cetanā).",
@@ -463,20 +431,20 @@
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 4,
-  "fail": 1,
+  "pass": 5,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 22047,
-   "completion_tokens": 23710,
-   "reasoning_tokens": 14311
+   "prompt_tokens": 8739,
+   "completion_tokens": 14288,
+   "reasoning_tokens": 9726
   },
-  "est_cost": 0.4218,
+  "est_cost": 0.2405,
   "retrieval": {
    "anchor": [
     202,

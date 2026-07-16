@@ -113,14 +113,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Catalogue nominative; coalesces with following atha in the printed sandhi unit īrṣyātha. The verifier rejected this as deriving īrṣyāḥ, but the analysis is retained: an ā-stem feminine nominative singular is īrṣyā, and trbh 774 quotes it in a nominative catalogue of upakleśas.",
+   "note": "Catalogue nominative; coalesces with following atha in the printed sandhi unit īrṣyātha.",
    "verification": {
-    "status": "fail",
-    "detail": "īrṣyā Stri/Prathama/Eka: fail",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "īrṣyāḥ"
-    ]
+    "status": "pass",
+    "detail": "īrṣyā Stri/Prathama/Eka: pass"
    }
   },
   {
@@ -205,14 +201,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Instrumental singular governed by saha; because the commentary classifies this portion as upakleśa-material, the gloss is the moral-psychological sense ‘deceit,’ not metaphysical ‘illusion’ or ‘magic’. The verifier rejected this as deriving māyā, but the analysis is retained: māyā has instrumental singular māyayā, and the construction saha māyayā at trbh 774 requires the instrumental.",
+   "note": "Instrumental singular governed by saha; because the commentary classifies this portion as upakleśa-material, the gloss is the moral-psychological sense ‘deceit,’ not metaphysical ‘illusion’ or ‘magic’.",
    "verification": {
-    "status": "fail",
-    "detail": "māyā Stri/Trtiya/Eka: fail",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "māyā"
-    ]
+    "status": "pass",
+    "detail": "māyā Stri/Trtiya/Eka: pass"
    }
   }
  ],
@@ -395,20 +387,20 @@
   "The supplied commentary span stops before any detailed in-span definitions of mrakṣa, pradāśa, īrṣyā, mātsarya, and māyā; their English glosses here are the standard Buddhist-technical lexical glosses constrained by trbh 772’s classification of this sequence as upakleśas."
  ],
  "verification_summary": {
-  "pass": 7,
-  "fail": 2,
+  "pass": 9,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 18402,
-   "completion_tokens": 21935,
-   "reasoning_tokens": 15330
+   "prompt_tokens": 7564,
+   "completion_tokens": 17149,
+   "reasoning_tokens": 13820
   },
-  "est_cost": 0.3842,
+  "est_cost": 0.2799,
   "retrieval": {
    "anchor": [
     682,

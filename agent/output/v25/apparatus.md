@@ -1,6 +1,6 @@
 # Triṃśikā v.25 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 11 pass / 2 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 13 pass / 0 fail / 0 unsupported.
 
 ## Verse
 
@@ -15,14 +15,14 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 11 p
 | ca | ca | indecl. | pass |
 | saḥ | tad | Pum. Prathama/Eka | pass |
 | yataḥ | yatas | indecl. | pass |
-| tathatā | tathatā | Stri. Prathama/Eka | **fail — UNVERIFIED** |
+| tathatā | tathatā | Stri. Prathama/Eka | pass |
 | api | api | indecl. | pass |
 | saḥ | tad | Pum. Prathama/Eka | pass |
 | sarvakālam | sarvakālam | indecl. | pass |
 | tathābhāvāt | tathābhāva | Pum. Panchami/Eka; tatpurusa ⟨tathā bhāvaḥ⟩ | pass |
 | sā | tad | Stri. Prathama/Eka | pass |
 | eva | eva | indecl. | pass |
-| vijñaptimātratā | vijñaptimātratā | Stri. Prathama/Eka | **fail — UNVERIFIED** |
+| vijñaptimātratā | vijñaptimātratā | Stri. Prathama/Eka; karmadharaya ⟨vijñaptir eva mātram; vijñaptimātrasya bhāvaḥ⟩ | pass |
 
 ## Justifications
 
@@ -77,7 +77,7 @@ that very suchness is representation-only-ness (vijñaptimātratā).
 - ByT5’s parama_Cp + arthaḥ_SNM segmentation is retained only as compound analysis; the verse pada is analyzed as the single subanta paramārthaḥ, with the tatpuruṣa vigraha supplied by trbh 1414.
 - ByT5 gives no features for yatas; I analyze pausal yataḥ as a causal avyaya because Sthiramati paraphrases it with yasmāt ... tasmāt at trbh 1418–1420.
 - ByT5 gives sarvakālam without features; I analyze it as an indeclinable adverb, supported by its commentarial use with bhavati at trbh 1432.
-- ByT5 splits vijñaptimātratā as vijñaptimātra_Cp + tā_SNF; I analyze the printed verse-word as one feminine nominative singular abstract noun in -tā, with only an inner vijñapti-mātra base and no samāsa claim for the full stem.
+- ByT5 splits vijñaptimātratā as vijñaptimātra_Cp + tā_SNF; I analyze the printed verse-word as one feminine nominative singular abstract noun, with only an inner vijñapti-mātra compound.
 
 ## One-shot delta
 

@@ -1,6 +1,6 @@
 # Triṃśikā v.15 — commentary-grounded translation with apparatus
 
-Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 pass / 1 fail / 0 unsupported.
+Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 1, verification: 10 pass / 0 fail / 1 unsupported.
 
 ## Verse
 
@@ -12,7 +12,7 @@ Pipeline run — reasoner: `gpt-5.5-2026-04-23`, attempts: 2, verification: 10 p
 |---|---|---|---|
 | pañcānām | pañcan | Napumsaka. Sasthi/Bahu | pass |
 | mūlavijñāne | mūlavijñāna | Napumsaka. Saptami/Eka; karmadharaya ⟨mūlaṃ vijñānam, ālayavijñānam⟩ | pass |
-| yathāpratyayam | yathāpratyayam | indecl.; avyayibhava ⟨yasya yasya yaḥ pratyayaḥ saṃnihitaḥ, tasya tasya⟩ | **fail — UNVERIFIED** |
+| yathāpratyayam | yathāpratyayam | indecl.; avyayibhava ⟨yasya yasya yaḥ pratyayaḥ saṃnihitaḥ, tasya tasya⟩ | unsupported |
 | udbhavaḥ | udbhava | Pum. Prathama/Eka | pass |
 | vijñānānām | vijñāna | Napumsaka. Sasthi/Bahu | pass |
 | saha | saha | indecl. | pass |
@@ -82,7 +82,7 @@ as waves [arise] in water.
 ## Analyzer disagreements
 
 - ByT5 segmented mūlavijñāne as mūla_Cp + vijñāne; I analyze it as one inflected compound stem mūlavijñāna, because the bhāṣya explicitly says ālayavijñānaṃ mūlavijñānam ity ucyate at trbh 1012–1013.
-- ByT5 left yathāpratyayam without explicit nominal/indeclinable features; I analyze it as an avyayībhāva compound functioning adverbially, with formal neuter accusative singular ending, following the bhāṣya’s gloss at trbh 1014–1015.
+- ByT5 left yathāpratyayam without explicit nominal/indeclinable features; I analyze it as an indeclinable avyayībhāva compound, following the bhāṣya’s gloss at trbh 1014–1015.
 - ByT5’s taraṃga has been normalized to the stem-form taraṅga used by the verse-form taraṅgāṇām; this is orthographic normalization, not a change of grammatical analysis.
 
 ## One-shot delta

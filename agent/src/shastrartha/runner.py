@@ -27,8 +27,15 @@ def _is_tasil(surface_iast: str, vibhakti: str | None) -> bool:
 def _mw_says_indeclinable(surface_iast: str) -> bool:
     from .dictionary import mw_entries
 
+    candidates = [surface_iast]
+    if surface_iast.endswith("ḥ"):  # MW headwords use pausal finals (punar)
+        candidates += [surface_iast[:-1] + "s", surface_iast[:-1] + "r"]
     try:
-        return any(_IND_RE.search(e["text"]) for e in mw_entries(surface_iast, limit=8))
+        return any(
+            _IND_RE.search(e["text"])
+            for c in candidates
+            for e in mw_entries(c, limit=8)
+        )
     except Exception:
         return False
 

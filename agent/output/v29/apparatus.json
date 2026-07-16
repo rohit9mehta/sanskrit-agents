@@ -233,10 +233,10 @@
    "surface_in_sandhi": "dauṣṭhulyahānitaḥ",
    "lemma": "dauṣṭhulyahāni",
    "morph": {
-    "pos": "subanta",
-    "linga": "Stri",
-    "vibhakti": "Panchami",
-    "vacana": "Eka",
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
     "root": null,
     "prefixes": null,
     "prayoga": null,
@@ -251,15 +251,10 @@
      "hāni"
     ]
    },
-   "note": "Revised for the verifier: treated as a feminine ablatival form of the compound stem dauṣṭhulyahāni, with -taḥ reflecting the ablatival/tasil value “from/through,” as confirmed by Sthiramati’s prahāṇāt/prāpyate construal. This is not the regular simple i-stem ablative hāneḥ, but the intended syntactic force is Panchami singular.",
+   "note": "Ablatival tasil form: “from/through the abandonment of dauṣṭhulya.” The preceding dvidhā specifies the dauṣṭhulya, not a regular feminine ablative hānyāḥ.",
    "verification": {
-    "status": "fail",
-    "detail": "compound stem dauṣṭhulyahāni as Stri/Panchami/Eka: fail; relation tatpurusa: unsupported (logged)",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "dauṣṭhulyahānyāḥ",
-     "dauṣṭhulyahāneḥ"
-    ]
+    "status": "unsupported",
+    "detail": "avyayībhāva; whole form not in kosha/MW as indeclinable"
    }
   }
  ],
@@ -423,7 +418,7 @@
    "options_considered": [
     "hānitaḥ as a genitive ‘of loss’",
     "hānitaḥ as a regular feminine ablative form hānyāḥ",
-    "hānitaḥ as an ablatival causal form: through/from abandonment"
+    "hānitaḥ as an ablatival causal indeclinable: through/from abandonment"
    ],
    "chosen": "hānitaḥ = because of/from abandonment",
    "evidence": [
@@ -458,26 +453,26 @@
  ],
  "analyzer_disagreements": [
   "The analyzer’s api_seg gives dauṣṭhulya_hānyāḥ, but the supplied bhāṣya/local reading is dauṣṭhulya-hānitaḥ; I follow hānitaḥ.",
-  "ByT5 tags hānitaḥ as hāni_SBF. After verifier review I retain the feminine Panchami singular features for the compound, while noting that the -taḥ ending is ablatival/tasil-like rather than the regular simple i-stem ablative.",
-  "ByT5 separates dauṣṭhulya as a compound member and hānitaḥ as the head; I combine them in the tatpuruṣa compound dauṣṭhulyahāni before the ablatival -taḥ.",
+  "ByT5 tags hānitaḥ as hāni_SBF. I analyze dauṣṭhulyahānitaḥ as an indeclinable tasil-derived ablatival form from the compound stem dauṣṭhulyahāni, since hānitaḥ is not the regular feminine i-stem ablative and Sthiramati glosses the relation with prahāṇāt/prāpyate.",
+  "ByT5 separates dauṣṭhulya as a compound member and hānitaḥ as the head; I combine them in the tatpuruṣa compound dauṣṭhulyahāni before the tasil ending.",
   "The bhāṣya verse reading anupalambaḥ is retained morphologically; the commentary’s prose uses anupalambha-, so the translation follows that regular technical sense of non-apprehension."
  ],
  "open_questions": [],
  "verification_summary": {
   "pass": 10,
-  "fail": 1,
-  "unsupported": 0,
+  "fail": 0,
+  "unsupported": 1,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 15899,
-   "completion_tokens": 29124,
-   "reasoning_tokens": 20972
+   "prompt_tokens": 5942,
+   "completion_tokens": 17914,
+   "reasoning_tokens": 13810
   },
-  "est_cost": 0.4846,
+  "est_cost": 0.2865,
   "retrieval": {
    "anchor": [
     1499,

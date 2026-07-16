@@ -58,9 +58,9 @@
    "lemma": "yathāpratyayam",
    "morph": {
     "pos": "avyaya",
-    "linga": "Napumsaka",
-    "vibhakti": "Dvitiya",
-    "vacana": "Eka",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
     "root": null,
     "prefixes": null,
     "prayoga": null,
@@ -75,11 +75,10 @@
      "pratyaya"
     ]
    },
-   "note": "Avyayībhāva functioning adverbially: “according to the condition present for each.” Formal compound ending is treated as neuter accusative singular.",
+   "note": "Indeclinable: “according to the condition present for each.”",
    "verification": {
-    "status": "fail",
-    "detail": "compound claimed but subanta features (linga/vibhakti/vacana) missing",
-    "flag": "UNVERIFIED"
+    "status": "unsupported",
+    "detail": "avyayībhāva; whole form not in kosha/MW as indeclinable"
    }
   },
   {
@@ -443,7 +442,7 @@
  ],
  "analyzer_disagreements": [
   "ByT5 segmented mūlavijñāne as mūla_Cp + vijñāne; I analyze it as one inflected compound stem mūlavijñāna, because the bhāṣya explicitly says ālayavijñānaṃ mūlavijñānam ity ucyate at trbh 1012–1013.",
-  "ByT5 left yathāpratyayam without explicit nominal/indeclinable features; I analyze it as an avyayībhāva compound functioning adverbially, with formal neuter accusative singular ending, following the bhāṣya’s gloss at trbh 1014–1015.",
+  "ByT5 left yathāpratyayam without explicit nominal/indeclinable features; I analyze it as an indeclinable avyayībhāva compound, following the bhāṣya’s gloss at trbh 1014–1015.",
   "ByT5’s taraṃga has been normalized to the stem-form taraṅga used by the verse-form taraṅgāṇām; this is orthographic normalization, not a change of grammatical analysis."
  ],
  "open_questions": [
@@ -451,19 +450,19 @@
  ],
  "verification_summary": {
   "pass": 10,
-  "fail": 1,
-  "unsupported": 0,
+  "fail": 0,
+  "unsupported": 1,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 15508,
-   "completion_tokens": 21711,
-   "reasoning_tokens": 13822
+   "prompt_tokens": 5795,
+   "completion_tokens": 15242,
+   "reasoning_tokens": 11263
   },
-  "est_cost": 0.3722,
+  "est_cost": 0.246,
   "retrieval": {
    "anchor": [
     1008,

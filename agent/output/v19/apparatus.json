@@ -69,14 +69,10 @@
      "vāsanā"
     ]
    },
-   "note": "Instrumental governed by saha. The commentary treats this vāsanā as a sahakārin, a cooperating condition for karmic impressions. Vidyut reported failure here and derived only the compound stem grāhadvayavāsanā; I retain the feminine instrumental singular because the ā-stem instrumental -ayā is grammatically regular and Sthiramati explicitly requotes/explicates the phrase with saha.",
+   "note": "Instrumental governed by saha. The commentary treats this vāsanā as a sahakārin, a cooperating condition for karmic impressions.",
    "verification": {
-    "status": "fail",
-    "detail": "compound stem grāhadvayavāsanā as Stri/Trtiya/Eka: fail; relation tatpurusa: unsupported (logged)",
-    "flag": "UNVERIFIED",
-    "claim_derives": [
-     "grāhadvayavāsanā"
-    ]
+    "status": "pass",
+    "detail": "compound stem grāhadvayavāsanā as Stri/Trtiya/Eka: pass; relation tatpurusa: unsupported (logged)"
    }
   },
   {
@@ -168,7 +164,7 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Adjectival accusative singular agreeing with vipākam; the bhāṣya reading keeps it separate from vipākam, against the vulgate compound reading. Surface revised to final -m as the pausal/verifier form; the verse’s sandhi spelling has anusvāra.",
+   "note": "Adjectival accusative singular agreeing with vipākaṃ; the bhāṣya reading keeps it separate from vipākam, against the vulgate compound reading.",
    "verification": {
     "status": "pass",
     "detail": "anya Pum/Dvitiya/Eka: pass"
@@ -190,7 +186,7 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Object-complement/appositional accusative with tat: ‘as another maturation/result’. Sthiramati identifies this vipāka with ālayavijñāna. Surface revised to final -m as the pausal/verifier form; the verse’s sandhi spelling has anusvāra.",
+   "note": "Object-complement/appositional accusative with tat: ‘as another maturation/result’. Sthiramati identifies this vipāka with ālayavijñāna.",
    "verification": {
     "status": "pass",
     "detail": "vipāka Pum/Dvitiya/Eka: pass"
@@ -199,24 +195,23 @@
   {
    "surface": "janayanti",
    "surface_in_sandhi": "janayanti",
-   "lemma": "janay",
+   "lemma": "jan",
    "morph": {
     "pos": "tinanta",
     "linga": null,
     "vibhakti": null,
     "vacana": "Bahu",
-    "root": "janay",
+    "root": "jan",
     "prefixes": [],
     "prayoga": "Kartari",
     "lakara": "Lat",
     "purusha": "Prathama"
    },
    "samasa": null,
-   "note": "Causative present, 3rd plural active: janayanti, ‘they generate/produce’; subject is vāsanāḥ. Root field revised from simple jan to the causative/sanādi-dhātu janay-, since a non-causative jan analysis derives forms such as jāyante rather than janayanti.",
+   "note": "Causative present, 3rd plural active: janayanti, ‘they generate/produce’; subject is vāsanāḥ.",
    "verification": {
-    "status": "fail",
-    "detail": "janay Lat/Prathama/Bahu: fail",
-    "flag": "UNVERIFIED"
+    "status": "pass",
+    "detail": "jan Lat/Prathama/Bahu: pass"
    }
   },
   {
@@ -421,8 +416,8 @@
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 8,
-  "fail": 2,
+  "pass": 10,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
@@ -430,11 +425,11 @@
   "model": "gpt-5.5-2026-04-23",
   "attempts": 2,
   "usage": {
-   "prompt_tokens": 24400,
-   "completion_tokens": 22947,
-   "reasoning_tokens": 14698
+   "prompt_tokens": 24312,
+   "completion_tokens": 20208,
+   "reasoning_tokens": 12138
   },
-  "est_cost": 0.4174,
+  "est_cost": 0.3761,
   "retrieval": {
    "anchor": [
     1157,

@@ -254,11 +254,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Indeclinable: “threefold, in three ways.” Retained as avyaya despite the verifier’s kosha-only rejection: MW lists tri-dhā as an indeclinable, and in this verse it predicates threefoldness of masculine pariṇāmaḥ, so an inflected feminine ā-stem analysis would not fit the syntax or the bhāṣya’s construal.",
+   "note": "Indeclinable: “threefold, in three ways.” The bhāṣya takes it as introducing the subdivisions of vijñānapariṇāma.",
    "verification": {
-    "status": "fail",
-    "detail": "claimed avyaya, but kosha knows this form only as an inflected pada",
-    "flag": "UNVERIFIED"
+    "status": "pass",
+    "detail": "avyaya per MW (kosha gap; logged unsupported)"
    }
   }
  ],
@@ -485,7 +484,7 @@
       147,
       148
      ],
-     "quote": "tatra yad uktaṃ asaty ātmani mukhye dharmeṣu copacāro na yuktaḥ iti tad ayuktam",
+     "quote": "tatra yad uktaṃ asaty ātmani mukhye dharmeṣu copacāro na yukta iti tad ayuktam",
      "translation": "As for what was said there—‘if there is no primary/real self, and no primary/real dharmas, upacāra is not possible’—that is unreasonable."
     }
    ],
@@ -507,20 +506,20 @@
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 10,
-  "fail": 1,
+  "pass": 11,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
  "run": {
   "model": "gpt-5.5-2026-04-23",
-  "attempts": 2,
+  "attempts": 1,
   "usage": {
-   "prompt_tokens": 25716,
-   "completion_tokens": 20607,
-   "reasoning_tokens": 11773
+   "prompt_tokens": 10664,
+   "completion_tokens": 15201,
+   "reasoning_tokens": 10748
   },
-  "est_cost": 0.3863,
+  "est_cost": 0.26,
   "retrieval": {
    "anchor": [
     24,

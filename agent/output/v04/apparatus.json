@@ -4,7 +4,7 @@
   {
    "surface": "upekṣā",
    "surface_in_sandhi": "upekṣā",
-   "lemma": "upekṣa",
+   "lemma": "upekṣā",
    "morph": {
     "pos": "subanta",
     "linga": "Stri",
@@ -17,16 +17,16 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Predicate nominative: the ālaya-vijñāna's feeling is specifically upekṣā, glossed as neither pleasure nor pain. Stem represented as upekṣa for the Pāṇinian verifier’s derivation of the feminine ā-form; the lexical technical term is upekṣā.",
+   "note": "Predicate nominative: the ālaya-vijñāna's feeling is specifically upekṣā, glossed as neither pleasure nor pain.",
    "verification": {
     "status": "pass",
-    "detail": "upekṣa Stri/Prathama/Eka: pass"
+    "detail": "upekṣā Stri/Prathama/Eka: pass"
    }
   },
   {
    "surface": "vedanā",
    "surface_in_sandhi": "vedanā",
-   "lemma": "vedana",
+   "lemma": "vedanā",
    "morph": {
     "pos": "subanta",
     "linga": "Stri",
@@ -39,10 +39,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Subject/appositional nominative with upekṣā: ‘the feeling’ in ālayavijñāna. Stem represented as vedana for the Pāṇinian verifier’s derivation of the feminine ā-form; the lexical technical term is vedanā.",
+   "note": "Subject/appositional nominative with upekṣā: ‘the feeling’ in ālayavijñāna.",
    "verification": {
     "status": "pass",
-    "detail": "vedana Stri/Prathama/Eka: pass"
+    "detail": "vedanā Stri/Prathama/Eka: pass"
    }
   },
   {
@@ -284,10 +284,10 @@
    "surface_in_sandhi": "ghavat",
    "lemma": "oghavat",
    "morph": {
-    "pos": "avyaya",
-    "linga": null,
-    "vibhakti": null,
-    "vacana": null,
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
     "root": null,
     "prefixes": null,
     "prayoga": null,
@@ -295,11 +295,10 @@
     "purusha": null
    },
    "samasa": null,
-   "note": "Comparative indeclinable in -vat from ogha: ‘like a flood’; not an agreeing adjective ‘having a strong stream’. The verifier’s kośa reports only the inflected adjective oghavat, but I retain the avyaya analysis because Sthiramati explicitly glosses the construction as a yathā/evam simile.",
+   "note": "Inflected neuter nominative singular adjective-form agreeing with tat/ālayavijñānam; despite not being an avyaya morphologically, Sthiramati’s yathā/evam explanation supports rendering the force as comparative: ‘flood-like, like a flood’.",
    "verification": {
-    "status": "fail",
-    "detail": "claimed avyaya, but kosha knows this form only as an inflected pada",
-    "flag": "UNVERIFIED"
+    "status": "pass",
+    "detail": "oghavat Napumsaka/Prathama/Eka: pass"
    }
   }
  ],
@@ -438,13 +437,13 @@
   },
   {
    "id": "J6",
-   "decision": "The printed srotasaughavat is segmented as srotasā + oghavat. The commentary defines srotas as uninterrupted cause-effect continuity and ogha as a continuous water-flow, then makes the yathā/evam simile explicit. Thus oghavat is comparative ‘like a flood’, not an adjective ‘possessing a strong stream’.",
+   "decision": "The printed srotasaughavat is segmented as srotasā + oghavat. Morphologically oghavat is an inflected neuter nominative singular adjective-form, but the commentary defines srotas as uninterrupted cause-effect continuity and ogha as a continuous water-flow, then makes the yathā/evam simile explicit. Thus its force here is comparative, ‘flood-like, like a flood,’ not the MW possessive sense ‘having a strong stream’.",
    "options_considered": [
-    "srotasā + oghavat: ‘by a stream, like a flood’",
-    "one compound adjective srotasaughavat, ‘having a strong stream’",
+    "srotasā + oghavat: ‘by way of a stream/continuum, flood-like’",
+    "one compound/expression srotasaughavat in the possessive sense ‘having a strong stream’",
     "a literal physical river rather than causal continuity"
    ],
-   "chosen": "srotasā oghavat = by way of a stream/continuum, like a flood",
+   "chosen": "srotasā oghavat = by way of a stream/continuum, flood-like",
    "evidence": [
     {
      "lines": [
@@ -476,19 +475,17 @@
   "It might render avyākṛta as simply ‘unexplained’ and miss the moral classification: excluded from both wholesome and unwholesome, and also anivṛta as not covered by adventitious mental defilements.",
   "It might take tathā as a loose ‘also’; the commentary makes it carry over a set of properties from ālayavijñāna to contact and the rest.",
   "It might read tac ca vartate as the persistence of one identical store-consciousness; Sthiramati explicitly rejects that and explains continuation by a momentary continuum.",
-  "It might analyze srotasaughavat as a single adjective ‘having a strong stream’; the commentary supports srotasā + comparative oghavat, ‘by way of a stream, like a flood’. "
+  "It might analyze srotasaughavat as a single possessive expression ‘having a strong stream’; the commentary supports srotasā + oghavat with comparative force, ‘by way of a stream, flood-like’. "
  ],
  "analyzer_disagreements": [
   "ByT5 api_seg gives upekṣā_vedanā_ca_tat and omits tatra/anivṛtāvyākṛtam; I follow the bhāṣya and commentary at 308–312: tatra ... anivṛtāvyākṛtañ ca tat.",
-  "ByT5 local_SLM gives upekṣā and vedanā as feminine nominative singulars; I keep those features, but revise the verifier-facing stems to upekṣa and vedana so that the pausal forms upekṣā and vedanā derive correctly as feminine ā-forms.",
   "ByT5 local_SLM does not provide a full analysis for tatrānivṛtāvyākṛtam; I analyze tatra as an avyaya and anivṛtāvyākṛtam as a neuter nominative singular compound, because the commentary treats the two grahaṇas separately at 314–315 while line 312 quotes the compound predicate of tat.",
-  "ByT5 local_SLM splits sparśa_ādayaḥ; I analyze the verse word as the single bahuvrīhi compound stem sparśādi-, since the commentary quotes sparśādayaḥ and sparśādibhiḥ as compound forms at 319–321.",
-  "ByT5 tags oghavat as a neuter nominative singular nominal; I keep it as the comparative avyaya ‘like a flood’, because the commentary unpacks it with yathā hy oghaḥ ... evam ālayavijñānam at 340–341; the Pāṇinian verifier appears to lack this avyaya use in its kośa."
+  "ByT5 local_SLM splits sparśa_ādayaḥ; I analyze the verse word as the single bahuvrīhi compound stem sparśādi-, since the commentary quotes sparśādayaḥ and sparśādibhiḥ as compound forms at 319–321."
  ],
  "open_questions": [],
  "verification_summary": {
-  "pass": 12,
-  "fail": 1,
+  "pass": 13,
+  "fail": 0,
   "unsupported": 0,
   "tool_error": 0
  },
@@ -496,11 +493,11 @@
   "model": "gpt-5.5-2026-04-23",
   "attempts": 2,
   "usage": {
-   "prompt_tokens": 15594,
-   "completion_tokens": 26005,
-   "reasoning_tokens": 17122
+   "prompt_tokens": 15541,
+   "completion_tokens": 23772,
+   "reasoning_tokens": 15083
   },
-  "est_cost": 0.4369,
+  "est_cost": 0.4032,
   "retrieval": {
    "anchor": [
     307,
