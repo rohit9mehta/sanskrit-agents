@@ -1,0 +1,493 @@
+{
+ "verse": 2,
+ "analysis": [
+  {
+   "surface": "vipākaḥ",
+   "surface_in_sandhi": "vipāko",
+   "lemma": "vipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First member of the threefold pariṇāma; commentary expands it as vipākākhyaḥ and defines it as karmic fruition.",
+   "verification": {
+    "status": "pass",
+    "detail": "vipāka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mananākhyaḥ",
+   "surface_in_sandhi": "mananākhyaś",
+   "lemma": "mananākhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "manana-ākhyā yasya saḥ",
+    "members": [
+     "manana",
+     "ākhyā"
+    ]
+   },
+   "note": "Agrees with the implied masculine pariṇāmaḥ; ‘called mentation,’ not simply ‘thoughtful.’",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mananākhya as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñaptiḥ",
+   "surface_in_sandhi": "vijñaptir",
+   "lemma": "vijñapti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here the technical Yogācāra sense is ‘presentation/manifestation,’ as the commentary construes it as viṣayavijñaptiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñapti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "viṣayasya",
+   "surface_in_sandhi": "viṣayasya",
+   "lemma": "viṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Objective genitive with vijñaptiḥ: ‘presentation of an object’; commentary treats the expression as the technical term viṣaya-vijñapti.",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣaya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatrā-",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Not merely locative ‘there’; the commentary glosses it as referring back to the just-mentioned threefold transformation.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ālayākhyam",
+   "surface_in_sandhi": "ālayākhyaṃ",
+   "lemma": "ālayākhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "ālaya-ākhyā yasya tat",
+    "members": [
+     "ālaya",
+     "ākhyā"
+    ]
+   },
+   "note": "Nominative neuter agreeing with vijñānam; commentary glosses it as ālayavijñānasaṃjñakam.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ālayākhya as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vijñānam",
+   "surface_in_sandhi": "vijñānaṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject with ālayākhyam and sarvabījakam; the masculine predicate vipākaḥ is understood as vipāka-pariṇāmaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vipākaḥ",
+   "surface_in_sandhi": "vipākaḥ",
+   "lemma": "vipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: ‘the maturation-result,’ i.e. the vipāka-pariṇāma, as the commentary says sa vipākapariṇāmaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vipāka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvabījakam",
+   "surface_in_sandhi": "sarvabījakam",
+   "lemma": "sarvabījaka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sarvāṇi bījakāni, sarvadharmabījāni, āśrayante yasmin tat",
+    "members": [
+     "sarva",
+     "bījaka"
+    ]
+   },
+   "note": "Nominative neuter agreeing with vijñānam; possessive/adjectival: ‘having/supporting all seeds,’ per the commentary’s sarvadharmabījāśrayatvāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvabījaka as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "vipāko mananākhyaś ca vijñaptir viṣayasya ca is not a list of unrelated items; it continues the previous verse’s trividhaḥ pariṇāmaḥ. The genitive viṣayasya is construed with vijñaptiḥ as the technical expression viṣaya-vijñapti.",
+   "options_considered": [
+    "three independent predicates: ‘maturation, called thought, and a request/report of an object’",
+    "three named modes of the preceding transformation, with viṣayasya vijñaptiḥ as viṣayavijñapti"
+   ],
+   "chosen": "The first half names the three kinds of vijñāna-pariṇāma: vipāka, mananākhya, and viṣayavijñapti.",
+   "evidence": [
+    {
+     "lines": [
+      169
+     ],
+     "quote": "sa eṣa trividhaḥ pariṇāmo vipākākhyo mananākhyo viṣayavijñaptyākhyaś ca",
+     "translation": "This very threefold transformation is called vipāka, called manana, and called viṣaya-vijñapti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Translate vipāka as ‘maturation-result’ rather than merely ‘ripening’ or ‘cooking,’ because Sthiramati defines it through the ripening of wholesome and unwholesome karmic impressions and the production of their fruit.",
+   "options_considered": [
+    "ordinary ripening/maturity",
+    "cooking/digestion",
+    "karmic maturation-result"
+   ],
+   "chosen": "vipāka = karmic maturation-result/fruition.",
+   "evidence": [
+    {
+     "lines": [
+      170,
+      171
+     ],
+     "quote": "tatra kuśalākuśalakarmavāsanāparipākavaśād yathākṣepaṃ phalābhinirvṛttir\nvipākaḥ",
+     "translation": "Here, vipāka is the arising of a fruit according to projection, through the force of the ripening of impressions of wholesome and unwholesome karma."
+    },
+    {
+     "lines": [
+      188
+     ],
+     "quote": "sarvadhātugatiyonijātiṣu kuśalākuśalakarmavipākatvād vipākaḥ",
+     "translation": "It is vipāka because, in all realms, destinies, wombs, and classes of birth, it is the maturation-result of wholesome and unwholesome karma."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is possessive, ‘having the name manana’; the term is not an adjective meaning simply ‘thoughtful’ and not a neutral ‘meditation.’",
+   "options_considered": [
+    "thoughtful/careful",
+    "meditation in a general contemplative sense",
+    "the transformation called mentation, i.e. afflicted manas"
+   ],
+   "chosen": "mananākhya = ‘called mentation,’ referring to the afflicted manas characterized by constant mentation.",
+   "evidence": [
+    {
+     "lines": [
+      172
+     ],
+     "quote": "kliṣṭaṃ mano nityaṃ mananātmakatvān mananākhyam",
+     "translation": "The afflicted mind is called manana because its nature is constant mentation."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The word vijñapti is not used here in the common sense ‘request/report’; Sthiramati defines it as the sixfold eye-and-so-on consciousness insofar as objects such as form appear.",
+   "options_considered": [
+    "information/report/request concerning an object",
+    "cognition’s presentation or manifestation of an object"
+   ],
+   "chosen": "vijñaptir viṣayasya = ‘presentation/manifestation of an object.’",
+   "evidence": [
+    {
+     "lines": [
+      173,
+      174
+     ],
+     "quote": "rūpādiviṣayapratyavabhāsatvāc cakṣurādivijñānaṃ ṣaṭprakāram api\nviṣayavijñaptiḥ",
+     "translation": "Because objects such as form appear, the sixfold consciousness beginning with eye-consciousness is also viṣaya-vijñapti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Translate tatra as ‘among these’ rather than simply ‘there.’ The ālaya-named consciousness is identified as the vipāka-pariṇāma.",
+   "options_considered": [
+    "‘there,’ a spatial adverb",
+    "‘in that case’",
+    "‘among these’ three transformations"
+   ],
+   "chosen": "tatra points back to the just-mentioned threefold pariṇāma; the second hemistich identifies the vipāka-pariṇāma.",
+   "evidence": [
+    {
+     "lines": [
+      179,
+      180,
+      181
+     ],
+     "quote": "tatreti yo 'yam anantaroktas trividhaḥ pariṇāmaḥ\nālayākhyam ity\nālayavijñānasaṃjñakaṃ yad vijñānaṃ sa vipākapariṇāmaḥ",
+     "translation": "‘Tatra’ means this just-mentioned threefold transformation. ‘Ālayākhyam’ means: the consciousness that has the designation ālaya-vijñāna is the vipāka-transformation."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The English ‘storehouse/repository’ is chosen because Sthiramati glosses ālaya as sthāna, ‘place/support,’ and explains it as that in which all dharmas are bound as effects and which is bound to all dharmas as cause.",
+   "options_considered": [
+    "house/dwelling in a nontechnical sense",
+    "abode as mere location",
+    "repository/storehouse as causal support of seeds"
+   ],
+   "chosen": "ālaya = repository/storehouse, not just a house or dwelling.",
+   "evidence": [
+    {
+     "lines": [
+      183,
+      184
+     ],
+     "quote": "sarvasāṃkleśikadharmabījasthānatvād ālayaḥ\nālayaḥ sthānam iti paryāyau",
+     "translation": "It is ālaya because it is the place of the seeds of all defiled dharmas. Ālaya and sthāna are synonyms."
+    },
+    {
+     "lines": [
+      185,
+      186
+     ],
+     "quote": "atha vālīyante upanibadhyante 'smin sarvadharmāḥ kāryabhāvena tad vālīyate\nupanibadhyate kāraṇabhāvena sarvadharmeṣv ity ālayaḥ",
+     "translation": "Or, all dharmas are lodged/bound in it in the mode of effects, and it is lodged/bound in all dharmas in the mode of cause; therefore it is ālaya."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The translation ‘consciousness’ is supported by Sthiramati’s verbal gloss vijānāti iti vijñānam.",
+   "options_considered": [
+    "knowledge/science in a doctrinal sense",
+    "consciousness as the cognizing factor"
+   ],
+   "chosen": "vijñāna = consciousness/discernment.",
+   "evidence": [
+    {
+     "lines": [
+      187
+     ],
+     "quote": "vijānātīti vijñānam",
+     "translation": "It is vijñāna because it cognizes/discerns."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Do not translate sarvabījakam as the noun ‘every seed’ or as merely ‘seed-like’; it qualifies ālayākhyam vijñānam as possessing/supporting all seeds.",
+   "options_considered": [
+    "every seed as a substantive",
+    "seed-like in general",
+    "all-seeded / support of the seeds of all dharmas"
+   ],
+   "chosen": "sarvabījakam = all-seeded, i.e. the support of the seeds of all dharmas.",
+   "evidence": [
+    {
+     "lines": [
+      189
+     ],
+     "quote": "sarvadharmabījāśrayatvāt sarvabījakam",
+     "translation": "It is sarvabījaka because it is the support of the seeds of all dharmas."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The transformation is threefold:\nmaturation-result (vipāka), the one called mentation (manana),\nand presentation of an object (viṣaya-vijñapti).\nAmong these, the consciousness called the storehouse (ālaya)\nis the maturation-result, all-seeded (sarvabījaka).",
+ "one_shot_delta": [
+  "A commentary-blind translation could take vijñapti in its common MW sense ‘request/report,’ but Sthiramati defines it as object-presentation by the six sense-consciousnesses.",
+  "It could translate tatra spatially as ‘there’; the commentary explicitly makes it an anaphoric ‘among these’ referring to the just-mentioned threefold transformation.",
+  "It could miss that ālayākhyaṃ vijñānam is not just ‘a consciousness named abode’ but ālayavijñāna, the vipāka-pariṇāma, named ālaya because it is a repository/support for seeds.",
+  "It could render sarvabījakam vaguely as ‘all-seed’ rather than ‘all-seeded,’ the support of the seeds of all dharmas."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 output segments mananākhyaḥ and ālayākhyam as manana/ālaya + ākhyā head-forms; following the required compound format and the commentary’s -ākhya/saṃjñaka glosses, I treat the whole stems as possessive bahuvrīhis: mananākhya- and ālayākhya-.",
+  "For sarvabījakam, the analyzer gives only sarva + bījaka segmentation. I construe the relation as possessive/adjectival, ‘having/supporting all seeds,’ because trbh 189 glosses sarvabījakam by sarvadharmabījāśrayatvāt.",
+  "For ālayākhyam, vijñānam, and sarvabījakam I explicitly choose nominative neuter, not an accusative construal, because trbh 181 recasts the clause as yad vijñānaṃ sa vipākapariṇāmaḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5668,
+   "completion_tokens": 9682,
+   "reasoning_tokens": 6144
+  },
+  "est_cost": 0.1622,
+  "retrieval": {
+   "anchor": [
+    167,
+    167
+   ],
+   "span": [
+    169,
+    201
+   ],
+   "shared_with": null,
+   "requotes": [
+    [
+     231,
+     231
+    ]
+   ]
+  }
+ }
+}
