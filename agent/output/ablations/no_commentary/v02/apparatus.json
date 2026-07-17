@@ -1,0 +1,448 @@
+{
+ "verse": 2,
+ "analysis": [
+  {
+   "surface": "vipākaḥ",
+   "surface_in_sandhi": "vipāko",
+   "lemma": "vipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi: vipākaḥ + manana- → vipāko manana-. Taken as a masculine nominal technical term, not as an adjective.",
+   "verification": {
+    "status": "pass",
+    "detail": "vipāka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mananākhyaḥ",
+   "surface_in_sandhi": "mananākhyaś",
+   "lemma": "mananākhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "manana-ākhyā yasya saḥ",
+    "members": [
+     "manana",
+     "ākhyā"
+    ]
+   },
+   "note": "External sandhi: mananākhyaḥ + ca → mananākhyaś ca. The compound means “called/named manana.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mananākhya as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic coordinator.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñaptiḥ",
+   "surface_in_sandhi": "vijñaptir",
+   "lemma": "vijñapti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi: vijñaptiḥ + viṣayasya → vijñaptir viṣayasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñapti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "viṣayasya",
+   "surface_in_sandhi": "viṣayasya",
+   "lemma": "viṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on vijñaptiḥ: “presentation/representation of an object-domain.”",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣaya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coordinates vijñaptiḥ viṣayasya with the preceding listed items.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatrā",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi group: tatra + ālayākhyam → tatrālayākhyaṃ; surface_in_sandhi records the coalesced tatrā-. Interpreted resumptively, “among these.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ālayākhyam",
+   "surface_in_sandhi": "ālayākhyaṃ",
+   "lemma": "ālayākhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "ālaya-ākhyā yasya tat",
+    "members": [
+     "ālaya",
+     "ākhyā"
+    ]
+   },
+   "note": "Neuter nominative agreeing with vijñānam. Final -m is printed as anusvāra before v in the verse.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ālayākhya as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vijñānam",
+   "surface_in_sandhi": "vijñānaṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative in the nominal sentence; subject/appositional phrase with ālayākhyam and sarvabījakam.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vipākaḥ",
+   "surface_in_sandhi": "vipākaḥ",
+   "lemma": "vipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominal: “is the maturation-result.” The masculine technical noun is predicated of the neuter vijñānam phrase.",
+   "verification": {
+    "status": "pass",
+    "detail": "vipāka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvabījakam",
+   "surface_in_sandhi": "sarvabījakam",
+   "lemma": "sarvabījaka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sarvāṇi bījakāni yasya tat",
+    "members": [
+     "sarva",
+     "bījaka"
+    ]
+   },
+   "note": "Neuter nominative agreeing with vijñānam: “having all seeds / all-seeded.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvabījaka as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The repeated ca and the sequence of nominative expressions support an enumerative construal: “the maturation-result, the one called mentation, and the representation of an object.” I do not take mananākhyaḥ merely as an adjective qualifying vipākaḥ.",
+   "options_considered": [
+    "Three coordinated items: vipākaḥ; mananākhyaḥ; vijñaptiḥ viṣayasya",
+    "Two items, with mananākhyaḥ qualifying vipākaḥ",
+    "A single complex predicate phrase"
+   ],
+   "chosen": "The first half lists three items: vipākaḥ, mananākhyaḥ, and viṣayasya vijñaptiḥ.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "[MW s.v. ca, 380,1] 2. ca ¦ ind. and, both, also, moreover, as well as",
+     "translation": "The enclitic ca supplies coordination; repeated ca marks a list."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The element -ākhya is best understood through ākhyā “appellation, name.” Since the whole form functions adjectivally, agreeing with an expressed or implied noun, the analysis is bahuvrīhi: manana-ākhyā yasya saḥ; ālaya-ākhyā yasya tat.",
+   "options_considered": [
+    "Bahuvrīhi: “whose name is X”",
+    "Karmadhāraya: “X-name” as a substantive",
+    "Uncompounded sequence manana ākhyā / ālaya ākhyā"
+   ],
+   "chosen": "mananākhyaḥ and ālayākhyam are bahuvrīhi compounds meaning “whose name/appellation is X,” hence “called X.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "[MW s.v. ākhyā, 129,1] 2. ā-khyā ¦ f. ... appellation, name",
+     "translation": "The lexical sense “name/appellation” supports the analysis “called/named X.”"
+    },
+    {
+     "lines": [],
+     "quote": "[MW s.v. manana, 783,3] mana/na ¦ n. thinking, reflection, meditation, thought",
+     "translation": "manana is the name by which the second listed item is called."
+    },
+    {
+     "lines": [],
+     "quote": "[MW s.v. ālaya, 154,1] ā-laya ¦ m. and n. a house, dwelling ... a receptacle, asylum",
+     "translation": "ālaya is the name by which the vijñāna is called."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Although tatra can mean “there,” its locative-pronominal force also permits a resumptive sense after an enumeration. Here it introduces the definition of vipākaḥ from among the listed terms.",
+   "options_considered": [
+    "“among these,” resumptive after an enumeration",
+    "“there,” a spatial adverb",
+    "“then/thereupon,” a discourse adverb"
+   ],
+   "chosen": "tatra is read as “among these,” referring back to the listed items.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "[MW s.v. tatra, 433,2] ta/tra ¦ ind. ... used for the loc. ... of ta/d ... in that place, there",
+     "translation": "As a locative adverb of tad, tatra can refer back to the just-mentioned set: “in/among those.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The second half is a nominal sentence without an expressed verb. The neuter nominatives ālayākhyam, vijñānam, and sarvabījakam hang together by agreement, while vipākaḥ supplies the technical label: “the maturation-result is consciousness called ālaya, all-seeded.” The gender mismatch is due to predicating a masculine noun-label of a neuter noun phrase.",
+   "options_considered": [
+    "Neuter subject phrase + masculine predicate noun",
+    "All words in apposition requiring same gender",
+    "ālayākhyaṃ vijñānaṃ as accusative object of an omitted verb"
+   ],
+   "chosen": "ālayākhyaṃ vijñānaṃ sarvabījakam is the neuter nominative subject phrase; vipākaḥ is a masculine predicate noun.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical reasoning: neuter nominative singular ālayākhyam and sarvabījakam agree with neuter vijñānam; vipākaḥ is nominative masculine and can function as a predicate nominal in an equational sentence."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Since sarvabījakam is neuter nominative singular, it naturally agrees with vijñānam. The compound is better read possessively than as an independent noun: sarvāṇi bījakāni yasya tat.",
+   "options_considered": [
+    "Bahuvrīhi adjective: “having all seeds”",
+    "Karmadhāraya noun/adjective: “all-seed”",
+    "Separate predicate: “everything is a seed”"
+   ],
+   "chosen": "sarvabījakam is a bahuvrīhi adjective, “having all seeds / all-seeded,” modifying vijñānam.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "[MW s.v. sarva, 1184,3] sa/rva ¦ mf(ā)n. ... whole, entire, all, every",
+     "translation": "sarva supplies “all/every.”"
+    },
+    {
+     "lines": [],
+     "quote": "[MW s.v. bījaka, 732,3] bījaka ¦ n. seed",
+     "translation": "bījaka supplies “seed”; the compound yields “having all seeds.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "MW records vijñapti as “information/report” and “imparting,” while viṣaya supplies the object-domain or sphere. Although vijñapti can take a genitive in the sense “request of,” that sense is semantically unsuitable with viṣaya here; an objective genitive, “presentation of the object,” is the better grammatical-lexical construal.",
+   "options_considered": [
+    "Objective genitive: “representation of an object”",
+    "Possessive genitive: “the object’s representation”",
+    "Genitive with vijñapti as “request/entreaty of the object”"
+   ],
+   "chosen": "viṣayasya is an objective genitive with vijñaptiḥ: “representation/presentation of an object.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "[MW s.v. vijñapti, 961,1] vi-˚jñapti ¦ f. information, report ... imparting, giving",
+     "translation": "The lexical range supports “making known / presentation / representation.”"
+    },
+    {
+     "lines": [],
+     "quote": "[MW s.v. viṣaya, 997,1] viṣaya ¦ m. ... scope, compass, horizon, range, reach (of eyes, ears, mind &c.)",
+     "translation": "viṣaya can denote the range or object-domain of cognition."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "[The three are:] the maturation-result (vipāka),\nthe one called mentation (manana),\nand the representation (vijñapti) of an object (viṣaya).\nAmong these, the maturation-result is consciousness (vijñāna),\ncalled the repository (ālaya), all-seeded (sarvabījaka).",
+ "one_shot_delta": [
+  "Without commentary, the exact doctrinal identities of the three listed items remain inferred from grammar and context rather than demonstrated: vipākaḥ, mananākhyaḥ, and viṣayasya vijñaptiḥ are translated as three coordinated terms.",
+  "A dictionary-only reader might take vijñaptiḥ viṣayasya as “request of the object,” because MW records vijñapti with genitive in the sense of entreaty; the semantic context makes “representation/presentation of an object” preferable.",
+  "A purely spatial rendering of tatra as “there” would miss the likely resumptive force “among these” after the enumeration.",
+  "sarvabījakam could be flattened into “all seed”; the agreement with vijñānam and the compound idiom favor “all-seeded / having all seeds.”"
+ ],
+ "analyzer_disagreements": [
+  "No substantive grammatical disagreement with the ByT5 output. The analyzer reports compounds by their members (manana + ākhyā, ālaya + ākhyā, sarva + bījaka); this apparatus reports the required whole compound stems as the lemmas: mananākhya, ālayākhya, sarvabījaka.",
+  "The neuter forms ālayākhyam, vijñānam, and sarvabījakam are taken as nominatives by nominal-clause syntax, not as accusatives."
+ ],
+ "open_questions": [
+  "The precise technical force of vipāka, vijñapti, and sarvabījaka in this śāstra cannot be fully fixed from MW and grammar alone.",
+  "The commentary would be needed to determine whether mananākhyaḥ specifically denotes a technical mental faculty or only “the one called thinking/mentation.”",
+  "The translation “representation” for vijñapti is context-sensitive; MW alone gives more general senses such as “information,” “report,” and “imparting.”"
+ ],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4130,
+   "completion_tokens": 12761,
+   "reasoning_tokens": 9351
+  },
+  "est_cost": 0.2038,
+  "retrieval": {
+   "anchor": [
+    167,
+    167
+   ],
+   "span": [
+    169,
+    201
+   ],
+   "shared_with": null,
+   "requotes": [
+    [
+     231,
+     231
+    ]
+   ]
+  }
+ }
+}

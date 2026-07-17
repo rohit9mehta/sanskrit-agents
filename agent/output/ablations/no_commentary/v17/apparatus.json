@@ -1,0 +1,462 @@
+{
+ "verse": 17,
+ "analysis": [
+  {
+   "surface": "vijñānapariṇāmaḥ",
+   "surface_in_sandhi": "vijñānapariṇāmo",
+   "lemma": "vijñānapariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vijñānasya pariṇāmaḥ",
+    "members": [
+     "vijñāna",
+     "pariṇāma"
+    ]
+   },
+   "note": "Subject of the first clause; visarga-sandhi before ayam gives -o '.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñānapariṇāma as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular deictic agreeing with vijñānapariṇāmaḥ/vikalpaḥ; printed after avagraha, with final -m represented as anusvāra before v-.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpaḥ",
+   "surface_in_sandhi": "vikalpo",
+   "lemma": "vikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: ‘is conceptual construction/imagination.’",
+   "verification": {
+    "status": "pass",
+    "detail": "vikalpa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yad",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun; nominative rather than accusative because vikalpyate is passive. Final -t is voiced before v-.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpyate",
+   "surface_in_sandhi": "vikalpyate",
+   "lemma": "kḷp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "kḷp",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive present, ‘is imagined / conceptually constructed’; semantically paired with vikalpaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-kḷp Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tena",
+   "surface_in_sandhi": "tena",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental agent/instrument with passive vikalpyate, referring back to the masculine vikalpaḥ/vijñānapariṇāmaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tan",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yad; subject of asti. Final -t becomes -n before n-.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nāsti",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates asti; printed fused with asti as nāsti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asti",
+   "surface_in_sandhi": "nāsti",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Existential verb; printed fused with preceding na as nāsti.",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tena",
+   "surface_in_sandhi": "tenedaṃ",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal/inferential instrumental: ‘by that fact, therefore’; printed fused with following idam as tenedaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "tenedaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular, qualified by sarvam and taking vijñāptimātrakam as predicate; printed fused with preceding tena as tenedaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvam",
+   "surface_in_sandhi": "sarvaṃ",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjectival to idam: ‘all this / this whole [field].’ Final -m appears as anusvāra before v-.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijñāptimātrakam",
+   "surface_in_sandhi": "vijñāptimātrakam",
+   "lemma": "vijñāptimātraka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "vijñaptir eva mātrakaṃ yasya tat",
+    "members": [
+     "vijñāpti",
+     "mātraka"
+    ]
+   },
+   "note": "Predicate adjective/noun agreeing with idam sarvam.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñāptimātraka as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is best construed as vijñānasya pariṇāmaḥ, not as a dvandva or as a simple adjective-noun phrase. The head pariṇāmaḥ is masculine nominative singular and is equated by nominative apposition with vikalpaḥ.",
+   "options_considered": [
+    "genitive tatpuruṣa: ‘transformation of consciousness’",
+    "karmadhāraya-like ‘consciousness-transformation’ without specifying relation",
+    "dvandva: ‘consciousness and transformation’"
+   ],
+   "chosen": "vijñānapariṇāmaḥ = ‘transformation of consciousness’ as a genitive tatpuruṣa and as the subject identified with vikalpaḥ.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vijñānapariṇāmo 'yaṃ vikalpaḥ",
+     "translation": "This transformation of consciousness is conceptual construction."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Although vikalpa can mean ‘alternative/option’ lexically, the verse pairs the noun vikalpaḥ with the passive verb vikalpyate; the context requires a process that constructs or imagines an object. ‘Option’ would not yield a coherent relative clause ‘what is optioned by it.’",
+   "options_considered": [
+    "‘alternative, option’",
+    "‘conceptual construction, imagination, discrimination’"
+   ],
+   "chosen": "vikalpaḥ / vikalpyate are rendered as ‘conceptual construction’ / ‘is conceptually constructed or imagined.’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vikalpo yad vikalpyate",
+     "translation": "conceptual construction—what is constructed/imagined"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Since vikalpyate is passive, yad is the grammatical subject of ‘is constructed,’ not an accusative object. The correlative tat is likewise nominative neuter singular and is the subject of nāsti. Thus the verse negates the existence of what is imagined, not the existence of the imagining transformation itself.",
+   "options_considered": [
+    "yad/tat as nominative subjects in a passive/existential construction",
+    "yad/tat as accusative objects",
+    "tat as referring directly to the prior vikalpaḥ rather than to yad"
+   ],
+   "chosen": "yad ... tat is a neuter nominative relative-correlative pair: ‘what is constructed by it—that does not exist.’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "yad vikalpyate tena tan nāsti",
+     "translation": "what is constructed by it, that does not exist"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The passive vikalpyate naturally licenses an instrumental agent or instrument. The nearest suitable antecedents, vikalpaḥ and vijñānapariṇāmaḥ, are masculine nominative singular and are mutually identified; hence tena is taken as masculine instrumental singular referring back to that conceptualizing transformation.",
+   "options_considered": [
+    "instrumental agent/instrument with passive vikalpyate",
+    "inferential ‘therefore’ in the first occurrence"
+   ],
+   "chosen": "The first tena is an instrumental agent/instrument: ‘by it.’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vikalpo yad vikalpyate tena",
+     "translation": "conceptual construction—what is constructed by it"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "After tan nāsti the passive construction has ended; the following tena introduces the conclusion idam sarvaṃ vijñāptimātrakam. It is therefore construed as an instrumental of reason, not as another passive agent.",
+   "options_considered": [
+    "causal/inferential instrumental: ‘therefore’",
+    "agent/instrument governed by a following passive verb"
+   ],
+   "chosen": "The second tena is causal/inferential: ‘therefore, for that reason.’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "tan nāsti tenedaṃ sarvaṃ vijñāptimātrakam",
+     "translation": "that does not exist; therefore all this is representation-only"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "idam, sarvam, and vijñāptimātrakam are all neuter nominative singular. mātraka, as a final compound member, has the force ‘mere/only’; the compound functions predicatively of ‘all this.’",
+   "options_considered": [
+    "predicate nominative/adjective: ‘is representation-only’",
+    "adverbial ‘only by representation’",
+    "pluralized ‘all things are representations’"
+   ],
+   "chosen": "idam sarvam vijñāptimātrakam is a nominative predication: ‘all this is representation-only.’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "idaṃ sarvaṃ vijñāptimātrakam",
+     "translation": "all this is representation-only"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "This transformation of consciousness (vijñāna-pariṇāma) is conceptual construction (vikalpa):\nwhat is constructed by it—that does not exist.\nTherefore all this is representation-only (vijñapti-mātraka).",
+ "one_shot_delta": [
+  "A dictionary-led translation might render vikalpaḥ as ‘option’ or ‘alternative’; the grammar of vikalpyate favors ‘conceptual construction/imagination’ here.",
+  "The first tena could be mistaken for ‘therefore’; in context it is better taken as the instrumental agent/instrument with the passive vikalpyate: ‘by it.’",
+  "The clause tan nāsti could be made to deny vikalpaḥ itself; the relative-correlative grammar instead says that what is constructed/imagined does not exist.",
+  "idam sarvam is neuter singular collective, so ‘all this’ is more precise than an unqualified plural ‘all things.’",
+  "vijñāptimātrakam should be construed predicatively with idam sarvam as ‘representation-only,’ not as an adverbial phrase ‘only through representation.’"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 splits vijñānapariṇāmaḥ and vijñāptimātrakam into compound members plus head; per the requested format, I report each as a single inflected compound stem and give a samāsa analysis.",
+  "ByT5 gives vikalpyate under the lemma vikalpay; per the requested format for verbs, I report the bare root kḷp with prefix vi and Karmani Lat Prathama Eka. The surface form is compatible with passive ‘is imagined/constructed.’",
+  "ByT5 leaves yat effectively untyped in the SLM line; I analyze it as the neuter nominative singular relative pronoun yad, because the following verb vikalpyate is passive.",
+  "ByT5 does not disambiguate the two occurrences of tena; I take the first as a masculine instrumental pronoun functioning as agent/instrument with the passive vikalpyate, and the second as a neuter causal/inferential instrumental, ‘therefore.’"
+ ],
+ "open_questions": [
+  "No commentary was supplied in this run, so the exact technical scope of vikalpa and vijñapti-mātraka remains unconfirmed by bhāṣya evidence.",
+  "The first tena could refer specifically to vikalpaḥ or more broadly to the identified vijñānapariṇāmaḥ; grammar alone does not force a sharper distinction.",
+  "The samāsa label for vijñāptimātraka is grammatically debatable because -mātraka compounds function adjectivally as ‘nothing but X’; I have represented this external predication as bahuvrīhi."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4605,
+   "completion_tokens": 14443,
+   "reasoning_tokens": 11262
+  },
+  "est_cost": 0.2305,
+  "retrieval": {
+   "anchor": [
+    1093,
+    1094
+   ],
+   "span": [
+    1096,
+    1131
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

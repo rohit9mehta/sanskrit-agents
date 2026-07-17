@@ -1,0 +1,426 @@
+{
+ "verse": 5,
+ "analysis": [
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasya",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Formally also masculine genitive singular; here taken as neuter because it resumes a neuter item in the verse-context, but the antecedent is not fixed in this ablation run.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vyāvṛttiḥ",
+   "surface_in_sandhi": "vyāvṛttir",
+   "lemma": "vyāvṛtti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Bhāṣya reading with double -tt-: vyāvṛttiḥ; external sandhi before vowel gives vyāvṛttir.",
+   "verification": {
+    "status": "pass",
+    "detail": "vyāvṛtti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "arhattve",
+   "surface_in_sandhi": "arhattve",
+   "lemma": "arhattva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Abstract noun in -tva, ‘arhatship’; the supplied bhāṣya reading has geminate -ttv-.",
+   "verification": {
+    "status": "pass",
+    "detail": "arhattva Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object of the absolutive āśritya; final -t is voiced before ā-.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "āśritya",
+   "surface_in_sandhi": "āśritya",
+   "lemma": "śri",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "śri",
+    "prefixes": [
+     "ā"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable absolutive of ā-√śri, ‘having depended on / relying on’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "pravartate",
+   "surface_in_sandhi": "pravartate",
+   "lemma": "vṛt",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vṛt",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada form used intransitively: ‘proceeds, arises, operates’.",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-vṛt Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tadālambam",
+   "surface_in_sandhi": "tadālambaṃ",
+   "lemma": "tadālamba",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "tad ālambaḥ yasya tat",
+    "members": [
+     "tad",
+     "ālamba"
+    ]
+   },
+   "note": "Neuter nominative singular agreeing with vijñānam; formally identical with accusative. Final -m is printed as anusvāra before m-.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tadālamba as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "manaḥ",
+   "surface_in_sandhi": "mano",
+   "lemma": "manas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Name-word in apposition to vijñānam with indeclinable nāma; printed in sandhi as part of manonāma.",
+   "verification": {
+    "status": "pass",
+    "detail": "manas Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nāma",
+   "surface_in_sandhi": "nāma",
+   "lemma": "nāma",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable ‘by name, called’, not here the inflected noun nāman.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñānam",
+   "surface_in_sandhi": "vijñānaṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of pravartate, with the adjectives tadālambam and mananātmakam and the name-apposition manaḥ nāma. Final -m is printed as anusvāra before m-.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mananātmakam",
+   "surface_in_sandhi": "mananātmakam",
+   "lemma": "mananātmaka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "mananaṃ svabhāvo yasya tat",
+    "members": [
+     "manana",
+     "ātmaka"
+    ]
+   },
+   "note": "Neuter nominative singular agreeing with vijñānam; classified semantically as a possessive -ātmaka compound.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mananātmaka as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first clause is read as a nominal sentence: ‘of it, the turning-away is in arhatship.’ The locative arhattve marks the state or condition in which the vyāvṛtti occurs.",
+   "options_considered": [
+    "‘turning away’ as a literal motion term",
+    "‘cessation’ as a doctrinally colored rendering",
+    "‘deliverance from arhatship’ by misreading the locative",
+    "arhat + tva as two independent words"
+   ],
+   "chosen": "vyāvṛttiḥ as ‘turning-away / cessation’, located in arhattva ‘arhatship’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. vyāvṛtti: ‘turning away ... deliverance from, getting rid of’; the form arhattve is the regular locative singular of a neuter abstract in -tva.",
+     "translation": "The lexicon supports ‘turning away’ or ‘getting rid of’; the locative form supports ‘in arhatship’ rather than an ablative ‘from an arhat’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "tat is accusative singular neuter governed by the absolutive āśritya; pravartate is an intransitive present middle/kartari form of pra-√vṛt. The subject is supplied later by vijñānam.",
+   "options_considered": [
+    "‘having taken that as refuge, it proceeds’",
+    "‘depending on that, it arises’",
+    "taking tad as nominative subject",
+    "taking pravartate as transitive"
+   ],
+   "chosen": "tad āśritya pravartate = ‘depending on that, it proceeds/arises’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. ā-√śri: ‘to adhere, rest on ... to depend on’; MW s.v. pra-√vṛt: ‘to come forth, issue, originate, arise ... take place’.",
+     "translation": "The dictionary meanings support ‘relying/depending on’ for āśritya and ‘proceeds/arises’ for pravartate."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Because tadālambam agrees with neuter vijñānam and pravartate is intransitive, it is better read adjectivally than as an independent accusative object. The compound is therefore treated as bahuvrīhi in sense.",
+   "options_considered": [
+    "simple accusative: ‘that support’",
+    "tatpuruṣa: ‘support of that’",
+    "bahuvrīhi adjective: ‘having that as support/object’"
+   ],
+   "chosen": "tadālambam as a possessive compound: ‘having that as its support/object’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. ālamba: ‘that on which one rests or leans, support, prop’.",
+     "translation": "ālamba can denote a support; tadālambam may therefore mean ‘whose support is that’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "nāma is read as the indeclinable ‘by name, called’, so manaḥ is the name in apposition to vijñānam, not a separate predicate ‘mind is name’.",
+   "options_considered": [
+    "‘mind is a name’",
+    "‘name-consciousness of mind’",
+    "‘consciousness called mind’"
+   ],
+   "chosen": "manaḥ nāma vijñānam = ‘a consciousness called mind’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. nāma: ‘ind. ... by name i.e. named, called’.",
+     "translation": "The indeclinable nāma regularly marks a naming expression: ‘called X’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The compound qualifies vijñānam. The final member ātmaka, in compound, supports ‘having/consisting of the nature of’; manana supplies the nature, ‘thinking/reflection’.",
+   "options_considered": [
+    "‘made of homage’ using the rarer sense of manana",
+    "‘thinking-self’ as a literal noun",
+    "‘of the nature of thinking/reflection’"
+   ],
+   "chosen": "mananātmakam = ‘whose nature is thinking’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. manana: ‘thinking, reflection, meditation’; MW s.v. ātmaka: ‘having or consisting of the nature or character of (in comp.)’.",
+     "translation": "Together the members support ‘of the nature of thinking’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "Although neuter nominative and accusative singular are formally identical, an intransitive pravartate requires a nominative subject, and the surrounding neuter forms cohere as subject plus appositional/adjectival qualifiers.",
+   "options_considered": [
+    "reading the -am forms as accusative objects",
+    "reading vijñānam as nominative subject with agreeing qualifiers"
+   ],
+   "chosen": "The neuter -am forms tadālambam, vijñānam, and mananātmakam are nominative singular in this syntax.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "Grammatical reasoning: pravartate is intransitive; vijñānam supplies the neuter singular subject, while tadālambam and mananātmakam agree with it.",
+     "translation": "The syntax favors nominative agreement rather than a chain of accusative objects."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Of it, the turning-away (vyāvṛtti) is in arhatship (arhattva).\nDepending on that, there proceeds\nthat consciousness (vijñāna) called mind (manas):\nhaving that as support/object (ālamba),\nwhose nature is thinking (manana).",
+ "one_shot_delta": [
+  "Without commentary, the antecedents of tasya and the two occurrences of tad cannot be securely identified; the translation therefore leaves ‘it/that’ explicit rather than supplying a doctrinal referent.",
+  "A commentary-blind reading may under- or over-technicalize vyāvṛtti, choosing either a merely spatial ‘turning away’ or a doctrinal ‘cessation’ without evidence.",
+  "The analyzer’s arhat_tve split could lead to the false impression of two words; grammar favors the abstract locative arhattve, ‘in arhatship’.",
+  "A blind translation could take tadālambam as an accusative noun ‘that support’ rather than as an adjective of vijñānam, ‘having that as support/object’.",
+  "The technical sense of ālamba as ‘object’ rather than the dictionary’s broader ‘support’ remains risky without commentary."
+ ],
+ "analyzer_disagreements": [
+  "arhattve: ByT5 segmented arhat_tve and treated tve as a form of tva. I take the bhāṣya reading as one word, locative singular neuter of the abstract stem arhattva, ‘arhatship’.",
+  "tadālambam: ByT5 split tad + ālambam. I retain the members but analyze the printed unit as the compound stem tadālamba, a possessive adjective qualifying vijñānam.",
+  "mananātmakam: ByT5 split manana + ātmakam. I analyze the printed unit as the compound stem mananātmaka, qualifying vijñānam.",
+  "āśritya: ByT5 gives the lemma āśri. I record the bare verbal root √śri with prefix ā-, while still treating the form as an indeclinable absolutive.",
+  "tasya: ByT5 gives a genitive singular pronoun without fixing gender. I record neuter, while noting that the form is also masculine and that the antecedent is unresolved without commentary."
+ ],
+ "open_questions": [
+  "The precise antecedent of tasya is not fixed without commentary or preceding context.",
+  "The precise antecedent of tad in tad āśritya and tadālambam is not fixed in this ablation run.",
+  "The doctrinal force of vyāvṛtti—literal turning-away, exclusion, cessation, or removal—cannot be decided from the dictionary alone.",
+  "Whether ālamba should be translated more technically as ‘object’ rather than ‘support’ cannot be settled without commentary."
+ ],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4075,
+   "completion_tokens": 12660,
+   "reasoning_tokens": 9533
+  },
+  "est_cost": 0.2021,
+  "retrieval": {
+   "anchor": [
+    344,
+    344
+   ],
+   "span": [
+    345,
+    382
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

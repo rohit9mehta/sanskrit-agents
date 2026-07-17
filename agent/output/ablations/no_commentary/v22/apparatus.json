@@ -1,0 +1,544 @@
+{
+ "verse": 22,
+ "analysis": [
+  {
+   "surface": "ataḥ",
+   "surface_in_sandhi": "ata",
+   "lemma": "atas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Lexical form atas; pausal/unsandhied spelling normalized as ataḥ. In sandhi before eva it is printed ata.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "eva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal form saḥ, printed sa before the following consonant.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "naivānyo",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First constituent of the sandhi group na eva anyaḥ > naivānyo.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "naivānyo",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second constituent of the sandhi group na eva anyaḥ > naivānyo; it strengthens the negation: ‘not at all / not precisely’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anyaḥ",
+   "surface_in_sandhi": "naivānyo",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective agreeing with saḥ; its final -aḥ is printed -o before the following na.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nānanyaḥ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First constituent of na ananyaḥ > nānanyaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ananyaḥ",
+   "surface_in_sandhi": "nānanyaḥ",
+   "lemma": "ananya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na anyaḥ",
+    "members": [
+     "nañ",
+     "anya"
+    ]
+   },
+   "note": "Predicate adjective agreeing with saḥ: ‘not other, non-different’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ananya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "paratantrataḥ",
+   "surface_in_sandhi": "paratantrataḥ",
+   "lemma": "paratantra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "parasya tantraṃ yasya",
+    "members": [
+     "para",
+     "tantra"
+    ]
+   },
+   "note": "Ablatival tasil-type adverbial form, ‘from/than the dependent’, not the regular ablative singular paratantrāt.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyayībhāva; whole form not in kosha/MW as indeclinable"
+   }
+  },
+  {
+   "surface": "anityatādivat",
+   "surface_in_sandhi": "anityatādivad",
+   "lemma": "anityatādivat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "anityatā ādir yasya dṛṣṭāntasamūhasya",
+    "members": [
+     "anityatā",
+     "ādi"
+    ]
+   },
+   "note": "Indeclinable with vati/-vat in the sense ‘like’; final -t is printed -d before vācyaḥ. The base is anityatādi, ‘impermanence and so on’.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyayībhāva; whole form not in kosha/MW as indeclinable"
+   }
+  },
+  {
+   "surface": "vācyaḥ",
+   "surface_in_sandhi": "vācyo",
+   "lemma": "vācya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Gerundive/passive verbal adjective from √vac used predicatively with saḥ: ‘to be said/declared’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vācya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nādṛṣṭe",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates the main passive verb dṛśyate; first constituent of na adṛṣṭe > nādṛṣṭe.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "adṛṣṭe",
+   "surface_in_sandhi": "nādṛṣṭe",
+   "lemma": "adṛṣṭa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na dṛṣṭaḥ",
+    "members": [
+     "nañ",
+     "dṛṣṭa"
+    ]
+   },
+   "note": "Privative past passive participial adjective, in a locative absolute with asmin: ‘when this is unseen/not seen’. The form is also compatible with neuter locative singular, but masculine is chosen to match asmin as referring to the implied masculine svabhāva/term under discussion.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem adṛṣṭa as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asmin",
+   "surface_in_sandhi": "'smin",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular pronoun in the locative absolute adṛṣṭe 'smin; the initial a- is elided after final -e and marked by avagraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal subject of dṛśyate, printed sa before the following consonant.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dṛśyate",
+   "surface_in_sandhi": "dṛśyate",
+   "lemma": "dṛś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dṛś",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present passive, third singular: ‘is seen’.",
+   "verification": {
+    "status": "pass",
+    "detail": "dṛś Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Construe atas/ataḥ as a causal-deictic indeclinable, with eva intensifying the immediately preceding reason.",
+   "options_considered": [
+    "‘from this alone’ as a merely spatial ablative phrase",
+    "‘therefore’ without the intensifying force of eva",
+    "‘for that very reason’"
+   ],
+   "chosen": "ata eva = ‘for that very reason’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "ata eva",
+     "translation": "Grammatically, atas/ataḥ means ‘hence/from this’, and eva strengthens it: ‘just for this reason’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Take anyaḥ and ananyaḥ as masculine nominative singular predicate adjectives agreeing with saḥ; paratantrataḥ supplies the ablatival standard ‘from/than the dependent’ for both predicates.",
+   "options_considered": [
+    "paratantrataḥ = ‘because of dependence’ modifying the whole sentence",
+    "paratantrataḥ = regular ablative singular paratantrāt",
+    "paratantrataḥ = ablatival ‘from/than the dependent’, governing the difference/non-difference predication"
+   ],
+   "chosen": "saḥ … anyaḥ / ananyaḥ paratantrataḥ = ‘that is neither different nor non-different from the dependent’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sa na eva anyaḥ na ananyaḥ paratantrataḥ",
+     "translation": "The nominative predicate adjectives match saḥ; Sanskrit anya commonly construes with an ablatival expression for ‘different from’, and the same standard is carried over to ananyaḥ."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Read -vat as the likeness affix, not as possessive -vat; anityatādi supplies an example-class beginning with impermanence.",
+   "options_considered": [
+    "‘possessing impermanence and so on’",
+    "‘in the manner of impermanence and the like’",
+    "‘beginning from impermanence’"
+   ],
+   "chosen": "anityatādivat = ‘like impermanence and so on’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "anityatādivat",
+     "translation": "The vati/-vat formation is lexically and grammatically used for resemblance: ‘as/like X’; ādi indicates ‘X and the rest’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Analyze vācyaḥ as a gerundive/passive verbal adjective used predicatively with saḥ, rather than as a finite verb.",
+   "options_considered": [
+    "finite active ‘he speaks’",
+    "noun ‘speech’",
+    "gerundive predicate ‘is to be said/declared’"
+   ],
+   "chosen": "vācyaḥ = ‘is to be said/declared’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vācyo",
+     "translation": "The form is masculine nominative singular and agrees with saḥ; gerundive vācya means ‘to be said, to be called, to be declared’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Take adṛṣṭe asmin as a locative absolute and take na with the main passive dṛśyate.",
+   "options_considered": [
+    "‘he does not see in this unseen thing’",
+    "‘not when this is unseen, that is seen’",
+    "‘when this is unseen, that is not seen’"
+   ],
+   "chosen": "na adṛṣṭe asmin sa dṛśyate = ‘when this is not seen, that is not seen’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "na adṛṣṭe asmin sa dṛśyate",
+     "translation": "A locative singular participle plus a locative singular pronoun forms a locative absolute; dṛśyate is a present passive, ‘is seen’, negated by na."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "Use the deictic contrast: asmin points to the nearer dependent term signaled by paratantrataḥ, while saḥ continues the nominative subject of the verse.",
+   "options_considered": [
+    "asmin and saḥ both refer to the same entity",
+    "asmin refers to the dependent term and saḥ to the other term",
+    "both pronouns have indeterminate reference within the verse alone"
+   ],
+   "chosen": "asmin refers to ‘this [dependent]’ and saḥ to the other term under discussion",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "paratantrataḥ … adṛṣṭe 'smin sa dṛśyate",
+     "translation": "The nearest explicit comparative standard is paratantra; the locative asmin naturally resumes it as ‘this’, while saḥ remains the entity being predicated and seen/not seen."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For that very reason, that is to be declared\nneither different nor non-different from the dependent (paratantra),\nlike impermanence and the like;\nwhen this [dependent] is not seen, that is not seen.",
+ "one_shot_delta": [
+  "A commentary-blind or overly mechanical rendering could take paratantrataḥ as ‘because of dependence’ rather than ‘from/than the dependent’, obscuring the different/non-different construction.",
+  "It could read anityatādivat as possessive, ‘having impermanence and so on’, instead of the likeness expression ‘like impermanence and so on’.",
+  "It could attach na to the locative phrase nādṛṣṭe rather than to the main verb dṛśyate; the better grammatical construal is ‘when this is unseen, that is not seen’.",
+  "It could translate dṛśyate as active/middle ‘sees’ rather than passive ‘is seen’.",
+  "Without commentary, the precise antecedents of saḥ and asmin remain partly inferential, so naming the first as a specific Yogācāra technical nature would go beyond the evidence supplied in this ablation run."
+ ],
+ "analyzer_disagreements": [
+  "The analyzer’s api_seg offers paratantrāt, but the printed bhāṣya reading is paratantrataḥ; I analyze it as an ablatival tasil-type indeclinable from paratantra, not as the regular ablative singular paratantrāt.",
+  "The analyzer treats paratantrataḥ as if it were a case-form of paratantra; grammatically the -taḥ ending here is better taken as an indeclinable ablatival formation meaning ‘from/than the dependent’.",
+  "The analyzer splits anitya_tā_ādi_vat; I treat anityatā as one derived abstract stem within anityatādi, with vati/-vat expressing likeness: ‘like impermanence and so on’.",
+  "The analyzer splits a separately in na_a_dṛṣṭe; I analyze adṛṣṭe as one privative participial adjective, a nañ-tatpuruṣa/PPP form, in a locative absolute with asmin.",
+  "The analyzer lists vācyo under the verbal root vac; for this apparatus it is a subanta gerundive stem vācya, masculine nominative singular, though derived from √vac."
+ ],
+ "open_questions": [
+  "No commentary is available in this run, so the precise doctrinal antecedent of saḥ is not fixed here beyond ‘that [term/nature]’.",
+  "The items included under ādi in anityatādi cannot be specified from the verse grammar alone.",
+  "The locative adṛṣṭe/asmin is formally compatible with masculine or neuter singular; masculine has been chosen for agreement with the implied masculine term, but this remains context-dependent without commentary."
+ ],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 2,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4921,
+   "completion_tokens": 13752,
+   "reasoning_tokens": 10235
+  },
+  "est_cost": 0.221,
+  "retrieval": {
+   "anchor": [
+    1341,
+    1341
+   ],
+   "span": [
+    1342,
+    1388
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "verse": 10,
+ "analysis": [
+  {
+   "surface": "ādyāḥ",
+   "surface_in_sandhi": "adyāḥ",
+   "lemma": "ādya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The supplied bhāṣya line prints adyāḥ, but this is analyzed as ādyāḥ, “first/initial,” on grammatical and contextual grounds; literal adyāḥ from ad/adya would not make sense as the heading of this list.",
+   "verification": {
+    "status": "pass",
+    "detail": "ādya Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sparśādayaḥ",
+   "surface_in_sandhi": "sparśādayaḥ",
+   "lemma": "sparśādi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sparśaḥ ādiḥ yeṣām te",
+    "members": [
+     "sparśa",
+     "ādi"
+    ]
+   },
+   "note": "A -ādi compound: “contact and the others / contact and so on.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sparśādi as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "chandādhimokṣasmṛtayaḥ",
+   "surface_in_sandhi": "chandādhimokṣasmṛtayaḥ",
+   "lemma": "chandādhimokṣasmṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "chandaś ca adhimokṣaś ca smṛtiś ca",
+    "members": [
+     "chanda",
+     "adhimokṣa",
+     "smṛti"
+    ]
+   },
+   "note": "Coordinative compound listing three mental factors; feminine plural by final member smṛti.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem chandādhimokṣasmṛti as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable “together with,” construed with the following instrumental dual samādhidhībhyām.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "samādhidhībhyām",
+   "surface_in_sandhi": "samādhidhībhyām",
+   "lemma": "samādhidhī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "samādhiś ca dhīś ca",
+    "members": [
+     "samādhi",
+     "dhī"
+    ]
+   },
+   "note": "Instrumental dual fixed by saha; dative/ablative dual would be formally possible but is not the construction here.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem samādhidhī as Stri/Trtiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niyatāḥ",
+   "surface_in_sandhi": "niyatāḥ",
+   "lemma": "niyata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past-passive-participle stem from ni-√yam, used substantively as a class-heading, “the determinate/fixed ones.”",
+   "verification": {
+    "status": "pass",
+    "detail": "niyata Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "śraddhā",
+   "surface_in_sandhi": "śraddhā",
+   "lemma": "śraddhā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative singular item beginning the next list segment in the verse.",
+   "verification": {
+    "status": "pass",
+    "detail": "śraddhā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "tha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Connective particle; its initial a coalesces with the preceding final ā in śraddhātha.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hrīḥ",
+   "surface_in_sandhi": "hrīr",
+   "lemma": "hrī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga/r-sandhi before following a-: hrīḥ apatrapā → hrīr apatrapā.",
+   "verification": {
+    "status": "pass",
+    "detail": "hrī Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "apatrapā",
+   "surface_in_sandhi": "apatrapā",
+   "lemma": "apatrapā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ethical mental-factor term, translated here as “dread of blame / moral compunction.”",
+   "verification": {
+    "status": "pass",
+    "detail": "apatrapā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "I take the opening as a nominative plural class-heading, not as a form of ad “eat” or literal adya “today.” The following nominative plural sparśādayaḥ supplies the appositional content: “the first ones are contact and the rest.”",
+   "options_considered": [
+    "ādyāḥ from ādya, “first, initial”",
+    "adyāḥ as from ad/adya, “eating/today’s”"
+   ],
+   "chosen": "ādyāḥ = “the first/initial ones”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "adyāḥ/ādyāḥ sparśādayaḥ",
+     "translation": "The syntax requires a nominative plural heading plus a nominative plural list-expression; “eating” or “today’s” would not construe coherently."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is read as bahuvrīhi-like X-ādi usage, “those whose first is contact,” hence “contact and so on,” rather than as two separate syntactic words.",
+   "options_considered": [
+    "single -ādi compound meaning “contact and so on”",
+    "separate sparśa + ādayaḥ",
+    "adjectival “contact-first” without enumerative force"
+   ],
+   "chosen": "sparśādayaḥ as a -ādi compound: “contact and the others”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sparśādayaḥ",
+     "translation": "The -ādi formation conventionally means “beginning with X, X and the rest.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The form lists three mental-factor nouns—chanda, adhimokṣa, smṛti—rather than making smṛti dependent on chanda/adhimokṣa as “memory of desire and resolve.” The plural nominative supports enumeration.",
+   "options_considered": [
+    "dvandva: chanda, adhimokṣa, and smṛti",
+    "tatpuruṣa: memory of desire and resolve",
+    "karmadhāraya-like descriptive compound"
+   ],
+   "chosen": "chandādhimokṣasmṛtayaḥ as a coordinative dvandva",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "chandādhimokṣasmṛtayaḥ",
+     "translation": "A plural compound with final member smṛti naturally functions as a dvandva: “desire, resolve, and mindfulness/memory.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "saha is treated as the indeclinable “with,” and samādhidhībhyām as an instrumental dual dvandva governed by it. The two terms are added to the preceding three under niyatāḥ.",
+   "options_considered": [
+    "saha as indeclinable with instrumental dual",
+    "saha as adjective “powerful”",
+    "samādhidhībhyām as dative or ablative dual"
+   ],
+   "chosen": "saha samādhidhībhyām = “together with concentration and understanding”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "saha samādhidhībhyām",
+     "translation": "The instrumental dual with saha gives “together with samādhi and dhī.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The nominative plural niyatāḥ is read as a substantivized participial adjective referring to a class of mental factors: the five named in the surrounding phrase. It is not a finite verbal form, nor merely an adjective modifying only the feminine dvandva chandādhimokṣasmṛtayaḥ.",
+   "options_considered": [
+    "masculine nominative plural substantive: “the determinate ones”",
+    "feminine nominative plural agreeing only with chandādhimokṣasmṛtayaḥ",
+    "finite/verbal analysis from ni-√yam"
+   ],
+   "chosen": "niyatāḥ as a substantive class-heading, “the determinate ones”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "chandādhimokṣasmṛtayaḥ saha samādhidhībhyāṃ niyatāḥ",
+     "translation": "The phrase yields a list of five items identified as “determinate/fixed.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "śraddhā, hrīḥ, and apatrapā are nominative singular feminine nouns; atha is a connective. hrīr is only the sandhi-form of hrīḥ before apatrapā.",
+   "options_considered": [
+    "three nominative list-items plus atha",
+    "hrīr as an independent r-final stem",
+    "śraddhātha as an unanalyzed compound"
+   ],
+   "chosen": "śraddhā atha hrīḥ apatrapā as three nominative list-items with a connective particle",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "śraddhātha hrīr apatrapā",
+     "translation": "The sequence is segmented as śraddhā atha hrīḥ apatrapā: “faith, then shame, and dread of blame.”"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "The first are contact (sparśa) and the rest;\nthe determinate ones (niyatāḥ) are desire (chanda), resolve (adhimokṣa), and mindfulness (smṛti),\ntogether with concentration (samādhi) and understanding (dhī).\nFaith (śraddhā), then shame (hrī), and dread of blame (apatrapā).",
+ "one_shot_delta": [
+  "A purely mechanical reading could take the printed adyāḥ as a form of ad/adya, yielding an incoherent “eating/today’s” interpretation instead of “the first.”",
+  "It could miss the enumerative force of -ādi in sparśādayaḥ: the word means “contact and the rest,” not merely “contact-first.”",
+  "It could read chandādhimokṣasmṛtayaḥ as a dependent compound, e.g. “memory of desire and resolve,” rather than a three-item dvandva list.",
+  "It could take saha from the adjectival dictionary entry “powerful,” but the instrumental dual samādhidhībhyām makes the indeclinable “with/together with” the correct construal.",
+  "It could misparse samādhidhībhyām as dative/ablative dual; the saha-construction fixes it as instrumental.",
+  "It could fail to undo the sandhi in śraddhātha and hrīr apatrapā, obscuring atha and the nominative hrīḥ."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 lemmatizes adyāḥ as ad; I analyze the intended form as ādyāḥ from ādya, since ad/adya gives no coherent list-heading here and the vulgate reading supports ādyāḥ.",
+  "ByT5 segments sparśa + ādayaḥ; I treat the printed unit sparśādayaḥ as a single -ādi compound stem sparśādi.",
+  "ByT5 segments chanda + adhimokṣa + smṛtayaḥ; I treat chandādhimokṣasmṛtayaḥ as one itaretara-dvandva compound.",
+  "ByT5 leaves saha essentially unanalysed; I classify it as an indeclinable because it governs/associates with the instrumental dual samādhidhībhyām.",
+  "ByT5 segments samādhi + dhībhyām; I treat samādhidhībhyām as one dvandva compound in the instrumental dual.",
+  "ByT5 gives niyatāḥ under the root niyam; I analyze the verse form as the nominal participial stem niyata, not as a finite verb.",
+  "For atha, the printed sandhi sequence is śraddhātha; I record the underlying surface as atha and the printed residue as tha."
+ ],
+ "open_questions": [
+  "The prompt’s bhāṣya line prints adyāḥ while the vulgate has ādyāḥ; in this ablation I have normalized to ādyāḥ on grammatical and contextual grounds, but without commentary this remains a textual/orthographic uncertainty.",
+  "The exact technical nuance of chanda and apatrapā cannot be fixed from the supplied dictionary excerpts alone; the translation uses standard Yogācāra/Buddhist mental-factor equivalents."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4567,
+   "completion_tokens": 12796,
+   "reasoning_tokens": 9728
+  },
+  "est_cost": 0.2056,
+  "retrieval": {
+   "anchor": [
+    495,
+    495
+   ],
+   "span": [
+    496,
+    574
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

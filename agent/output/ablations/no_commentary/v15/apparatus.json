@@ -1,0 +1,394 @@
+{
+ "verse": 15,
+ "analysis": [
+  {
+   "surface": "pañcānām",
+   "surface_in_sandhi": "pañcānāṃ",
+   "lemma": "pañcan",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The form is common to genders; neuter is chosen by agreement with vijñānānām.",
+   "verification": {
+    "status": "pass",
+    "detail": "pañcan Napumsaka/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "mūlavijñāne",
+   "surface_in_sandhi": "mūlavijñāne",
+   "lemma": "mūlavijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "mūlaṃ vijñānam",
+    "members": [
+     "mūla",
+     "vijñāna"
+    ]
+   },
+   "note": "Locative singular of the whole compound stem, not two syntactically separate words.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mūlavijñāna as Napumsaka/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yathāpratyayam",
+   "surface_in_sandhi": "yathāpratyayam",
+   "lemma": "yathāpratyayam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "avyayibhava",
+    "vigraha": "pratyayam anatikramya",
+    "members": [
+     "yathā",
+     "pratyaya"
+    ]
+   },
+   "note": "Indeclinable avyayībhāva functioning adverbially with udbhavaḥ; the final -am is not taken as an independent accusative in the verse syntax.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyayībhāva; whole form not in kosha/MW as indeclinable"
+   }
+  },
+  {
+   "surface": "udbhavaḥ",
+   "surface_in_sandhi": "udbhavaḥ",
+   "lemma": "udbhava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative singular head: ‘arising/origination’.",
+   "verification": {
+    "status": "pass",
+    "detail": "udbhava Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijñānānām",
+   "surface_in_sandhi": "vijñānānāṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive plural supplies the head for pañcānām: ‘of the five consciousnesses’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial ‘together’; not construed as an adjective or as governing vijñānānām.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates the preceding adverbial sense in the alternative phrase saha na vā, ‘together or not’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Disjunctive particle ‘or’, despite the supplied dictionary excerpt not showing this common particle use.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "taraṅgāṇām",
+   "surface_in_sandhi": "taraṅgāṇāṃ",
+   "lemma": "taraṅga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive plural in the simile, construed elliptically with udbhavaḥ: ‘as [the arising] of waves’.",
+   "verification": {
+    "status": "pass",
+    "detail": "taraṅga Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yathā",
+   "surface_in_sandhi": "yathā",
+   "lemma": "yathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Comparative particle introducing the wave simile.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "jale",
+   "surface_in_sandhi": "jale",
+   "lemma": "jala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: the locus of the waves, matching mūlavijñāne as the locus of the consciousnesses’ arising.",
+   "verification": {
+    "status": "pass",
+    "detail": "jala Napumsaka/Saptami/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "pañcānām is construed with the later genitive plural vijñānānām. The numeral is not left substantival as ‘of five [things]’; vijñānānām supplies the explicit head noun.",
+   "options_considered": [
+    "pañcānām as a substantival ‘of five [unspecified things]’",
+    "pañcānām construed with vijñānānām as ‘of the five consciousnesses’"
+   ],
+   "chosen": "‘of the five consciousnesses’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "pañcānāṃ ... vijñānānāṃ",
+     "translation": "of the five ... consciousnesses"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The ending -e is locative singular neuter, and the compound is best read as a karmadhāraya: ‘root/basic consciousness’. The locative gives the locus of udbhavaḥ, not a source expressed by an ablative or genitive.",
+   "options_considered": [
+    "mūla and vijñāne as separate syntactic words",
+    "mūlavijñāne as a compound meaning ‘in the root consciousness’",
+    "mūlavijñāne as ‘from the root consciousness’"
+   ],
+   "chosen": "mūlavijñāne = ‘in the root consciousness’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "mūlavijñāne ... udbhavaḥ",
+     "translation": "arising in the root consciousness"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The yathā- compound is an indeclinable avyayībhāva modifying udbhavaḥ. Its idiomatic force is ‘in accordance with the condition’ or distributively ‘as conditions obtain’, not a separate object of a verb.",
+   "options_considered": [
+    "yathāpratyayam as an independent accusative object",
+    "yathāpratyayam as an adverbial avyayībhāva, ‘according to condition(s)’"
+   ],
+   "chosen": "yathāpratyayam = ‘according to condition(s)’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "yathāpratyayam udbhavaḥ",
+     "translation": "arising according to condition(s)"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "saha is taken adverbially with the arising of the five consciousnesses; na vā supplies the alternative ‘or not’. It is not construed as a postposition governing vijñānānām.",
+   "options_considered": [
+    "saha as ‘with’ governing vijñānānām",
+    "saha na vā as an adverbial alternative, ‘together or not’"
+   ],
+   "chosen": "saha na vā = ‘together, or not’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vijñānānāṃ saha na vā",
+     "translation": "of the consciousnesses, together or not"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The simile is elliptical: taraṅgāṇām matches vijñānānām as a genitive dependent on the implied/arising noun, and jale matches mūlavijñāne as locative locus. Thus the verse compares conditioned, sometimes simultaneous and sometimes non-simultaneous arising to waves in water.",
+   "options_considered": [
+    "‘like the waves’ without preserving the genitive relation",
+    "‘as [the arising] of waves in water’, with udbhavaḥ understood"
+   ],
+   "chosen": "taraṅgāṇāṃ yathā jale = ‘as [the arising] of waves in water’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "taraṅgāṇāṃ yathā jale",
+     "translation": "as of waves in water"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Of the five consciousnesses (vijñāna),\nin the root consciousness (mūlavijñāna),\nthere is arising (udbhava) according to condition (yathāpratyayam)—\ntogether, or not—\nas waves (taraṅga) in water.",
+ "one_shot_delta": [
+  "Without commentary, the analysis should not over-specify mūlavijñāna as a named equivalent of ālayavijñāna; here it is translated only as ‘root consciousness’.",
+  "A commentary-blind reading might take saha as ‘with’ plus a genitive, but the verse grammar more naturally makes saha na vā the adverbial alternative ‘together or not’.",
+  "A flat lexical translation might miss yathāpratyayam as an indeclinable compound and render it as a separate object; it functions adverbially, ‘according to condition(s)’.",
+  "The phrase taraṅgāṇāṃ yathā jale is elliptical; translating merely ‘like waves in water’ is acceptable English, but the Sanskrit structure is ‘as [the arising] of waves in water’."
+ ],
+ "analyzer_disagreements": [
+  "The analyzer split mūla_vijñāne; I treat mūlavijñāne as one inflected compound stem mūlavijñāna, retaining the analyzer’s locative singular neuter features.",
+  "The analyzer normalizes taraṅga as taraṃga; I use taraṅga to match the phonetic spelling of the verse, with the same genitive plural masculine analysis."
+ ],
+ "open_questions": [
+  "The supplied materials alone do not prove whether the ‘five consciousnesses’ are specifically the five sensory consciousnesses, though that is the likely Yogācāra context.",
+  "The exact doctrinal range of mūlavijñāna cannot be fixed from grammar and dictionary evidence alone.",
+  "The singular pratyaya in yathāpratyayam may be rendered idiomatically as either ‘according to the condition’ or ‘according to conditions’; the translation uses the latter for natural English."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3927,
+   "completion_tokens": 8124,
+   "reasoning_tokens": 5633
+  },
+  "est_cost": 0.1336,
+  "retrieval": {
+   "anchor": [
+    1008,
+    1009
+   ],
+   "span": [
+    1010,
+    1050
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

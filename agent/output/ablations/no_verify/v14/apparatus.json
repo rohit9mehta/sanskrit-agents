@@ -1,0 +1,587 @@
+{
+ "verse": 14,
+ "analysis": [
+  {
+   "surface": "vikṣepaḥ",
+   "surface_in_sandhi": "vikṣepo",
+   "lemma": "vikṣepa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical mental factor; Sthiramati glosses it as cetaso visāraḥ, a scattering/distraction of mind.",
+   "verification": {
+    "status": "pass",
+    "detail": "vikṣepa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asaṃprajanyam",
+   "surface_in_sandhi": "'saṃprajanyañ",
+   "lemma": "asaṃprajanya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na saṃprajanyam",
+    "members": [
+     "a",
+     "saṃprajanya"
+    ]
+   },
+   "note": "Restored against the ByT5 omission. The bhāṣya reading has homorganic -ñ before ca; underlying pausal form is -am.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asaṃprajanya as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kaukṛtyam",
+   "surface_in_sandhi": "kaukṛtyaṃ",
+   "lemma": "kaukṛtya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular in the list; Sthiramati takes it here as a caitasika, mental regret/vexation.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaukṛtya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "middham",
+   "surface_in_sandhi": "middham",
+   "lemma": "middha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular; interpreted as torpor/contraction of mental activity, not merely laziness.",
+   "verification": {
+    "status": "pass",
+    "detail": "middha Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "eva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here taken with ca as emphatic/additive: “too/as well,” not exclusive “only.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vitarkaḥ",
+   "surface_in_sandhi": "vitarkaś",
+   "lemma": "vitarka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical mental factor; glossed as searching mental talk, paryeṣako manojalpaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vitarka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vicāraḥ",
+   "surface_in_sandhi": "vicāraś",
+   "lemma": "vicāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical mental factor; glossed as examining/reviewing mental talk, pratyavekṣako manojalpaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vicāra Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "c",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesced with following iti in cety.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "ety",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Marks the close of the enumerated list; sandhi ca + iti + upakleśāḥ gives cety upakleśāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "upakleśāḥ",
+   "surface_in_sandhi": "upakleśā",
+   "lemma": "upakleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative plural, “secondary afflictions.” For the two dyads, Sthiramati restricts this to their defiled forms.",
+   "verification": {
+    "status": "pass",
+    "detail": "upakleśa Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "dvaye",
+   "surface_in_sandhi": "dvaye",
+   "lemma": "dvaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter dual, not locative singular: Sthiramati parses it as two dyads, kaukṛtya–middha and vitarka–vicāra.",
+   "verification": {
+    "status": "pass",
+    "detail": "dvaya Napumsaka/Prathama/Dvi: pass"
+   }
+  },
+  {
+   "surface": "dvidhā",
+   "surface_in_sandhi": "dvidhā",
+   "lemma": "dvidhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "“Twofold,” glossed by Sthiramati as kliṣṭa and akliṣṭa for the two dyads.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The term is not physical throwing but the mind’s being scattered away from the concentration-object through rāga, dveṣa, and moha.",
+   "options_considered": [
+    "physical scattering/dispersion",
+    "general agitation",
+    "mental distraction from the concentration-object"
+   ],
+   "chosen": "vikṣepa is translated as mental “distraction/scattering.”",
+   "evidence": [
+    {
+     "lines": [
+      915,
+      916,
+      917,
+      918,
+      919,
+      920
+     ],
+     "quote": "vikṣepo rāgadveṣamohāṃśikaś cetaso visāraḥ\nvividhaṃ kṣipyate 'nena cittam\niti vikṣepaḥ\nyai rāgadveṣamohaiś cittaṃ samādhyālambanād bahiḥ kṣipyate teṣu\nyathāsaṃbhavaṃ vikṣepaḥ prajñapyate\neṣa ca vairāgyaparipanthakarmaḥ",
+     "translation": "Distraction is a scattering of the mind, an aspect of greed, hatred, and delusion: by it the mind is variously thrown about. Where greed, hatred, and delusion throw the mind outside the object of concentration, distraction is designated; it obstructs dispassion."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Sthiramati treats it as affliction-associated discernment by which bodily, verbal, and mental conduct proceeds uncomprehended through ignorance of what is to be done and not done.",
+   "options_considered": [
+    "omit the word, as in the faulty analyzer segmentation",
+    "simple ignorance",
+    "lack of clear comprehension/alert awareness"
+   ],
+   "chosen": "asaṃprajanya is translated as “lack of clear comprehension.”",
+   "evidence": [
+    {
+     "lines": [
+      921,
+      922,
+      923,
+      924
+     ],
+     "quote": "asaṃprajanyaṃ kleśasaṃprayuktā prajñā yayāsaṃviditā kāyavākcittacaryā\nabhikramapratikramādiṣu vartate karaṇīyākaraṇīyājñānāt\netac\ncāpattisaṃniśrayadānakarmakam",
+     "translation": "Asaṃprajanya is affliction-associated discernment by which bodily, verbal, and mental conduct goes on uncomprehended in going forth, returning, and the like, because of ignorance of what should and should not be done; it provides the basis for transgression."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although derived from kukṛta, “badly done,” Sthiramati says that in this caitasika context it is mental vexation/remorse over a bad deed, not the deed or wickedness itself.",
+   "options_considered": [
+    "evil-doing/wickedness",
+    "repentance as necessarily wholesome",
+    "regret/remorse as a mental factor, which may be defiled or undefiled"
+   ],
+   "chosen": "kaukṛtya is translated as “regret/remorse,” a mental factor.",
+   "evidence": [
+    {
+     "lines": [
+      925,
+      926,
+      927,
+      928,
+      929,
+      930
+     ],
+     "quote": "kaukṛtyaṃ cetaso vipratisāraḥ\nkutsitaṃ kṛtam iti kukṛtam\ntadbhāvaḥ\nkaukṛtyam\niha tu kukṛtaviṣayaś cetaso vilekhaḥ kaukṛtyaṃ caitasikādhikārāt\netac ca cittasthitiparipanthakarmakam",
+     "translation": "Kaukṛtya is regret of the mind. What is badly done is kukṛta; its state is kaukṛtya. Here, however, because the topic is mental factors, kaukṛtya is a mental scraping/vexation whose object is a bad deed; it obstructs mental stability."
+    },
+    {
+     "lines": [
+      971,
+      972,
+      973
+     ],
+     "quote": "tatrākuśalam akṛtvā kuśalañ ca kṛtvā yaś cetaso vilekhas tat saṃkliṣṭaṃ\nkaukṛtyam\nyat kuśalam akṛtvākuśalañ ca kṛtvā tat kaukṛtyam akliṣṭam",
+     "translation": "Mental vexation over not having done the unwholesome and having done the wholesome is defiled regret; regret over not having done the wholesome and having done the unwholesome is undefiled."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The gloss makes it a contraction or shutdown of the mind’s autonomous operation toward objects, including non-operation through the sense-doors; this is more specific than generic sloth.",
+   "options_considered": [
+    "sleep itself",
+    "generic laziness/sloth",
+    "torpor or drowsy mental contraction"
+   ],
+   "chosen": "middha is translated as “torpor.”",
+   "evidence": [
+    {
+     "lines": [
+      931,
+      932,
+      933,
+      934,
+      935,
+      936,
+      937,
+      938,
+      939
+     ],
+     "quote": "middham asvatantravṛtticetaso 'bhisaṃkṣepaḥ\nvṛttir ālambane pravṛttiḥ\nsāsvatantrā cetaso yato bhavati tan middham\nkāyasandhāraṇāsamarthā vā vṛttiś\ncetaso 'svatantrā sā yato bhavati tan middham\nabhisaṃkṣepaś cetasaś\ncakṣurādīndriyadvāreṇāpravṛttiḥ\netac ca mohāṃśe prajñapanān mohāṃśikaṃ\nkṛtyātipattisaṃniśrayadānakarmakañ ca",
+     "translation": "Middha is the contraction of a mind whose activity is not autonomous. Activity is engagement with an object; that from which the mind’s activity becomes non-autonomous is middha. Or it is activity unable to sustain the body; that from which such non-autonomous mental activity arises is middha. The mind’s contraction is its non-operation through the eye and other sense-doors. Since it is designated within the delusion-aspect, it is delusional, and it provides the basis for neglecting what is to be done."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Sthiramati distinguishes vitarka as paryeṣaka manojalpa, a coarse searching operation, and vicāra as pratyavekṣaka manojalpa, a subtler examining/reviewing operation.",
+   "options_considered": [
+    "conjecture and reflection in a loose lexical sense",
+    "applied and sustained thought without further specification",
+    "searching and examining inner speech, coarse and subtle"
+   ],
+   "chosen": "vitarka and vicāra are translated as “searching inner speech” and “examining inner speech.”",
+   "evidence": [
+    {
+     "lines": [
+      940,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946
+     ],
+     "quote": "vitarkaḥ paryeṣako manojalpaḥ prajñācetanāviśeṣaḥ\nparyeṣakaḥ kim etad iti\nnirūpaṇākārapravṛttaḥ\nmanaso jalpo manojalpaḥ\njalpa iva jalpaḥ\njalpo\n'rthakathanam",
+     "translation": "Vitarka is searching mental talk, a particular form of discernment and volition. ‘Searching’ means proceeding in the form of determining ‘what is this?’ Mental talk is the mind’s talk; talk is so called because it is like speech, speech being the telling of a meaning."
+    },
+    {
+     "lines": [
+      954,
+      955,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962
+     ],
+     "quote": "sa eva cittasyaudārikatā\naudārikateti\nsthūlatā vastumātraparyeṣaṇākāratvāt\neṣa ca nayo vicāre 'pi draṣṭavyaḥ\nvicāro 'pi hi cetanāprajñāviśeṣātmakaḥ\npratyavekṣako manojalpa eva\nidaṃ tad iti pūrvādhigatanirūpaṇāt\nata eva ca\ncittasūkṣmatety ucyate",
+     "translation": "That very thing is the coarseness of mind, called coarseness because its form is the mere search for the object. The same reasoning applies to vicāra too: vicāra is also of the nature of a particular volition and discernment; it is examining mental talk, because it determines what was previously grasped as ‘this is that.’ Therefore it is called subtlety of mind."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The phrase does not mean “in the two” as a locative singular. Sthiramati parses dvaye as a pair plus a pair, namely kaukṛtya–middha and vitarka–vicāra, and then glosses dvidhā as kliṣṭa and akliṣṭa.",
+   "options_considered": [
+    "locative singular: “in the two”",
+    "two kinds of upakleśa in general",
+    "neuter dual: the two dyads kaukṛtya–middha and vitarka–vicāra"
+   ],
+   "chosen": "dvaye is neuter dual: “the two dyads”; dvidhā means “twofold,” i.e. defiled and undefiled.",
+   "evidence": [
+    {
+     "lines": [
+      966,
+      967,
+      968,
+      969,
+      970
+     ],
+     "quote": "dvaye dvidheti\ndvayañ ca dvayañ ca dvaye\nte punaḥ kaukṛtyamiddhe vitarkavicārau ca\nete ca\ncatvāro dharmā dvidhā kliṣṭā akliṣṭāś ca",
+     "translation": "As for ‘two dyads, twofold’: a dyad and a dyad are the two dyads. These are regret-and-torpor and vitarka-and-vicāra. These four dharmas are twofold: defiled and undefiled."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The verse’s upakleśāḥ is therefore not to be read as making every occurrence of regret, torpor, vitarka, and vicāra afflicted; Sthiramati explicitly excludes their undefiled forms.",
+   "options_considered": [
+    "all instances of the four dyad-members are upakleśas",
+    "none are upakleśas unless listed elsewhere",
+    "only their defiled instances are upakleśas"
+   ],
+   "chosen": "For the two dyads, only their defiled forms count as upakleśas.",
+   "evidence": [
+    {
+     "lines": [
+      976,
+      977,
+      978,
+      979,
+      980,
+      981
+     ],
+     "quote": "kāmavyāpādavihiṃsādivitarkāḥ kliṣṭāḥ\nnaiśkramyādivitarkā akliṣṭāḥ\nevaṃ\nparopaghātopāyavicāraḥ kliṣṭaḥ\nparānugrahopāyavicāro 'kliṣṭaḥ\ntatra ye kaukṛtyamiddhavitarkavicārāḥ kliṣṭās ta evopakleśā netare",
+     "translation": "Vitarkas such as desire, malice, and violence are defiled; vitarkas such as renunciation are undefiled. Likewise, vicāra concerning a means of harming another is defiled, while vicāra concerning a means of benefiting another is undefiled. Among regret, torpor, vitarka, and vicāra, those that are defiled are upakleśas, not the others."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Distraction (vikṣepa), lack of clear comprehension (asaṃprajanya),\nregret (kaukṛtya), and torpor (middha) too;\nsearching inner speech (vitarka) and examining inner speech (vicāra):\nsecondary afflictions (upakleśa).\nThe two dyads—regret/torpor and searching/examining—are twofold;\nonly their defiled forms count as such.",
+ "one_shot_delta": [
+  "A commentary-blind translation could miss asaṃprajanya entirely, as the supplied analyzer did; Sthiramati’s own gloss at trbh 921 confirms it belongs in the verse.",
+  "It could read dvaye as locative singular, “in the two,” but Sthiramati parses it as neuter dual: two dyads, kaukṛtya–middha and vitarka–vicāra.",
+  "It could say that all regret, torpor, vitarka, and vicāra are secondary afflictions. Sthiramati says only their defiled forms are upakleśas, not the undefiled ones.",
+  "It could translate kaukṛtya as “evil-doing” from the etymology; the commentary explicitly shifts to a caitasika sense, mental regret/vexation.",
+  "It could render vitarka and vicāra merely as “conjecture” and “reflection”; Sthiramati’s distinction is searching versus examining mental talk, coarse versus subtle."
+ ],
+ "analyzer_disagreements": [
+  "ByT5’s api/local segmentation omitted asaṃprajanyaṃ and instead effectively read vikṣepaḥ ca kaukṛtyam; the bhāṣya verse and Sthiramati’s gloss at trbh 921 require asaṃprajanyam followed by ca.",
+  "ByT5 tagged dvaye as neuter locative singular. Sthiramati explicitly parses dvaye as “dvayañ ca dvayañ ca dvaye” at trbh 967 and identifies the two dyads at trbh 968, so I analyze it as neuter nominative dual.",
+  "ByT5 did not represent the bhāṣya’s homorganic nasal in asaṃprajanyañ ca; I give pausal asaṃprajanyam with surface_in_sandhi 'saṃprajanyañ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 12716,
+   "completion_tokens": 17439,
+   "reasoning_tokens": 12797
+  },
+  "est_cost": 0.2997,
+  "retrieval": {
+   "anchor": [
+    777,
+    778
+   ],
+   "span": [
+    779,
+    1005
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

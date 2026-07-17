@@ -1,0 +1,443 @@
+{
+ "verse": 4,
+ "analysis": [
+  {
+   "surface": "upekṣā",
+   "surface_in_sandhi": "upekṣā",
+   "lemma": "upekṣā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: “equanimity/indifference,” construed with vedanā.",
+   "verification": {
+    "status": "pass",
+    "detail": "upekṣā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vedanā",
+   "surface_in_sandhi": "vedanā",
+   "lemma": "vedanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject nominative: “feeling/sensation.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vedanā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatrā",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative adverb, “there/in that”; final -a contracts with the following initial a-.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anivṛtāvyākṛtam",
+   "surface_in_sandhi": "nivṛtāvyākṛtañ",
+   "lemma": "anivṛtāvyākṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "anivṛtam avyākṛtam",
+    "members": [
+     "anivṛta",
+     "avyākṛta"
+    ]
+   },
+   "note": "Neuter nominative singular agreeing with tat; initial a- is absorbed in tatrā-, and final -m appears as -ñ before ca in the bhāṣya reading.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anivṛtāvyākṛta as Napumsaka/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic connective, “and/also.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular pronoun; subject of the implied copula with anivṛtāvyākṛtam.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverb, “likewise/so too,” carrying the preceding predication forward elliptically.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sparśādayaḥ",
+   "surface_in_sandhi": "sparśādayaḥ",
+   "lemma": "sparśādi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sparśa ādir yeṣāṃ te",
+    "members": [
+     "sparśa",
+     "ādi"
+    ]
+   },
+   "note": "“Contact and the rest”; the bhāṣya reading leaves -aḥ before tac ca, unlike the fully sandhied vulgate -as tac ca.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sparśādi as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tac",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular; not construed with the masculine plural sparśādayaḥ, but as the singular subject of vartate.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic connective after tac.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vartate",
+   "surface_in_sandhi": "vartate",
+   "lemma": "vṛt",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vṛt",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada intransitive: “continues, proceeds, goes on.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vṛt Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "srotasā",
+   "surface_in_sandhi": "srotasau",
+   "lemma": "srotas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular; external sandhi srotasā + oghavat gives printed srotasaughavat, with ā + o → au.",
+   "verification": {
+    "status": "pass",
+    "detail": "srotas Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "oghavat",
+   "surface_in_sandhi": "ghavat",
+   "lemma": "oghavat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular adjective/predicate, “flood-bearing/torrential”; its initial o is represented in the preceding au of srotasaughavat.",
+   "verification": {
+    "status": "pass",
+    "detail": "oghavat Napumsaka/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Construe the two feminine nominative singulars predicatively rather than as a single compound or as two coordinated subjects.",
+   "options_considered": [
+    "“equanimity-feeling” as a compound-like phrase",
+    "“equanimity and feeling” as coordinated nouns",
+    "predicate construction: “the feeling is equanimity”"
+   ],
+   "chosen": "upekṣā is a predicate nominative and vedanā the subject: “the feeling is equanimity.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "upekṣā vedanā tatra",
+     "translation": "Both upekṣā and vedanā are feminine nominative singular; with no overt verb, the natural construal is an implied copula: “there, feeling is equanimity.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Read anivṛta + avyākṛta as a compound meaning “unobstructed/uncovered and indeterminate/neutral,” not as anivṛtā feminine plus avyākṛtam neuter.",
+   "options_considered": [
+    "split anivṛtā as feminine nominative singular and avyākṛtam as neuter",
+    "read anivṛtāvyākṛtam as one neuter compound predicated of tat",
+    "read the compound as a dvandva"
+   ],
+   "chosen": "anivṛtāvyākṛtam is one neuter singular karmadhāraya compound agreeing with tat.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "tatrānivṛtāvyākṛtañ ca tat",
+     "translation": "The final -ñ before ca points to an underlying neuter -am; the following tat is neuter nominative singular, supporting agreement with anivṛtāvyākṛtam."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The plural sparśādayaḥ is elliptical with tathā; it is not made into a kind of vedanā, since sparśa ‘contact’ is distinct from feeling.",
+   "options_considered": [
+    "“contact and the rest are likewise feelings of equanimity”",
+    "“contact and the rest are likewise unobstructed-indeterminate”",
+    "tathā as a loose connective, “also”"
+   ],
+   "chosen": "tathā makes sparśādayaḥ inherit the immediately preceding qualification: “contact and the rest are likewise [unobstructed-indeterminate].”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "anivṛtāvyākṛtañ ca tat tathā sparśādayaḥ",
+     "translation": "The adverb tathā follows the predication anivṛtāvyākṛtam ca tat and precedes sparśādayaḥ, so it most naturally carries that predication forward: “so too contact and the rest.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Because sparśādayaḥ is masculine plural, neuter singular tac cannot grammatically refer to it as its subject; vartate is singular.",
+   "options_considered": [
+    "“contact and the rest continue”",
+    "“that singular entity continues”",
+    "“the whole preceding set collectively continues”"
+   ],
+   "chosen": "The second tac is neuter singular subject of vartate, referring to the same singular ‘that,’ not to sparśādayaḥ.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sparśādayaḥ tac ca vartate",
+     "translation": "The pronoun tac and the verb vartate are singular; sparśādayaḥ is plural. Hence tac ca vartate must resume a neuter singular antecedent."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Translate the phrase idiomatically as a current/torrent simile while retaining the grammatical split: instrumental srotasā plus neuter oghavat.",
+   "options_considered": [
+    "one compound srotas-ogha-vat, “like a stream-current”",
+    "sandhi resolution srotasā oghavat, “flood-like with a current”",
+    "treat oghavat as a separate possessive adjective agreeing with tac"
+   ],
+   "chosen": "srotasaughavat is resolved as srotasā oghavat in this ablation, following the analyzer and regular ā + o → au sandhi.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vartate srotasaughavat",
+     "translation": "The printed au is directly explained by srotasā + oghavat. Thus the words can be read as “it continues, flood-like/torrential, with a current.”"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "There, feeling (vedanā) is equanimity (upekṣā);\nand that is unobstructed–indeterminate (anivṛtāvyākṛta).\nContact and the rest (sparśādayaḥ) are likewise;\nand that goes on, flood-like, with a current.",
+ "one_shot_delta": [
+  "Without commentary, the antecedent of tat remains inferred only from grammar and the preceding context not supplied here; a blind translation could wrongly attach tac ca vartate to the plural sparśādayaḥ.",
+  "A dictionary-only reading could take upekṣā as mere ‘neglect/indifference’ rather than the technical affective tone ‘equanimity.’",
+  "The scope of tathā is uncertain without commentary; grammar favors carrying forward anivṛtāvyākṛtam to sparśādayaḥ, but a blind reading might instead connect it with upekṣā vedanā.",
+  "The final simile is especially vulnerable: the analyzer-supported split srotasā oghavat is phonologically regular, while many interpretive translations may prefer the compound-like idiom “like a stream-current.”"
+ ],
+ "analyzer_disagreements": [
+  "The api_seg output inserts ca after vedanā and omits tatra; I follow the supplied verse and the local_S segmentation, reading vedanā tatra, not vedanā ca.",
+  "ByT5 separates anivṛtā and avyākṛtam; I analyze anivṛtāvyākṛtam as a single neuter nominative singular karmadhāraya compound agreeing with tat. The split feminine anivṛtā would not construe with neuter tat/avyākṛtam.",
+  "ByT5 represents sparśādayaḥ as sparśa_Cp + ādayaḥ; I record the same analysis as the inflected compound stem sparśādi, since the verse has the single compound form sparśādayaḥ."
+ ],
+ "open_questions": [
+  "No commentary was supplied in this ablation, so the exact scholastic force of anivṛta and avyākṛta cannot be confirmed from trbh evidence.",
+  "The singular antecedent of tat is grammatically clear as neuter singular, but its doctrinal referent depends on the preceding verse/context not included in the ablation data.",
+  "Whether srotasaughavat should ultimately be read as the sandhi of srotasā oghavat or as an idiomatized compound-like simile needs commentary or manuscript evidence beyond the ablation instructions."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4094,
+   "completion_tokens": 16347,
+   "reasoning_tokens": 13314
+  },
+  "est_cost": 0.2575,
+  "retrieval": {
+   "anchor": [
+    307,
+    307
+   ],
+   "span": [
+    308,
+    342
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

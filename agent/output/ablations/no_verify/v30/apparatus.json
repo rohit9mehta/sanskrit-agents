@@ -1,0 +1,546 @@
+{
+ "verse": 30,
+ "analysis": [
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers, per the bhāṣya, to the āśraya-parāvṛtti discussed in the preceding verse-commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evā-",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The printed evā- results from eva + anāsravaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anāsravaḥ",
+   "surface_in_sandhi": "-nāsravo",
+   "lemma": "anāsrava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "In sandhi, initial a coalesces with the preceding eva, and final -ḥ before dh- appears as -o.",
+   "verification": {
+    "status": "pass",
+    "detail": "anāsrava Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dhātuḥ",
+   "surface_in_sandhi": "dhātur",
+   "lemma": "dhātu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The bhāṣya specifies that dhātu is used here in the sense of ‘cause/source’ (hetvartha), not merely as a material element.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhātu Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "acintyaḥ",
+   "surface_in_sandhi": "acintyaḥ",
+   "lemma": "acintya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "acintya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kuśalaḥ",
+   "surface_in_sandhi": "kuśalo",
+   "lemma": "kuśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "kuśala Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dhruvaḥ",
+   "surface_in_sandhi": "dhruvaḥ",
+   "lemma": "dhruva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "dhruva Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sukhaḥ",
+   "surface_in_sandhi": "sukho",
+   "lemma": "sukha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicative adjective agreeing with saḥ/āśraya-parāvṛtti-rūpaḥ; in sandhi final -ḥ before v- appears as -o.",
+   "verification": {
+    "status": "pass",
+    "detail": "sukha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vimuktikāyaḥ",
+   "surface_in_sandhi": "vimuktikāyo",
+   "lemma": "vimuktikāya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vimukteḥ kāyaḥ",
+    "members": [
+     "vimukti",
+     "kāya"
+    ]
+   },
+   "note": "Compound treated as a single inflected stem, as required; the bhāṣya applies it especially to śrāvakas through abandonment of the afflictive obstruction.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vimuktikāya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "'sau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after preceding -o: vimuktikāyo ’sau.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dharmākhyaḥ",
+   "surface_in_sandhi": "dharmākhyo",
+   "lemma": "dharmākhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "dharma iti ākhyā yasya saḥ",
+    "members": [
+     "dharma",
+     "ākhya"
+    ]
+   },
+   "note": "‘Called Dharma’; the bhāṣya explicitly interprets this as dharmakāya in the case of the Mahāmuni.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dharmākhya as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after preceding -o: dharmākhyo ’yaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mahāmuneḥ",
+   "surface_in_sandhi": "mahāmuneḥ",
+   "lemma": "mahāmuni",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "mahān muniḥ",
+    "members": [
+     "mahat",
+     "muni"
+    ]
+   },
+   "note": "The genitive is possessive/relational: ‘of the Great Sage’; the bhāṣya identifies the Mahāmuni as the Buddha Bhagavān.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mahāmuni as Pum/Sasthi/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The demonstrative does not refer simply to the immediately preceding word or to an abstract ‘that’ left unspecified; Sthiramati explicitly glosses it as the āśraya-parāvṛtti-rūpa, the transformation of the basis discussed just before.",
+   "options_considered": [
+    "saḥ as an unspecified demonstrative ‘he/it’",
+    "saḥ referring to the preceding lokottara-jñāna",
+    "saḥ referring, as Sthiramati says, to āśraya-parāvṛtti"
+   ],
+   "chosen": "saḥ eva = ‘that very basis-transformation (āśraya-parāvṛtti)’",
+   "evidence": [
+    {
+     "lines": [
+      1511,
+      1512,
+      1513,
+      1514,
+      1515,
+      1516
+     ],
+     "quote": "tasya jñānasyānantaraṃ āśrayasya parāvṛttir bhavatīti jñāpanārtham āha\nāśrayasya parāvṛttir iti\nāśrayo 'tra sarvabījakam ālayavijñānam\ntasya parāvṛttir yā\ndauṣṭhulyavipākadvayavāsanābhāvena nivṛttau satyāṃ\nkarmaṇyatādharmakāyādvayajñānabhāvena parāvṛttiḥ",
+     "translation": "To indicate that, immediately after that knowledge, there is a transformation of the basis, he says ‘transformation of the basis.’ Here the basis is the store-consciousness with all seeds. Its transformation is the transformation in which, when there is cessation through absence of the impressions of both badness and maturation, there is the state of fitness, the dharma-body, and non-dual cognition."
+    },
+    {
+     "lines": [
+      1537,
+      1538,
+      1539
+     ],
+     "quote": "sa evānāsravo dhātur iti\nsa evāśrayaparāvṛttirūpaḥ\nanāsravo dhātur ity ucyate nirdauṣṭhulyatvāt",
+     "translation": "As to ‘that very thing is the uncontaminated element’: that very thing, being of the nature of basis-transformation, is called the uncontaminated element because it is free from badness."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "‘Anāsrava’ is defined as free from all āsravas, because it is free from dauṣṭhulya; ‘dhātu’ is not left as a bare cosmological element but is glossed in a causal sense, as the cause/source of noble dharmas.",
+   "options_considered": [
+    "‘undefiled realm/element’ with no further restriction",
+    "‘uncontaminated element’ as a material constituent",
+    "‘uncontaminated element-source/cause of noble dharmas’"
+   ],
+   "chosen": "anāsravo dhātuḥ = ‘uncontaminated element-source’",
+   "evidence": [
+    {
+     "lines": [
+      1539,
+      1540,
+      1541,
+      1542,
+      1543
+     ],
+     "quote": "anāsravo dhātur ity ucyate nirdauṣṭhulyatvāt\nsarvāsravavigata ity anāsravaḥ\nāryadharmahetutvād dhātuḥ\nhetvartho hy atra\ndhātuśabdaḥ",
+     "translation": "It is called the uncontaminated element because it is free from badness. ‘Uncontaminated’ means devoid of all outflows. It is ‘dhātu’ because it is the cause of noble dharmas; here the word dhātu has the meaning ‘cause.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The commentary grounds acintya in three reasons: it is not accessible to reasoning, it is to be known personally, and there is no example for it.",
+   "options_considered": [
+    "‘unthinkable’ as merely irrational",
+    "‘inconceivable’ as suprarational and personally realized, per Sthiramati"
+   ],
+   "chosen": "acintyaḥ = ‘inconceivable’ in the sense of beyond reasoning and analogy, personally realized",
+   "evidence": [
+    {
+     "lines": [
+      1544
+     ],
+     "quote": "acintyas tarkāgocaratvāt pratyātmavedyatvād dṛṣṭāntābhāvāc ca",
+     "translation": "It is inconceivable because it is beyond the range of reasoning, because it is to be known individually/personally, and because there is no example."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The term is not rendered as ‘clever’ or merely ‘skilful’; Sthiramati explains it by purity of object, safety, and constitution out of uncontaminated dharmas.",
+   "options_considered": [
+    "‘skilful/clever’ in an ordinary sense",
+    "‘good’ generically",
+    "‘wholesome’ in the Buddhist technical sense supported by the gloss"
+   ],
+   "chosen": "kuśalaḥ = ‘wholesome’",
+   "evidence": [
+    {
+     "lines": [
+      1545,
+      1546
+     ],
+     "quote": "kuśalo\nviśuddhālambanatvāt kṣematvād anāsravadharmamayatvāc ca",
+     "translation": "It is wholesome because its object is purified, because it is secure, and because it consists of uncontaminated dharmas."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Sthiramati links dhruva with nityatva and akṣayatā, and derives sukha from that very permanence by the contrast ‘whatever is impermanent is suffering; this is permanent.’",
+   "options_considered": [
+    "dhruva as merely ‘firm’ in a weak sense",
+    "sukha as ordinary pleasant feeling",
+    "dhruva as permanent/inexhaustible and sukha as blissful by reason of permanence"
+   ],
+   "chosen": "dhruvaḥ and sukhaḥ = ‘constant’ and ‘blissful’ because permanent/inexhaustible",
+   "evidence": [
+    {
+     "lines": [
+      1547,
+      1548,
+      1549,
+      1550
+     ],
+     "quote": "dhruvo nityatvād\nakṣayatayā\nsukho nityatvād eva yad anityaṃ tad duḥkhaṃ ayaṃ ca nitya iti\ntasmāt sukhaḥ",
+     "translation": "It is constant because it is permanent, because it is inexhaustible. It is blissful precisely because it is permanent: whatever is impermanent is suffering, but this is permanent; therefore it is blissful."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The verse-word is not treated as a generic synonym of the Buddha’s dharma-body. Sthiramati assigns vimuktikāya to the attainment of basis-transformation through the abandonment of dauṣṭhulya in śrāvakas, specifically through abandoning the kleśāvaraṇa.",
+   "options_considered": [
+    "vimuktikāya as simply ‘body of liberation’ with no scope distinction",
+    "vimuktikāya as a name only for the Buddha",
+    "vimuktikāya as śrāvakas’ liberation-body through abandonment of the afflictive obstruction"
+   ],
+   "chosen": "vimuktikāyaḥ = the liberation-body associated with śrāvakas’ abandonment of the afflictive obstruction",
+   "evidence": [
+    {
+     "lines": [
+      1525,
+      1526,
+      1527,
+      1528,
+      1529
+     ],
+     "quote": "āśrayaparāvṛttiḥ śrāvakādigatadauṣṭhulyahānitaś ca prāpyate yad āha\nvimuktikāya iti\nbodhisattvagatadauṣṭhulyahānitaś ca prāpyate yad āha\ndharmākhyo 'yaṃ mahāmuner iti\ndvidhā āvaraṇabhedena sottarā niruttarā cāśrayaparāvṛttir uktā",
+     "translation": "Basis-transformation is also attained through abandoning the badness present in śrāvakas and so on; hence he says ‘liberation-body.’ It is also attained through abandoning the badness present in bodhisattvas; hence he says ‘this, of the Great Sage, is called Dharma.’ Thus, because of the difference of obstructions, basis-transformation has been stated as twofold: with something higher still, and unsurpassed."
+    },
+    {
+     "lines": [
+      1551
+     ],
+     "quote": "kleśāvaraṇaprahāṇāc chrāvakāṇāṃ vimuktikāyaḥ",
+     "translation": "Because of the abandonment of the afflictive obstruction, it is the liberation-body of the śrāvakas."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Although the compound dharmākhya literally means ‘called Dharma,’ Sthiramati’s explanation supplies the understood kāya and identifies it as the Mahāmuni’s dharmakāya, attained through the abandonment of both afflictive and cognitive obstructions. Mahāmuni is explicitly glossed as the Buddha Bhagavān.",
+   "options_considered": [
+    "dharmākhya as merely ‘called Dharma’ with no implied body",
+    "mahāmuni as an unspecified great ascetic",
+    "dharmākhya as the Great Sage’s dharmakāya, the Buddha’s Dharma-body, per the bhāṣya"
+   ],
+   "chosen": "dharmākhyaḥ ayaṃ mahāmuneḥ = ‘this, of the Great Sage, is called the Dharma-body’",
+   "evidence": [
+    {
+     "lines": [
+      1552,
+      1553,
+      1554,
+      1555
+     ],
+     "quote": "sa evāśrayaparāvṛttilakṣaṇo dharmākhyo 'py ucyate mahāmuner\nbhūmipāramitābhāvanayā kleśajñeyāvaraṇaprahāṇāt\nāśrayaparāvṛttisamudāgamān\nmahāmuner dharmakāya ity ucyate",
+     "translation": "That same thing, characterized as basis-transformation, is also called ‘Dharma’ for the Great Sage. Because, through cultivating the stages and perfections, there is abandonment of the afflictive and cognitive obstructions and the attainment of basis-transformation, it is called the dharma-body of the Great Sage."
+    },
+    {
+     "lines": [
+      1556,
+      1557
+     ],
+     "quote": "saṃsārāparityāgāt tadanupasaṃkleśatvād\nbodhisattvānāṃ sarvadharmavibhutvalābhataś ca dharmakāya ity ucyate",
+     "translation": "Because there is no abandonment of saṃsāra, because there is no defilement by it, and because bodhisattvas obtain mastery over all dharmas, it is called the dharma-body."
+    },
+    {
+     "lines": [
+      1558
+     ],
+     "quote": "mahāmuner iti paramauneyayogād buddho bhagavān mahāmunir iti",
+     "translation": "‘Of the Great Sage’: because of possessing supreme sagehood, the Buddha, the Blessed One, is the Great Sage."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "That very basis-transformation (āśraya-parāvṛtti) is the uncontaminated element-source (anāsrava dhātu)—\ninconceivable, wholesome, constant, blissful.\nThat, for the śrāvakas, is the liberation-body (vimuktikāya);\nthis, of the Great Sage (mahāmuni), is called the Dharma-body (dharmakāya).",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave saḥ vague or attach it to the preceding knowledge; Sthiramati says it is the āśraya-parāvṛtti, basis-transformation.",
+  "It might translate dhātu simply as ‘element’ or ‘realm’; the bhāṣya states that dhātu has hetvartha here, the sense of a cause/source of noble dharmas.",
+  "It might make vimuktikāya and dharmākhya two undifferentiated epithets of the same Buddha-body; Sthiramati distinguishes the śrāvaka liberation-body from the Mahāmuni’s dharma-body by the obstruction(s) abandoned.",
+  "It might render sukha as ordinary pleasure; Sthiramati derives it from permanence, contrasting impermanence with suffering."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 marks vimukti as a compound member and kāyaḥ as the inflected head; I record the verse word as the whole compound stem vimuktikāya, Pum Prathama Eka, with ṣaṣṭhī-tatpuruṣa analysis, in accordance with the instruction that the stem of an inflected compound is the whole compound stem.",
+  "ByT5 gives dharma as a compound member and ākhyaḥ with lemma ākhyā; I instead record the whole compound stem dharmākhya, Pum Prathama Eka. The masculine nominative form and the bhāṣya’s dharmākhyo ’py ucyate support an adjectival compound meaning ‘called Dharma.’",
+  "ByT5 marks mahā as a compound member and muneḥ as the inflected head; I record the whole compound stem mahāmuni, Pum Sasthi Eka, with karmadhāraya analysis, as required for inflected compounds."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 7600,
+   "completion_tokens": 8910,
+   "reasoning_tokens": 4607
+  },
+  "est_cost": 0.1565,
+  "retrieval": {
+   "anchor": [
+    1501,
+    1502
+   ],
+   "span": [
+    1504,
+    1558
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

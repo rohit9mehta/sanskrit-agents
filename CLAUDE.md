@@ -69,10 +69,23 @@ justifying each contested choice.
   triage: ā/ī-stem nyap, anusvāra-vs-homorganic-nasal matching, ṇic sanādi,
   avyaya coverage (MW arbitration), avyayībhāva/tasil classes
 
-## Next: Phase 2 (verification & measurement, plan §4)
-- Strict-checker mode; human-graded eval (30 verses × 3 systems, term
-  fidelity + compound resolution; recruit 1–2 Sanskrit readers)
-- Decision gate: does commentary-grounding measurably beat one-shot MT?
+## Phase 2: IN PROGRESS (automated parts done 2026-07-16)
+- ✅ Citation audit: 304 evidence quotes vs cited trbh lines — 287 verbatim,
+  17 near (≥98 fuzzy), 0 fabricated (`agent/output/citation_audit.md`)
+- ✅ Ablations (`agent/output/ablations/ablation_report.md`): −verify-retry
+  → 5 genuine claim failures return; −commentary → morphology unaffected but
+  translations change substantially on 18/30 verses and commentary-dependent
+  justifications drop 182→0. Orthogonal contributions demonstrated.
+- ✅ Blinded eval harness: `agent/data/eval/packets/eval_packet.md` +
+  response_TEMPLATE.csv (graders), answer_key.json + hard subset
+  [1,2,3,6,11,13,14,16,29,30]; scoring = `scripts/15_score_eval.py`
+  (win rates, exact sign tests, kappa) reading
+  `agent/data/eval/packets/responses/grader_*.csv`
+- ⏳ HUMAN STEP (Rohit): recruit 1–2 Sanskrit readers, send them
+  eval_packet.md + the CSV template (~3–6 h each; honorarium customary);
+  optional: physical Buescher 2007 → second reference column
+- Then: run scoring, write the decision-gate memo (go/no-go for Phase 3)
+- LLM spend to date: ~$17.5 est (hard stop $25, authorized $50)
 
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern

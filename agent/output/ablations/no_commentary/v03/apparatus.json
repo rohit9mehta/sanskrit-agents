@@ -1,0 +1,277 @@
+{
+ "verse": 3,
+ "analysis": [
+  {
+   "surface": "asaṃviditakopādisthānavijñaptikam",
+   "surface_in_sandhi": "asaṃviditakopādisthānavijñaptikañ",
+   "lemma": "asaṃviditakopādisthānavijñaptika",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "asaṃviditasya kopa-ādeḥ sthānasya vijñaptikam",
+    "members": [
+     "a",
+     "saṃvidita",
+     "kopa",
+     "ādi",
+     "sthāna",
+     "vijñaptika"
+    ]
+   },
+   "note": "Neuter nominative singular predicate adjective to tat. The form is formally also accusative singular, but nominative is chosen for the nominal sentence.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asaṃviditakopādisthānavijñaptika as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic coordinating particle, 'and/also'.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular pronoun; it supplies the subject of the nominal predications.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sadā",
+   "surface_in_sandhi": "sadā",
+   "lemma": "sadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Temporal adverb, 'always'.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sparśamanaskāravitsaṃjñācetanānvitam",
+   "surface_in_sandhi": "sparśamanaskāravitsaṃjñācetanānvitam",
+   "lemma": "sparśamanaskāravitsaṃjñācetanānvita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sparśa-manaskāra-vid-saṃjñā-cetanābhiḥ anvitam",
+    "members": [
+     "sparśa",
+     "manaskāra",
+     "vid",
+     "saṃjñā",
+     "cetanā",
+     "anvita"
+    ]
+   },
+   "note": "Neuter nominative singular predicate adjective to tat. The member vid appears as vit before saṃjñā by devoicing before s.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sparśamanaskāravitsaṃjñācetanānvita as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Segmentation and broad compound relation of asaṃviditakopādisthānavijñaptikam.",
+   "options_considered": [
+    "a-saṃvidita-kopa-ādi-sthāna-vijñaptika: 'presentational of an unrecognized locus of anger/irritation and the like'",
+    "asaṃviditaka-upādi-sthāna-vijñaptika: a sandhi-possible alternative, not adopted in this ablation because upādi is not supplied by the analyzer or dictionary",
+    "treating kopādi as an unanalyzed opaque technical expression"
+   ],
+   "chosen": "a-saṃvidita-kopa-ādi-sthāna-vijñaptika",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "asaṃviditakopādisthānavijñaptikañ",
+     "translation": "No commentary used: adopting the analyzer’s segmentation a + saṃvidita + kopa + ādi + sthāna + vijñaptika. MW gives kopa as 'morbid irritation' and also 'passion, wrath, anger'; ādi as an ifc. element means 'beginning with, and so on'. The negative a- plus saṃvidita gives 'unrecognized/unperceived'."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Case construal of asaṃviditakopādisthānavijñaptikam and sparśamanaskāravitsaṃjñācetanānvitam.",
+   "options_considered": [
+    "nominative singular predicate adjectives agreeing with tat",
+    "accusative singular objects of an ellipsed verb",
+    "masculine accusative singular agreement"
+   ],
+   "chosen": "neuter nominative singular predication to tat",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vijñaptikañ ca tat sadā ... anvitam",
+     "translation": "The -am forms are neuter nominative/accusative singular. Since tat is a neuter nominative singular pronoun and there is no finite verb governing an accusative, the adjectives are best construed as nominative predicate adjectives in a nominal sentence."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Interpretation of vit in sparśamanaskāravitsaṃjñā-.",
+   "options_considered": [
+    "vid from √vid, 'knowing/understanding'",
+    "vit as a separate lexical item",
+    "a technical mental-factor equivalent not established by the supplied dictionary"
+   ],
+   "chosen": "vid as the member stem underlying vit before saṃjñā",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "manaskāravitsaṃjñā",
+     "translation": "The printed vit is explained grammatically as vid + saṃjñā, with final d devoiced to t before s. MW s.v. vid gives 'knowing, understanding, a knower', so the ablation translation uses 'knowing' rather than introducing an unsupported technical equivalent."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Scope of anvitam in sparśa-manaskāra-vid-saṃjñā-cetanā-anvitam.",
+   "options_considered": [
+    "always accompanied by contact, attention, knowing, conception, and volition",
+    "accompanied only by cetanā, with the preceding words separate",
+    "a dvandva list not governed by anvita"
+   ],
+   "chosen": "X-anvita as 'accompanied by X', with the preceding members forming a coordinated list",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sadā sparśamanaskāravitsaṃjñācetanānvitam",
+     "translation": "MW s.v. anvita gives 'joined, attended, accompanied by, endowed with'. Therefore the preceding members are construed together as what the referent is accompanied by, while sadā modifies the whole predication as 'always'."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Reading of the nasal in vitsaṃjñā- versus vulgate vitsañjñā-.",
+   "options_considered": [
+    "saṃjñā, matching the supplied reading and dictionary lemma",
+    "sañjñā, the vulgate/assimilated spelling"
+   ],
+   "chosen": "saṃjñā",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vitsaṃjñācetanā",
+     "translation": "The supplied bhāṣya reading has saṃjñā, and MW lists the lemma as saṃjñā. The vulgate sañjñā is not taken to require a different morphological analysis in this ablation."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "And that, too, is presentational (vijñaptika) of an unrecognized locus (sthāna) of anger/irritation and the like (kopa-ādi); it is always accompanied by contact (sparśa), attention (manaskāra), knowing (vid), conception (saṃjñā), and volition (cetanā).",
+ "one_shot_delta": [
+  "Because no commentary is used, the sandhi sequence kopādi is vulnerable: a blind parse naturally follows kopa + ādi, yielding 'anger/irritation and the like', even though the context may require a different technical segmentation.",
+  "Without commentary, vit is taken from vid 'knowing/understanding'; a technical Yogācāra value cannot be established from the supplied MW entries alone.",
+  "The technical force of vijñaptika is only inferred as 'presentational/representational' from the form and the analyzer, since no dictionary entry for vijñaptika/vijñapti was supplied."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 marks vid as an independent-looking vid_SNM; here it is treated as the compound-member stem vid inside the single printed compound sparśamanaskāravitsaṃjñācetanānvitam, because vit is sandhi for vid before saṃjñā.",
+  "ByT5’s abbreviated tag for anvitam appears not to record the required neuter nominative singular agreement; here sparśamanaskāravitsaṃjñācetanānvitam is analyzed as Napuṃsaka Prathama Eka, predicative to tat."
+ ],
+ "open_questions": [
+  "The first compound is semantically insecure under the provided lexicon: kopa + ādi is grammatical and dictionary-supported, but the sandhi could in principle hide another technical term.",
+  "The exact technical sense of vijñaptika remains underdetermined without a lexicon entry or commentary.",
+  "The role of vid in the mental-factor list may be more technical than the dictionary meaning 'knowing'; this cannot be resolved in the ablation run."
+ ],
+ "verification_summary": {
+  "pass": 5,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4752,
+   "completion_tokens": 14143,
+   "reasoning_tokens": 11432
+  },
+  "est_cost": 0.2264,
+  "retrieval": {
+   "anchor": [
+    202,
+    202
+   ],
+   "span": [
+    203,
+    303
+   ],
+   "shared_with": null,
+   "requotes": [
+    [
+     498,
+     498
+    ]
+   ]
+  }
+ }
+}

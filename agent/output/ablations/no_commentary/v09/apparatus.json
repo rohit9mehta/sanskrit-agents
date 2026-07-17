@@ -1,0 +1,376 @@
+{
+ "verse": 9,
+ "analysis": [
+  {
+   "surface": "sarvatragaiḥ",
+   "surface_in_sandhi": "sarvatragair",
+   "lemma": "sarvatraga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sarvatra gacchatīti sarvatragaḥ",
+    "members": [
+     "sarvatra",
+     "ga"
+    ]
+   },
+   "note": "Adjective modifying caitasaiḥ; rendered as a technical class, “universal/all-pervading.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvatraga as Pum/Trtiya/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "viniyataiḥ",
+   "surface_in_sandhi": "viniyataiḥ",
+   "lemma": "viniyata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Kta-participial adjective from vi-ni-√yam, used here as a class adjective with caitasaiḥ; translated “fixed/determinate.”",
+   "verification": {
+    "status": "pass",
+    "detail": "viniyata Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kuśalaiḥ",
+   "surface_in_sandhi": "kuśalaiś",
+   "lemma": "kuśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective modifying caitasaiḥ; in this context “wholesome/good.”",
+   "verification": {
+    "status": "pass",
+    "detail": "kuśala Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "caitasaiḥ",
+   "surface_in_sandhi": "caitasair",
+   "lemma": "caitasa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized adjective: “mental factors/concomitants.”",
+   "verification": {
+    "status": "pass",
+    "detail": "caitasa Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "asau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular pronoun, subject of saṃprayuktā and trivedanā; antecedent is context-dependent, here translated as “that [cognition].”",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṃprayuktā",
+   "surface_in_sandhi": "saṃprayuktā",
+   "lemma": "saṃprayukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective from saṃ-pra-√yuj, agreeing with asau; governs the instrumental groups: “associated/joined with.”",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃprayukta Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Connective adverb: “likewise/also.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kleśaiḥ",
+   "surface_in_sandhi": "kleśair",
+   "lemma": "kleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental plural governed by saṃprayuktā; translated in the Buddhist technical sense “afflictions.”",
+   "verification": {
+    "status": "pass",
+    "detail": "kleśa Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "upakleśaiḥ",
+   "surface_in_sandhi": "upakleśais",
+   "lemma": "upakleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental plural governed by saṃprayuktā; “secondary afflictions/lesser afflictions.”",
+   "verification": {
+    "status": "pass",
+    "detail": "upakleśa Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "trivedanā",
+   "surface_in_sandhi": "trivedanā",
+   "lemma": "trivedanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "tisro vedanāḥ yasyāḥ sā",
+    "members": [
+     "tri",
+     "vedanā"
+    ]
+   },
+   "note": "Predicate adjective agreeing with asau, not a separate plural noun phrase.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem trivedanā as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The nominative feminine singular forms asau, saṃprayuktā, and trivedanā are construed together: “that [cognition] is associated … and has three feelings.”",
+   "options_considered": [
+    "asau as masculine nominative singular",
+    "trivedanā as an independent noun phrase, “three feelings”",
+    "saṃprayuktā as governing only the immediately preceding caitasaiḥ"
+   ],
+   "chosen": "asau as feminine subject; saṃprayuktā and trivedanā as agreeing predicates",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical basis: asau is nominative feminine singular; saṃprayuktā and trivedanā are also nominative feminine singular, so they naturally agree as predicates of the same subject."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The first three instrumental plurals are taken as class-adjectives of caitasaiḥ: “mental factors that are universal, fixed/determinate, and wholesome.”",
+   "options_considered": [
+    "three separate instrumental substantives plus caitasaiḥ",
+    "kuśalaiḥ as an adverbial instrumental, “well/skillfully”",
+    "caitasaiḥ as merely adjectival, “mental,” with no implied substantive"
+   ],
+   "chosen": "sarvatragaiḥ, viniyataiḥ, and kuśalaiḥ as adjectives qualifying caitasaiḥ",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical basis: sarvatragaiḥ, viniyataiḥ, kuśalaiḥ, and caitasaiḥ are all masculine instrumental plural and stand as a compact pre-nominal cluster."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The word is treated as an instrumental plural adjective from the participial stem viniyata, not as a finite or root form; the translation keeps a cautious lexical sense from vi-ni-√yam, “restrain, regulate.”",
+   "options_considered": [
+    "“restraining” as an active present participial sense",
+    "a finite verb form",
+    "a fully specified technical list not recoverable from grammar alone"
+   ],
+   "chosen": "viniyataiḥ as “fixed/determinate/regulated” mental factors",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Lexical/grammatical basis: MW gives vi-ni-√yam as “restrain, check, control, regulate”; viniyata is therefore a kta-adjective meaning “restrained, regulated, fixed,” here agreeing with caitasaiḥ."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "tathā is translated “likewise/also,” extending the association construction: “likewise with afflictions and secondary afflictions.”",
+   "options_considered": [
+    "tathā modifying trivedanā: “three feelings in that way”",
+    "tathā beginning a new independent clause",
+    "kleśair upakleśaiḥ as instruments of an implied verb other than saṃprayuktā"
+   ],
+   "chosen": "tathā links the kleśa/upakleśa instrumentals to the same predicate saṃprayuktā",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical basis: kleśaiḥ and upakleśaiḥ are instrumental plurals like caitasaiḥ and therefore fit the same construction with saṃprayuktā; tathā functions as a connective adverb."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Because trivedanā is feminine nominative singular and agrees with asau, it is taken as a compound predicate adjective rather than as a simple plural noun phrase.",
+   "options_considered": [
+    "“three feelings” as a separate nominative plural",
+    "dvigu collective “a triad of feelings” as the subject",
+    "“threefold feeling” as an abstract noun unrelated to asau"
+   ],
+   "chosen": "trivedanā as a bahuvrīhi adjective, “having three feelings”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical basis: tri + vedanā in a singular feminine compound can qualify a feminine singular subject; the bahuvrīhi vigraha is “she/it whose feelings are three.”"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "That [cognition] is associated with mental factors (caitasa)—\nuniversal (sarvatraga), fixed/determinate (viniyata), and wholesome (kuśala);\nlikewise with afflictions (kleśa) and secondary afflictions (upakleśa);\nit has three kinds of feeling (trivedanā).",
+ "one_shot_delta": [
+  "A purely word-for-word rendering might translate caitasaiḥ only as “mental ones,” missing its likely substantival force, “mental factors.”",
+  "It might take trivedanā as a separate phrase, “three feelings,” instead of an adjective of asau: “having three kinds of feeling.”",
+  "It might fail to carry the force of saṃprayuktā over both instrumental groups, thereby disconnecting kleśaiḥ and upakleśaiḥ from “associated with.”",
+  "Without commentary, the precise doctrinal contents of the classes sarvatraga, viniyata, kuśala, kleśa, and upakleśa cannot be fixed from this verse alone."
+ ],
+ "analyzer_disagreements": [
+  "viniyataiḥ: ByT5 lemmatizes as viniyam, but the inflected verse-word is a subanta from the kta-adjectival stem viniyata; features as masculine instrumental plural are retained.",
+  "saṃprayuktā: ByT5 gives a participial/verbal lemma saṃprayuj, but the apparatus requires the nominal stem for subanta analysis, so lemma is recorded as saṃprayukta; feminine nominative singular features are retained.",
+  "trivedanā: ByT5 segments tri + vedanā; I record the printed word as a single bahuvrīhi compound stem trivedanā, feminine nominative singular, because it agrees predicatively with asau."
+ ],
+ "open_questions": [
+  "No commentary was supplied for this ablation run; the exact antecedent of asau is inferred only as a feminine singular item from the preceding context, here rendered “that [cognition].”",
+  "The exact technical sense and list denoted by viniyata are not fixed by the dictionary evidence alone; “fixed/determinate” is a cautious grammatical-lexical rendering."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3684,
+   "completion_tokens": 7685,
+   "reasoning_tokens": 5115
+  },
+  "est_cost": 0.1263,
+  "retrieval": {
+   "anchor": [
+    491,
+    492
+   ],
+   "span": [
+    493,
+    493
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

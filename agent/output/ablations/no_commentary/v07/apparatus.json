@@ -1,0 +1,407 @@
+{
+ "verse": 7,
+ "analysis": [
+  {
+   "surface": "yatrajaḥ",
+   "surface_in_sandhi": "yatrajas",
+   "lemma": "yatraja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yatra jātaḥ",
+    "members": [
+     "yatra",
+     "ja"
+    ]
+   },
+   "note": "Declinable adjective: “born/produced where.” The masculine nominative singular does not straightforwardly agree with neuter tat; without commentary the construction remains syntactically compressed.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem yatraja as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tanmayaiḥ",
+   "surface_in_sandhi": "tanmayair",
+   "lemma": "tanmaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental plural: “with those made of that / identical with that.” Formally a tad + -maya derivative rather than a regular samāsa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tanmaya Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "arhataḥ",
+   "surface_in_sandhi": "arhato",
+   "lemma": "arhat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Participial noun/adjective “arhat.” The form can also be read as pañcamī singular of an -at stem, but the negative existential construction favors a genitive possessor/sphere: “of/in an arhat.”",
+   "verification": {
+    "status": "pass",
+    "detail": "arhat Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular pronoun, taken as the subject of an elliptical negative existential: “that is not.”",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "nirodhasamāpattau",
+   "surface_in_sandhi": "nirodhasamāpattau",
+   "lemma": "nirodhasamāpatti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "nirodhasya samāpattiḥ",
+    "members": [
+     "nirodha",
+     "samāpatti"
+    ]
+   },
+   "note": "Technical locative: “in the cessation-attainment.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirodhasamāpatti as Stri/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "mārge",
+   "surface_in_sandhi": "mārge",
+   "lemma": "mārga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular governed by the repeated negation: “on/in the path.”",
+   "verification": {
+    "status": "pass",
+    "detail": "mārga Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "lokottare",
+   "surface_in_sandhi": "lokottare",
+   "lemma": "lokottara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "lokāt uttaraḥ",
+    "members": [
+     "loka",
+     "uttara"
+    ]
+   },
+   "note": "Agrees with mārge: “on the supramundane path.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem lokottara as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Repeated negator, here coordinated with ca: “nor.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic coordinator: “and/nor” with preceding na.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The sequence yatrajas tanmayair is best explained as yatrajaḥ tanmayaiḥ with visarga becoming -s before t. Lexically, yatra is a relative adverb and -ja means “born/produced” as a final compound member, including after adverbial words. Splitting it as yatra jaḥ would leave jaḥ without a suitable meaning in context.",
+   "options_considered": [
+    "single compound yatrajaḥ, “where-born”",
+    "two words yatra jaḥ",
+    "emending to a neuter yatrajam to agree with tat"
+   ],
+   "chosen": "yatrajaḥ as a single declinable compound, “where-born / born where.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical/lexical reasoning from the requested reading and dictionary entries for yatra and -ja."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The form is unambiguously instrumental plural. Since the verse has no finite verb and the surrounding syntax is elliptical, the instrumental is taken as associative rather than as a concrete instrument of action.",
+   "options_considered": [
+    "associative instrumental, “with those made of that”",
+    "instrumental of means, “by means of those made of that”",
+    "predicate adjective independent of any implied antecedent"
+   ],
+   "chosen": "tanmayaiḥ as an instrumental plural of accompaniment: “with those made of that / identical with that.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Dictionary sense of tanmaya: “made up of that, absorbed in or identical with that”; instrumental plural ending -aiḥ."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The form arhataḥ could formally be genitive or ablative singular for an -at stem, but na tat is most naturally an elliptical negative existential, “that is not,” with arhataḥ marking the possessor or sphere: “that is not in the case of an arhat / in an arhat.”",
+   "options_considered": [
+    "genitive singular, “of/in an arhat”",
+    "ablative singular, “from an arhat”",
+    "finite verbal form from √arh"
+   ],
+   "chosen": "arhataḥ as ṣaṣṭhī singular: “of/in an arhat.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Morphology of arhat as an -at participial noun/adjective; syntax of genitive with elliptical existence/possession."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Both nirodhasamāpattau and mārge lokottare are locative singular forms. The repeated na extends the negation of tat to these loci: “not in cessation-attainment; nor on the supramundane path.”",
+   "options_considered": [
+    "locatives of sphere/location under the negation",
+    "independent temporal locatives",
+    "mārge lokottare as a separate positive phrase"
+   ],
+   "chosen": "nirodhasamāpattau and mārge lokottare as locative loci of absence.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Locative singular endings: -au for feminine i-stem samāpatti in compound; -e for masculine a-stems mārga and lokottara."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The three negators are read cumulatively. The final na ca coordinates the last locative phrase with the preceding exclusions rather than introducing a new positive assertion.",
+   "options_considered": [
+    "cumulative coordinated negation",
+    "only the first na negates tat",
+    "final na ca as an unrelated clause"
+   ],
+   "chosen": "na … na … na ca as coordinated negation: “not … not … nor.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Lexical force of na as negator and ca as enclitic coordinator."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Where-born (yatrajaḥ), with those made of that (tanmaya),\nthat is not in an arhat (arhat);\nnot in the cessation-attainment (nirodhasamāpatti),\nnor on the supramundane path (lokottara mārga).",
+ "one_shot_delta": [
+  "A commentary-blind translation is likely to over-assimilate the bhāṣya reading to the vulgate and insert “other factors such as contact” even though these words are absent from the requested text.",
+  "Without commentary, the antecedents of tat and tan- in tanmayaiḥ remain underdetermined; a translation may wrongly make them refer to the immediately visible words rather than to the technical item carried over from the preceding verse.",
+  "The masculine yatrajaḥ is syntactically awkward beside neuter tat; without explanatory commentary one may either mistranslate it as agreeing directly with tat or emend it silently."
+ ],
+ "analyzer_disagreements": [
+  "The analyzer included the vulgate words anyaiḥ sparśa-ādyaiḥ ca. The requested bhāṣya reading omits these, so they are not analyzed here.",
+  "The analyzer split yatra_jaḥ. I treat yatrajaḥ as one compound, since ja in the sense “born/produced” is used as an ifc. element after adverbs; as a separate word jaḥ would most naturally mean the letter ja and would not fit the syntax.",
+  "The analyzer lemmatized arhataḥ under the verbal root arh as a present participial form. I record the declined nominal/participial stem arhat, Pum Ṣaṣṭhī Eka, since it is not a finite verb.",
+  "The analyzer displayed nirodha as a compound first member and samāpattau as the inflected word. I record the whole inflected compound stem nirodhasamāpatti."
+ ],
+ "open_questions": [
+  "The precise antecedent of tat is not recoverable from this isolated line without the preceding verse/commentary.",
+  "The precise referent of tan- in tanmayaiḥ is unresolved on grammar and dictionary alone.",
+  "The masculine nominative yatrajaḥ does not transparently agree with neuter tat; its exact syntactic role remains uncertain without commentary.",
+  "Whether arhataḥ should be taken strictly as genitive or could preserve an ablative nuance cannot be finally settled from the isolated grammar alone."
+ ],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4651,
+   "completion_tokens": 9737,
+   "reasoning_tokens": 7165
+  },
+  "est_cost": 0.16,
+  "retrieval": {
+   "anchor": [
+    425,
+    425
+   ],
+   "span": [
+    427,
+    471
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

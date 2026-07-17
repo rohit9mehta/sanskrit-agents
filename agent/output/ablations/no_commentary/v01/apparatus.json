@@ -1,0 +1,384 @@
+{
+ "verse": 1,
+ "analysis": [
+  {
+   "surface": "ātmadharmopacāraḥ",
+   "surface_in_sandhi": "ātmadharmopacāro",
+   "lemma": "ātmadharmopacāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "ātmā ca dharmāś ca, teṣām upacāraḥ",
+    "members": [
+     "ātman",
+     "dharma",
+     "upacāra"
+    ]
+   },
+   "note": "External ṣaṣṭhī-tatpuruṣa over an internal coordination of ātman and dharma; the compound head is upacāra.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ātmadharmopacāra as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic explanatory particle, here rendered “for.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vividhaḥ",
+   "surface_in_sandhi": "vividho",
+   "lemma": "vividha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with ātmadharmopacāraḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "vividha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yaḥ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun qualifying ātmadharmopacāraḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pravartate",
+   "surface_in_sandhi": "pravartate",
+   "lemma": "vṛt",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vṛt",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada intransitive: “proceeds, occurs, comes into operation.”",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-vṛt Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijñānapariṇāme",
+   "surface_in_sandhi": "vijñānapariṇāme",
+   "lemma": "vijñānapariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vijñānasya pariṇāmaḥ",
+    "members": [
+     "vijñāna",
+     "pariṇāma"
+    ]
+   },
+   "note": "Locative singular construed with pravartate: the domain in which the usage/attribution occurs.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñānapariṇāma as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "'sau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative; sandhi after locative -e elides initial a- in the printed form ’sau.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pariṇāmaḥ",
+   "surface_in_sandhi": "pariṇāmaḥ",
+   "lemma": "pariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate/appositional nominative in an elliptical nominal sentence: “that is the transformation” or “that transformation.”",
+   "verification": {
+    "status": "pass",
+    "detail": "pariṇāma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Resumptive demonstrative referring to pariṇāmaḥ; surface saḥ loses visarga before ca in the printed sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction, “and.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tridhā",
+   "surface_in_sandhi": "tridhā",
+   "lemma": "tridhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable adverb: “threefold, in three ways.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya per MW (kosha gap; logged unsupported)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The final member upacāraḥ is the singular masculine head; ātma- and dharma- are best taken as the objects/topics of that upacāra. Grammatically I construe the whole as an external ṣaṣṭhī-tatpuruṣa with an internal coordination: ātmā ca dharmāś ca, teṣām upacāraḥ.",
+   "options_considered": [
+    "upacāra concerning self and dharmas",
+    "upacāra of the dharmas of the self",
+    "service/attendance to self-dharma"
+   ],
+   "chosen": "ātmadharmopacāraḥ means a usage/attribution concerning self and dharmas, not “a property of the self” or “service to the self’s dharma.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "No trbh commentary used. Grammar/dictionary basis: upacāra is a masculine nominal head; ātma- and dharma- are prior compound members; vividhaḥ and yaḥ agree with the resulting masculine nominative singular compound.",
+     "translation": "The compound is read as “the manifold upacāra of/with respect to self and dharmas.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The middle present form pravartate from pra-√vṛt commonly functions intransitively. The nominative subject is the relative phrase yaḥ ātmadharmopacāraḥ vividhaḥ.",
+   "options_considered": [
+    "intransitive “proceeds/occurs”",
+    "passive “is made to proceed”",
+    "transitive “sets in motion”"
+   ],
+   "chosen": "pravartate is intransitive kartari: “proceeds, occurs, comes into operation.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "No trbh commentary used. Grammar/dictionary basis: MW gives pra-√vṛt Ā. -vartate with senses such as “proceed,” “arise,” “occur,” “take place.”",
+     "translation": "The verse says that the manifold upacāra occurs/proceeds; it does not say that something else sets it in motion."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is naturally genitival, vijñānasya pariṇāmaḥ. The locative supplies the domain or locus for pravartate.",
+   "options_considered": [
+    "locative domain: “in the transformation of consciousness”",
+    "instrumental-like sense: “by the transformation of consciousness”",
+    "compound meaning “transformation into consciousness”"
+   ],
+   "chosen": "vijñānapariṇāme is a locative singular tatpuruṣa: “in the transformation of consciousness.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "No trbh commentary used. Grammar/dictionary basis: pariṇāma is a masculine noun “change, alteration, transformation”; vijñāna is a neuter noun “consciousness/knowledge”; the form -e is locative singular of the masculine compound.",
+     "translation": "The manifold upacāra proceeds in/with respect to the transformation of consciousness."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Although asau could grammatically point back to the nominative ātmadharmopacāraḥ, the immediate repetition of pariṇāmaḥ after the locative vijñānapariṇāme makes it more economical to take asau pariṇāmaḥ as resuming the transformation just mentioned; saḥ then resumes pariṇāmaḥ before tridhā.",
+   "options_considered": [
+    "asau refers to the transformation mentioned in vijñānapariṇāme",
+    "asau refers to the upacāra and identifies it as a transformation",
+    "saḥ introduces a new, unspecified masculine subject"
+   ],
+   "chosen": "asau pariṇāmaḥ sa ca tridhā is an elliptical nominal sentence: “that transformation is threefold.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "No trbh commentary used. Grammar basis: asau and saḥ are masculine nominative singular demonstratives, and pariṇāmaḥ is also masculine nominative singular; Sanskrit nominal sentences commonly omit asti.",
+     "translation": "The second half classifies the transformation just named: it is threefold."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For the manifold usage/attribution (upacāra)\nof self (ātman) and dharmas (dharma), which proceeds\nin the transformation of consciousness (vijñāna-pariṇāma):\nthat transformation (pariṇāma) is threefold.",
+ "one_shot_delta": [
+  "Because this is deliberately commentary-blind, the technical value of upacāra is not secured from the bhāṣya. A purely dictionary-led rendering might produce the unsuitable “service/attendance”; I have used the broader philosophical “usage/attribution” while marking the Sanskrit.",
+  "A commentary-blind reader may take ātmadharma as “the dharma/property of the self.” The translation instead takes ātman and dharma as coordinated topics, “self and dharmas,” but this remains a grammatical choice without commentary confirmation.",
+  "The demonstrative asau could be attached to ātmadharmopacāraḥ by gender and number alone. The translation takes it to resume pariṇāma, because the verse immediately repeats pariṇāmaḥ and then says sa ca tridhā.",
+  "Without the commentary or the following verse, the contents of the “threefold” division are not supplied here; the translation therefore does not name the three transformations."
+ ],
+ "analyzer_disagreements": [
+  "No substantive disagreement with the ByT5 features. Normalization: ByT5 reports pravartate_pravṛt; per the requested format this is recorded as bare root vṛt with prefix pra.",
+  "No substantive disagreement with the compound segmentation. Normalization: ByT5 segments ātma_dharma_upacāraḥ, while the apparatus gives the inflected nominal’s lemma as the whole compound stem ātmadharmopacāra and records the samāsa separately.",
+  "No substantive disagreement with the compound segmentation. Normalization: ByT5 segments vijñāna_pariṇāme, while the apparatus gives the inflected nominal’s lemma as the whole compound stem vijñānapariṇāma and records the samāsa separately."
+ ],
+ "open_questions": [
+  "Whether upacāra should be translated more specifically as “metaphorical designation” or “imputation” requires commentary evidence not available in this ablation run.",
+  "Whether ātmadharma must doctrinally mean “self and dharmas” rather than any alternative compound relation would be confirmed by the bhāṣya or broader Yogācāra context.",
+  "The verse states that the transformation is threefold, but the three members are not identified within this verse alone."
+ ],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4535,
+   "completion_tokens": 8341,
+   "reasoning_tokens": 5631
+  },
+  "est_cost": 0.1387,
+  "retrieval": {
+   "anchor": [
+    24,
+    24
+   ],
+   "span": [
+    25,
+    164
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

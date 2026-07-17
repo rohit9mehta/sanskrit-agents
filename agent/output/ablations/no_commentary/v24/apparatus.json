@@ -1,0 +1,402 @@
+{
+ "verse": 24,
+ "analysis": [
+  {
+   "surface": "prathamaḥ",
+   "surface_in_sandhi": "prathamo",
+   "lemma": "prathama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized adjective: “the first.”",
+   "verification": {
+    "status": "pass",
+    "detail": "prathama Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "lakṣaṇena",
+   "surface_in_sandhi": "lakṣaṇenaiva",
+   "lemma": "lakṣaṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular; construed as the basis/respect, “by / in virtue of the defining mark.” In the printed sandhi group lakṣaṇena + eva becomes lakṣaṇenaiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "lakṣaṇa Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "lakṣaṇenaiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic/restrictive particle: “precisely, just, alone.” Merged in sandhi with lakṣaṇena.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvaḥ",
+   "surface_in_sandhi": "niḥsvabhāvo",
+   "lemma": "niḥsvabhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "niḥ/vigataḥ svabhāvo yasya",
+    "members": [
+     "nis",
+     "svabhāva"
+    ]
+   },
+   "note": "Predicate adjective agreeing with prathamaḥ/aparaḥ: “without svabhāva / own-being.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem niḥsvabhāva as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "aparaḥ",
+   "surface_in_sandhi": "'paraḥ",
+   "lemma": "apara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized adjective: “the other/latter.” The initial a is elided after niḥsvabhāvo in the printed sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "apara Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "punaḥ",
+   "surface_in_sandhi": "punaḥ",
+   "lemma": "punar",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial particle, here “again / in turn.” Lemma punar; pāda-final pausal form is punaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Simple negation.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "svayaṃbhāvaḥ",
+   "surface_in_sandhi": "svayaṃbhāva",
+   "lemma": "svayaṃbhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svayaṃ bhāvaḥ",
+    "members": [
+     "svayam",
+     "bhāva"
+    ]
+   },
+   "note": "Nominative singular in an existentially negated clause: “there is no svayaṃbhāva of this.” Rendered “self-arising/self-being.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svayaṃbhāva as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "etasya",
+   "surface_in_sandhi": "etasyety",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on svayaṃbhāvaḥ: “of this.” In the printed sandhi group etasya + iti + aparā becomes etasyety aparā.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "etasyety",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Quotation/explanatory marker closing na svayaṃbhāvaḥ etasya. In sandhi with etasya and aparā it appears within etasyety aparā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "aparā",
+   "surface_in_sandhi": "aparā",
+   "lemma": "apara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular agreeing with niḥsvabhāvatā: “another.”",
+   "verification": {
+    "status": "pass",
+    "detail": "apara Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvatā",
+   "surface_in_sandhi": "niḥsvabhāvatā",
+   "lemma": "niḥsvabhāvatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Single abstract feminine noun in -tā from niḥsvabhāva: “absence/lack of own-being”; not two independent words niḥsvabhāva + tā.",
+   "verification": {
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "prathamaḥ is a substantivized masculine nominative subject and niḥsvabhāvaḥ is its masculine nominative predicate adjective; lakṣaṇenaiva gives the instrumental basis or respect.",
+   "options_considered": [
+    "Take niḥsvabhāvaḥ as a predicate adjective: “the first is without own-being.”",
+    "Take niḥsvabhāvaḥ as the MW masculine noun “poverty/lack of property.”",
+    "Take lakṣaṇenaiva adverbially as “merely by definition” without a real instrumental relation."
+   ],
+   "chosen": "“The first is without own-being precisely by its defining mark.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical reasoning: prathamaḥ and niḥsvabhāvaḥ are both masculine nominative singular, making subject plus predicate adjective the natural construal. lakṣaṇena is instrumental singular and eva strengthens or restricts it: “by/through the defining mark precisely.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "aparaḥ is a second substantivized masculine nominative subject parallel to prathamaḥ; punaḥ is an indeclinable discourse/adverbial particle, not part of a nominal compound.",
+   "options_considered": [
+    "Construe aparaḥ as a new masculine subject: “the other/latter.”",
+    "Construe aparaḥ directly with aparā, ignoring the gender difference.",
+    "Treat punaḥ as governing a separate repetition rather than as a clause particle."
+   ],
+   "chosen": "aparaḥ is “the other/latter,” with punaḥ marking “again/in turn.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical reasoning: aparaḥ is masculine nominative singular, parallel to prathamaḥ. punar/punaḥ is indeclinable and therefore most naturally modifies the clause as “again, in turn.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "na svayaṃbhāvaḥ etasya is read as an existentially negated nominal clause; etasya is genitive dependent on svayaṃbhāvaḥ, and iti marks this preceding clause as the explanatory formulation.",
+   "options_considered": [
+    "Translate as an existential negation: “there is no svayaṃbhāva of this.”",
+    "Translate svayaṃbhāva as if it were svabhāva, “own-being,” erasing the explicit svayam element.",
+    "Take etasya as the subject, “this is not self-arising,” despite its genitive case."
+   ],
+   "chosen": "“There is no self-arising/self-being of this.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical reasoning: na plus a nominative noun can express non-existence, “there is no X.” etasya is genitive singular and fits as a dependent genitive, “of this.” iti commonly marks the immediately preceding expression as quoted or explanatory."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "aparā niḥsvabhāvatā is a feminine nominative phrase; niḥsvabhāvatā is one abstract noun, not niḥsvabhāva plus an independent tā.",
+   "options_considered": [
+    "Read niḥsvabhāvatā as a single abstract noun: “absence of own-being.”",
+    "Follow the analyzer split and read niḥsvabhāva + tā as two words.",
+    "Take aparā as modifying an implied feminine noun rather than the expressed niḥsvabhāvatā."
+   ],
+   "chosen": "“another absence of own-being (niḥsvabhāvatā).”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical reasoning: aparā is feminine nominative singular and agrees with niḥsvabhāvatā. The ending -tā is the regular abstract-forming suffix, giving “-ness/absence,” while an independent word tā would leave aparā without a coherent head noun."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "The first is without own-being (niḥsvabhāva)\nprecisely by its defining mark (lakṣaṇa);\nthe other, again: “this has no self-arising (svayaṃbhāva)”—\nthat is another absence of own-being (niḥsvabhāvatā).",
+ "one_shot_delta": [
+  "A dictionary-only rendering could wrongly take niḥsvabhāvaḥ as the MW masculine noun “poverty/lack of property” rather than as the predicate adjective “without svabhāva/own-being.”",
+  "A tagger-led rendering could split niḥsvabhāvatā into niḥsvabhāva + tā and produce an impossible separate “tā,” instead of the abstract noun in -tā.",
+  "A commentary-blind reading cannot securely identify from this verse alone which doctrinally enumerated “first” and “other” natures are meant; the translation therefore keeps “the first” and “the other/latter” rather than naming them.",
+  "The form svayaṃbhāvaḥ is easily blurred with svabhāvaḥ; the translation preserves the svayam element by rendering it “self-arising/self-being.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented niḥsvabhāva_tā and analyzed tā as an independent feminine nominative singular item. I treat niḥsvabhāvatā as one abstract feminine nominative singular noun formed with the -tā suffix; aparā agrees with this single noun, and an independent tā does not fit the syntax here.",
+  "ByT5 gives svayambhāva as lemma. I normalize lemma and surface to the supplied bhāṣya-reading orthography svayaṃbhāva; this is an orthographic normalization, not a different case/number/gender analysis.",
+  "ByT5’s segmentation gives punar. Since the verse has pāda-final punaḥ, I record surface and surface_in_sandhi as punaḥ while retaining punar as the lemma."
+ ],
+ "open_questions": [
+  "Without commentary, the precise doctrinal antecedents of prathamaḥ and aparaḥ remain underdetermined by the verse alone.",
+  "The exact technical nuance of svayaṃbhāva—whether best rendered “self-arising,” “self-production,” or more generally “self-being”—cannot be fixed by grammar and the supplied dictionary alone."
+ ],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3971,
+   "completion_tokens": 11664,
+   "reasoning_tokens": 8833
+  },
+  "est_cost": 0.1869,
+  "retrieval": {
+   "anchor": [
+    1400,
+    1401
+   ],
+   "span": [
+    1403,
+    1444
+   ],
+   "shared_with": 25,
+   "requotes": []
+  }
+ }
+}

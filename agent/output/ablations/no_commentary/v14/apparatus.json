@@ -1,0 +1,474 @@
+{
+ "verse": 14,
+ "analysis": [
+  {
+   "surface": "vikṣepaḥ",
+   "surface_in_sandhi": "vikṣepo",
+   "lemma": "vikṣepa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal vikṣepaḥ appears as vikṣepo before the following initial a- of asaṃprajanyam, with avagraha marking the elided a.",
+   "verification": {
+    "status": "pass",
+    "detail": "vikṣepa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asaṃprajanyam",
+   "surface_in_sandhi": "'saṃprajanyañ",
+   "lemma": "asaṃprajanya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na saṃprajanyam; saṃprajanyasyābhāvaḥ",
+    "members": [
+     "a",
+     "saṃprajanya"
+    ]
+   },
+   "note": "Added from the verse text against the tagger’s omission. Initial a is represented by avagraha after vikṣepo; final -m before ca is printed as palatal ñ in the bhāṣya reading.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asaṃprajanya as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction following asaṃprajanyam, not immediately following vikṣepaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kaukṛtyam",
+   "surface_in_sandhi": "kaukṛtyaṃ",
+   "lemma": "kaukṛtya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular in the enumerative list; formally identical with accusative singular, but no transitive verb governs it.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaukṛtya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "middham",
+   "surface_in_sandhi": "middham",
+   "lemma": "middha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular in the enumerative list.",
+   "verification": {
+    "status": "pass",
+    "detail": "middha Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "eva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle qualifying the immediately preceding middham in the printed sequence middham eva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction continuing the list.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vitarkaḥ",
+   "surface_in_sandhi": "vitarkaś",
+   "lemma": "vitarka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga before ca is printed as ś.",
+   "verification": {
+    "status": "pass",
+    "detail": "vitarka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vicāraḥ",
+   "surface_in_sandhi": "vicāraś",
+   "lemma": "vicāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga before ca is printed as ś.",
+   "verification": {
+    "status": "pass",
+    "detail": "vicāra Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "c",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "This ca is fused with following iti in cety: ca + iti gives ceti, and the following iti + upakleśāḥ produces the y before upakleśā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "ety",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Quotation/list-closing particle. Its printed segment is fused in cety upakleśā: ca iti upakleśāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "upakleśāḥ",
+   "surface_in_sandhi": "upakleśā",
+   "lemma": "upakleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative plural: ‘subsidiary afflictions’ or ‘lesser kleśas’. Final visarga is not printed before dvaye.",
+   "verification": {
+    "status": "pass",
+    "detail": "upakleśa Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "dvaye",
+   "surface_in_sandhi": "dvaye",
+   "lemma": "dvaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Following the analyzer: locative singular, substantivally ‘in the pair/twofold set’. The form is formally ambiguous with neuter nominative/accusative dual; that alternative remains open without commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "dvaya Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "dvidhā",
+   "surface_in_sandhi": "dvidhā",
+   "lemma": "dvidhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable: ‘in two ways’, ‘twofold’, ‘in two parts’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse’s sandhi vikṣepo 'saṃprajanyañ ca is analyzed as vikṣepaḥ + asaṃprajanyam + ca. The avagraha marks loss of the initial a- of asaṃprajanyam after vikṣepaḥ > vikṣepo; the final -m of asaṃprajanyam is printed as ñ before palatal ca.",
+   "options_considered": [
+    "Follow the tagger: vikṣepaḥ ca, omitting asaṃprajanyam",
+    "Restore asaṃprajanyam from the printed verse and construe ca after it"
+   ],
+   "chosen": "vikṣepaḥ asaṃprajanyam ca, not vikṣepaḥ ca with asaṃprajanyam omitted",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vikṣepo 'saṃprajanyañ ca",
+     "translation": "‘Distraction and non-clear awareness’—with ca following asaṃprajanyam."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The masculine items have nominative singular -aḥ, while the neuter items in -am are taken as nominative singular, not accusative, because the list is closed by iti and no finite transitive verb governs an accusative. Upakleśāḥ is nominative plural and supplies the classification.",
+   "options_considered": [
+    "Take neuter -am forms as accusatives governed by an implicit verb",
+    "Take all listed terms as nominatives in an iti-closed enumeration"
+   ],
+   "chosen": "The listed items are nominative terms, with upakleśāḥ as predicate nominative plural.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vikṣepo 'saṃprajanyañ ca kaukṛtyaṃ middham eva ca | vitarkaś ca vicāraś cety upakleśā",
+     "translation": "‘Distraction, non-clear awareness, remorse, torpor, supposition, and investigation—these are subsidiary afflictions.’"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The analyzer’s locative-singular analysis is grammatically possible for dvaye. Since upakleśāḥ is masculine nominative plural, dvaye does not agree with it; I therefore construe dvaye adverbially/substantivally, ‘in the pair/twofold set’. The form could also be neuter nominative/accusative dual ‘two pairs’, but this cannot be settled from grammar and dictionary alone.",
+   "options_considered": [
+    "dvaye = neuter locative singular, ‘in the pair/twofold set’",
+    "dvaye = neuter nominative/accusative dual, ‘two pairs’"
+   ],
+   "chosen": "dvaye as locative singular of neuter dvaya; dvidhā as indeclinable ‘twofold/in two ways’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "upakleśā dvaye dvidhā",
+     "translation": "‘subsidiary afflictions, in the pair/twofold set, twofold.’"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "These English equivalents follow the supplied dictionary senses where available: vikṣepa as scattering/dispersion, kaukṛtya as repentance, middha as sloth, vitarka as conjecture/supposition, vicāra as examination/investigation, and upakleśa as a lesser kleśa. Asaṃprajanya is analyzed by privative a- plus saṃprajanya.",
+   "options_considered": [
+    "Render terms by broad non-technical dictionary senses only",
+    "Use concise Buddhist-philosophical English while staying within the supplied lexical ranges"
+   ],
+   "chosen": "Lexical renderings: vikṣepa ‘distraction/dispersion’, asaṃprajanya ‘non-clear awareness’, kaukṛtya ‘remorse’, middha ‘torpor/sloth’, vitarka ‘supposition’, vicāra ‘investigation’, upakleśa ‘subsidiary affliction’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vikṣepo 'saṃprajanyañ ca kaukṛtyaṃ middham eva ca | vitarkaś ca vicāraś cety upakleśā",
+     "translation": "The list names mental factors classified as upakleśas."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The printed cety is best segmented as ca + iti before upakleśāḥ: ca iti first contracts to ceti, and the final i of iti forms y before the following u-. Thus iti marks the preceding series as a cited/enumerated set.",
+   "options_considered": [
+    "Treat cety as an unanalyzed single particle",
+    "Segment cety as ca + iti with external sandhi"
+   ],
+   "chosen": "cety = ca iti, with iti closing the list.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vicāraś cety upakleśā",
+     "translation": "‘and investigation—thus: subsidiary afflictions.’"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Distraction (vikṣepa), non-clear awareness (asaṃprajanya),\nremorse (kaukṛtya), and torpor (middha) too;\nsupposition (vitarka) and investigation (vicāra)—\nthese are subsidiary afflictions (upakleśa), twofold in the pair.",
+ "one_shot_delta": [
+  "Without commentary, the referent of dvaye remains uncertain: it may be read as locative singular ‘in the pair/twofold set’ or as neuter dual ‘two pairs’.",
+  "A commentary-blind translation may classify all six listed factors uniformly as upakleśas, although broader Yogācāra doctrinal context could require a more nuanced grouping.",
+  "The tagger-blind-to-text segmentation would miss asaṃprajanya entirely and incorrectly put ca immediately after vikṣepaḥ."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 segmentation omits asaṃprajanyam and instead gives vikṣepaḥ_ca; the verse text reads vikṣepo 'saṃprajanyañ ca, so I restore asaṃprajanyam and place ca after it.",
+  "The bhāṣya reading has asaṃprajanyañ ca rather than the vulgate asaṃprajanyaṃ ca; I analyze the pausal form as asaṃprajanyam with sandhi/orthographic ñ before ca.",
+  "For the fused cety, I segment the underlying words as ca + iti, assigning the printed fragments c and ety in surface_in_sandhi."
+ ],
+ "open_questions": [
+  "What exactly dvaye refers to is not decidable from the verse grammar and dictionary alone.",
+  "Whether kaukṛtya, middha, vitarka, and vicāra should be grouped separately from vikṣepa and asaṃprajanya requires contextual or commentarial evidence not available in this run.",
+  "The technical nuance of asaṃprajanya is inferred from privative morphology rather than supplied dictionary evidence."
+ ],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3681,
+   "completion_tokens": 13557,
+   "reasoning_tokens": 10380
+  },
+  "est_cost": 0.2144,
+  "retrieval": {
+   "anchor": [
+    777,
+    778
+   ],
+   "span": [
+    779,
+    1005
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

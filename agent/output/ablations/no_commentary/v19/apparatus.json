@@ -1,0 +1,379 @@
+{
+ "verse": 19,
+ "analysis": [
+  {
+   "surface": "karmaṇaḥ",
+   "surface_in_sandhi": "karmaṇo",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on vāsanāḥ: “impressions of action/karman.”",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vāsanāḥ",
+   "surface_in_sandhi": "vāsanā",
+   "lemma": "vāsanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Although printed as vāsanā by external sandhi before gr-, this is taken as vāsanāḥ, nominative plural, the subject of janayanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "vāsanā Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "grāhadvayavāsanayā",
+   "surface_in_sandhi": "grāhadvayavāsanayā",
+   "lemma": "grāhadvayavāsanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "grāhadvayasya vāsanā; grāhadvaya = grāhayoḥ dvayam",
+    "members": [
+     "grāha",
+     "dvaya",
+     "vāsanā"
+    ]
+   },
+   "note": "Instrumental governed by/accompanying saha: “together with the impression of the twofold grasping.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem grāhadvayavāsanā as Stri/Trtiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable meaning “with, together with,” construed with the instrumental grāhadvayavāsanayā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kṣīṇe",
+   "surface_in_sandhi": "kṣīṇe",
+   "lemma": "kṣīṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Participial adjective, masculine locative singular, agreeing with pūrvavipāke in a locative absolute: “when … has been exhausted.”",
+   "verification": {
+    "status": "pass",
+    "detail": "kṣīṇa Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "pūrvavipāke",
+   "surface_in_sandhi": "pūrvavipāke",
+   "lemma": "pūrvavipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "pūrvo vipākaḥ",
+    "members": [
+     "pūrva",
+     "vipāka"
+    ]
+   },
+   "note": "Locative singular in the locative absolute with kṣīṇe.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem pūrvavipāka as Pum/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anyam",
+   "surface_in_sandhi": "'nyaṃ",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular agreeing with vipākam; the bhāṣya reading supplied here is anyaṃ vipākam, not the vulgate anyad-vipākam/anyad vipākam.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vipākam",
+   "surface_in_sandhi": "vipākaṃ",
+   "lemma": "vipāka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular object/predicate complement with janayanti: “maturation, ripened result.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vipāka Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "janayanti",
+   "surface_in_sandhi": "janayanti",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "jan",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Causative present, 3rd plural active: “they generate/produce.”",
+   "verification": {
+    "status": "pass",
+    "detail": "jan Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter accusative singular pronoun. Grammatically it is not an adjective agreeing with masculine vipākam; it is best taken as a separate object, with anyaṃ vipākam as predicative accusative: “generate that as another maturation.” The exact antecedent requires broader context.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The printed/sandhi form vāsanā is read as underlying vāsanāḥ, not as nominative singular vāsanā, because the finite verb janayanti is plural.",
+   "options_considered": [
+    "vāsanā as nominative singular feminine",
+    "vāsanāḥ as nominative plural feminine"
+   ],
+   "chosen": "vāsanāḥ as nominative plural subject of janayanti",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vāsanā ... janayanti",
+     "translation": "“impressions … generate”; the plural verb points to a plural subject."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "saha is construed with the instrumental singular grāhadvayavāsanayā. The compound is read as a genitive tatpuruṣa: the vāsanā belonging to grāhadvaya.",
+   "options_considered": [
+    "instrumental of accompaniment with saha",
+    "instrumental of means without saha as governing element",
+    "compound as merely adjectival karmadhāraya"
+   ],
+   "chosen": "grāhadvayavāsanayā saha = “together with the impression of the twofold grasping”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "grāhadvayavāsanayā saha",
+     "translation": "“together with the impression of the twofold grasping.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Both kṣīṇe and pūrvavipāke are masculine/neuter-form locative singulars; with vipāka treated lexically as masculine, kṣīṇe agrees with pūrvavipāke and forms a temporal locative absolute: “when the former maturation has been exhausted.”",
+   "options_considered": [
+    "locative absolute",
+    "simple locative object/location",
+    "locative governed by a preposition understood"
+   ],
+   "chosen": "kṣīṇe pūrvavipāke as locative absolute",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "kṣīṇe pūrvavipāke",
+     "translation": "“when the former maturation/result has been exhausted.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The supplied bhāṣya reading has anyaṃ vipākam. Since vipāka is masculine in the dictionary and in the analyzer output, anyaṃ is read as masculine accusative singular agreeing with vipākam.",
+   "options_considered": [
+    "anyaṃ vipākam, adjective plus masculine accusative noun",
+    "anyad vipākam as a neuter adjective before vipākam",
+    "anyad-vipākam as a compound"
+   ],
+   "chosen": "anyaṃ vipākam as masculine accusative phrase",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "'nyaṃ vipākaṃ",
+     "translation": "“another maturation.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "tat is analyzed as neuter accusative singular of tad. Because vipākam is masculine, tat cannot simply be an agreeing adjective of vipākam. A grammatical construal is: janayanti tat anyaṃ vipākam, “they generate that as another maturation,” with anyaṃ vipākam functioning predicatively/appositionally.",
+   "options_considered": [
+    "tat as neuter accusative pronoun with anyaṃ vipākam as predicative accusative",
+    "tat as an indeclinable/adverbial particle meaning roughly “then/therefore”",
+    "tat as an adjective agreeing with vipākam"
+   ],
+   "chosen": "tat as a separate neuter accusative pronoun",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "'nyaṃ vipākaṃ janayanti tat",
+     "translation": "“they generate that as another maturation.”"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Impressions (vāsanāḥ) of action (karman),\ntogether with the impression of the twofold grasping (grāha-dvaya),\nwhen the former maturation (vipāka) has been exhausted,\ngenerate that as another maturation.",
+ "one_shot_delta": [
+  "A parser may take the printed vāsanā as singular and miss that the plural verb janayanti requires underlying vāsanāḥ.",
+  "The vulgate-like anyad-vipākam reading would encourage a neuter or compound analysis; the supplied bhāṣya reading supports anyaṃ vipākam as a masculine accusative phrase.",
+  "The final tat is easy either to omit in translation or to force into agreement with vipākam; grammatically it is better treated as a separate neuter accusative pronoun, though its antecedent needs wider context."
+ ],
+ "analyzer_disagreements": [
+  "vāsanā: ByT5 local_SLM gives vāsanā_SNF, i.e. nominative singular feminine. I override to vāsanāḥ, nominative plural feminine, because vāsanāḥ before gr- can appear as vāsanā by external sandhi and because janayanti is 3rd plural.",
+  "kṣīṇe: ByT5 lemmatizes the form as kṣi. For the required nominal analysis I give the inflected participial/adjectival stem kṣīṇa, masculine locative singular, agreeing with pūrvavipāke."
+ ],
+ "open_questions": [
+  "Without commentary or the preceding verse supplied in this run, the exact antecedent of tat cannot be fixed with certainty from this verse alone.",
+  "The technical identity of grāhadvaya—e.g. which two graspings are intended—can be inferred lexically as “twofold grasping,” but not specified further without commentary."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4302,
+   "completion_tokens": 9628,
+   "reasoning_tokens": 7166
+  },
+  "est_cost": 0.1573,
+  "retrieval": {
+   "anchor": [
+    1157,
+    1158
+   ],
+   "span": [
+    1160,
+    1293
+   ],
+   "shared_with": null,
+   "requotes": [
+    [
+     1450,
+     1450
+    ]
+   ]
+  }
+ }
+}

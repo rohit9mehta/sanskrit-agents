@@ -1,0 +1,517 @@
+{
+ "verse": 17,
+ "analysis": [
+  {
+   "surface": "vijñānapariṇāmaḥ",
+   "surface_in_sandhi": "vijñānapariṇāmo",
+   "lemma": "vijñānapariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vijñānasya pariṇāmaḥ",
+    "members": [
+     "vijñāna",
+     "pariṇāma"
+    ]
+   },
+   "note": "The compound denotes the immediately preceding threefold consciousness-transformation.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñānapariṇāma as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Deictic pronoun agreeing with vijñānapariṇāmaḥ/vikalpaḥ; initial a is elided after -o, marked by avagraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpaḥ",
+   "surface_in_sandhi": "vikalpo",
+   "lemma": "vikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: ‘conceptual construction/imagination,’ as glossed by the bhāṣya, not merely ‘alternative/option.’",
+   "verification": {
+    "status": "pass",
+    "detail": "vikalpa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yad",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun, nominative subject of the passive vikalpyate; its referent is the imagined vastu enumerated in the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpyate",
+   "surface_in_sandhi": "vikalpyate",
+   "lemma": "kḷp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "kḷp",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive: ‘is imagined/conceptually constructed.’",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-kḷp Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tena",
+   "surface_in_sandhi": "tena",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental referring to vikalpena: ‘by it,’ i.e. by the threefold vikalpa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tan",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yat and subject of nāsti: ‘that [imagined object]’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negator; in sandhi with asti as nāsti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asti",
+   "surface_in_sandhi": "sti",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Existential verb; in sandhi with na as nāsti.",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tena",
+   "surface_in_sandhi": "tene",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial/causal instrumental, explicitly glossed tasmāt by Sthiramati: ‘therefore.’ In external sandhi with idam as tenedaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "daṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject-demonstrative in ‘all this’; initial i is absorbed in sandhi after tena.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvam",
+   "surface_in_sandhi": "sarvaṃ",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Appositional/adjectival to idam; the bhāṣya glosses its scope as the three realms and the unconditioned.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijñāptimātrakam",
+   "surface_in_sandhi": "vijñāptimātrakam",
+   "lemma": "vijñāptimātraka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "vijñaptir eva mātrakam, tadadhikaviṣayasya vyavacchedaḥ",
+    "members": [
+     "vijñāpti",
+     "mātraka"
+    ]
+   },
+   "note": "Predicate nominative. The -ka is metrical according to the bhāṣya; mātra excludes any object-domain over and above vijñapti.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñāptimātraka as Napumsaka/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "vijñānapariṇāmo 'yam is not a generic ‘change of knowledge’; Sthiramati identifies it with the threefold transformation just taught.",
+   "options_considered": [
+    "a generic transformation/evolution of consciousness",
+    "the threefold consciousness-transformation just taught"
+   ],
+   "chosen": "‘This transformation of consciousness’ is the immediately preceding threefold vijñānapariṇāma, and it is predicated as vikalpa.",
+   "evidence": [
+    {
+     "lines": [
+      1096
+     ],
+     "quote": "yo 'yaṃ vijñānapariṇāmas trividho 'nantaram abhihitaḥ so 'yaṃ vikalpaḥ",
+     "translation": "‘This threefold transformation of consciousness that was just stated is this vikalpa.’"
+    },
+    {
+     "lines": [
+      1100
+     ],
+     "quote": "tena trividhena vikalpenālayavijñānakliṣṭamanaḥpravṛttivijñānasvabhāvena",
+     "translation": "‘By that threefold vikalpa, whose nature is storehouse-consciousness, afflicted mind, and active consciousness …’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The commentary defines vikalpa through adhyāropa and identifies it with abhūtaparikalpa, the false construction constituted by three-realm cittas and caittas.",
+   "options_considered": [
+    "option/alternative",
+    "conceptual construction or false imagination"
+   ],
+   "chosen": "vikalpa is ‘conceptual construction/imagination’ bearing superimposed object-aspects, not ‘option’ or ‘alternative.’",
+   "evidence": [
+    {
+     "lines": [
+      1097,
+      1098,
+      1099
+     ],
+     "quote": "adhyāropitārthākārās traidhātukāś cittacaittā vikalpa ucyate\nyathoktam\nabhūtaparikalpas tu cittacaittās tridhātukā iti",
+     "translation": "‘The cittas and caittas belonging to the three realms, having the aspects of superimposed objects, are called vikalpa; as it has been said: “False construction consists of cittas and caittas of the three realms.”’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "tena is construed instrumentally with vikalpyate, not as the causal ‘therefore’; the relative yad is filled out by Sthiramati as bhājana, ātman, skandhas, dhātus, āyatanas, rūpa, śabda, etc.",
+   "options_considered": [
+    "first tena = ‘therefore’",
+    "first tena = instrumental ‘by that vikalpa’"
+   ],
+   "chosen": "The first tena means ‘by it,’ i.e. by the threefold vikalpa; yad/tat refers to the imagined object (vastu).",
+   "evidence": [
+    {
+     "lines": [
+      1100,
+      1101,
+      1102
+     ],
+     "quote": "tena trividhena vikalpenālayavijñānakliṣṭamanaḥpravṛttivijñānasvabhāvena\nsasaṃprayogeṇa yad vikalpyate bhājanam ātmāskandhadhātvāyatanarūpaśabdādikaṃ\nvastu tan nāstīty ataḥ sa vijñānapariṇāmo vikalpa ucyate",
+     "translation": "‘By that threefold vikalpa, whose nature is storehouse-consciousness, afflicted mind, and active consciousness, together with its associates, whatever object is imagined—receptacle-world, self, aggregates, elements, sense-bases, form, sound, and so on—that object does not exist; therefore that transformation of consciousness is called vikalpa.’"
+    },
+    {
+     "lines": [
+      1125,
+      1126
+     ],
+     "quote": "yasmāt pariṇāmātmakena vikalpena yad vikalpyate tena tan\nnāsti tasmād viṣayābhāvāt sarvaṃ vijñaptimātrakam",
+     "translation": "‘Because what is imagined by the vikalpa whose nature is transformation—by it, that does not exist; therefore, because of the absence of an object-domain, everything is representation-only.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Sthiramati argues for non-existent objects as supports: cognition can arise in illusion, dream, eye-disease, etc.; it arises from a prior same-kind consciousness, not from an external object. Thus the non-existence is targeted at the superimposed object.",
+   "options_considered": [
+    "a blanket nihilistic denial of consciousness and phenomena",
+    "denial of the superimposed imagined object as object/support"
+   ],
+   "chosen": "tan nāsti denies the existence of the imagined object/ālambana/viṣaya, not the occurrence of consciousness itself.",
+   "evidence": [
+    {
+     "lines": [
+      1103
+     ],
+     "quote": "asadālambanatvāt",
+     "translation": "‘Because it has a non-existent object/support.’"
+    },
+    {
+     "lines": [
+      1108,
+      1109,
+      1110,
+      1111,
+      1112,
+      1113,
+      1114
+     ],
+     "quote": "māyāgandharvanagarasvapnatimirādāv asaty apyālambane jāyate\nyadi ca\nvijñānasyālambanapratibaddha utpādaḥ syād evaṃ sati māyādiṣv arthābhāvān na\nvijñānam utpadyate\ntasmāt pūrvakān niruddhāt tajjātīyavijñānād vijñānam utpadyate\nna bāhyād\narthāt tasminn asaty api bhāvāt",
+     "translation": "‘Consciousness arises in illusion, a gandharva-city, dream, eye-disease, and the like, even when the object/support is unreal. If the arising of consciousness were bound to an object-support, then in illusions and the like, because there is no object, consciousness would not arise. Therefore consciousness arises from a preceding, ceased consciousness of the same kind, not from an external object, since it exists even when that is absent.’"
+    },
+    {
+     "lines": [
+      1119,
+      1120
+     ],
+     "quote": "tasmād adhyāropitarūpatvād vikalpasyālambanam asad iti\npratipattavyam",
+     "translation": "‘Therefore, because it has the nature of superimposition, the object/support of vikalpa is to be understood as non-existent.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Sthiramati explicitly glosses tena as tasmāt and frames the sentence as avoiding the nihilistic extreme after rejecting superimposition.",
+   "options_considered": [
+    "second tena = instrumental ‘by that’",
+    "second tena = causal ‘therefore’"
+   ],
+   "chosen": "The second tena, in tenedaṃ, means ‘therefore’ (= tasmāt), leading to vijñaptimātrakam because the object-domain is absent.",
+   "evidence": [
+    {
+     "lines": [
+      1121,
+      1122,
+      1123,
+      1124,
+      1125,
+      1126
+     ],
+     "quote": "anena tāvat samāropāntaṃ parihṛtyāpavādāntaparijihīrṣayā āha\ntenedaṃ sarvaṃ vijñāptimātrakam\niti\nteneti tasmāt\nyasmāt pariṇāmātmakena vikalpena yad vikalpyate tena tan\nnāsti tasmād viṣayābhāvāt sarvaṃ vijñaptimātrakam",
+     "translation": "‘By this, having first rejected the extreme of superimposition, and wishing to avoid the extreme of denial, he says: “Therefore all this is representation-only.” Here tena means “therefore.” Because what is imagined by the vikalpa whose nature is transformation—by it, that does not exist; therefore, because of the absence of an object-domain, everything is representation-only.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The scope of ‘all’ and the force of mātrakam are fixed by explicit glosses: sarvam = traidhātukam plus asaṃskṛtam; mātra excludes what is over and above that, while ka fills the pāda.",
+   "options_considered": [
+    "sarvam only as ordinary conditioned things",
+    "sarvam as the three realms and the unconditioned",
+    "mātrakam as ‘a little measure’",
+    "mātra as ‘only,’ with -ka metrical"
+   ],
+   "chosen": "sarvam includes the three realms and the unconditioned; mātra means ‘only’ by excluding any additional object-domain, and -ka is only metrical.",
+   "evidence": [
+    {
+     "lines": [
+      1127,
+      1128,
+      1129,
+      1130,
+      1131
+     ],
+     "quote": "sarvam iti traidhātukam\nasaṃskṛtañ ca\nmātraśabdas tadadhikaviṣayavyavacchedārthaḥ\nkakāraḥ\npādapūraṇārthaḥ",
+     "translation": "‘“All” means the three realms and the unconditioned. The word mātra serves to exclude an object-domain over and above that. The syllable ka is for filling out the pāda.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "This transformation of consciousness (vijñānapariṇāma) is conceptual construction (vikalpa):\nwhatever object is imagined by it—that is not there.\nTherefore all this is representation-only (vijñaptimātraka),\n‘all’ meaning the three realms and the unconditioned.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take vikalpa in its common lexical sense ‘option/alternative’; Sthiramati instead defines it as false conceptual construction with superimposed object-aspects.",
+  "It might translate both occurrences of tena the same way. The bhāṣya makes the first instrumental (‘by the threefold vikalpa’) and the second causal (‘therefore’ = tasmāt).",
+  "It might read tan nāsti as simple nihilism. Sthiramati restricts the denial to the imagined object/support and then explicitly frames vijñaptimātra as avoiding the extreme of denial.",
+  "It might leave sarvam vague or restrict it to conditioned three-realm experience; the commentary includes both the three realms and the unconditioned.",
+  "It might treat -mātrakam as a substantive ‘measure’ or make -ka meaningful; Sthiramati says mātra excludes an additional object-domain and ka is only pādapūraṇa."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 lemmatizes vikalpyate as vikalpay; I analyze it as Karmani Lat 3 sg of vi-√kḷp, since the form is passive and the commentary construes yad vikalpyate as a passively imagined vastu (trbh 1101–1102).",
+  "ByT5 prints the compound members vijñāna + pariṇāmaḥ and vijñāpti + mātrakam separately; per the required format I give the inflected compounds under the whole stems vijñānapariṇāma and vijñāptimātraka.",
+  "ByT5 leaves the two occurrences of tena undifferentiated; the commentary distinguishes the first as instrumental ‘by the threefold vikalpa’ (trbh 1100–1101) and the second as causal ‘therefore’ = tasmāt (trbh 1124–1126)."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 6094,
+   "completion_tokens": 12152,
+   "reasoning_tokens": 8191
+  },
+  "est_cost": 0.2006,
+  "retrieval": {
+   "anchor": [
+    1093,
+    1094
+   ],
+   "span": [
+    1096,
+    1131
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

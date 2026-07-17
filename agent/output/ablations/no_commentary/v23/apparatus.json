@@ -1,0 +1,346 @@
+{
+ "verse": 23,
+ "analysis": [
+  {
+   "surface": "trividhasya",
+   "surface_in_sandhi": "trividhasya",
+   "lemma": "trividha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "trayo vidhāḥ yasya saḥ",
+    "members": [
+     "tri",
+     "vidha"
+    ]
+   },
+   "note": "Adjectival genitive singular agreeing with svabhāvasya: “of the threefold ...”.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem trividha as Pum/Sasthi/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "svabhāvasya",
+   "surface_in_sandhi": "svabhāvasya",
+   "lemma": "svabhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svasya bhāvaḥ",
+    "members": [
+     "sva",
+     "bhāva"
+    ]
+   },
+   "note": "Genitive singular governed semantically by niḥsvabhāvatām: the threefold absence-of-nature is “of the threefold nature.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svabhāva as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "trividhām",
+   "surface_in_sandhi": "trividhāṃ",
+   "lemma": "trividha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "trayo vidhāḥ yasyāḥ sā",
+    "members": [
+     "tri",
+     "vidha"
+    ]
+   },
+   "note": "Feminine accusative singular agreeing with niḥsvabhāvatām.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem trividha as Stri/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvatām",
+   "surface_in_sandhi": "niḥsvabhāvatām",
+   "lemma": "niḥsvabhāvatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Abstract feminine noun in -tā from niḥsvabhāva, “state/condition of being without svabhāva”; accusative object of sandhāya.",
+   "verification": {
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "sandhāya",
+   "surface_in_sandhi": "sandhāya",
+   "lemma": "dhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "dhā",
+    "prefixes": [
+     "sam"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive/gerund: saṃ-√dhā + -ya, here construed with the accusative niḥsvabhāvatām: “having in view / with reference to.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sarvadharmāṇām",
+   "surface_in_sandhi": "sarvadharmāṇāṃ",
+   "lemma": "sarvadharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "sarve dharmāḥ",
+    "members": [
+     "sarva",
+     "dharma"
+    ]
+   },
+   "note": "Genitive plural compound dependent on niḥsvabhāvatā: “of all dharmas.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvadharma as Pum/Sasthi/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "deśitā",
+   "surface_in_sandhi": "deśitā",
+   "lemma": "deśita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective, feminine nominative singular, agreeing with niḥsvabhāvatā: “taught/pointed out.”",
+   "verification": {
+    "status": "pass",
+    "detail": "deśita Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvatā",
+   "surface_in_sandhi": "niḥsvabhāvatā",
+   "lemma": "niḥsvabhāvatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative singular subject of deśitā: “absence of nature / selflessness.”",
+   "verification": {
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "trividhasya is an adjective in the genitive singular agreeing with masculine svabhāvasya, not a separate substantive genitive. The phrase supplies the genitive complement to trividhām niḥsvabhāvatām.",
+   "options_considered": [
+    "take trividhasya substantively: “of the threefold one”",
+    "take trividhasya adjectivally with svabhāvasya: “of the threefold nature”"
+   ],
+   "chosen": "trividhasya svabhāvasya = “of the threefold nature”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. trividha: “mfn. of 3 kinds, triple, threefold”; MW s.v. svabhāva: “own condition or state of being ... nature.”",
+     "translation": "Lexically and morphologically, the phrase is “of the threefold nature.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "trividhām and niḥsvabhāvatām are both feminine accusative singular, so trividhām modifies niḥsvabhāvatām. niḥsvabhāvatām is best analyzed as the accusative singular of abstract niḥsvabhāvatā, not as niḥsvabhāva plus an independent tām.",
+   "options_considered": [
+    "niḥsvabhāva + tām as a compound or pronoun-like sequence",
+    "niḥsvabhāvatā as one abstract feminine noun in -tā"
+   ],
+   "chosen": "trividhāṃ niḥsvabhāvatām = “the threefold absence of nature”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. niḥsvabhāva: “mfn. ... void of peculiarities”; Sanskrit -tā forms feminine abstract nouns, with acc. sg. -tām and nom. sg. -tā.",
+     "translation": "The form means “absence/state of being without svabhāva,” and trividhām makes that absence threefold."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The absolutive sandhāya is construed with the accusative trividhāṃ niḥsvabhāvatām. In this abstract context, a literal physical “joining” is less apt than “holding/fixing in view,” hence “having in view” or “with reference to.”",
+   "options_considered": [
+    "literal physical “having joined”",
+    "contextual abstract “having in view / with reference to”"
+   ],
+   "chosen": "sandhāya = “having in view / with reference to”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. saṃ-√dhā: “to place or hold or put or draw or join or fasten or fix ... unite.”",
+     "translation": "The core sense “hold/fix” supports the contextual rendering “having in view.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "sarvadharmāṇām is genitive plural and most naturally supplies the possessor/objective genitive for the nominative niḥsvabhāvatā: “the absence of nature of all dharmas.”",
+   "options_considered": [
+    "take sarvadharmāṇām with deśitā as an indirect genitive of agent or audience",
+    "take sarvadharmāṇām as the genitive complement of niḥsvabhāvatā"
+   ],
+   "chosen": "sarvadharmāṇāṃ depends on niḥsvabhāvatā",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. sarva: “all, every”; MW s.v. dharma: “that which is established or firm ... law ... duty.”",
+     "translation": "The compound sarvadharma is “all dharmas,” and the genitive plural gives “of all dharmas.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "deśitā is feminine nominative singular and agrees with niḥsvabhāvatā, the nominative subject. As a past passive participial predicate, it yields “has been taught / was taught.”",
+   "options_considered": [
+    "take deśitā as modifying an omitted feminine noun",
+    "take deśitā predicatively with niḥsvabhāvatā as its subject"
+   ],
+   "chosen": "deśitā niḥsvabhāvatā = “the absence of nature has been taught”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "The endings -ā ... -tā are feminine nominative singular in deśitā niḥsvabhāvatā; the participial form deśita- functions adjectivally as “taught/pointed out.”",
+     "translation": "The predicate construction is “the absence of nature was taught.”"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Having in view the threefold absence of nature (niḥsvabhāvatā)\nof the threefold nature (svabhāva),\nthe absence of nature of all dharmas\nhas been taught.",
+ "one_shot_delta": [
+  "A grammar-only or analyzer-led reading could wrongly split niḥsvabhāvatām/niḥsvabhāvatā into niḥsvabhāva + tām/tā instead of recognizing the abstract noun niḥsvabhāvatā.",
+  "It could translate sandhāya too literally as “having joined,” whereas the abstract accusative favors “having in view / with reference to.”",
+  "It could fail to keep the two “threefold” expressions aligned: trividhasya qualifies svabhāvasya, while trividhām qualifies niḥsvabhāvatām.",
+  "Without commentary, the verse itself does not identify which three natures or which three absences of nature are meant; the translation therefore remains generic.",
+  "It could render dharmāṇām as “laws/duties” from a general dictionary sense; preserving “dharmas” avoids over-specifying the technical sense without commentary."
+ ],
+ "analyzer_disagreements": [
+  "The analyzer splits niḥsvabhāvatām and niḥsvabhāvatā as niḥsvabhāva_Cp + tām/tā. I instead analyze each as the single abstract feminine noun-stem niḥsvabhāvatā, because -tā here is the regular abstract-forming suffix, not an independent noun/pronoun.",
+  "The analyzer gives sandhāya with lemma saṃdhā. I normalize this to bare root √dhā with prefix sam, per the requested format for verbal derivation, while retaining its indeclinable absolutive function.",
+  "The analyzer treats sarvadharmāṇām by segmenting sarva_Cp + dharmāṇām. I record the inflected nominal stem as the whole compound sarvadharma, as requested for inflected compounds.",
+  "The analyzer leaves trividha unsplit. I add a compound analysis tri + vidha, taking the lexical adjective “threefold” as a bahuvrīhi-type formation; this does not change its inflectional analysis."
+ ],
+ "open_questions": [
+  "The verse alone does not specify the members of the “threefold nature” or the “threefold absence of nature.”",
+  "The exact doctrinal scope of niḥsvabhāvatā cannot be fixed from the supplied grammar and dictionary alone.",
+  "The agent of deśitā, presumably an authoritative teacher, is not expressed in the verse."
+ ],
+ "verification_summary": {
+  "pass": 8,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3189,
+   "completion_tokens": 9827,
+   "reasoning_tokens": 7158
+  },
+  "est_cost": 0.157,
+  "retrieval": {
+   "anchor": [
+    1389,
+    1390
+   ],
+   "span": [
+    1391,
+    1397
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

@@ -1,0 +1,445 @@
+{
+ "verse": 28,
+ "analysis": [
+  {
+   "surface": "yadā",
+   "surface_in_sandhi": "yadā",
+   "lemma": "yadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Temporal correlative with tadā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tv",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Particle; tu + ālambanam gives tv ālambanaṃ by external sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ālambanam",
+   "surface_in_sandhi": "ālambanaṃ",
+   "lemma": "ālambana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object of upalabhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "ālambana Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "jñānam",
+   "surface_in_sandhi": "jñānaṃ",
+   "lemma": "jñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular, construed as the subject of upalabhate and the referent of sthitam.",
+   "verification": {
+    "status": "pass",
+    "detail": "jñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "naivopalabhate",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Part of the fused printed cluster naivopalabhate: na + eva + upalabhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "naivopalabhate",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Strengthens the negation; fused in naivopalabhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "upalabhate",
+   "surface_in_sandhi": "naivopalabhate",
+   "lemma": "labh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "labh",
+    "prefixes": [
+     "upa"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada present, kartari/deponent sense: ‘perceives, apprehends’; fused in naivopalabhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "upa-labh Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tadā",
+   "surface_in_sandhi": "tadā",
+   "lemma": "tadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative of yadā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sthitam",
+   "surface_in_sandhi": "sthitaṃ",
+   "lemma": "sthita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle used predicatively with jñānam: ‘established, standing’.",
+   "verification": {
+    "status": "pass",
+    "detail": "sthita Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijñaptimātratve",
+   "surface_in_sandhi": "vijñaptimātratve",
+   "lemma": "vijñaptimātratva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "vijñaptir eva mātram; tasya bhāvaḥ vijñaptimātratvam",
+    "members": [
+     "vijñapti",
+     "mātra"
+    ]
+   },
+   "note": "Locative of the abstract -tva formation from vijñapti-mātra; construed with sthitam, ‘established in ...’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñaptimātratva as Napumsaka/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "grāhyābhābhāve",
+   "surface_in_sandhi": "grāhyābhābhāve",
+   "lemma": "grāhyābhābhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "grāhyasya ābhā; tasyāḥ abhāvaḥ",
+    "members": [
+     "grāhya",
+     "ābhā",
+     "abhāva"
+    ]
+   },
+   "note": "Locative singular of a nested compound: ‘in the absence of an appearance of the graspable/object’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem grāhyābhābhāva as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tadagrahāt",
+   "surface_in_sandhi": "tadagrahāt",
+   "lemma": "tadagraha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tasya agrahaḥ",
+    "members": [
+     "tad",
+     "agraha"
+    ]
+   },
+   "note": "Ablative of cause: ‘because of non-grasping of that’. The antecedent of tad is left as the verse’s ‘that’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tadagraha as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "yadā and tadā are read as a matched temporal pair, with tu as an intervening contrastive particle.",
+   "options_considered": [
+    "yadā ... tadā as a temporal-correlative pair",
+    "a looser conditional ‘if ... then’ without temporal force"
+   ],
+   "chosen": "Temporal-correlative construal: ‘when ... then ...’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. yadā: ‘when, at what time, whenever (generally followed by the correlatives tadā...)’; MW s.v. tadā: ‘at that time, then ... correlative of yadā’.",
+     "translation": "The grammar and lexicon support a ‘when ... then’ construction."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The clause is construed as ‘cognition does not apprehend an object-support’, not as ‘it does not apprehend knowledge’ or as a compound-like phrase.",
+   "options_considered": [
+    "jñānam as nominative subject and ālambanam as object",
+    "jñānam as accusative object",
+    "ālambanaṃ jñānaṃ as a quasi-compound phrase ‘object-supported cognition’"
+   ],
+   "chosen": "jñānam is the nominative subject; ālambanam is the accusative object.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. upa-√labh: ‘to perceive, behold ... understand, learn, know’; MW s.v. ālambana: ‘depending on or resting upon ... supporting’; MW s.v. jñāna: ‘knowing ... knowledge’.",
+     "translation": "upalabhate is semantically transitive; ālambanam is the natural object, while jñānam is the neuter nominative subject and is resumed by sthitam."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "eva strengthens na rather than adding a separate assertion such as ‘indeed’.",
+   "options_considered": [
+    "emphatic negative ‘not at all’",
+    "separate adverbial ‘indeed’ with weak connection to na"
+   ],
+   "chosen": "na eva is rendered as emphatic negation, ‘does not ... at all’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. na: ‘not, no’; MW s.v. eva: ‘strengthening the idea expressed by any word ... just, exactly, only, even, alone, merely’.",
+     "translation": "In the fused form naivopalabhate, eva intensifies the negative predication."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The word is parsed as locative singular of vijñapti-mātra-tva, not normalized to the vulgate vijñāna-mātratve.",
+   "options_considered": [
+    "vijñapti-mātra-tva, ‘representation-only-ness’",
+    "vijñāna-mātra-tva, ‘consciousness-only-ness’, following the vulgate variant",
+    "a nontechnical ‘mere information-ness’"
+   ],
+   "chosen": "vijñaptimātratve means ‘in representation-only-ness’ / ‘in the state of mere vijñapti’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "The supplied bhāṣya reading has vijñaptimātratve; MW s.v. vijñapti: ‘information, report ...’; MW s.v. mātra: ‘ifc. measure, quantity’; -tva forms an abstract state.",
+     "translation": "Grammatically this is the state or condition of being ‘vijñapti-mātra’. In Yogācāra context I render vijñapti as ‘representation’ while retaining the Sanskrit."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The bhāṣya reading is parsed as grāhya-ābhā-abhāva, a nested tatpuruṣa, rather than as simple grāhyābhāva ‘absence of the graspable’.",
+   "options_considered": [
+    "grāhyasya ābhāyāḥ abhāvaḥ, ‘absence of the graspable’s appearance’",
+    "grāhyasya abhāvaḥ, ‘absence of the graspable/object’, following the vulgate-style reading"
+   ],
+   "chosen": "grāhyābhābhāve is ‘in the absence of the appearance of the graspable/object’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "grāhya + ābhā + abhāve gives grāhyābhābhāve by internal sandhi; MW s.v. grāhya: ‘to be seized or taken’; MW s.v. ābhā: ‘splendour, light’; MW s.v. abhāva: ‘nonexistence, nullity, absence’.",
+     "translation": "The extra ābhā in the supplied reading makes the absent item an ‘appearance’ of the grāhya, not simply the grāhya itself."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "tadagrahāt is analysed as a tatpuruṣa tasya agrahaḥ in the ablative singular, giving the reason for sthitam vijñaptimātratve.",
+   "options_considered": [
+    "causal ablative ‘because of non-grasping of that’",
+    "literal spatial ablative ‘from that non-acceptance’",
+    "taking tad as a separate pronoun outside the compound"
+   ],
+   "chosen": "tadagrahāt is a causal ablative: ‘because of non-grasping of that’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "MW s.v. tad: ‘it, that’; MW s.v. agraha: ‘non-acceptance’; the ending -āt marks ablative singular.",
+     "translation": "The transparent compound and ablative case support a causal construal, ‘because of the non-grasping/non-apprehension of that’."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "When, however, cognition (jñāna)\ndoes not apprehend an object-support (ālambana) at all,\nthen it is established in representation-only-ness (vijñaptimātratva):\nfor, when the graspable-object appearance is absent,\nthere is non-grasping of that.",
+ "one_shot_delta": [
+  "A commentary-blind or variant-normalizing translation could easily replace the supplied bhāṣya reading vijñaptimātratve with the vulgate vijñānamātratve and thereby shift the technical term from vijñapti to vijñāna.",
+  "It could miss the extra ābhā in grāhyābhābhāve and translate merely ‘in the absence of the object’ rather than ‘in the absence of the object-appearance’.",
+  "It could take both ālambanam and jñānam as accusatives, yielding an awkward ‘does not apprehend object-support knowledge’, rather than taking jñānam as the subject and ālambanam as the object."
+ ],
+ "analyzer_disagreements": [
+  "jñānam: ByT5 gives jñāna_SANe, apparently accusative/neuter singular. I choose Prathama Eka because jñānam supplies the subject of upalabhate, while ālambanam is the accusative object; sthitam also agrees with jñānam as a predicate. If SANe was intended as nom./acc. ambiguity, this is a disambiguation rather than a substantive disagreement.",
+  "sthitam: ByT5 lemmatizes the form to √sthā. For the requested subanta analysis I give the inflected nominal stem sthita, Napumsaka Prathama Eka, while noting its derivation from √sthā.",
+  "upalabhate: ByT5 effectively treats upalabh as the lemma. Per instruction, I separate the bare root labh from the prefix upa.",
+  "vijñaptimātratve and tadagrahāt: ByT5 splits the compounds to final members tva and agraha. Per instruction, I give the whole inflected compound stems vijñaptimātratva and tadagraha."
+ ],
+ "open_questions": [
+  "No commentary span was supplied in this ablation run; the exact antecedent intended by tad in tadagrahāt cannot be fixed beyond the grammatical ‘that’.",
+  "The English rendering ‘representation’ for vijñapti is contextually Yogācāra, but the supplied MW entry alone would also allow more general renderings such as ‘notification’ or ‘information’."
+ ],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5703,
+   "completion_tokens": 13500,
+   "reasoning_tokens": 10239
+  },
+  "est_cost": 0.2196,
+  "retrieval": {
+   "anchor": [
+    1484,
+    1485
+   ],
+   "span": [
+    1486,
+    1496
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

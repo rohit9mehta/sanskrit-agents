@@ -1,0 +1,381 @@
+{
+ "verse": 26,
+ "analysis": [
+  {
+   "surface": "yāvat",
+   "surface_in_sandhi": "yāvad",
+   "lemma": "yāvat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative with tāvat; final -t is voiced to -d before v- in external sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñaptimātratve",
+   "surface_in_sandhi": "vijñaptimātratve",
+   "lemma": "vijñaptimātratva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "vijñaptir eva mātram; tasya bhāvaḥ vijñaptimātratvam",
+    "members": [
+     "vijñapti",
+     "mātra"
+    ]
+   },
+   "note": "Abstract -tva derivative from vijñaptimātra; the locative gives the sphere/standpoint: “in representation-only-ness.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñaptimātratva as Napumsaka/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vijñānam",
+   "surface_in_sandhi": "vijñānaṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The neuter nominative and accusative singular forms coincide; here it is construed as nominative subject of the intransitive avatiṣṭhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā-",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi: na + avatiṣṭhate → nāvatiṣṭhate; the hyphen marks a shared sandhi vowel.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "avatiṣṭhate",
+   "surface_in_sandhi": "-vatiṣṭhate",
+   "lemma": "sthā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "sthā",
+    "prefixes": [
+     "ava"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada 3rd singular present form; the schema has no separate pada field. The initial a- is coalesced with preceding na in the printed nāvatiṣṭhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "ava-sthā Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "grāhadvayasya",
+   "surface_in_sandhi": "grāhadvayasyā-",
+   "lemma": "grāhadvaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "grāhayoḥ dvayam",
+    "members": [
+     "grāha",
+     "dvaya"
+    ]
+   },
+   "note": "Genitive singular depending on anuśayaḥ; final -a coalesces with the initial a- of anuśayaḥ in the printed sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem grāhadvaya as Napumsaka/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anuśayaḥ",
+   "surface_in_sandhi": "-nuśayas",
+   "lemma": "anuśaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of vinivartate. The initial a- is included in the preceding shared ā; final visarga appears as -s before tāvat.",
+   "verification": {
+    "status": "pass",
+    "detail": "anuśaya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tāvat",
+   "surface_in_sandhi": "tāvan",
+   "lemma": "tāvat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative with yāvat; final -t assimilates to -n before na.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates vinivartate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vinivartate",
+   "surface_in_sandhi": "vinivartate",
+   "lemma": "vṛt",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vṛt",
+    "prefixes": [
+     "vi",
+     "ni"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada 3rd singular present, used intransitively: “turns back, ceases, disappears.” The schema has no separate pada field.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-ni-vṛt Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The two clauses are linked by the standard yāvat/tāvat correlation, not by two independent quantitative adjectives.",
+   "options_considered": [
+    "correlative adverbial construction: “as long as ... so long”",
+    "separate quantitative uses: “as much as ... so much”"
+   ],
+   "chosen": "yāvat ... tāvat as an adverbial correlative: “so long as ... so long.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "yāvad ... tāvan ...",
+     "translation": "The paired indeclinables frame the two finite clauses as “so long as ... so long.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The ending -tve is read as the locative singular of an abstract -tva stem built on vijñapti-mātra; mātra is not an independent measured quantity here.",
+   "options_considered": [
+    "abstract technical locative: “in representation-only-ness”",
+    "literal measure reading: “in the measure of a report/request”",
+    "analysis of tva as an independent lexical item rather than abstract suffix"
+   ],
+   "chosen": "vijñaptimātratve = locative singular of vijñaptimātratva, “in representation-only-ness.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vijñaptimātratve",
+     "translation": "The form is locative singular in -e of the neuter abstract stem vijñaptimātratva, “the state of being only vijñapti.”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Although vijñānam could formally be nominative or accusative, the intransitive finite verb makes it the subject. The bhāṣya reading supplied here has -te, so the analysis follows the middle form rather than the vulgate active -ti.",
+   "options_considered": [
+    "vijñānam as nominative subject of avatiṣṭhate",
+    "vijñānam as accusative object",
+    "following the variant active avatiṣṭhati instead of the supplied -te reading"
+   ],
+   "chosen": "vijñānam is the nominative subject; avatiṣṭhate is middle/intransitive “takes its stand, abides.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vijñānaṃ nāvatiṣṭhate",
+     "translation": "“Consciousness does not take its stand”; the negated middle present is intransitive."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The genitive compound depends on anuśayaḥ. Lexically grāha is taken in its “seizing/grasping” sense, and dvaya supplies the dyadic/twofold value.",
+   "options_considered": [
+    "tatpuruṣa: grāhayoḥ dvayam, “the dyad of grasping”",
+    "a non-philosophical reading of grāha as a water-animal/crocodile",
+    "an adjective-only reading, “two grasping things,” without genitive dependence on anuśayaḥ"
+   ],
+   "chosen": "grāhadvayasya is genitive singular of grāhadvaya, “of the twofold grasping / dyad of grasping.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "grāhadvayasyānuśayas",
+     "translation": "“The latent tendency of the twofold grasping”: -sya marks the genitive relation to anuśayaḥ."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The nominative singular anuśayaḥ agrees syntactically with the 3rd singular middle verb vinivartate; the second na negates the cessation/reversal of that latent tendency.",
+   "options_considered": [
+    "intransitive Kartari: “does not cease/turn back”",
+    "passive-like rendering: “is not turned back”",
+    "causative sense: “does not cause to turn back”"
+   ],
+   "chosen": "anuśayaḥ is the subject of vinivartate; vinivartate means “ceases / turns back” intransitively.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "anuśayas tāvan na vinivartate",
+     "translation": "“So long the latent tendency does not cease / turn back.”"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "So long as consciousness (vijñāna) does not take its stand\nin representation-only-ness (vijñaptimātratva),\nso long the latent tendency (anuśaya)\nof the twofold grasping (grāhadvaya) does not cease.",
+ "one_shot_delta": [
+  "A commentary-blind or dictionary-only rendering could miss the yāvat/tāvat frame and translate the two clauses as unrelated quantities rather than “so long as ... so long.”",
+  "It could take vijñapti and mātra in ordinary dictionary senses (“report/request” and “measure”) instead of the technical compound “representation-only.”",
+  "It could overread grāhadvaya as a fully specified pair such as grāhya/grāhaka; without commentary in this run, the safer rendering is only “twofold grasping.”",
+  "It could follow the vulgate -ti form and translate an active avatiṣṭhati, whereas the supplied bhāṣya reading is the middle avatiṣṭhate."
+ ],
+ "analyzer_disagreements": [
+  "For avatiṣṭhate, ByT5 reports the lexicalized form avasthā; per the requested format I give the bare verbal root sthā with prefix ava.",
+  "For vinivartate, ByT5 reports the prefixed lemma vinivṛt; per the requested format I give the bare verbal root vṛt with prefixes vi and ni.",
+  "For vijñaptimātratve, ByT5’s segmentation vijñapti-mātra-tve is retained semantically, but the inflected nominal is represented as the single abstract stem vijñaptimātratva, locative singular neuter.",
+  "ByT5 does not disambiguate yāvat/tāvat as finite-clause correlatives; I mark both as avyaya on grammatical grounds."
+ ],
+ "open_questions": [
+  "No commentary span was supplied for this ablation run, so the exact Yogācāra unpacking of grāhadvaya cannot be verified from bhāṣya evidence here.",
+  "Without commentary, the precise doctrinal nuance of avatiṣṭhate—simple “abiding,” “standing firm,” or a specifically contemplative stabilization—remains underdetermined."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4458,
+   "completion_tokens": 12394,
+   "reasoning_tokens": 9726
+  },
+  "est_cost": 0.1993,
+  "retrieval": {
+   "anchor": [
+    1447,
+    1448
+   ],
+   "span": [
+    1449,
+    1469
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

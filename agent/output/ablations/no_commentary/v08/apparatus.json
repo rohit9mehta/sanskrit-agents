@@ -1,0 +1,376 @@
+{
+ "verse": 8,
+ "analysis": [
+  {
+   "surface": "dvitīyaḥ",
+   "surface_in_sandhi": "dvitīyaḥ",
+   "lemma": "dvitīya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with pariṇāmaḥ: “second.”",
+   "verification": {
+    "status": "pass",
+    "detail": "dvitīya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pariṇāmaḥ",
+   "surface_in_sandhi": "pariṇāmo",
+   "lemma": "pariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominal predicate/head of the first clause. External sandhi: pariṇāmaḥ + ayam > pariṇāmo 'yam.",
+   "verification": {
+    "status": "pass",
+    "detail": "pariṇāma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Proximal pronoun, “this,” agreeing with pariṇāmaḥ; initial a is represented by avagraha in sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tṛtīyaḥ",
+   "surface_in_sandhi": "tṛtīyaḥ",
+   "lemma": "tṛtīya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular; construed with ellipsed pariṇāmaḥ, since upalabdhiḥ is feminine.",
+   "verification": {
+    "status": "pass",
+    "detail": "tṛtīya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ṣaḍvidhasya",
+   "surface_in_sandhi": "ṣaḍvidhasya",
+   "lemma": "ṣaḍvidha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "ṣaḍ vidhāḥ yasya saḥ",
+    "members": [
+     "ṣaḍ",
+     "vidha"
+    ]
+   },
+   "note": "Genitive singular adjective qualifying viṣayasya: “of the sixfold object.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ṣaḍvidha as Pum/Sasthi/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yā",
+   "surface_in_sandhi": "yā",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun agreeing with upalabdhiḥ and correlated with sā.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "viṣayasya",
+   "surface_in_sandhi": "viṣayasy",
+   "lemma": "viṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Objective genitive dependent on upalabdhiḥ. External sandhi: viṣayasya + upalabdhiḥ > viṣayasyopalabdhiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣaya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "upalabdhiḥ",
+   "surface_in_sandhi": "opalabdhiḥ",
+   "lemma": "upalabdhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular; here taken in the dictionary sense “apprehension/perception,” not merely “acquisition.”",
+   "verification": {
+    "status": "pass",
+    "detail": "upalabdhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sā",
+   "surface_in_sandhi": "sā",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun referring back to yā ... upalabdhiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kuśalākuśalādvayā",
+   "surface_in_sandhi": "kuśalākuśalādvayā",
+   "lemma": "kuśalākuśalādvaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "kuśalā ca akuśalā ca advayā ca",
+    "members": [
+     "kuśala",
+     "akuśala",
+     "advaya"
+    ]
+   },
+   "note": "Coordinate predicate compound agreeing with sā/upālabdhiḥ. The final member advaya is read privatively as a-dvaya, “neither of the two,” i.e. neither kuśala nor akuśala.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kuśalākuśalādvaya as Stri/Prathama/Eka: pass; relation dvandva: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first clause supplies the masculine head pariṇāmaḥ. Since upalabdhiḥ is feminine, tṛtīyaḥ cannot grammatically agree with it; the natural construal is “the third [transformation].”",
+   "options_considered": [
+    "tṛtīyaḥ directly modifies feminine upalabdhiḥ",
+    "tṛtīyaḥ agrees with an ellipsed masculine pariṇāmaḥ"
+   ],
+   "chosen": "tṛtīyaḥ is masculine because it construes with ellipsed pariṇāmaḥ, not directly with upalabdhiḥ.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "dvitīyaḥ pariṇāmo 'yam tṛtīyaḥ ... yā ... upalabdhiḥ",
+     "translation": "“This is the second transformation; the third [transformation] is the apprehension ...”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Both ṣaḍvidhasya and viṣayasya are masculine genitive singular, and their proximity supports adjective-head agreement: “of the sixfold object.” Reading ṣaḍvidhasya as dependent on tṛtīyaḥ would leave viṣayasya less naturally integrated with upalabdhiḥ.",
+   "options_considered": [
+    "ṣaḍvidhasya qualifies viṣayasya",
+    "ṣaḍvidhasya is a partitive genitive governed by tṛtīyaḥ"
+   ],
+   "chosen": "ṣaḍvidhasya modifies viṣayasya.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "tṛtīyaḥ ṣaḍvidhasya yā | viṣayasyopalabdhiḥ",
+     "translation": "“the third: the apprehension of the sixfold object”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The dictionary gives upalabdhi as “observation, perceiving, perception,” and viṣaya as “scope/range/object.” In this collocation, “apprehension of an object” is grammatically and contextually preferable to “acquisition of a territory/domain.”",
+   "options_considered": [
+    "upalabdhi as acquisition/obtainment",
+    "upalabdhi as apprehension/perception",
+    "viṣayasya as possessive genitive belonging to the object",
+    "viṣayasya as objective genitive, the object apprehended"
+   ],
+   "chosen": "viṣayasya is an objective genitive with upalabdhiḥ, and upalabdhiḥ means “apprehension/perception.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "viṣayasyopalabdhiḥ",
+     "translation": "“apprehension of the object”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The relative yā and correlative sā are both feminine nominative singular, matching upalabdhiḥ. Thus sā does not resume pariṇāmaḥ but the apprehension just named.",
+   "options_considered": [
+    "sā resumes the feminine upalabdhiḥ",
+    "sā resumes the masculine pariṇāmaḥ"
+   ],
+   "chosen": "yā ... sā is a relative-correlative frame referring to upalabdhiḥ.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "yā ... upalabdhiḥ sā",
+     "translation": "“whatever apprehension ... that [apprehension]”"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The expression coordinates kuśala, akuśala, and advaya as nominative feminine predicates agreeing with sā/upālabdhiḥ. Since advaya follows the pair kuśala/akuśala, a privative reading “neither of the two” is preferable here to an abstract metaphysical “non-dual.”",
+   "options_considered": [
+    "advayā as metaphysical “non-dual”",
+    "advayā as “neither of the two”",
+    "the final sequence as three loose sandhi-joined adjectives",
+    "the final sequence as a coordinate compound"
+   ],
+   "chosen": "kuśalākuśalādvayā is unpacked as “wholesome, unwholesome, or neither.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sā kuśalākuśalādvayā",
+     "translation": "“that is wholesome, unwholesome, or neither”"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "This is the second transformation (pariṇāma).\nThe third is the apprehension (upalabdhi)\nof the sixfold object (ṣaḍvidha viṣaya);\nthat is wholesome (kuśala), unwholesome (akuśala), or neither (advaya).",
+ "one_shot_delta": [
+  "Without commentary, the exact referents of “sixfold object” are not fixed here; the grammar only supports “object of six kinds.”",
+  "A commentary-blind rendering could mistranslate upalabdhiḥ as “acquisition” rather than “apprehension/perception.”",
+  "A commentary-blind rendering could take advayā as doctrinal “non-dual” rather than the third alternative, “neither wholesome nor unwholesome.”",
+  "A commentary-blind rendering could miss the ellipsis in tṛtīyaḥ and try to make it agree with feminine upalabdhiḥ."
+ ],
+ "analyzer_disagreements": [
+  "The api_seg output missegments the last pāda as maya_akuśala_advayā; the printed verse and local_S/local_SLM support kuśala-akuśala-advayā, so maya is rejected.",
+  "ByT5 exposes kuśala/akuśala/a/dvayā as components. I report the printed expression as the single inflected coordinate compound kuśalākuśalādvayā while preserving those components in the samāsa analysis."
+ ],
+ "open_questions": [
+  "No commentary was supplied in this ablation, so the specific six objects meant by ṣaḍvidhasya viṣayasya cannot be established from the present evidence.",
+  "No commentary was supplied, so whether advayā is intended to correspond technically to avyākṛta/indeterminate remains unconfirmed.",
+  "The final expression may be represented either as a tight coordinate compound or as three sandhi-joined feminine predicates; I adopt the compound analysis because it matches the printed continuous form and the analyzer’s component analysis."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4487,
+   "completion_tokens": 14863,
+   "reasoning_tokens": 12189
+  },
+  "est_cost": 0.2364,
+  "retrieval": {
+   "anchor": [
+    472,
+    472
+   ],
+   "span": [
+    473,
+    488
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

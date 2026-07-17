@@ -1,0 +1,412 @@
+{
+ "verse": 29,
+ "analysis": [
+  {
+   "surface": "acittaḥ",
+   "surface_in_sandhi": "acitto",
+   "lemma": "acitta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na cittaḥ",
+    "members": [
+     "nañ",
+     "citta"
+    ]
+   },
+   "note": "Privative a-/nañ form; taken as a masculine nominative predicate agreeing with asau.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem acitta as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anupalambaḥ",
+   "surface_in_sandhi": "'nupalambo",
+   "lemma": "anupalamba",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na upalambaḥ",
+    "members": [
+     "nañ",
+     "upalamba"
+    ]
+   },
+   "note": "Privative an-/nañ form: ‘non-apprehension/non-perception’; masculine nominative predicate with asau. Corrected stem is anupalamba, matching the bhāṣya reading anupalambo; anupalambha would derive anupalambhaḥ/anupalambho, not the printed form.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anupalamba as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "'sau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nom. sg. masculine demonstrative; its masculine gender groups it with acittaḥ and anupalambaḥ rather than with neuter jñānam.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "jñānam",
+   "surface_in_sandhi": "jñānaṃ",
+   "lemma": "jñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular predicate with tat; formally also accusative, but nominative is selected by the predicative construction.",
+   "verification": {
+    "status": "pass",
+    "detail": "jñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "lokottaram",
+   "surface_in_sandhi": "lokottarañ",
+   "lemma": "lokottara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "lokād uttaram",
+    "members": [
+     "loka",
+     "uttara"
+    ]
+   },
+   "note": "Adjective agreeing with jñānam/tat; bhāṣya sandhi has final -m assimilated before ca as ñ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem lokottara as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic connective: ‘and/also’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular demonstrative, agreeing with jñānam lokottaram.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "āśrayasya",
+   "surface_in_sandhi": "āśrayasya",
+   "lemma": "āśraya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on parāvṛttiḥ: ‘turning/transformation of the basis/support’.",
+   "verification": {
+    "status": "pass",
+    "detail": "āśraya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "parāvṛttiḥ",
+   "surface_in_sandhi": "parāvṛttir",
+   "lemma": "parāvṛtti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular; final visarga appears as -r before dvidhā.",
+   "verification": {
+    "status": "pass",
+    "detail": "parāvṛtti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dvidhā",
+   "surface_in_sandhi": "dvidhā",
+   "lemma": "dvidhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable ‘in two ways, twofold’; grammar alone leaves its exact scope between hāni and dauṣṭhulya somewhat open.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dauṣṭhulyahānitaḥ",
+   "surface_in_sandhi": "dauṣṭhulyahānitaḥ",
+   "lemma": "dauṣṭhulyahānitaḥ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dauṣṭhulyasya hāniḥ; tasmāt",
+    "members": [
+     "dauṣṭhulya",
+     "hāni"
+    ]
+   },
+   "note": "Ablatival/causal indeclinable in -taḥ, understood from the compound stem dauṣṭhulyahāni: ‘because of the abandonment/removal of badness’.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyayībhāva; whole form not in kosha/MW as indeclinable"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The gender mismatch is best handled by grouping the three masculine forms together and the three neuter forms together, rather than forcing acittaḥ/anupalambaḥ to agree with jñānam.",
+   "options_considered": [
+    "All forms predicate directly of neuter jñānam",
+    "Masculine acittaḥ/anupalambaḥ/asau form one predication, neuter jñānam/lokottaram/tat another",
+    "Take asau adverbially, against the supplied analysis"
+   ],
+   "chosen": "acittaḥ anupalambaḥ asau forms a masculine nominative predication, while jñānam lokottaram ca tat forms a neuter nominative predication.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "acitto 'nupalambo 'sau jñānaṃ lokottarañ ca tat",
+     "translation": "The printed sequence contains masculine nominative singular acittaḥ, anupalambaḥ, asau, followed by neuter nominative singular jñānam, lokottaram, tat."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The neuter nominative singular adjective lokottaram agrees with neuter nominative singular jñānam and tat. The dictionary sense ‘surpassing the world, extraordinary’ supports ‘supramundane’ in a Buddhist philosophical verse.",
+   "options_considered": [
+    "Take lokottaram adverbially",
+    "Take lokottaram as an adjective agreeing with jñānam/tat",
+    "Render merely as ‘extraordinary’ without the loka- ‘world’ force"
+   ],
+   "chosen": "lokottaram modifies jñānam: ‘supramundane/beyond-the-world knowledge’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "jñānaṃ lokottarañ ca tat",
+     "translation": "jñānam, lokottaram, and tat are all neuter singular forms, naturally read in apposition/predication."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The genitive āśrayasya is construed dependently on the nominative noun parāvṛttiḥ. Nothing in the grammar requires an ablatival ‘from the basis’; the given case is genitive.",
+   "options_considered": [
+    "Turning away from the basis",
+    "Transformation of the basis",
+    "Transformation for the basis"
+   ],
+   "chosen": "āśrayasya parāvṛttiḥ means ‘the turning/transformation of the basis’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "āśrayasya parāvṛttir",
+     "translation": "‘parāvṛttiḥ of āśraya’: a genitive relation between ‘basis/support’ and ‘turning/transformation’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The ending -taḥ is not the normal ablative singular of the feminine i-stem hāni; therefore the form is better understood as an indeclinable -taḥ formation from the compound dauṣṭhulya-hāni. dvidhā is translated broadly as ‘twofold/in two ways’.",
+   "options_considered": [
+    "hānitaḥ as a regular feminine ablative singular of hāni",
+    "hānitaḥ as a past participle from a verbal root",
+    "dauṣṭhulyahānitaḥ as a -taḥ/tasil causal indeclinable"
+   ],
+   "chosen": "dauṣṭhulyahānitaḥ is a causal/ablatival indeclinable: ‘because of the abandonment/removal of badness’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "dvidhādauṣṭhulyahānitaḥ",
+     "translation": "The sequence is read as dvidhā + dauṣṭhulya-hānitaḥ: ‘twofold / because of abandonment of badness’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Grammar alone does not decide whether dvidhā primarily qualifies the abandonment/removal or the badness removed. A compact ‘twofold abandonment of badness’ preserves the ambiguity better than a fully specified doctrinal paraphrase.",
+   "options_considered": [
+    "Because of abandoning badness in two ways",
+    "Because of abandoning twofold badness",
+    "Because of a twofold removal of badness"
+   ],
+   "chosen": "dvidhā is left with a broad ‘twofold’ scope in translation.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "dvidhā dauṣṭhulyahānitaḥ",
+     "translation": "dvidhā is an indeclinable immediately preceding the compound; either ‘in two ways’ or ‘twofold’ is grammatically possible."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Non-mind (acitta), non-apprehension (anupalambha)—this;\nand that is supramundane knowledge (lokottara-jñāna).\nIt is the turning of the basis (āśraya-parāvṛtti),\nbecause of the twofold abandonment of badness (dauṣṭhulya).",
+ "one_shot_delta": [
+  "With no commentary, the referent of the masculine asau and the reason for the switch to neuter tat/jñānam remain inferential rather than secured by exposition.",
+  "A commentary-blind translation may over-specify dvidhā as either ‘two kinds of badness’ or ‘two kinds of abandonment’; the grammar by itself does not force one scope.",
+  "A purely dictionary-based rendering of acitta as ‘inconceivable’ or ‘unnoticed’ is possible from MW, but the verse’s pairing with anupalambha and jñāna favors the more technical ‘non-mind/non-mental’ rendering."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 api_seg offers dauṣṭhulya_hānyāḥ, but the supplied bhāṣya line and local_S read dauṣṭhulya_hānitaḥ; I analyze the printed form dauṣṭhulyahānitaḥ.",
+  "ByT5 local_SLM treats hānitaḥ as hāni_SBF, i.e. a subanta-like feminine ablative analysis. I instead take dauṣṭhulyahānitaḥ as an indeclinable -taḥ/tasil causal form, since a regular feminine i-stem ablative singular of hāni would not be hānitaḥ.",
+  "ByT5 tokenizes dauṣṭhulya and hānitaḥ separately; I record the syntactic word as the compound-derived indeclinable dauṣṭhulyahānitaḥ."
+ ],
+ "open_questions": [
+  "The precise antecedent or implied masculine noun for acittaḥ anupalambaḥ asau is not recoverable from the verse grammar alone.",
+  "The exact doctrinal content of the ‘twofold’ in dvidhā is not determined without commentary or context.",
+  "The technical nuance of āśraya in āśrayasya parāvṛttiḥ is rendered as ‘basis’, but the verse alone does not define it."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 10095,
+   "completion_tokens": 15379,
+   "reasoning_tokens": 9728
+  },
+  "est_cost": 0.261,
+  "retrieval": {
+   "anchor": [
+    1499,
+    1500
+   ],
+   "span": [
+    1504,
+    1558
+   ],
+   "shared_with": 30,
+   "requotes": []
+  }
+ }
+}

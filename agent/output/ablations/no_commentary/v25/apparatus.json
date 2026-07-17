@@ -1,0 +1,474 @@
+{
+ "verse": 25,
+ "analysis": [
+  {
+   "surface": "dharmāṇām",
+   "surface_in_sandhi": "dharmāṇāṃ",
+   "lemma": "dharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Final -m is printed as anusvāra before p in external sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "dharma Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "paramārthaḥ",
+   "surface_in_sandhi": "paramārthaś",
+   "lemma": "paramārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "paramaś cāsāv arthaś ca",
+    "members": [
+     "parama",
+     "artha"
+    ]
+   },
+   "note": "The compound is the nominative singular predicate with saḥ; -aḥ before ca is printed as -aś.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem paramārtha as Pum/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal saḥ is printed as sa before the following consonantal y-.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yataḥ",
+   "surface_in_sandhi": "yatas",
+   "lemma": "yatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal relative indeclinable, here 'since/because'; in pausa the final -s is represented as -ḥ, while before t it remains s.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tathatā",
+   "surface_in_sandhi": "tathatā",
+   "lemma": "tathatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular predicate, later resumed by sā.",
+   "verification": {
+    "status": "pass",
+    "detail": "tathatā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "pi",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "In tathatā + api, the initial a of api is absorbed in the preceding ā; only -pi is visible in the printed sandhi form tathatāpi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "saḥ",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular, continuing the saḥ that is equated with paramārthaḥ and tathatā.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvakālam",
+   "surface_in_sandhi": "sarvakālaṃ",
+   "lemma": "sarvakālam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "sarvaḥ kālaḥ; sarvakālam iti kālaviśeṣaṇam",
+    "members": [
+     "sarva",
+     "kāla"
+    ]
+   },
+   "note": "Lexically an indeclinable adverbial accusative: 'at all times, always'; final -m is printed as anusvāra before t.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyayībhāva; whole form known indeclinable (kosha/MW)"
+   }
+  },
+  {
+   "surface": "tathābhāvāt",
+   "surface_in_sandhi": "tathābhāvāt",
+   "lemma": "tathābhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tathā bhāvaḥ",
+    "members": [
+     "tathā",
+     "bhāva"
+    ]
+   },
+   "note": "Ablative singular used causally: 'because of being so'.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tathābhāva as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sā",
+   "surface_in_sandhi": "sai",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The printed saiva is sā + eva; the portion corresponding to sā is not a standalone phonetic word after sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "va",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The printed saiva is sā + eva; the portion corresponding to eva is -va after vowel sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñaptimātratā",
+   "surface_in_sandhi": "vijñaptimātratā",
+   "lemma": "vijñaptimātratā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "vijñaptir eva mātram; tasya bhāvaḥ vijñaptimātratā",
+    "members": [
+     "vijñapti",
+     "mātra"
+    ]
+   },
+   "note": "Single feminine abstract noun in -tā from the compound base vijñaptimātra, not an independent word tā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vijñaptimātratā as Stri/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The grammar gives dharmāṇām as a genitive plural dependent on paramārthaḥ: 'the paramārtha of dharmas.' The compound parama + artha literally supports 'highest/ultimate artha'; in this philosophical context and in equation with tathatā and vijñaptimātratā, 'ultimate reality' is preferable to a merely pragmatic 'highest purpose' or 'advantage.'",
+   "options_considered": [
+    "highest purpose/aim of dharmas",
+    "supreme advantage of dharmas",
+    "ultimate reality/purport of dharmas"
+   ],
+   "chosen": "paramārthaḥ = 'the ultimate reality/purport', a compound predicate nominative singular.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "dharmāṇāṃ paramārthaś ca saḥ",
+     "translation": "that is also the ultimate reality of dharmas"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Although yatas can be ablatival or local ('whence, from which'), the syntax yatas ... saḥ followed by the further causal ablative tathābhāvāt makes a causal relative particle the most coherent construal: 'since that is also suchness.'",
+   "options_considered": [
+    "whence/from which",
+    "where",
+    "since/because"
+   ],
+   "chosen": "yataḥ is causal: 'since/because'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sa yatas tathatāpi saḥ",
+     "translation": "that, since it is also suchness"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "api is best taken as additive with tathatā, not adversative. The construction equates the masculine saḥ with the feminine predicate tathatā, and the following feminine sā then naturally resumes tathatā.",
+   "options_considered": [
+    "although it is suchness",
+    "even that suchness",
+    "that is also suchness"
+   ],
+   "chosen": "tathatā api saḥ = 'that is also suchness'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "tathatāpi saḥ ... saiva",
+     "translation": "it is also suchness ... that very [suchness]"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "sarvakālam is listed as an indeclinable meaning 'always/at all times.' tathābhāvāt is ablative singular of tathābhāva, 'being so'; in context the ablative supplies the reason for the identification: 'because it is so at all times.'",
+   "options_considered": [
+    "from the state of suchness at all times",
+    "because of being so at all times",
+    "after being so always"
+   ],
+   "chosen": "sarvakālaṃ is adverbial 'at all times', and tathābhāvāt is a causal ablative 'because of being so'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sarvakālaṃ tathābhāvāt",
+     "translation": "because of being so at all times"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The following predicate vijñaptimātratā is feminine nominative singular, and the nearest suitable antecedent is the feminine tathatā. Thus the sandhi is parsed as sā + eva, with eva emphasizing identity: 'that very suchness is vijñaptimātratā.'",
+   "options_considered": [
+    "sa iva = 'like that/he'",
+    "sā eva = 'that very she/it'",
+    "saḥ eva with irregular gender"
+   ],
+   "chosen": "saiva = sā eva, 'that very [suchness]', not sa iva, 'like him/that'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "saiva vijñaptimātratā",
+     "translation": "that very [suchness] is representation-only-ness"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "The form is not vijñaptimātra plus an independent noun tā; it is the feminine abstract in -tā built on vijñaptimātra. Its nominative singular form agrees syntactically with sā in an identity statement.",
+   "options_considered": [
+    "vijñaptimātra + independent tā",
+    "an abstract noun from vijñaptimātra",
+    "a bahuvrīhi adjective agreeing with an omitted noun"
+   ],
+   "chosen": "vijñaptimātratā is a single abstract noun: 'representation-only-ness'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sā eva vijñaptimātratā",
+     "translation": "that very [suchness] is representation-only-ness"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "That too is the ultimate reality (paramārtha) of phenomena (dharmas),\nsince that also is suchness (tathatā);\nbecause it is so at all times,\nthat very [suchness] is representation-only-ness (vijñaptimātratā).",
+ "one_shot_delta": [
+  "Without commentary, the referent of the masculine saḥ can only be inferred grammatically; one might mistakenly force it to agree with tathatā or vijñaptimātratā rather than allowing cross-gender predication and later feminine resumption.",
+  "A purely lexical translation could render paramārtha as 'highest purpose/advantage'; the surrounding philosophical nouns make 'ultimate reality/purport' more plausible.",
+  "The sandhi saiva could be misread as sa iva, 'like that/he'; the feminine predicate vijñaptimātratā strongly favors sā eva, 'that very [suchness].'",
+  "The analyzer’s split vijñaptimātra + tā could tempt a bare word-by-word rendering, but the form is the abstract noun vijñaptimātratā."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split vijñaptimātratā as vijñaptimātra_Cp + tā_SNF; I analyze the printed form as one feminine abstract subanta, vijñaptimātratā, because -tā is the abstract suffix here, not the independent noun tā.",
+  "ByT5’s local_S segmentation offered tathā_bhāvāt, but its local_SLM also recognized tathābhāva_SBM; I follow the compound noun tathābhāva, ablative singular, matching the lexical item tathā-bhāva 'being so'.",
+  "ByT5 represented paramārtha by its internal members parama_Cp + artha_SNM; I record the required whole compound stem paramārtha while preserving the same nominative singular analysis."
+ ],
+ "open_questions": [
+  "No commentary is available in this run, so the exact doctrinal referent of the initial saḥ remains inferred from grammar and context rather than established by bhāṣya evidence.",
+  "The degree to which paramārtha should be rendered as 'ultimate reality', 'ultimate truth', or 'ultimate purport' cannot be fixed decisively from the supplied lexical material alone."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3945,
+   "completion_tokens": 10696,
+   "reasoning_tokens": 7680
+  },
+  "est_cost": 0.1723,
+  "retrieval": {
+   "anchor": [
+    1402,
+    1402
+   ],
+   "span": [
+    1403,
+    1444
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

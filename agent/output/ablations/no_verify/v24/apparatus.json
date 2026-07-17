@@ -1,0 +1,413 @@
+{
+ "verse": 24,
+ "analysis": [
+  {
+   "surface": "prathamaḥ",
+   "surface_in_sandhi": "prathamo",
+   "lemma": "prathama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Elliptic adjective/substantive: the commentary supplies parikalpitaḥ svabhāvaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "prathama Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "lakṣaṇena",
+   "surface_in_sandhi": "lakṣaṇenaiva",
+   "lemma": "lakṣaṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental construed with niḥsvabhāvaḥ: ‘natureless in/by respect of defining-character’; fused with eva in external sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "lakṣaṇa Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "lakṣaṇenaiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphasizes lakṣaṇena; fused with the preceding word in lakṣaṇenaiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvaḥ",
+   "surface_in_sandhi": "niḥsvabhāvo",
+   "lemma": "niḥsvabhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "na vidyate svabhāvo yasya saḥ",
+    "members": [
+     "nis",
+     "svabhāva"
+    ]
+   },
+   "note": "Predicative of prathamaḥ/parikalpitaḥ svabhāvaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem niḥsvabhāva as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "aparaḥ",
+   "surface_in_sandhi": "'paraḥ",
+   "lemma": "apara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The commentary identifies this as paratantrasvabhāvaḥ, the dependent nature.",
+   "verification": {
+    "status": "pass",
+    "detail": "apara Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "punaḥ",
+   "surface_in_sandhi": "punaḥ",
+   "lemma": "punar",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pāda-final/pausal spelling is punaḥ; lemma is punar.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "svayaṃbhāvaḥ",
+   "surface_in_sandhi": "svayaṃbhāva",
+   "lemma": "svayaṃbhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svayaṃ bhāvaḥ",
+    "members": [
+     "svayam",
+     "bhāva"
+    ]
+   },
+   "note": "Commentarially taken as self-arising/independent coming-to-be, since the explanation immediately invokes parapratyayenotpattiḥ and utpattiniḥsvabhāvatā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svayaṃbhāva as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "etasya",
+   "surface_in_sandhi": "etasyety",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive referring to aparaḥ, i.e. the paratantrasvabhāvaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "etasyety",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Marks the preceding clause, na svayaṃbhāva etasya, as the explanatory statement; in sandhi with etasya and aparā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "aparā",
+   "surface_in_sandhi": "aparā",
+   "lemma": "apara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine because it qualifies niḥsvabhāvatā.",
+   "verification": {
+    "status": "pass",
+    "detail": "apara Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvatā",
+   "surface_in_sandhi": "niḥsvabhāvatā",
+   "lemma": "niḥsvabhāvatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Abstract noun in -tā from niḥsvabhāva; here the commentary identifies the specific second type as utpattiniḥsvabhāvatā.",
+   "verification": {
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The masculine prathamaḥ is not taken as modifying the feminine niḥsvabhāvatā; it elliptically denotes the first svabhāva, supplied by Sthiramati as parikalpitaḥ svabhāvaḥ.",
+   "options_considered": [
+    "‘the first naturelessness’ as the grammatical subject",
+    "‘the first [thing]’ without identifying which nature",
+    "the first of the three natures, namely parikalpita-svabhāva"
+   ],
+   "chosen": "prathamaḥ refers to the imagined nature (parikalpita-svabhāva).",
+   "evidence": [
+    {
+     "lines": [
+      1403
+     ],
+     "quote": "prathamaḥ parikalpitaḥ svabhāvo 'yaṃ ca lakṣaṇenaiva niḥsvabhāvas",
+     "translation": "‘First’ means the imagined nature; and this is natureless by the defining-character itself."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The instrumental is not a positive means (‘by a mark it is natureless’) but the respect in which the parikalpita is natureless: its very lakṣaṇa/svarūpa is projected and absent, like a sky-flower.",
+   "options_considered": [
+    "lakṣaṇa as an external sign or symptom",
+    "lakṣaṇena as a causal instrument",
+    "lakṣaṇa as defining-character/own-form, the respect in which naturelessness holds"
+   ],
+   "chosen": "lakṣaṇenaiva means ‘by/in respect of its defining-character alone,’ because that characteristic is imagined and so lacks own-form.",
+   "evidence": [
+    {
+     "lines": [
+      1404,
+      1405,
+      1406,
+      1407
+     ],
+     "quote": "tallakṣaṇasyotprekṣitatvāt\nrūpalakṣaṇaṃ rūpam\nanubhavalakṣaṇā vedanetyādi\nataś ca svarūpābhāvāt khapuṣpavat svarūpeṇaiva niḥsvabhāvaḥ",
+     "translation": "Because its defining-character is imagined. Form is what has form as its characteristic; feeling has experience as its characteristic, and so on. Therefore, because its own-form is absent, like a sky-flower it is natureless by its own-form itself."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The ‘other’ is not the perfected nature and not an unspecified second item; Sthiramati explicitly glosses aparaḥ punar as paratantrasvabhāvaḥ.",
+   "options_considered": [
+    "the perfected nature (pariniṣpanna-svabhāva)",
+    "some other naturelessness in general",
+    "the dependent nature (paratantra-svabhāva)"
+   ],
+   "chosen": "aparaḥ punar denotes the dependent nature (paratantra-svabhāva).",
+   "evidence": [
+    {
+     "lines": [
+      1408
+     ],
+     "quote": "aparaḥ punar iti paratantrasvabhāvaḥ",
+     "translation": "‘The other, again’ means the dependent nature."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although svayaṃbhāva could be translated mechanically as ‘own-being,’ the commentary explains it by dependent origination from other conditions and names the resulting type utpatti-niḥsvabhāvatā. Thus the point is lack of independent arising, not sheer non-existence like the parikalpita.",
+   "options_considered": [
+    "‘it has no own-being’ as a generic denial of svabhāva",
+    "‘it does not exist at all’",
+    "‘it has no self-arising/independent coming-to-be’"
+   ],
+   "chosen": "na svayaṃbhāva etasya is rendered ‘there is no self-arising of this,’ and aparā niḥsvabhāvatā is the arising-naturelessness of the dependent nature.",
+   "evidence": [
+    {
+     "lines": [
+      1409,
+      1410,
+      1411,
+      1412
+     ],
+     "quote": "na svayaṃbhāva etasya māyāvat\nparapratyayenotpatteḥ\nataś ca yathā prakhyāti tathāsyotpattir nāstīty ato\n'syotpattiniḥsvabhāvatety ucyate",
+     "translation": "There is no self-arising of this, as with an illusion, because it arises through another condition. Therefore, because its arising does not exist in the way it appears, this is called its arising-naturelessness."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The first—the imagined nature (parikalpita-svabhāva)—is natureless (niḥsvabhāva)\nby its defining-character (lakṣaṇa) alone.\nThe other—the dependent nature (paratantra-svabhāva)—again has no self-arising;\n“there is no self-arising of this”: that is the other naturelessness (niḥsvabhāvatā).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might make prathamaḥ and aparaḥ refer to two abstract niḥsvabhāvatās; Sthiramati instead identifies them as the parikalpita and paratantra svabhāvas.",
+  "It might translate lakṣaṇenaiva as ‘by means of a mark’ or ‘with a characteristic’; the commentary makes it ‘in respect of defining-character/own-form,’ because that characteristic is imagined and absent.",
+  "It might render svayaṃbhāva as generic ‘own-being’ and flatten the second case into the first; Sthiramati explains it specifically as absence of independent arising, since the paratantra arises through other conditions.",
+  "It might miss that aparā niḥsvabhāvatā is, in Sthiramati’s terminology, utpatti-niḥsvabhāvatā, ‘arising-naturelessness.’"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives punar as the analyzed surface; since the verse has pāda-final/pausal punaḥ, I record surface punaḥ and lemma punar.",
+  "ByT5 normalizes the lemma as svayambhāva; I retain the bhāṣya spelling svayaṃbhāva for the stem, noting that anusvāra before bh is an orthographic variant.",
+  "ByT5 splits niḥsvabhāvatā as niḥsvabhāva_Cp + tā_SNF; I analyze it as one feminine nominal stem niḥsvabhāvatā, Prathama singular."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5701,
+   "completion_tokens": 12986,
+   "reasoning_tokens": 10178
+  },
+  "est_cost": 0.2119,
+  "retrieval": {
+   "anchor": [
+    1400,
+    1401
+   ],
+   "span": [
+    1403,
+    1444
+   ],
+   "shared_with": 25,
+   "requotes": []
+  }
+ }
+}

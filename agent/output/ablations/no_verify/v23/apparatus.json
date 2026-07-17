@@ -1,0 +1,368 @@
+{
+ "verse": 23,
+ "analysis": [
+  {
+   "surface": "trividhasya",
+   "surface_in_sandhi": "trividhasya",
+   "lemma": "trividha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "trayo vidhāḥ yasya saḥ",
+    "members": [
+     "tri",
+     "vidha"
+    ]
+   },
+   "note": "Agrees with svabhāvasya; the singular denotes the doctrinal category whose members are exactly three, per the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem trividha as Pum/Sasthi/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "svabhāvasya",
+   "surface_in_sandhi": "svabhāvasya",
+   "lemma": "svabhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svasya bhāvaḥ",
+    "members": [
+     "sva",
+     "bhāva"
+    ]
+   },
+   "note": "Technical ‘own-nature/own-being’; the commentary defines it by seeming to exist through its own characteristic.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svabhāva as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "trividhām",
+   "surface_in_sandhi": "trividhāṃ",
+   "lemma": "trividha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "trayo vidhāḥ yasyāḥ sā",
+    "members": [
+     "tri",
+     "vidha"
+    ]
+   },
+   "note": "Accusative singular feminine agreeing with niḥsvabhāvatām, the object of sandhāya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem trividha as Stri/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvatām",
+   "surface_in_sandhi": "niḥsvabhāvatām",
+   "lemma": "niḥsvabhāvatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Single abstract noun in -tā from niḥsvabhāva, not an independent tā; the bhāṣya treats trividhā niḥsvabhāvatā as a technical item.",
+   "verification": {
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "sandhāya",
+   "surface_in_sandhi": "sandhāya",
+   "lemma": "dhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "dhā",
+    "prefixes": [
+     "sam"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Gerund/absolutive of sam-√dhā; here ‘having in view, intending, with reference to,’ not physical joining.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sarvadharmāṇām",
+   "surface_in_sandhi": "sarvadharmāṇāṃ",
+   "lemma": "sarvadharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "sarve dharmāḥ",
+    "members": [
+     "sarva",
+     "dharma"
+    ]
+   },
+   "note": "Genitive plural dependent on niḥsvabhāvatā: ‘the absence of own-nature of all dharmas.’",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvadharma as Pum/Sasthi/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "deśitā",
+   "surface_in_sandhi": "deśitā",
+   "lemma": "deśita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular past passive participle from causative deśayati; agrees with niḥsvabhāvatā: ‘has been taught.’",
+   "verification": {
+    "status": "pass",
+    "detail": "deśita Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niḥsvabhāvatā",
+   "surface_in_sandhi": "niḥsvabhāvatā",
+   "lemma": "niḥsvabhāvatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of deśitā; same technical abstract as the accusative earlier, here the generally taught thesis.",
+   "verification": {
+    "status": "pass",
+    "detail": "niḥsvabhāvatā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The numerical expression is restrictive: there are three svabhāvas and no fourth.",
+   "options_considered": [
+    "a loose ‘threefold’ meaning merely ‘various’",
+    "a technical triad of exactly three svabhāvas",
+    "a fourth or further svabhāva left implicit"
+   ],
+   "chosen": "trividhasya svabhāvasya = ‘of the threefold own-nature,’ i.e. the doctrinal triad of exactly three svabhāvas, not a loose adjective ‘various’ or an open-ended plurality.",
+   "evidence": [
+    {
+     "lines": [
+      1391
+     ],
+     "quote": "traya eva svabhāvā na caturtho 'stīti jñāpanārthaṃ saṃkhyānirdeśaḥ",
+     "translation": "The numerical specification is for making known: there are just three svabhāvas; there is no fourth."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Do not translate svabhāva as ordinary ‘character’ or as an unqualified ultimately real essence; the commentary defines it through seeming existence by its own lakṣaṇa.",
+   "options_considered": [
+    "ordinary nature/temperament",
+    "ultimately real essence asserted without qualification",
+    "own-nature/own-being as defined by seeming existence through its own characteristic"
+   ],
+   "chosen": "svabhāva is rendered ‘own-nature/own-being,’ with ‘own’ tied to a thing’s own characteristic and with vidyamānavat marking ‘as though existent.’",
+   "evidence": [
+    {
+     "lines": [
+      1392,
+      1393
+     ],
+     "quote": "svena\nsvena lakṣaṇena vidyamānavad bhavatīti svbhāvaḥ",
+     "translation": "It is svabhāva because it comes to be as though existent by its own, by its own characteristic."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The first niḥsvabhāvatā is not a single undifferentiated negation; it has three specified modes.",
+   "options_considered": [
+    "a generic statement that everything simply lacks essence",
+    "three named modes of niḥsvabhāvatā",
+    "absolute nonexistence of all things"
+   ],
+   "chosen": "trividhāṃ niḥsvabhāvatām = the threefold absence of own-nature: absence with respect to characteristic, arising, and ultimate reality.",
+   "evidence": [
+    {
+     "lines": [
+      1394,
+      1395
+     ],
+     "quote": "trividhā niḥsvabhāvatā lakṣaṇaniḥsvabhāvatā utpattiniḥsvabhāvatā\nparamārthaniḥsvabhāvatā ca",
+     "translation": "The absence of own-nature is threefold: absence of own-nature with respect to characteristic, absence of own-nature with respect to arising, and absence of own-nature with respect to ultimate reality."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The genitive does not mean ‘of all moral laws’ or ‘to all teachings’; the commentary identifies all dharmas by the Yogācāra three-nature scheme.",
+   "options_considered": [
+    "all moral duties or laws",
+    "all doctrines taught to an audience",
+    "all dharmas/phenomena structured by the three natures"
+   ],
+   "chosen": "sarvadharmāṇām is ‘of all dharmas/phenomena,’ where the domain is constituted by the imagined, dependent, and perfected natures.",
+   "evidence": [
+    {
+     "lines": [
+      1396,
+      1397
+     ],
+     "quote": "sarvadharmāḥ\nparikalpitaparatantrapariniṣpannātmakāḥ",
+     "translation": "All dharmas are those whose nature consists of the imagined, the dependent, and the perfected."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The universal teaching ‘the absence of own-nature of all dharmas was taught’ is to be read as made with reference to the threefold niḥsvabhāvatā of the three svabhāvas, not as a physical ‘joining’ or as an unrelated absolutist denial.",
+   "options_considered": [
+    "‘joining together’ in a literal sense",
+    "‘having in view / intending’ the preceding accusative",
+    "an unrestricted thesis of sheer nonexistence unrelated to the threefold scheme"
+   ],
+   "chosen": "sandhāya is construed with the preceding accusative trividhāṃ niḥsvabhāvatām and rendered ‘having in view / with reference to.’",
+   "evidence": [
+    {
+     "lines": [
+      1394,
+      1395
+     ],
+     "quote": "trividhā niḥsvabhāvatā lakṣaṇaniḥsvabhāvatā utpattiniḥsvabhāvatā\nparamārthaniḥsvabhāvatā ca",
+     "translation": "The absence of own-nature is threefold: absence with respect to characteristic, arising, and ultimate reality."
+    },
+    {
+     "lines": [
+      1396,
+      1397
+     ],
+     "quote": "sarvadharmāḥ\nparikalpitaparatantrapariniṣpannātmakāḥ",
+     "translation": "All dharmas are those whose nature consists of the imagined, the dependent, and the perfected."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Having in view the threefold absence of own-nature (niḥsvabhāvatā)\nof the threefold own-nature (svabhāva),\nthe absence of own-nature of all dharmas (sarvadharmāḥ) was taught—\ndharmas whose nature is imagined, dependent, and perfected.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render trividhasya as merely ‘various’ or ‘triple’ and miss Sthiramati’s restriction: exactly three svabhāvas and no fourth.",
+  "It might flatten trividhāṃ niḥsvabhāvatām into a single generic ‘essencelessness,’ missing the three modes: lakṣaṇa-, utpatti-, and paramārtha-niḥsvabhāvatā.",
+  "It might take sarvadharmāṇām as ‘all laws/teachings’ rather than all dharmas constituted by the imagined, dependent, and perfected natures.",
+  "It might translate sandhāya literally as ‘joining’ rather than ‘having in view / with reference to’ the threefold niḥsvabhāvatā."
+ ],
+ "analyzer_disagreements": [
+  "For niḥsvabhāvatām and niḥsvabhāvatā, ByT5 segments niḥsvabhāva + tām/tā; I treat each as one abstract noun stem niḥsvabhāvatā with suffix -tā, since the verse has a single technical abstract and the bhāṣya at trbh 1394 says trividhā niḥsvabhāvatā.",
+  "For sarvadharmāṇām, ByT5 reports sarva_Cp plus inflected head dharma; per the requested compound convention, the lemma is the whole inflected compound stem sarvadharma. The bhāṣya re-quotes the unit as sarvadharmāḥ at trbh 1396.",
+  "For sandhāya, ByT5 gives the lexical compound verb saṃdhā; I normalize it as an indeclinable gerund of bare root dhā with prefix sam, as requested for verbal forms.",
+  "For deśitā, ByT5’s deśay lemma is normalized to the nominal participial stem deśita, feminine nominative singular, while retaining the causative-passive sense ‘taught.’"
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 8,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_verify",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3536,
+   "completion_tokens": 14020,
+   "reasoning_tokens": 11261
+  },
+  "est_cost": 0.2209,
+  "retrieval": {
+   "anchor": [
+    1389,
+    1390
+   ],
+   "span": [
+    1391,
+    1397
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

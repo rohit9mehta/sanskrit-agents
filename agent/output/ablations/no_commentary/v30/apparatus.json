@@ -1,0 +1,479 @@
+{
+ "verse": 30,
+ "analysis": [
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative pronoun; visarga is lost before eva in external sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evā",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The final -a of eva coalesces with the following initial a- of anāsravaḥ; the segmented sandhi form is shown.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anāsravaḥ",
+   "surface_in_sandhi": "anāsravo",
+   "lemma": "anāsrava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with dhātuḥ; its initial a- is involved in the preceding vowel coalescence, and final -aḥ becomes -o before dhātuḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "anāsrava Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dhātuḥ",
+   "surface_in_sandhi": "dhātur",
+   "lemma": "dhātu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular head noun of the first nominal predication.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhātu Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "acintyaḥ",
+   "surface_in_sandhi": "acintyaḥ",
+   "lemma": "acintya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with dhātuḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "acintya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kuśalaḥ",
+   "surface_in_sandhi": "kuśalo",
+   "lemma": "kuśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with dhātuḥ; final -aḥ becomes -o before voiced dh- in dhruvaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "kuśala Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dhruvaḥ",
+   "surface_in_sandhi": "dhruvaḥ",
+   "lemma": "dhruva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective in the same nominative series.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhruva Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sukhaḥ",
+   "surface_in_sandhi": "sukho",
+   "lemma": "sukha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here masculine nominative singular adjective, not neuter noun sukham; final -aḥ becomes -o before v-.",
+   "verification": {
+    "status": "pass",
+    "detail": "sukha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vimuktikāyaḥ",
+   "surface_in_sandhi": "vimuktikāyo",
+   "lemma": "vimuktikāya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vimukteḥ kāyaḥ",
+    "members": [
+     "vimukti",
+     "kāya"
+    ]
+   },
+   "note": "Compound stem treated as a whole, per instruction; final -aḥ becomes -o before asau.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vimuktikāya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "'sau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative pronoun; the initial a- is elided after preceding -o and marked by avagraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dharmākhyaḥ",
+   "surface_in_sandhi": "dharmākhyo",
+   "lemma": "dharmākhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "dharma iti ākhyā yasya saḥ",
+    "members": [
+     "dharma",
+     "ākhyā"
+    ]
+   },
+   "note": "Adjectival compound meaning 'called/named Dharma'; final -aḥ becomes -o before ayam.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dharmākhya as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative pronoun; initial a- is elided after preceding -o and marked by avagraha, while final -m is printed as anusvāra before m-.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mahāmuneḥ",
+   "surface_in_sandhi": "mahāmuneḥ",
+   "lemma": "mahāmuni",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "mahān muniḥ",
+    "members": [
+     "mahat",
+     "muni"
+    ]
+   },
+   "note": "Compound stem treated as a whole; mahat appears as mahā- in prior-member position.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mahāmuni as Pum/Sasthi/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Construe the nominative series in the first line as co-referential predicates/modifiers rather than as independent substantives.",
+   "options_considered": [
+    "one nominal predication with masculine nominative agreement",
+    "several independent nominative substantives"
+   ],
+   "chosen": "An equational nominal sentence with omitted asti: 'that very one is the ... element'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "saḥ eva anāsravaḥ dhātuḥ acintyaḥ kuśalaḥ dhruvaḥ sukhaḥ",
+     "translation": "Except for eva, these forms are masculine nominative singular; Sanskrit commonly omits asti in such nominal predications."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Take anāsravaḥ adjectivally with dhātuḥ, not as a separate noun.",
+   "options_considered": [
+    "adjectival 'outflow-free element'",
+    "two separate predicates, 'the outflow-free one' and 'the element'"
+   ],
+   "chosen": "anāsrava-dhātu = 'the element free from outflows'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "anāsravaḥ dhātuḥ",
+     "translation": "Both words are masculine nominative singular; MW s.v. anāsrava gives 'free from mundane inclinations', and MW s.v. dhātu gives 'element/constituent part'."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Do not construe sukhaḥ as neuter substantive 'happiness'; the verse has masculine nominative singular agreement.",
+   "options_considered": [
+    "adjective 'blissful/pleasant'",
+    "substantive 'happiness'"
+   ],
+   "chosen": "sukhaḥ is adjectival: 'blissful/pleasant'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sukhaḥ vimuktikāyaḥ",
+     "translation": "The masculine ending -ḥ aligns sukhaḥ with the surrounding masculine nominatives; MW s.v. sukha includes the mfn. sense 'pleasant, agreeable'."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Read vimukti as the dependent first member qualifying kāya, rather than as a coordinate or appositional member.",
+   "options_considered": [
+    "ṣaṣṭhī-tatpuruṣa: 'body of liberation'",
+    "karmadhāraya: 'a body that is liberation'",
+    "dvandva: 'liberation and body'"
+   ],
+   "chosen": "vimuktikāyaḥ as a tatpuruṣa, 'body of liberation'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vimukti-kāyaḥ",
+     "translation": "A bare nominal first member before a head noun naturally supports a dependent tatpuruṣa construal; MW s.v. vimukti gives 'release, deliverance, liberation'."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Analyze dharmākhyaḥ as an adjectival naming compound agreeing with the masculine nominative subject.",
+   "options_considered": [
+    "'called Dharma'",
+    "a direct compound 'Dharma-body'",
+    "'having the nature of dharma'"
+   ],
+   "chosen": "dharmākhyaḥ means 'called Dharma', not directly 'Dharma-body'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "dharmākhyaḥ ayam",
+     "translation": "dharmākhyaḥ is masculine nominative singular and agrees with the deictic/predicate complex; MW s.v. ākhyā gives 'appellation, name', supporting 'having Dharma as name/called Dharma'."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "Take mahāmuneḥ as genitive singular of the karmadhāraya compound mahāmuni.",
+   "options_considered": [
+    "possessive/relational genitive with vimuktikāyaḥ",
+    "genitive with dharmākhyaḥ only",
+    "non-genitive construal"
+   ],
+   "chosen": "mahāmuneḥ is a genitive dependent on the preceding body/designation phrase: 'of the Great Sage'.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "ayaṃ mahāmuneḥ",
+     "translation": "muneḥ is genitive singular, and mahā- is the compound prior-member form of mahat; the genitive most naturally marks possession or relation: 'of the Great Sage'."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J7",
+   "decision": "Avoid treating asau and ayam as introducing separate subjects.",
+   "options_considered": [
+    "one appositional chain with repeated deictics",
+    "two or three separate deictic subjects"
+   ],
+   "chosen": "saḥ, asau, and ayam are appositional masculine singular deictics pointing to the same referent within the verse.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "saḥ ... vimuktikāyaḥ asau dharmākhyaḥ ayam",
+     "translation": "All three demonstratives/predicates are masculine nominative singular, so grammar permits a single appositional chain."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "That very one is the outflow-free element (anāsrava-dhātu),\ninconceivable, wholesome, steadfast, blissful;\nthat body of liberation (vimuktikāya)—this one of the Great Sage (mahāmuni)—\nis called Dharma (dharmākhya).",
+ "one_shot_delta": [
+  "Because this is an ablation run without bhāṣya, the antecedent of saḥ/asau/ayam is left deictic rather than identified doctrinally from the commentary.",
+  "Grammar alone does not force the technical rendering 'Dharma-body'; therefore dharmākhyaḥ is rendered more literally as 'called Dharma'."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 reports compound splits such as vimukti_Cp + kāyaḥ, dharma_Cp + ākhyaḥ, and mahā_Cp + muneḥ; per the instructions, the lemma/stem of an inflected compound is reported as the whole compound stem: vimuktikāya, dharmākhya, and mahāmuni.",
+  "For dharmākhyaḥ, ByT5 gives the final member as ākhyā_SNM. I analyze the inflected word as the masculine nominative singular compound stem dharmākhya, with -ākhya functioning adjectivally as 'called/named', while its semantic vigraha uses ākhyā 'appellation'."
+ ],
+ "open_questions": [
+  "Without commentary, the exact doctrinal antecedent of 'that very one' cannot be fixed from this verse alone.",
+  "Without commentary, dhātu could be translated more specifically as 'realm', 'element', or 'constituent' depending on doctrinal context.",
+  "Without commentary, the relation between 'body of liberation' and 'called Dharma' remains grammatical apposition rather than a fully explained technical identification."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5285,
+   "completion_tokens": 12602,
+   "reasoning_tokens": 8704
+  },
+  "est_cost": 0.2049,
+  "retrieval": {
+   "anchor": [
+    1501,
+    1502
+   ],
+   "span": [
+    1504,
+    1558
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

@@ -1,0 +1,452 @@
+{
+ "verse": 20,
+ "analysis": [
+  {
+   "surface": "yena",
+   "surface_in_sandhi": "yena",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative adjective agreeing with vikalpena: “by whichever.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "yena",
+   "surface_in_sandhi": "yena",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Repetition gives distributive force: “by whichever and whichever.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpena",
+   "surface_in_sandhi": "vikalpena",
+   "lemma": "vikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrument of the passive vikalpyate; translated contextually as “conceptual construction,” not as the adverbial ‘optionally.’",
+   "verification": {
+    "status": "pass",
+    "detail": "vikalpa Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yad",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal yat; sandhi gives yad before following y-. Syntactically nominative with the passive verb, though the neuter form is formally also accusative.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yad",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal yat; sandhi gives yad before v-. Repetition gives distributive force: “whatever and whatever.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vastu",
+   "surface_in_sandhi": "vastu",
+   "lemma": "vastu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of passive vikalpyate: “whatever object/thing is conceptualized.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vastu Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpyate",
+   "surface_in_sandhi": "vikalpyate",
+   "lemma": "kḷp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "kḷp",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive present, 3rd singular: “is conceptualized / constructed.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-kḷp Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "parikalpitaḥ",
+   "surface_in_sandhi": "parikalpita",
+   "lemma": "parikalpita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective used predicatively/attributively with svabhāvaḥ: “imagined, constructed.”",
+   "verification": {
+    "status": "pass",
+    "detail": "parikalpita Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evā",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Restrictive/emphatic particle: “just, precisely.” In sandhi with asau, eva asau is printed evāsau.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "sau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative agreeing with svabhāvaḥ; its initial a is coalesced in evāsau.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "svabhāvaḥ",
+   "surface_in_sandhi": "svabhāvo",
+   "lemma": "svabhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svasya bhāvaḥ",
+    "members": [
+     "sva",
+     "bhāva"
+    ]
+   },
+   "note": "Nominative subject/predicate noun with parikalpitaḥ and asau.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svabhāva as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates vidyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Anaphoric pronoun referring to the masculine svabhāvaḥ, not to neuter vastu.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vidyate",
+   "surface_in_sandhi": "vidyate",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive/middle idiom vidyate: “is found, exists”; with na, “does not exist / is not found.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The repeated instrumental relative yena yena agrees with the masculine instrumental singular vikalpena and supplies the means or mode for the passive vikalpyate. I do not take vikalpena adverbially as “optionally,” despite that lexical possibility, because the relative adjective requires a nominal head.",
+   "options_considered": [
+    "instrumental means: “by whatever conceptual construction”",
+    "adverbial vikalpena: “optionally”"
+   ],
+   "chosen": "yena yena vikalpena is construed as an instrumental phrase: “by whatever conceptual construction.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "yena yena vikalpena ... vikalpyate",
+     "translation": "by whichever conceptual construction ... is conceptualized"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Because vikalpyate is passive, the neuter singular vastu is best read as the grammatical subject: “whatever object is conceptualized.” The form yad/yat is formally nominative or accusative neuter singular, but syntax decides for nominative.",
+   "options_considered": [
+    "nominative subject of passive vikalpyate",
+    "accusative object with a non-passive reading of vikalpyate"
+   ],
+   "chosen": "yad yad vastu is nominative subject of the passive verb vikalpyate.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "yad yad vastu vikalpyate",
+     "translation": "whatever object is conceptualized"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "parikalpitaḥ, asau, and svabhāvaḥ are all masculine nominative singular, so they construe together. The demonstrative asau agrees with svabhāvaḥ, not with neuter vastu. eva marks identity/restriction: the nature so described is precisely the imagined one.",
+   "options_considered": [
+    "technical nominal predication: “that is just the imagined nature”",
+    "simple verbal sense: “that object has been imagined”"
+   ],
+   "chosen": "parikalpitaḥ eva asau svabhāvaḥ is a nominal predication: “that is just the imagined nature.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "parikalpita evāsau svabhāvo",
+     "translation": "that is just the imagined nature"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The pronoun sa is masculine nominative singular, matching svabhāvaḥ. It cannot grammatically refer directly to neuter vastu without gender mismatch.",
+   "options_considered": [
+    "sa refers to masculine svabhāvaḥ",
+    "sa refers to neuter vastu"
+   ],
+   "chosen": "sa in na sa vidyate refers to svabhāvaḥ, not to vastu.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "svabhāvo na sa vidyate",
+     "translation": "the nature—it does not exist"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The passive/middle form vidyate commonly bears the sense “is found, is present, exists.” With na and the subject svabhāvaḥ, the philosophical force is existential: “that nature does not exist,” rather than merely epistemic “is not known.”",
+   "options_considered": [
+    "existential: “does not exist, is not found”",
+    "epistemic passive: “is not known”"
+   ],
+   "chosen": "vidyate is translated existentially: “is found / exists.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "na sa vidyate",
+     "translation": "it does not exist / is not found"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "By whatever conceptual construction (vikalpa),\nwhatever object (vastu) is conceptualized—\nthat is just the imagined nature (parikalpita-svabhāva);\nthat does not exist.",
+ "one_shot_delta": [
+  "A commentary-blind or dictionary-only rendering might take vikalpena as the adverb “optionally”; the grammar of yena yena vikalpena instead makes it an instrumental nominal phrase.",
+  "It might translate yad yad vastu as an accusative object, but the passive vikalpyate makes it the nominative subject: “whatever object is conceptualized.”",
+  "It might let sa refer back to vastu; gender shows that sa refers to svabhāvaḥ.",
+  "It might render vidyate as “is known,” but the idiom and the negated svabhāva-context call for “exists / is found.”"
+ ],
+ "analyzer_disagreements": [
+  "vikalpyate: ByT5 lemmatizes the verb as vikalpay; I record the bare verbal root kḷp with prefix vi, as required for tinanta analysis. The passive-present features are retained.",
+  "parikalpitaḥ: ByT5 gives lemma parikalpay; because this is a subanta participial adjective in the verse, I give the nominal stem parikalpita as lemma. Its masculine nominative singular analysis is retained.",
+  "yat/yad: ByT5’s sandhied token yad is retained as surface_in_sandhi, but the pausal surface is given as yat.",
+  "sa: ByT5’s sandhied token sa is retained as surface_in_sandhi, but the pausal surface is given as saḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4166,
+   "completion_tokens": 8238,
+   "reasoning_tokens": 5633
+  },
+  "est_cost": 0.1361,
+  "retrieval": {
+   "anchor": [
+    1295,
+    1296
+   ],
+   "span": [
+    1297,
+    1317
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

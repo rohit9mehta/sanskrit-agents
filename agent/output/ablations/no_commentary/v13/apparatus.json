@@ -1,0 +1,448 @@
+{
+ "verse": 13,
+ "analysis": [
+  {
+   "surface": "śāṭhyam",
+   "surface_in_sandhi": "śāṭhyaṃ",
+   "lemma": "śāṭhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter -am could be nominative or accusative in isolation; here taken as nominative within a list containing unambiguous nominatives.",
+   "verification": {
+    "status": "pass",
+    "detail": "śāṭhya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "madaḥ",
+   "surface_in_sandhi": "mado",
+   "lemma": "mada",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "mada Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "avihiṃsā",
+   "surface_in_sandhi": "'vihiṃsā",
+   "lemma": "avihiṃsā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na vihiṃsā",
+    "members": [
+     "a",
+     "vihiṃsā"
+    ]
+   },
+   "note": "Parsed as a privative nañ-compound, not as an independent particle a plus vihiṃsā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem avihiṃsā as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ahrīḥ",
+   "surface_in_sandhi": "hrīr",
+   "lemma": "ahrī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na hrīḥ",
+    "members": [
+     "a",
+     "hrī"
+    ]
+   },
+   "note": "Initial a- is elided after the preceding final ā in sandhi; final -ḥ appears as -r before atrapā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ahrī as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "atrapā",
+   "surface_in_sandhi": "atrapā",
+   "lemma": "atrapā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na trapā",
+    "members": [
+     "a",
+     "trapā"
+    ]
+   },
+   "note": "Parsed as privative a- plus trapā, ‘lack of shame/bashfulness’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem atrapā as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "styānam",
+   "surface_in_sandhi": "styānam",
+   "lemma": "styāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Taken as a substantivized neuter in the nominative singular within the enumeration.",
+   "verification": {
+    "status": "pass",
+    "detail": "styāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "uddhataḥ",
+   "surface_in_sandhi": "uddhataḥ",
+   "lemma": "uddhata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominal/adjectival stem uddhata, plausibly participial in origin from ud-√han; here substantivized as one item in the list.",
+   "verification": {
+    "status": "pass",
+    "detail": "uddhata Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "āśraddhyam",
+   "surface_in_sandhi": "āśraddhyam",
+   "lemma": "āśraddhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Follows the supplied bhāṣya reading āśraddhyam rather than the vulgate āśraddham.",
+   "verification": {
+    "status": "pass",
+    "detail": "āśraddhya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "atha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable connective, rendered ‘then/and further’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kausīdyam",
+   "surface_in_sandhi": "kausīdyaṃ",
+   "lemma": "kausīdya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter -am taken as nominative singular in the same enumeration.",
+   "verification": {
+    "status": "pass",
+    "detail": "kausīdya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pramādaḥ",
+   "surface_in_sandhi": "pramādo",
+   "lemma": "pramāda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "pramāda Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "muṣitā",
+   "surface_in_sandhi": "muṣitā",
+   "lemma": "muṣita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular participial adjective from √muṣ, agreeing with smṛtiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "muṣita Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "smṛtiḥ",
+   "surface_in_sandhi": "smṛtiḥ",
+   "lemma": "smṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Head noun modified by muṣitā.",
+   "verification": {
+    "status": "pass",
+    "detail": "smṛti Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The masculine and feminine forms madaḥ, ahrīḥ, pramādaḥ, and smṛtiḥ are unambiguously nominative singular; therefore the neuter -am forms are read as nominative singular rather than accusative singular.",
+   "options_considered": [
+    "neuter -am forms as accusative singular objects",
+    "all forms as nominative singular items in an enumeration"
+   ],
+   "chosen": "All listed items are construed as nominative singulars in a verbless enumeration.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical evidence only: the verse is a coordinated list without a finite verb, and it contains several unambiguous nominative singular forms."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The printed mado 'vihiṃsā indicates an initial a after madaḥ; similarly, vihiṃsāhrīr is naturally avihiṃsā + ahrīḥ with vowel coalescence, and ahrīr atrapā shows visarga sandhi before the following a-. Treating a as an independent particle would leave an unsuitable vocative/letter-particle inside a technical nominal list.",
+   "options_considered": [
+    "independent particle a before vihiṃsā, hrī, and trapā",
+    "privative a- compounds avihiṃsā, ahrīḥ, and atrapā",
+    "emending or resegmenting to vihiṃsā plus ahrīḥ only"
+   ],
+   "chosen": "avihiṃsā, ahrīḥ, and atrapā are privative a-/nañ compounds.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical and lexical evidence only: MW’s supplied entry for a as a letter/vocative particle does not fit the syntax; productive privative a- yields meaningful nominal items, ‘non-/lack of X’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The supplied base text has uddhataḥ, not the vulgate uddhavaḥ. The form -aḥ fits Pum Prathama Eka in the same list; deriving it from or associating it with ud-√han does not make the surface word a finite verb.",
+   "options_considered": [
+    "vulgate uddhavaḥ",
+    "finite verbal analysis from ud-√han",
+    "nominal/adjectival stem uddhata, Pum Prathama Eka"
+   ],
+   "chosen": "uddhataḥ is read as a masculine nominative singular substantive/adjective from stem uddhata.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical evidence only: uddhataḥ has the ordinary masculine nominative singular ending -aḥ and is coordinated with other nominative list-items."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The form āśraddhyam is well-formed as a neuter nominative singular and fits the surrounding neuter abstract nouns. The vulgate āśraddham is not adopted because the requested base text gives āśraddhyam.",
+   "options_considered": [
+    "āśraddhyam from āśraddhya",
+    "vulgate āśraddham from āśraddha"
+   ],
+   "chosen": "āśraddhyam is the supplied reading and is analyzed as neuter nominative singular of āśraddhya.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Textual and grammatical evidence only: the prompt specifies the bhāṣya reading āśraddhyam; syntactically it aligns with śāṭhyam, styānam, and kausīdyam."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "muṣitā is feminine nominative singular and agrees with smṛtiḥ, also feminine nominative singular. It is therefore read as a participial adjective modifying smṛtiḥ, not as a finite future form or as an uncompounded independent item.",
+   "options_considered": [
+    "muṣitā as a separate substantivized item",
+    "muṣitā as a finite/future verbal form",
+    "muṣitā as an adjective modifying smṛtiḥ"
+   ],
+   "chosen": "muṣitā smṛtiḥ is a two-word phrase, ‘memory stolen/removed’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammatical and lexical evidence only: MW s.v. muṣ gives the sense ‘steal, carry off’; the feminine adjective muṣitā agrees with smṛtiḥ ‘memory’."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Deceit (śāṭhya), intoxicated pride (mada), non-injury (avihiṃsā),\nshamelessness (ahrī), lack of bashfulness (atrapā), torpor or stiffness (styāna), the agitated/haughty state (uddhata);\nthen lack of faith (āśraddhya), indolence (kausīdya), heedlessness (pramāda),\nand memory stolen away (muṣitā smṛti).",
+ "one_shot_delta": [
+  "Without commentary, the most plausible uncertainty is whether the printed 'vihiṃsā should be taken literally as avihiṃsā ‘non-injury’ or whether the technical context would require vihiṃsā ‘harmfulness’; this apparatus follows the supplied sandhi and grammar only.",
+  "A commentary-blind analysis can identify uddhataḥ grammatically, but cannot securely determine whether it is intended as the technical mental-factor equivalent of auddhatya or another traditional label.",
+  "Technical Yogācāra senses of styāna, āśraddhya, pramāda, and muṣitā smṛtiḥ may be narrower than their dictionary meanings; without commentary they are translated conservatively from grammar and lexicon."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented a_vihiṃsā_a_hrīḥ_a_trapā with independent a. I instead analyze avihiṃsā, ahrīḥ, and atrapā as privative nañ-compounds, because an independent vocative/letter-particle a is syntactically implausible in this nominal list, while the printed avagraha and vowel sandhi fit initial privative a- forms.",
+  "ByT5 gives uddhataḥ with lemma uddhan. I treat the inflected nominal stem as uddhata, Pum Prathama Eka; ud-√han is at most a derivational source, not the nominal stem of the surface form.",
+  "ByT5 gives muṣitā with lemma muṣ. I record the nominal stem as muṣita, Stri Prathama Eka, noting its participial derivation from √muṣ.",
+  "For neuter -am forms such as śāṭhyam, styānam, āśraddhyam, and kausīdyam, I choose Prathama rather than Dvitiya because they are coordinated with unambiguous nominatives such as madaḥ, pramādaḥ, and smṛtiḥ in a verbless enumeration."
+ ],
+ "open_questions": [
+  "The literal grammatical reading avihiṃsā ‘non-injury/non-violence’ is odd if the verse is expected to enumerate defiled subsidiary factors; commentary would be needed to confirm or correct this segmentation.",
+  "The exact intended technical value of uddhataḥ, and its relation to the vulgate uddhavaḥ, remains unresolved without commentary.",
+  "Whether muṣitā smṛtiḥ should be treated as merely a phrase ‘memory stolen away’ or as a fixed technical expression cannot be settled from the supplied grammar alone."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4095,
+   "completion_tokens": 12032,
+   "reasoning_tokens": 8925
+  },
+  "est_cost": 0.1928,
+  "retrieval": {
+   "anchor": [
+    775,
+    776
+   ],
+   "span": [
+    779,
+    1005
+   ],
+   "shared_with": 14,
+   "requotes": []
+  }
+ }
+}

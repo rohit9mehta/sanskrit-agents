@@ -1,0 +1,475 @@
+{
+ "verse": 18,
+ "analysis": [
+  {
+   "surface": "sarvabījam",
+   "surface_in_sandhi": "sarvabījaṃ",
+   "lemma": "sarvabīja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sarvāṇi bījāni yasmin tat",
+    "members": [
+     "sarva",
+     "bīja"
+    ]
+   },
+   "note": "Adjectival compound agreeing with vijñānam; translated “all-seeded.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvabīja as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Explanatory particle: “for/indeed.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijñānam",
+   "surface_in_sandhi": "vijñānaṃ",
+   "lemma": "vijñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative subject of the verbless first clause, with sarvabījam as predicate/adjectival complement.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijñāna Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pariṇāmaḥ",
+   "surface_in_sandhi": "pariṇāmas",
+   "lemma": "pariṇāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative subject of yāti; “its” in the translation is supplied from the preceding vijñāna, not from an expressed genitive.",
+   "verification": {
+    "status": "pass",
+    "detail": "pariṇāma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First member of the repeated adverbial expression tathā tathā, “in such-and-such ways.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second member of the repeated adverbial expression tathā tathā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yāti",
+   "surface_in_sandhi": "yāty",
+   "lemma": "yā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yā",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Finite verb: “goes/proceeds.” The supplied dictionary excerpt lists yā as a noun, but the form yāti is the standard present of √yā, as also identified by the analyzer.",
+   "verification": {
+    "status": "pass",
+    "detail": "yā Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anyonyavaśāt",
+   "surface_in_sandhi": "anyonyavaśād",
+   "lemma": "anyonyavaśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "anyonyasya vaśaḥ; tasmāt",
+    "members": [
+     "anyonya",
+     "vaśa"
+    ]
+   },
+   "note": "Ablative of cause/source: “from, because of, under” mutual control or dependence.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anyonyavaśa as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yena",
+   "surface_in_sandhi": "yena",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental relative pronoun, construed with pariṇāmaḥ/process: “by which/whereby.” The form could also be neuter; masculine is chosen by reference to pariṇāmaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vikalpaḥ",
+   "surface_in_sandhi": "vikalpaḥ",
+   "lemma": "vikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative subject of jāyate; translated contextually as “conceptual construction.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vikalpa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First member of the repeated demonstrative sa sa, giving a distributive sense, “this or that / each corresponding.”",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second member of the repeated demonstrative sa sa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "jāyate",
+   "surface_in_sandhi": "jāyate",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jan",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada form in intransitive kartari sense, “arises/is born”; not treated here as a Sanskrit passive.",
+   "verification": {
+    "status": "pass",
+    "detail": "jan Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The neuter nominative singular sarvabījam agrees with neuter nominative singular vijñānam. With MW s.v. sarva, “all, every,” and MW s.v. bīja, “seed” and “germ, primary cause or principle,” the compound is best taken as possessive/adjectival: consciousness is furnished with all seeds, not as an independent object “all seeds.”",
+   "options_considered": [
+    "bahuvrīhi adjective: “having all seeds / all-seeded”",
+    "karmadhāraya or appositional noun: “all seeds”",
+    "accusative object of a verb"
+   ],
+   "chosen": "sarvabījam = “all-seeded,” a bahuvrīhi adjective of vijñānam.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "sarvabījaṃ hi vijñānam",
+     "translation": "for consciousness is all-seeded"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The form pariṇāmaḥ is masculine nominative singular, and yāti is intransitive. This favors taking pariṇāmaḥ as the subject of the finite verb rather than as an accusative goal/object. The connection with vijñānam is contextual: the transformation is the transformation of the previously named consciousness.",
+   "options_considered": [
+    "pariṇāmaḥ as subject of yāti",
+    "pariṇāmaḥ as predicate noun in apposition to vijñānam",
+    "vijñānam as subject of yāti"
+   ],
+   "chosen": "pariṇāmaḥ is the nominative subject of yāti: “transformation proceeds.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "pariṇāmas tathā tathā yāty",
+     "translation": "transformation proceeds in such-and-such ways"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "MW s.v. tathā gives “in that manner, so, thus”; repetition naturally yields a distributive/variegated sense, coordinated with the later repeated demonstrative sa sa.",
+   "options_considered": [
+    "simple repetition for emphasis: “so, so”",
+    "distributive-variegated adverbial: “in such-and-such ways”",
+    "correlative with an unexpressed yathā"
+   ],
+   "chosen": "tathā tathā is a repeated adverbial: “in such-and-such ways.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "tathā tathā",
+     "translation": "in such-and-such ways"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "MW s.v. anyonya gives “one another, mutual,” and MW s.v. vaśa gives “authority, power, control.” The ablative singular -āt is therefore causal/source-like: the proceeding occurs because of, or under, mutual dependence/control.",
+   "options_considered": [
+    "causal ablative: “because of mutual influence/dependence”",
+    "literal possessive: “from the will of one another”",
+    "spatial/source ablative without causal force"
+   ],
+   "chosen": "anyonyavaśāt = “from mutual influence/dependence,” an ablative tatpuruṣa.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "anyonyavaśād",
+     "translation": "from mutual influence/dependence"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The instrumental relative pronoun links the preceding process of transformation with the arising of vikalpa. Since pariṇāmaḥ is masculine singular, masculine instrumental yena is a plausible agreement target, though the form is also neuter in isolation.",
+   "options_considered": [
+    "instrumental means/cause: “by which/whereby”",
+    "neuter adverbial: “whereby” referring to the whole preceding process",
+    "relative introducing a separate unspecified antecedent"
+   ],
+   "chosen": "yena is instrumental: “whereby/by which.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "yena vikalpaḥ sa sa jāyate",
+     "translation": "whereby this or that conceptual construction arises"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "The repeated masculine nominative singular demonstrative agrees with vikalpaḥ and gives a distributive series of particular constructions rather than one single repeated item.",
+   "options_considered": [
+    "literal repetition: “that, that vikalpa”",
+    "distributive demonstrative: “each such / this or that vikalpa”",
+    "emphatic demonstrative with no distributive force"
+   ],
+   "chosen": "sa sa is distributive: “this or that / each corresponding.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vikalpaḥ sa sa jāyate",
+     "translation": "this or that conceptual construction arises"
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J7",
+   "decision": "Although jāyate is middle in form and can be rendered idiomatically “is born,” it functions here as an intransitive present of √jan with vikalpaḥ as nominative subject. The instrumental yena supplies cause/means, not a grammatical passive agent.",
+   "options_considered": [
+    "kartari intransitive: “arises/is born”",
+    "karmani passive: “is produced”",
+    "bhāve impersonal: “there is arising”"
+   ],
+   "chosen": "jāyate is kartari/intransitive: “arises,” not a passive “is produced” with an expressed agent.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "vikalpaḥ sa sa jāyate",
+     "translation": "this or that conceptual construction arises"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For consciousness (vijñāna) is all-seeded;\ntransformation (pariṇāma) proceeds in such-and-such ways,\nthrough mutual influence;\nwhereby this or that conceptual construction (vikalpa) arises.",
+ "one_shot_delta": [
+  "Without commentary, sarvabījam could easily be flattened into the noun phrase “all seeds”; the grammar here supports taking it as an adjective of vijñānam, “all-seeded.”",
+  "A commentary-blind reading may make vijñānam the subject of yāti; the nominative pariṇāmaḥ plus intransitive yāti more straightforwardly yields “transformation proceeds.”",
+  "The technical force of vikalpa is vulnerable: a dictionary-only rendering might say “option/alternative,” while the Yogācāra context favors “conceptual construction,” though this ablation run cannot confirm that from bhāṣya evidence."
+ ],
+ "analyzer_disagreements": [
+  "The analyzer split sarva_bījam as sarva + bījam; I treat sarvabījam as one inflected compound stem, as required for compound analysis and supported by its agreement with vijñānam.",
+  "The analyzer split anyonya_vaśāt as anyonya + vaśāt; I treat anyonyavaśāt as one inflected compound stem, since it functions as a single ablative causal expression."
+ ],
+ "open_questions": [
+  "No commentary span was supplied in this ablation run, so the exact bhāṣya-supported force of sarvabīja, vikalpa, and the antecedent-scope of yena remains provisional."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4888,
+   "completion_tokens": 10170,
+   "reasoning_tokens": 7166
+  },
+  "est_cost": 0.1672,
+  "retrieval": {
+   "anchor": [
+    1134,
+    1135
+   ],
+   "span": [
+    1136,
+    1154
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

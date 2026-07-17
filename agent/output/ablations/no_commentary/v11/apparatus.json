@@ -1,0 +1,340 @@
+{
+ "verse": 11,
+ "analysis": [
+  {
+   "surface": "alobhāditrayam",
+   "surface_in_sandhi": "alobhāditrayaṃ",
+   "lemma": "alobhāditraya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "alobha ādir yasya tat trayam",
+    "members": [
+     "alobha",
+     "ādi",
+     "traya"
+    ]
+   },
+   "note": "Formally also Dvitiya Eka; construed here as Prathama Eka because it is a listed item under kuśalāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem alobhāditraya as Napumsaka/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vīryam",
+   "surface_in_sandhi": "vīryaṃ",
+   "lemma": "vīrya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Formally also Dvitiya Eka; construed as Prathama Eka in the nominative enumeration.",
+   "verification": {
+    "status": "pass",
+    "detail": "vīrya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "praśrabdhiḥ",
+   "surface_in_sandhi": "praśrabdhiḥ",
+   "lemma": "praśrabdhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "praśrabdhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sāpramādikā",
+   "surface_in_sandhi": "sāpramādikā",
+   "lemma": "sāpramādika",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "saha apramādādibhiḥ vartamānā",
+    "members": [
+     "sa",
+     "apramādika"
+    ]
+   },
+   "note": "Read as one sa-apramādika compound, an enumerative adjective agreeing by proximity with praśrabdhiḥ: ‘together with those beginning with apramāda’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sāpramādika as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "āhiṃsā",
+   "surface_in_sandhi": "āhiṃsā",
+   "lemma": "āhiṃsā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The supplied bhāṣya reading has long initial ā; semantically this is the non-harm term more commonly normalized as ahiṃsā.",
+   "verification": {
+    "status": "pass",
+    "detail": "āhiṃsā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kuśalāḥ",
+   "surface_in_sandhi": "kuśalāḥ",
+   "lemma": "kuśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized masculine plural: ‘wholesome factors / wholesome ones’; it does not directly modify the preceding feminine singular āhiṃsā.",
+   "verification": {
+    "status": "pass",
+    "detail": "kuśala Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kleśāḥ",
+   "surface_in_sandhi": "kleśā",
+   "lemma": "kleśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal visarga is lost before the following voiced r in sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "kleśa Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "rāgapratighamūḍhayaḥ",
+   "surface_in_sandhi": "rāgapratighamūḍhayaḥ",
+   "lemma": "rāgapratighamūḍhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "rāgaś ca pratighaś ca mūḍhiś ca",
+    "members": [
+     "rāga",
+     "pratigha",
+     "mūḍhi"
+    ]
+   },
+   "note": "The ending -ayaḥ is the Prathama Bahu of the feminine i-stem final member mūḍhi; the compound as a whole is an enumerative dvandva of kleśa-names.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem rāgapratighamūḍhi as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Treat the first expression as a single neuter nominative compound headed by traya, not as three independent listed words.",
+   "options_considered": [
+    "single compound: alobhādi-trayam, ‘triad beginning with alobha’",
+    "three separate words: alobha, ādi, trayam"
+   ],
+   "chosen": "alobhāditrayam = ‘the triad beginning with non-greed’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "alobhāditrayaṃ",
+     "translation": "Grammatically, trayaṃ is the neuter singular head, while alobha-ādi functions as ‘beginning with non-greed’; in the nominative list under kuśalāḥ this yields ‘the triad beginning with non-greed’."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Do not take kuśalāḥ as an adjective modifying āhiṃsā; it labels the whole preceding set.",
+   "options_considered": [
+    "kuśalāḥ directly qualifies āhiṃsā",
+    "kuśalāḥ is a substantivized predicate/heading for the listed items"
+   ],
+   "chosen": "kuśalāḥ is a substantivized masculine plural label: ‘the wholesome factors’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "āhiṃsā kuśalāḥ",
+     "translation": "āhiṃsā is feminine singular, whereas kuśalāḥ is masculine plural. The mismatch favors a substantivized plural, ‘wholesome ones/factors’, rather than direct adjectival agreement."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Prefer the compound analysis over splitting sā + apramādikā as a pronoun plus adjective.",
+   "options_considered": [
+    "sā + apramādikā, ‘she/that, beginning with apramāda’",
+    "sa-apramādikā modifying praśrabdhiḥ, ‘pliancy together with apramāda etc.’",
+    "sa-apramādikā modifying āhiṃsā across the pāda boundary"
+   ],
+   "chosen": "sāpramādikā is read as one sa-apramādika compound, ‘together with those beginning with apramāda’, agreeing with praśrabdhiḥ by proximity.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "praśrabdhiḥ sāpramādikā | āhiṃsā",
+     "translation": "Sandhi permits either sā + apramādikā or sa-apramādikā, but a separate demonstrative sā is syntactically idle in this compact list. A sa- compound gives the expected enumerative sense ‘with X and the rest’. Immediate adjacency favors agreement with praśrabdhiḥ, though the exact implicit members are not fixed by grammar alone."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Translate it as a list of afflictions—desire, hostility, and delusion—rather than as a modifier of a single ‘delusions’ noun.",
+   "options_considered": [
+    "dvandva: rāga + pratigha + mūḍhi",
+    "tatpuruṣa: delusions characterized by rāga and pratigha",
+    "bahuvrīhi: those whose delusions are rāga and pratigha"
+   ],
+   "chosen": "rāgapratighamūḍhayaḥ is an itaretara-dvandva: rāga, pratigha, and mūḍhi.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "kleśā rāgapratighamūḍhayaḥ",
+     "translation": "After the masculine plural heading kleśāḥ, the compound names members of the class. The final -ayaḥ points to feminine i-stem mūḍhi in nominative plural, and rāga/pratigha are natural kleśa-terms; MW also gives pratigha as anger/wrath/enmity in such contexts."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Analyze the printed form rather than normalizing silently to the common ahiṃsā.",
+   "options_considered": [
+    "normalize to ahiṃsā",
+    "retain and analyze āhiṃsā as printed"
+   ],
+   "chosen": "Keep the supplied reading āhiṃsā with long initial ā.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "āhiṃsā",
+     "translation": "The base text supplied for this run prints āhiṃsā. Although the standard lexical form is ahiṃsā, the apparatus records and translates the actual surface form."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "The wholesome factors (kuśalāḥ) are:\nthe triad beginning with non-greed (alobhāditraya), energy (vīrya),\npliancy (praśrabdhi), together with those beginning with heedfulness (apramāda),\nand non-harm (āhiṃsā).\n\nThe afflictions (kleśāḥ) are desire (rāga),\nhostility (pratigha), and delusion (mūḍhi).",
+ "one_shot_delta": [
+  "A too literal dictionary-first translation might render rāga as ‘color’ and pratigha as ‘obstruction’; the kleśa context instead calls for desire/passion and hostility/anger.",
+  "It might split sāpramādikā into sā + apramādikā and produce an awkward ‘she is beginning with non-carelessness’, rather than the enumerative ‘together with those beginning with apramāda’.",
+  "It might try to make kuśalāḥ modify āhiṃsā directly, missing the gender/number mismatch and the substantivized sense ‘wholesome factors’.",
+  "It might silently replace the printed āhiṃsā with the more common ahiṃsā without noting the reading."
+ ],
+ "analyzer_disagreements": [
+  "Consolidated the analyzer’s alobha_ādi_trayam into one inflected compound, alobhāditrayam, with traya as the neuter singular head.",
+  "Read sāpramādikā as a single sa-apramādika compound rather than the analyzer’s possible split sā + apramādikā; this better fits the compact enumeration.",
+  "Analyzed āhiṃsā as an independent Stri Prathama Eka subanta, not merely as a compound pre-member label.",
+  "Consolidated rāga_pratigha_mūḍhayaḥ into one dvandva compound; retained the analyzer’s insight that the final member is feminine i-stem mūḍhi, Prathama Bahu."
+ ],
+ "open_questions": [
+  "Without commentary, the precise members implied by -ādikā in sāpramādikā cannot be fixed from this verse alone.",
+  "The attachment of sāpramādikā to praśrabdhiḥ rather than to āhiṃsā is chosen by proximity and list-logic, but the bare grammar allows both feminine nouns.",
+  "The long initial ā of āhiṃsā is treated as the supplied reading; grammar alone does not decide whether it is orthographic, metrical, or a distinct textual form."
+ ],
+ "verification_summary": {
+  "pass": 8,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "no_commentary",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2948,
+   "completion_tokens": 17061,
+   "reasoning_tokens": 14334
+  },
+  "est_cost": 0.2648,
+  "retrieval": {
+   "anchor": [
+    575,
+    576
+   ],
+   "span": [
+    577,
+    681
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}
