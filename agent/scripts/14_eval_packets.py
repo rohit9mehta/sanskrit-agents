@@ -45,8 +45,9 @@ none is acceptable):
 3. **overall** — Which translation is the most faithful rendering of the
    verse overall (accuracy first, fluency second)?
 
-Fill the CSV template (one row per verse) and add free comments wherever a
-system does something notably right or wrong. Expected effort: 3–6 hours.
+Record your answers in the provided answer sheet (one row per verse) and add
+free comments wherever a system does something notably right or wrong.
+Expected effort: 3–6 hours.
 """
 
 
