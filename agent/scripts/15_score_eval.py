@@ -44,25 +44,55 @@ def kappa(a: list[str], b: list[str]) -> float:
     return (po - pe) / (1 - pe) if pe < 1 else 1.0
 
 
+# Excel answer sheets (scripts/16) use friendly headers; map them back.
+XLSX_HEADER_MAP = {
+    "Verse": "verse",
+    "Q1: Technical terms (A/B/C/tie)": "term_fidelity",
+    "Q2: Compounds (A/B/C/tie)": "compound_resolution",
+    "Q3: Overall (A/B/C/tie)": "overall",
+    "Comments (optional)": "comments",
+}
+
+
+def _rows_from_file(path: Path) -> list[dict]:
+    if path.suffix.lower() == ".xlsx":
+        from openpyxl import load_workbook
+
+        ws = load_workbook(path, read_only=True).active
+        rows = list(ws.iter_rows(values_only=True))
+        header_i = next(i for i, r in enumerate(rows)
+                        if r and str(r[0]).strip().lower() == "verse")
+        headers = [XLSX_HEADER_MAP.get(str(h).strip(), str(h).strip())
+                   for h in rows[header_i]]
+        return [
+            {h: ("" if v is None else str(v)) for h, v in zip(headers, r)}
+            for r in rows[header_i + 1:] if r and r[0] is not None
+        ]
+    with path.open() as f:
+        return list(csv.DictReader(f))
+
+
 def load_grader(path: Path, key: dict) -> dict:
     out = {}
-    with path.open() as f:
-        for row in csv.DictReader(f):
-            n = row["verse"].strip()
-            if not n:
-                continue
-            ans = {}
-            for c in CRITERIA:
-                v = (row.get(c) or "").strip().upper()
-                ans[c] = key[n].get(v, v.lower()) if v in ("A", "B", "C") else (v.lower() or None)
-            out[int(n)] = ans
+    for row in _rows_from_file(path):
+        n = str(row.get("verse", "")).strip()
+        if n.endswith(".0"):  # Excel numeric cells round-trip as floats
+            n = n[:-2]
+        if not n.isdigit():
+            continue
+        ans = {}
+        for c in CRITERIA:
+            v = (row.get(c) or "").strip().upper()
+            ans[c] = key[n].get(v, v.lower()) if v in ("A", "B", "C") else (v.lower() or None)
+        out[int(n)] = ans
     return out
 
 
 def main() -> int:
     key = json.loads((EVAL / "answer_key.json").read_text())["labels"]
     hard = set(json.loads((EVAL / "answer_key.json").read_text())["hard_subset"])
-    files = sorted(RESPONSES.glob("grader_*.csv")) if RESPONSES.exists() else []
+    files = (sorted(RESPONSES.glob("grader_*.csv")) + sorted(RESPONSES.glob("grader_*.xlsx"))
+             if RESPONSES.exists() else [])
     files = [f for f in files if "TEMPLATE" not in f.name]
     if not files:
         print("no grader responses in", RESPONSES, "— nothing to score yet")

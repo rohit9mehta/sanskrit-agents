@@ -106,26 +106,52 @@ def build_pdf() -> None:
     print(f"wrote {PDF}")
 
 
+HEADERS = [
+    "Verse",
+    "Q1: Technical terms (A/B/C/tie)",
+    "Q2: Compounds (A/B/C/tie)",
+    "Q3: Overall (A/B/C/tie)",
+    "Comments (optional)",
+]
+
+
 def build_sheet(path) -> None:
     wb = Workbook()
     ws = wb.active
     ws.title = "responses"
-    headers = ["verse", "term_fidelity", "compound_resolution", "overall", "comments"]
-    ws.append(headers)
-    for c, h in enumerate(headers, 1):
-        cell = ws.cell(row=1, column=c)
+
+    ws.merge_cells("A1:E1")
+    intro = ws["A1"]
+    intro.value = ("For each verse (see the PDF packet), answer the three questions "
+                   "by choosing A, B, C, or tie in each column. Leave blank only if "
+                   "no option is acceptable, and please say why in Comments.")
+    intro.font = Font(italic=True)
+    intro.alignment = Alignment(wrap_text=True, vertical="top")
+    ws.row_dimensions[1].height = 44
+
+    ws.append(HEADERS)
+    for c in range(1, 6):
+        cell = ws.cell(row=2, column=c)
         cell.font = Font(bold=True)
         cell.fill = PatternFill("solid", fgColor="DDDDDD")
+        cell.alignment = Alignment(wrap_text=True, vertical="top")
     for n in range(1, 31):
         ws.append([n, "", "", "", ""])
-    dv = DataValidation(type="list", formula1='"A,B,C,tie"', allow_blank=True)
+
+    dv = DataValidation(type="list", formula1='"A,B,C,tie"', allow_blank=True,
+                        showInputMessage=True, showErrorMessage=True)
+    dv.promptTitle = "Your judgment"
+    dv.prompt = "Choose A, B, C, or tie"
+    dv.errorTitle = "Invalid entry"
+    dv.error = "Please enter A, B, C, or tie"
     ws.add_data_validation(dv)
-    dv.add("B2:D31")
-    for col, width in zip("ABCDE", (8, 16, 20, 12, 60)):
+    dv.add("B3:D32")
+
+    for col, width in zip("ABCDE", (7, 15, 15, 15, 58)):
         ws.column_dimensions[col].width = width
-    for row in ws.iter_rows(min_row=2, max_row=31, min_col=5, max_col=5):
+    for row in ws.iter_rows(min_row=3, max_row=32, min_col=5, max_col=5):
         row[0].alignment = Alignment(wrap_text=True)
-    ws.freeze_panes = "A2"
+    ws.freeze_panes = "A3"
     wb.save(path)
     print(f"wrote {path}")
 
