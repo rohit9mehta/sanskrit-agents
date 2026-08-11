@@ -117,3 +117,5 @@
 {"ts": "2026-07-17T00:06:12+00:00", "tag": "reason-v29-nocomm", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 3627, "completion_tokens": 11556, "reasoning_tokens": 8704, "est_cost": 0.184221}
 {"ts": "2026-07-17T00:07:01+00:00", "tag": "reason-v29-nocomm-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 6468, "completion_tokens": 3823, "reasoning_tokens": 1024, "est_cost": 0.076749}
 {"ts": "2026-07-17T00:10:46+00:00", "tag": "reason-v30-nocomm", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 5285, "completion_tokens": 12602, "reasoning_tokens": 8704, "est_cost": 0.204885}
+{"ts": "2026-08-11T04:05:30+00:00", "tag": "reason-isa-1", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 6116, "completion_tokens": 11436, "reasoning_tokens": 6654, "est_cost": 0.189888}
+{"ts": "2026-08-11T04:07:03+00:00", "tag": "reason-isa-1-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 10902, "completion_tokens": 6906, "reasoning_tokens": 2048, "est_cost": 0.136296}

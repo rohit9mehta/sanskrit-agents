@@ -106,12 +106,17 @@ def forms_match(surface_slp1: str, derived: list[str]) -> str | None:
 
 
 def kosha_key_candidates(surface_slp1: str) -> list[str]:
-    """The kosha stores pausal/underlying finals (devas, not devaH)."""
+    """The kosha stores pausal/underlying finals (devas, not devaH); nasal
+    orthography also varies (kiYca vs kiMca)."""
     cands = [surface_slp1]
     if surface_slp1.endswith("H"):
         cands += [surface_slp1[:-1] + "s", surface_slp1[:-1] + "r"]
     if surface_slp1.endswith("M"):
         cands.append(surface_slp1[:-1] + "m")
+    for c in list(cands):
+        n = normalize_nasals(c)
+        if n not in cands:
+            cands.append(n)
     return cands
 
 
@@ -428,6 +433,23 @@ def verify_tinanta_claim(
                 f"for root {root_iast!r}{f' in gana {gana}' if gana else ''}]".strip(),
             )
         result = "pass" if hit else "fail"
+        # māṅ-yoge augmentless aorist/imperfect (P. 6.4.74 'na māṅyoge'):
+        # vidyut derives the augmented form (agfDaH); after mā the augment is
+        # dropped (mA gfDaH). If the claim is Lun/Lan and the surface equals a
+        # derived form minus its initial augment 'a', reclassify unsupported.
+        if result == "fail" and lakara in ("Lun", "Lan"):
+            want = normalize_nasals(surface_slp1)
+            if any(normalize_nasals(d).startswith("a")
+                   and normalize_nasals(d)[1:] == want for d in derived):
+                return _record(
+                    run_id=run_id, context=context, surface_iast=surface_iast,
+                    claim=claim, method="prakriya", result="unsupported",
+                    expected_forms=sorted({to_iast(t) for t in derived}),
+                    prakriya_rules=[],
+                    notes=f"{notes} [augmentless {lakara} after mā "
+                    "(P. 6.4.74 na māṅyoge) not modeled by vidyut; surface "
+                    "matches derived form minus augment]".strip(),
+                )
         return _record(
             run_id=run_id,
             context=context,

@@ -75,12 +75,12 @@ class VerifyReport:
         return "\n".join(lines)
 
 
-def _ctx(verse: int) -> dict:
-    return {"text": "trbh", "line": None, "verse": str(verse), "stage": "pipeline"}
+def _ctx(unit, text: str = "trbh") -> dict:
+    return {"text": text, "line": None, "verse": str(unit), "stage": "pipeline"}
 
 
-def verify_word(w: WordAnalysis, verse: int, run_id: str) -> WordResult:
-    ctx = _ctx(verse)
+def verify_word(w: WordAnalysis, verse, run_id: str, text: str = "trbh") -> WordResult:
+    ctx = _ctx(verse, text)
     m = w.morph
     try:
         if w.samasa is not None and m.pos == "avyaya":
@@ -186,5 +186,7 @@ def verify_word(w: WordAnalysis, verse: int, run_id: str) -> WordResult:
         return WordResult(w.surface, "tool_error", f"{type(e).__name__}: {e}")
 
 
-def pipeline_verify(app: Apparatus, run_id: str) -> VerifyReport:
-    return VerifyReport([verify_word(w, app.verse, run_id) for w in app.analysis])
+def pipeline_verify(app, run_id: str, text: str = "trbh") -> VerifyReport:
+    """Accepts Apparatus (verse: int) or LibApparatus (unit: str)."""
+    uid = getattr(app, "unit", None) or getattr(app, "verse", "?")
+    return VerifyReport([verify_word(w, uid, run_id, text) for w in app.analysis])

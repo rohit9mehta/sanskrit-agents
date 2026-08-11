@@ -187,6 +187,64 @@ Variant readings (skeleton-diff hunks): {variants}{shared}
 Produce the apparatus now."""
 
 
+PROMPT_V2_PATH = AGENT_DIR / "prompts" / "reasoner_v2.md"
+
+
+def _lib_user_turn(lt, unit, analyze: dict, mw: dict) -> str:
+    analyze_txt = json.dumps(
+        {k: v for k, v in analyze.items() if k != "slm_parsed"},
+        ensure_ascii=False, indent=1)
+    mw_txt = "\n".join(
+        f"- {lem}: " + " | ".join(f"[{e['citation']}] {e['text']}" for e in entries)
+        for lem, entries in mw.items()) or "none retrieved"
+    caveats = lt.source.get("caveats")
+    caveat_note = f"\nSOURCE CAVEATS: {caveats}" if caveats else ""
+    comm = (unit.commentary_numbered()
+            or "(the commentary is silent on this unit — grammar and dictionary only)")
+    return f"""## UNIT {unit.id} of {lt.title}{caveat_note}
+
+Set `unit` to: {unit.id}
+
+{unit.mula}
+
+## ANALYZE (ByT5-Sanskrit on the unit text)
+
+{analyze_txt}
+
+## COMMENTARY on this unit (cite these line numbers; tag: {lt.citation_tag} {unit.id})
+
+{comm}
+
+## DICTIONARY (MW, cite as given)
+
+{mw_txt}
+
+Produce the apparatus now."""
+
+
+def reason_unit(
+    lt, unit, analyze: dict, mw: dict,
+    feedback: Optional[str] = None,
+    prior=None,
+):
+    from .schema import LibApparatus
+
+    messages = [
+        {"role": "system", "content": PROMPT_V2_PATH.read_text(encoding="utf-8")},
+        {"role": "user", "content": _lib_user_turn(lt, unit, analyze, mw)},
+    ]
+    if feedback and prior is not None:
+        messages += [
+            {"role": "assistant", "content": prior.model_dump_json()},
+            {"role": "user", "content":
+                "The Pāṇinian verifier (vidyut-prakriya) rejected these claims:\n"
+                f"{feedback}\n\nRevise the apparatus per the system instructions "
+                "(correct only what is wrong; keep everything else stable)."},
+        ]
+    tag = f"reason-{lt.slug}-{unit.id}" + ("-retry" if feedback else "")
+    return _chat(messages, LibApparatus, tag)
+
+
 def reason(
     bundle: RetrievalBundle,
     feedback: Optional[str] = None,

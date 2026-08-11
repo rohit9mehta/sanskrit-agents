@@ -72,6 +72,24 @@ class Justification(Strict):
     depends_on_commentary: bool
 
 
+class LibApparatus(Strict):
+    """Library-text variant: units are strings ('2.11', '1.2', '7')."""
+
+    unit: str
+    analysis: list[WordAnalysis]
+    justifications: list[Justification]
+    translation: str = Field(
+        description="Faithful English translation shaped like the original"
+    )
+    one_shot_delta: list[str] = Field(
+        description="What a commentary-blind translation would plausibly get wrong"
+    )
+    analyzer_disagreements: list[str] = Field(
+        description="Where this analysis overrides the ByT5 tagger, with reason"
+    )
+    open_questions: list[str]
+
+
 class Apparatus(Strict):
     verse: int
     analysis: list[WordAnalysis]

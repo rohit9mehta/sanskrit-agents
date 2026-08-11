@@ -35,6 +35,19 @@ gaps; comm line → nearest trbh line):
 - comm 382 → trbh 802: `ayañ ca kaukṛtyasparśasaṃniśrayadānakarmakaḥ dharmataiṣā yad`
 - comm 668 → trbh 1494: `api pratipadyate na kevalaṃ grāhyābhāvam evaṃ hi`
 
+## Library texts (Phase 3 expansion; all GRETIL plaintext, CC BY-NC-SA 4.0; fetched 2026-08-06)
+- sa_bhagavadgItA-comm.txt — Gītā with Śaṅkara's bhāṣya; verses marked
+  `||bhg_C.V||`, commentary between verse blocks. 621 verse markers, 72 in ch.2.
+  (Also fetched: sa_bhagavadgItA-4comm.txt for future multi-commentary work.)
+- sa_pataJjali-yogasUtra-with-bhASya.txt — Pātañjala-yogaśāstra (sūtras +
+  Vyāsa-bhāṣya), Āgāśe 1904 Ānandāśrama ed.; sūtras marked `|| ys_P.S ||`,
+  bhāṣya follows each. 193 markers.
+- sa_IzopaniSad-...-comm.txt — Īśopaniṣad (Kāṇva) with Śaṅkara-ascribed
+  bhāṣya; mantras `|| isup_N ||`, bhāṣya closed by `//isupbh_N//`.
+  CAVEATS (from file header): commentary NOT proofread; word boundaries
+  largely unsegmented (custom-Devanagari conversion). Mūla checked against
+  Limaye/Vadekar 1958. Flagged in apparatus provenance.
+
 ## Hugging Face models (cached in ~/.cache/huggingface)
 - chronbmm/sanskrit5-multitask (~2.3 GB) — ByT5-Sanskrit multitask (EMNLP Findings 2024).
   Task prefixes: `S ` segmentation, `L ` lemma, `M ` morphosyntax, `SL `, `SM `, `SLM `.

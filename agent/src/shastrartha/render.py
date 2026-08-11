@@ -16,11 +16,13 @@ def _morph_str(w: dict) -> str:
     return s
 
 
-def render_apparatus(d: dict, bundle=None) -> str:
+def render_apparatus(d: dict, bundle=None, title: str | None = None,
+                     tag: str = "trbh") -> str:
     run = d.get("run", {})
     vs = d.get("verification_summary", {})
+    uid = d.get("unit") or d.get("verse")
     lines = [
-        f"# Triṃśikā v.{d['verse']} — commentary-grounded translation with apparatus",
+        title or f"# Triṃśikā v.{uid} — commentary-grounded translation with apparatus",
         "",
         f"Pipeline run — reasoner: `{run.get('model')}`, attempts: {run.get('attempts')}, "
         f"verification: {vs.get('pass', 0)} pass / {vs.get('fail', 0)} fail / "
@@ -49,7 +51,7 @@ def render_apparatus(d: dict, bundle=None) -> str:
         lines += [f"**{j['id']}. {j['decision']}**",
                   f"- chosen: {j['chosen']} (depends on commentary: {dep})"]
         for e in j["evidence"]:
-            lines.append(f"- trbh {e['lines']}: `{e['quote']}` — {e['translation']}")
+            lines.append(f"- {tag} {e['lines']}: `{e['quote']}` — {e['translation']}")
         lines.append("")
     lines += ["## Translation", "", f"> {d['translation']}", ""]
     if d.get("analyzer_disagreements"):
