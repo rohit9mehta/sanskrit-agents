@@ -74,10 +74,12 @@ def _log_usage(tag: str, usage: dict) -> None:
         f.write(json.dumps(rec) + "\n")
 
 
-def _chat(messages: list[dict], response_format, tag: str, use_cache: bool = True):
+def _chat(messages: list[dict], response_format, tag: str, use_cache: bool = True,
+          effort: str | None = None):
     """Structured-output chat call with disk cache. Returns (parsed_or_text, usage)."""
+    effort = effort or REASONING_EFFORT
     payload = {
-        "model": MODEL, "messages": messages, "effort": REASONING_EFFORT,
+        "model": MODEL, "messages": messages, "effort": effort,
         "schema": getattr(response_format, "__name__", str(response_format)),
     }
     key = hashlib.sha256(
@@ -92,8 +94,8 @@ def _chat(messages: list[dict], response_format, tag: str, use_cache: bool = Tru
 
     kwargs = dict(model=MODEL, messages=messages,
                   max_completion_tokens=MAX_COMPLETION_TOKENS)
-    if REASONING_EFFORT:
-        kwargs["reasoning_effort"] = REASONING_EFFORT
+    if effort:
+        kwargs["reasoning_effort"] = effort
     try:
         resp = _do_call(kwargs, response_format)
     except Exception as e:

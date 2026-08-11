@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "shastrartha-demo",
+      "runtimeExecutable": "/Users/rohitm/.local/bin/uv",
+      "runtimeArgs": [
+        "run",
+        "--directory",
+        "/Users/rohitm/Documents/Projects/Sanskrit/agent",
+        "python",
+        "scripts/20_serve.py"
+      ],
+      "port": 8008
+    }
+  ]
+}
