@@ -1,0 +1,393 @@
+{
+ "unit": "2.63",
+ "analysis": [
+  {
+   "surface": "krodhāt",
+   "surface_in_sandhi": "krodhād",
+   "lemma": "krodha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of cause/source in the mental sequence.",
+   "verification": {
+    "status": "pass",
+    "detail": "krodha Pum/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhavati",
+   "surface_in_sandhi": "bhavati",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "bhū Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sammohaḥ",
+   "surface_in_sandhi": "saṃmohaḥ",
+   "lemma": "sammoha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Corrected after verifier: the Pāṇinianly verified pausal form and lemma are sammohaḥ/sammoha; the printed unit and commentary use the common orthography saṃmoha. Śaṅkara glosses the term not as mere confusion but as aviveka concerning kārya and akārya.",
+   "verification": {
+    "status": "pass",
+    "detail": "sammoha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sammohāt",
+   "surface_in_sandhi": "saṃmohāt",
+   "lemma": "sammoha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Corrected after verifier: the verified pausal form is sammohāt, while the printed form is saṃmohāt. Ablative of cause/source: from such bewilderment.",
+   "verification": {
+    "status": "pass",
+    "detail": "sammoha Pum/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "smṛti-vibhramaḥ",
+   "surface_in_sandhi": "smṛti-vibhramaḥ",
+   "lemma": "smṛti-vibhrama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "smṛter vibhramaḥ",
+    "members": [
+     "smṛti",
+     "vibhrama"
+    ]
+   },
+   "note": "Vibhrama is glossed as bhraṃśa, specifically the non-arising of the taught memory when its occasion is present. The verifier reported only a compound tool_error/unsupported tatpuruṣa relation, not an alternate derivation; the standard tatpuruṣa analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem smṛti-vibhrama as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "smṛti-bhraṃśāt",
+   "surface_in_sandhi": "smṛti-bhraṃśād",
+   "lemma": "smṛti-bhraṃśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "smṛter bhraṃśaḥ",
+    "members": [
+     "smṛti",
+     "bhraṃśa"
+    ]
+   },
+   "note": "Ablative of cause/source: from the lapse or loss of memory. The verifier reported only a compound tool_error/unsupported tatpuruṣa relation, not an alternate derivation; the standard tatpuruṣa analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem smṛti-bhraṃśa as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "buddhi-nāśaḥ",
+   "surface_in_sandhi": "buddhi-nāśo",
+   "lemma": "buddhi-nāśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "buddher nāśaḥ",
+    "members": [
+     "buddhi",
+     "nāśa"
+    ]
+   },
+   "note": "Śaṅkara defines this as the incapacity of the inner faculty/buddhi for discrimination of kārya and akārya. The verifier reported only a compound tool_error/unsupported tatpuruṣa relation, not an alternate derivation; the standard tatpuruṣa analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem buddhi-nāśa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "buddhi-nāśāt",
+   "surface_in_sandhi": "buddhi-nāśāt",
+   "lemma": "buddhi-nāśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "buddher nāśaḥ",
+    "members": [
+     "buddhi",
+     "nāśa"
+    ]
+   },
+   "note": "Ablative of cause/source: because of the destruction/incapacity of discernment. The verifier reported only a compound tool_error/unsupported tatpuruṣa relation, not an alternate derivation; the standard tatpuruṣa analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem buddhi-nāśa as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "praṇaśyati",
+   "surface_in_sandhi": "praṇaśyati",
+   "lemma": "naś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "naś",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "The implied subject is the puruṣa; Śaṅkara takes the meaning as becoming unfit for puruṣārtha, not merely physical dying.",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-naś Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate saṃmoha as a moral-practical bewilderment, not merely as generic unconsciousness or mental confusion.",
+   "options_considered": [
+    "saṃmohaḥ = general stupefaction or unconsciousness",
+    "saṃmohaḥ = avivekaḥ kāryākārya-viṣayaḥ, non-discrimination regarding what is to be done and not done"
+   ],
+   "chosen": "saṃmohaḥ is “bewilderment” specifically as aviveka, non-discrimination about kārya and akārya.",
+   "evidence": [
+    {
+     "lines": [
+      4,
+      5
+     ],
+     "quote": "krodhād bhavati saṃmoho 'vivekaḥ kāryākārya-viṣayaḥ |\nkruddho hi saṃmūḍhaḥ san gurum apy ākrośati |",
+     "translation": "From anger there arises saṃmoha—non-discrimination whose object is what should and should not be done. For an angry man, being bewildered, abuses even a teacher."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Render smṛti-vibhramaḥ as “lapse of memory,” not as mere agitation, and not as confusion about the Smṛti textual corpus.",
+   "options_considered": [
+    "smṛti-vibhramaḥ = a general disturbance or flurry of mind",
+    "smṛti-vibhramaḥ = confusion about Smṛti scripture",
+    "smṛti-vibhramaḥ = lapse/non-arising of the taught moral memory"
+   ],
+   "chosen": "smṛti-vibhramaḥ is a lapse/derangement of the memory generated by scriptural and teacherly instruction; vibhrama is glossed as bhraṃśa and as non-arising when the occasion for memory is present.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "saṃmohāt smṛti-vibhramaḥ śāstrācāryopadeśāhita-saṃskāra-janitāyāḥ smṛte syāt vibhramo bhraṃśaḥ smṛty-utpatti-nimitta-prāptau anutpattiḥ |",
+     "translation": "From bewilderment comes smṛti-vibhrama: for the memory produced by saṃskāras deposited by scriptural and teacherly instruction, there is vibhrama, a bhraṃśa—when the cause for the arising of memory is present, it does not arise. The printed smṛte is understood as the genitive smṛteḥ in this construction."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Take buddhi-nāśa as loss of discriminative fitness, not literal annihilation of the intellect-substance.",
+   "options_considered": [
+    "buddhi-nāśaḥ = physical destruction or annihilation of the intellect",
+    "buddhi-nāśaḥ = incapacity of the inner instrument/buddhi for practical discrimination"
+   ],
+   "chosen": "smṛti-bhraṃśāt and buddhi-nāśaḥ are linked as loss of memory causing the destruction of buddhi; buddhi-nāśa is the incapacity of the inner faculty for kāryākārya-viveka.",
+   "evidence": [
+    {
+     "lines": [
+      7,
+      8
+     ],
+     "quote": "tataḥ smṛti-bhraṃśāt buddhi-nāśaḥ buddhi-nāśaḥ |\nkāryākārya-viṣaya-vivekāyogyatā antaḥ-karaṇasya buddher nāśa ucyate |",
+     "translation": "Thereupon, from the loss of memory, comes buddhi-nāśa. The destruction of the buddhi is said to be the unfitness of the inner faculty, the buddhi, for discriminating what is to be done and not done."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Translate “he is lost/ruined,” with Śaṅkara’s explanation that this means becoming unfit for the human end, rather than simply “he dies.”",
+   "options_considered": [
+    "praṇaśyati = he physically dies",
+    "praṇaśyati = he disappears from existence",
+    "praṇaśyati = he is spiritually/practically ruined, unfit for puruṣārtha"
+   ],
+   "chosen": "praṇaśyati means that the implied person becomes lost in the sense of becoming unfit for puruṣārtha.",
+   "evidence": [
+    {
+     "lines": [
+      9,
+      10,
+      11,
+      12
+     ],
+     "quote": "buddher nāśāt praṇaśyati |\ntāvad eva hi puruṣaḥ yāvad antaḥkaraṇaṃ tadīyaṃ kāryākārya-viṣaya-viveka-yogyam |\ntad-ayogyatve naṣṭa eva puruṣo bhavati |\nataḥ tasyāntaḥ-karaṇasya buddher nāśāt praṇaśyati puruṣārthāyogyo bhavatīty arthaḥ ||bhgs_2.62-63||",
+     "translation": "Because of the destruction of buddhi he perishes. A person is such only so long as his inner faculty is fit for discriminating what is to be done and not done. When it is unfit for that, the person is indeed lost. Therefore, from the destruction of that inner faculty, the buddhi, he perishes—meaning, he becomes unfit for puruṣārtha."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Render the ablatives with “from” in the sense of cause/source in an ordered psychological chain.",
+   "options_considered": [
+    "ablatives as merely temporal “after” phrases",
+    "ablatives as physical separation/source",
+    "ablatives as causal links in the chain"
+   ],
+   "chosen": "The repeated pañcamī forms express a causal succession: from anger comes bewilderment; from bewilderment, memory-lapse; from memory-loss, buddhi-destruction; from that, ruin.",
+   "evidence": [
+    {
+     "lines": [
+      4,
+      6,
+      7,
+      9,
+      12
+     ],
+     "quote": "krodhād bhavati saṃmoho 'vivekaḥ kāryākārya-viṣayaḥ |\nsaṃmohāt smṛti-vibhramaḥ śāstrācāryopadeśāhita-saṃskāra-janitāyāḥ smṛte syāt vibhramo bhraṃśaḥ smṛty-utpatti-nimitta-prāptau anutpattiḥ |\ntataḥ smṛti-bhraṃśāt buddhi-nāśaḥ buddhi-nāśaḥ |\nbuddher nāśāt praṇaśyati |\nataḥ tasyāntaḥ-karaṇasya buddher nāśāt praṇaśyati puruṣārthāyogyo bhavatīty arthaḥ ||bhgs_2.62-63||",
+     "translation": "From anger arises non-discrimination; from bewilderment, lapse of memory; then from the loss of memory, destruction of buddhi; from the destruction of buddhi, he perishes; therefore, from the destruction of that inner faculty, he becomes unfit for puruṣārtha."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "From anger arises bewilderment (saṃmoha); from bewilderment, the lapse of memory (smṛti-vibhrama).\nFrom the loss of memory comes the destruction of discernment (buddhi-nāśa); from the destruction of discernment, he is lost—unfit for the human end (puruṣārtha).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might leave saṃmoha as vague “delusion”; Śaṅkara specifies non-discrimination about what is to be done and not done.",
+  "It might translate smṛti-vibhrama as ordinary forgetfulness; Śaṅkara defines it as the failure of scripturally and teacher-formed memory to arise when needed.",
+  "It might take buddhi-nāśa as literal destruction of intellect; Śaṅkara makes it incapacity of the inner faculty for practical discrimination.",
+  "It might translate praṇaśyati simply as “he dies/perishes”; Śaṅkara explains it as becoming unfit for puruṣārtha."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives praṇaśyati as praṇaś; here the verbal root is separated as bare √naś with prefix pra, as required by the instructions and by the formation pra-ṇaśyati.",
+  "ByT5 analyzes the compound members separately with Cp/FCp tags; here smṛti-vibhramaḥ, smṛti-bhraṃśāt, buddhi-nāśaḥ, and buddhi-nāśāt are represented as whole compound subantas, with member analysis under samāsa.",
+  "After the verifier report, the pausal verified forms/lemma for the printed saṃmohaḥ and saṃmohāt are normalized to sammohaḥ/sammohāt, lemma sammoha. The printed forms are retained under surface_in_sandhi."
+ ],
+ "open_questions": [
+  "Line 6 prints “smṛte syāt”; the construction and sense require genitive “smṛteḥ syāt” (“of memory”). The apparatus preserves the printed reading in quotations and notes the likely defect."
+ ],
+ "verification_summary": {
+  "pass": 9,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12071,
+   "completion_tokens": 15692,
+   "reasoning_tokens": 9186
+  },
+  "est_cost": 0.2716,
+  "reverified": true
+ },
+ "mula": "krodhād bhavati saṃmohaḥ saṃmohāt smṛti-vibhramaḥ | smṛti-bhraṃśād buddhi-nāśo buddhi-nāśāt praṇaśyati",
+ "commentary_lines": [
+  "dhyāyataś cintayato viṣayāt śabdādīn viṣaya-viśeṣān ālocayataḥ puṃsaḥ puruṣasya saṅgaḥ āsaktiḥ prītis teṣu viṣayeṣu upajāyate utpadyate |",
+  "saṅgāt prīteḥ saṃjāyate samutpadyate kāmas tṛṣṇā |",
+  "kāmāt kutaścit pratihatāt krodho 'bhijāyate |",
+  "krodhād bhavati saṃmoho 'vivekaḥ kāryākārya-viṣayaḥ |",
+  "kruddho hi saṃmūḍhaḥ san gurum apy ākrośati |",
+  "saṃmohāt smṛti-vibhramaḥ śāstrācāryopadeśāhita-saṃskāra-janitāyāḥ smṛte syāt vibhramo bhraṃśaḥ smṛty-utpatti-nimitta-prāptau anutpattiḥ |",
+  "tataḥ smṛti-bhraṃśāt buddhi-nāśaḥ buddhi-nāśaḥ |",
+  "kāryākārya-viṣaya-vivekāyogyatā antaḥ-karaṇasya buddher nāśa ucyate |",
+  "buddher nāśāt praṇaśyati |",
+  "tāvad eva hi puruṣaḥ yāvad antaḥkaraṇaṃ tadīyaṃ kāryākārya-viṣaya-viveka-yogyam |",
+  "tad-ayogyatve naṣṭa eva puruṣo bhavati |",
+  "ataḥ tasyāntaḥ-karaṇasya buddher nāśāt praṇaśyati puruṣārthāyogyo bhavatīty arthaḥ ||bhgs_2.62-63||",
+  "sarvānarthasya mūlamuktaṃ viṣayābhidhyānam |",
+  "atha idānīṃ mokṣakāraṇamidamucyate --"
+ ]
+}

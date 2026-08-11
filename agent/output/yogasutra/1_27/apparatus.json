@@ -1,0 +1,205 @@
+{
+ "unit": "1.27",
+ "analysis": [
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasya",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular masculine, referring to Īśvara as fixed by the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vācakaḥ",
+   "surface_in_sandhi": "vācakaḥ",
+   "lemma": "vācaka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominal: the ‘designator/signifier,’ not an agent ‘speaker.’",
+   "verification": {
+    "status": "pass",
+    "detail": "vācaka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "praṇavaḥ",
+   "surface_in_sandhi": "praṇavaḥ",
+   "lemma": "praṇava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Lexically the sacred syllable Oṃ; the commentary here is chiefly concerned with its relation to Īśvara as vācaka/vācya.",
+   "verification": {
+    "status": "pass",
+    "detail": "praṇava Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The genitive pronoun is not left as an unspecified ‘of that’; Vyāsa explicitly states that Īśvara is the vācya, the object denoted by praṇava. Hence the translation supplies ‘[Īśvara]’ after ‘him.’",
+   "options_considered": [
+    "unspecified ‘of that/it’",
+    "‘of him,’ namely Īśvara"
+   ],
+   "chosen": "tasya = ‘of him,’ i.e. of Īśvara",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vācya īśvaraḥ praṇavasya.",
+     "translation": "Īśvara is the denoted object of praṇava."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Although vācaka can mean ‘speaker’ in other contexts, here the bhāṣya repeatedly frames the term in the technical pair vācya/vācaka, ‘denoted object/designator.’ Therefore ‘designator’ is required.",
+   "options_considered": [
+    "‘speaker’ or ‘utterer’",
+    "‘designator/signifier’"
+   ],
+   "chosen": "vācakaḥ = ‘designator/signifier’",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3
+     ],
+     "quote": "kim asya saṃketakṛtaṃ vācyavācakatvam atha pradīpaprakāśavad avasthitam iti. sthito 'sya vācyasya vācakena saha saṃbandhaḥ.",
+     "translation": "Is this relation of denoted object and designator made by convention, or is it established like lamp and light? The relation of this denoted object with its designator is established."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "sargāntareṣv api vācyavācakaśaktyapekṣas tathaiva saṃketaḥ kriyate.",
+     "translation": "Even in other creations, convention is made in the same way with regard to the powers of denoted object and designator."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Line 2 raises the alternative that the vācya-vācaka relation might be saṃketakṛta, ‘made by convention’; line 3 answers that the relation is sthita, established. The father-son analogy and the appeal to nityatva reinforce that convention manifests or recognizes an already established relation rather than inventing it.",
+   "options_considered": [
+    "an arbitrary name established by agreement alone",
+    "an established designator-denoted relation recognized by convention"
+   ],
+   "chosen": "The praṇava is not merely an arbitrary conventional name for Īśvara; its word-object relation is treated as established.",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3
+     ],
+     "quote": "kim asya saṃketakṛtaṃ vācyavācakatvam atha pradīpaprakāśavad avasthitam iti. sthito 'sya vācyasya vācakena saha saṃbandhaḥ.",
+     "translation": "Is this relation of denoted object and designator made by convention, or is it established like lamp and light? The relation of this denoted object with its designator is established."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "yathāvasthitaḥ pitṛputrayoḥ saṃbandhaḥ saṃketenāvadyotyate, ayam asya pitā, ayam asya putra iti.",
+     "translation": "Just as the relation of father and son, already existing, is illuminated by convention: ‘this is his father, this is his son.’"
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "saṃpratipattinityatayā nityaḥ śabdārthasaṃbandha ity āgaminaḥ pratijānate.",
+     "translation": "The āgamins maintain that the relation of word and meaning is eternal because common recognition is eternal."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The identification of praṇava as the sacred syllable Oṃ is lexical/traditional, supported by MW s.v. praṇava, 660,3 (‘the mystical or sacred syllable om’). The commentary does not define the sound-form here, so this choice does not depend on the cited bhāṣya lines.",
+   "options_considered": [
+    "leave praṇava untranslated",
+    "render praṇava as the sacred syllable Oṃ"
+   ],
+   "chosen": "praṇavaḥ = ‘the praṇava (Oṃ)’",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Of him [Īśvara], the designator is the praṇava (Oṃ).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might translate vācakaḥ as ‘speaker’ or ‘one who utters’; the bhāṣya’s vācya/vācaka discussion shows it means ‘designator/signifier.’",
+  "It might leave tasya vague as ‘of that’; the bhāṣya fixes the referent as Īśvara.",
+  "It might treat Oṃ as a merely conventional label; Vyāsa explicitly chooses an established word-object relation over a merely convention-made one."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [
+  "Commentary line 4 prints īśravasya, apparently a textual/printing error for īśvarasya; the main decisions above do not rely on that line."
+ ],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2759,
+   "completion_tokens": 4871,
+   "reasoning_tokens": 3397
+  },
+  "est_cost": 0.0813,
+  "reverified": true
+ },
+ "mula": "26 tasya vācakaḥ praṇavaḥ",
+ "commentary_lines": [
+  "vācya īśvaraḥ praṇavasya.",
+  "kim asya saṃketakṛtaṃ vācyavācakatvam atha pradīpaprakāśavad avasthitam iti.",
+  "sthito 'sya vācyasya vācakena saha saṃbandhaḥ.",
+  "saṃketas tv īśravasya sthitam evārtham abhinayati.",
+  "yathāvasthitaḥ pitṛputrayoḥ saṃbandhaḥ saṃketenāvadyotyate, ayam asya pitā, ayam asya putra iti.",
+  "sargāntareṣv api vācyavācakaśaktyapekṣas tathaiva saṃketaḥ kriyate.",
+  "saṃpratipattinityatayā nityaḥ śabdārthasaṃbandha ity āgaminaḥ pratijānate.",
+  "1.27",
+  "vijñātavācyavācakatvasya yoginaḥ"
+ ]
+}

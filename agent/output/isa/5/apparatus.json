@@ -1,0 +1,583 @@
+{
+ "unit": "5",
+ "analysis": [
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of ejati; Śaṅkara takes the repeated tad as the previously introduced ātmatattva.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ejati",
+   "surface_in_sandhi": "ejati",
+   "lemma": "ej",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ej",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Glossed by Śaṅkara as calati, but the whole clause is interpreted as motion only ‘as it were’ in relation to the following na ejati.",
+   "verification": {
+    "status": "pass",
+    "detail": "ej Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tan",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Final -t is assimilated before na in the printed tan naijati.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "naijati",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negator; sandhied with ejati as naijati.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ejati",
+   "surface_in_sandhi": "naijati",
+   "lemma": "ej",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ej",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Second member of sandhied na + ejati; Śaṅkara glosses the negated verb as svato naiva calati.",
+   "verification": {
+    "status": "pass",
+    "detail": "ej Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the predicative locative dūre.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dūre",
+   "surface_in_sandhi": "dūre",
+   "lemma": "dūra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicative/adverbial locative: ‘at a distance, far’.",
+   "verification": {
+    "status": "pass",
+    "detail": "dūra Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the predicative locative antike.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "u",
+   "surface_in_sandhi": "v",
+   "lemma": "u",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed as v before antike; Śaṅkara explicitly gives the chheda tad u antike.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "antike",
+   "surface_in_sandhi": "antike",
+   "lemma": "antika",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicative/adverbial locative: ‘in proximity, near’.",
+   "verification": {
+    "status": "pass",
+    "detail": "antika Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject with antar: ‘that is within’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "antar",
+   "surface_in_sandhi": "antar",
+   "lemma": "antar",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable adverb/preposition, construed with the genitive asya sarvasya; Śaṅkara glosses it by abhyantare.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asya",
+   "surface_in_sandhi": "asya",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on antar; with sarvasya = ‘of all this’.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvasya",
+   "surface_in_sandhi": "sarvasya",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular agreeing with asya/jagataḥ in Śaṅkara’s gloss.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject with bāhyataḥ: ‘that is outside’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "u",
+   "surface_in_sandhi": "u",
+   "lemma": "u",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Particle; Śaṅkara’s tadu api shows the sense ‘also/too’ here.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sarvasya",
+   "surface_in_sandhi": "sarvasyāsya",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First member of the sandhied phrase sarvasya + asya → sarvasyāsya; genitive governed by bāhyataḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "asya",
+   "surface_in_sandhi": "sarvasyāsya",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second member of sarvasya + asya → sarvasyāsya; genitive governed by bāhyataḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "bāhyataḥ",
+   "surface_in_sandhi": "bāhyataḥ",
+   "lemma": "bāhyatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable ‘outside/on the outside of’, here with the genitive sarvasya asya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The pronoun is not translated as a merely loose deictic ‘that thing’; it points back to the already introduced reality of the Self. This governs the whole verse’s subject.",
+   "options_considered": [
+    "ordinary deictic ‘that’",
+    "the previously introduced Self/Brahman-reality"
+   ],
+   "chosen": "The repeated tat refers to the Self-reality, the ātmatattva under discussion.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tadātmatattvaṃ yatprakṛtaṃ",
+     "translation": "‘That’ is the reality of the Self which is under discussion."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Although √ej can be rendered in more than one way, Śaṅkara glosses ejati with calati and immediately denies real motion from the Self’s own standpoint. Therefore the translation preserves the verbal contrast while marking the apparent character of the motion.",
+   "options_considered": [
+    "literal real movement",
+    "‘shines’ for ejati",
+    "apparent movement together with intrinsic immobility"
+   ],
+   "chosen": "ejati is ‘stirs/moves’, but only ‘as it were’; na ejati means ‘does not move in itself’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tadejati calati tadeva ca naijati svato naiva calati svato 'calameva sat calatīvetyarthaḥ",
+     "translation": "‘That ejati’ means ‘it moves’; and that very one ‘does not ejati’: in itself it does not move at all; being in itself unmoving, it moves as it were—this is the meaning."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The far/near opposition is not merely spatial. Śaṅkara explains remoteness by unattainability for the unknowing, and nearness by being the very Self of knowers. The printed v is the sandhi-form of u before antike, as the commentary’s chheda states.",
+   "options_considered": [
+    "purely spatial distance and proximity",
+    "epistemic remoteness and self-nearness, with u as ‘too/also’"
+   ],
+   "chosen": "dūre and antike are predicative locatives: far for the ignorant, very near for knowers; tad v antike must be divided as tad u antike.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "kiñca taddūre varṣakoṭiśatairapyaviduṣāmaprāpyatvād dūra iva",
+     "translation": "Moreover, it is far: because for the unknowing it is unattainable even in hundreds of crores of years, it is as if far."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tad u antike iti cchedaḥ",
+     "translation": "The division is: tad u antike."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tadvantike samīpe 'tyantameva viduṣāmātmatvānna kevalaṃ dūre 'ntike ca",
+     "translation": "That is near, very close indeed, because it is the Self of knowers; not only far, but near as well."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "antar is taken as an indeclinable ‘within/inside’ governing the genitive asya sarvasya, not as a separate nominal adjective. Śaṅkara glosses it with abhyantare and expands the genitive as ‘of this whole world whose nature is name, form, and action’.",
+   "options_considered": [
+    "antar as an adjective ‘inner’ without genitive force",
+    "antar as an indeclinable ‘within’, construing with asya sarvasya"
+   ],
+   "chosen": "antar asya sarvasya means ‘within all this’, i.e. within this whole world of name, form, and action.",
+   "evidence": [
+    {
+     "lines": [
+      5,
+      6,
+      7
+     ],
+     "quote": "tadantarabhyantare 'sya sarvasya\"ya ātmā sarvāntaraḥ\"(bṛ. u. 3 / 4 / 1) iti śruteḥ asya sarvasya jagato nāma rūpakriyātmakasya",
+     "translation": "That is antar, inside, of all this, according to the śruti ‘the Self that is innermost in all’; of all this world whose nature is name, form, and action."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara reads the particle with api and explains exteriority through all-pervasiveness, like space. Thus bāhyataḥ is not a nominal case-form but an adverbial/postpositional indeclinable taking sarvasya asya as its genitive complement.",
+   "options_considered": [
+    "bāhyataḥ as a loose adverb ‘externally’ without complement",
+    "bāhyataḥ as ‘outside of’, construing with the genitive sarvasya asya"
+   ],
+   "chosen": "tad u sarvasyāsya bāhyataḥ means ‘that too is outside all this’, with bāhyataḥ governing the genitive and u carrying an ‘also/too’ force.",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "tadu api sarvasya asya bāhyato vyāpakatvādākāśavanniratiśayasūkṣmatvād antaḥ",
+     "translation": "That too is outside all this, because of pervasiveness, like space; and inside because of unsurpassed subtlety."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "That—the Self-reality (ātmatattva)—stirs, as it were; that does not stir in itself.\nThat is far; that, too, is very near.\nThat is within all this;\nthat, too, is outside all this.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might state that the Self literally moves, whereas Śaṅkara says it is unmoving in itself and moves only ‘as it were’.",
+  "It might overlook that the printed tad v antike is to be divided as tad u antike, and so miss the ‘also/too’ contrast between far and near.",
+  "It might treat ‘far’ and ‘near’ as a simple spatial paradox, missing Śaṅkara’s epistemic explanation: far for the ignorant, near for knowers because it is their very Self.",
+  "It might translate asya sarvasya vaguely, without Śaṅkara’s scope: this whole world of name, form, and action.",
+  "It might miss that bāhyataḥ is an indeclinable governing the genitive ‘of all this’, and that exteriority is explained through pervasiveness like space."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 normalizes the printed tad v antike as tat u antike; I accept that underlying segmentation and record u with printed sandhi v, since Śaṅkara explicitly says tad u antike iti cchedaḥ (line 3).",
+  "ByT5 gives bāhyatas in its internal segmentation; the pausal surface is recorded as bāhyataḥ, and the word is classified as an avyaya, as required by its -tas adverbial form and its genitive construction.",
+  "ByT5 leaves antar and bāhyatas without full inflectional tags; they are supplied here as avyayas rather than subantas."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 19,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4154,
+   "completion_tokens": 12245,
+   "reasoning_tokens": 8700
+  },
+  "est_cost": 0.1961,
+  "reverified": true
+ },
+ "mula": "tad ejati tan naijati tad dūre tad v antike | tad antar asya sarvasya tad u sarvasyāsya bāhyataḥ",
+ "commentary_lines": [
+  "tadātmatattvaṃ yatprakṛtaṃ tadejati calati tadeva ca naijati svato naiva calati svato 'calameva sat calatīvetyarthaḥ /",
+  "kiñca taddūre varṣakoṭiśatairapyaviduṣāmaprāpyatvād dūra iva /",
+  "tad u antike iti cchedaḥ /",
+  "tadvantike samīpe 'tyantameva viduṣāmātmatvānna kevalaṃ dūre 'ntike ca /",
+  "tadantarabhyantare 'sya sarvasya\"ya ātmā sarvāntaraḥ\"(bṛ. u. 3 /",
+  "4 /",
+  "1) iti śruteḥ asya sarvasya jagato nāma rūpakriyātmakasya tadu api sarvasya asya bāhyato vyāpakatvādākāśavanniratiśayasūkṣmatvād antaḥ /",
+  "\"prajñānaghana eva\"(bṛ. u. 4 /",
+  "5 /",
+  "13) iti ca śāsanānnirantaraṃ ca"
+ ]
+}

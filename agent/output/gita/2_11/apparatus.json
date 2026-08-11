@@ -1,0 +1,545 @@
+{
+ "unit": "2.11",
+ "analysis": [
+  {
+   "surface": "śrībhagavān",
+   "surface_in_sandhi": "śrī-bhagavān",
+   "lemma": "śrībhagavat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "śrīmān bhagavān",
+    "members": [
+     "śrī",
+     "bhagavat"
+    ]
+   },
+   "note": "Unhyphenated surface and lemma record the Pāṇinian word-form; the printed text has an editorial hyphen. I retain the compound analysis because the form is a valid honorific compound ending in bhagavat, though the verifier reports compound-relation support as unavailable.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "compound stem śrībhagavat as Pum/Prathama/Eka: unsupported; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "uvāca",
+   "surface_in_sandhi": "uvāca",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect used in the narrative sense: “said.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lit/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "aśocyān",
+   "surface_in_sandhi": "aśocyān",
+   "lemma": "aśocya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Gerundive adjective with privative a-; Śaṅkara glosses it as na śocyāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "aśocya Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "anvaśocaḥ",
+   "surface_in_sandhi": "anvaśocas",
+   "lemma": "śuc",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "śuc",
+    "prefixes": [
+     "anu"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lan",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "The visarga of the pausal form appears as -s before tvaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "anu-śuc Lan/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tvam",
+   "surface_in_sandhi": "tvaṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun; linga is supplied as masculine because the addressee is Arjuna, though the form tvam itself is common across genders.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "prajñāvādān",
+   "surface_in_sandhi": "prajñā-vādāṃś",
+   "lemma": "prajñāvāda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "prajñāvatāṃ buddhimatāṃ vādāḥ",
+    "members": [
+     "prajñā",
+     "vāda"
+    ]
+   },
+   "note": "Unhyphenated surface and lemma record the Pāṇinian word-form; the printed text has an editorial hyphen. Śaṅkara expands this as the vādas/vacanāni of prajñāvats, i.e. intelligent persons. I retain the compound analysis, though the verifier reports compound-relation support as unavailable.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem prajñāvāda as Pum/Dvitiya/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhāṣase",
+   "surface_in_sandhi": "bhāṣase",
+   "lemma": "bhāṣ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhāṣ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada form in kartari sense, “you speak.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhāṣ Lat/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "gatāsūn",
+   "surface_in_sandhi": "gatāsūn",
+   "lemma": "gatāsu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "gatāḥ asavaḥ yeṣām te",
+    "members": [
+     "gata",
+     "asu"
+    ]
+   },
+   "note": "Śaṅkara glosses: gata-prāṇān, mṛtān.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem gatāsu as Pum/Dvitiya/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "agatāsūn",
+   "surface_in_sandhi": "agatāsūṃś",
+   "lemma": "agatāsu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "agatāḥ asavaḥ yeṣām te",
+    "members": [
+     "agata",
+     "asu"
+    ]
+   },
+   "note": "Śaṅkara glosses: agata-prāṇān, jīvataś ca.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem agatāsu as Pum/Dvitiya/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesces with following anuśocanti in the printed nānuśocanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anuśocanti",
+   "surface_in_sandhi": "nuśocanti",
+   "lemma": "śuc",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "śuc",
+    "prefixes": [
+     "anu"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "The initial a- is absorbed with preceding na in the printed nānuśocanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "anu-śuc Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "paṇḍitāḥ",
+   "surface_in_sandhi": "paṇḍitāḥ",
+   "lemma": "paṇḍita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara makes this technical: ātmajñāḥ, knowers of the Self.",
+   "verification": {
+    "status": "pass",
+    "detail": "paṇḍita Pum/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "I take aśocyān as the accusative plural object of anvaśocaḥ, “those who are not to be grieved for,” not as an abstract neuter. Śaṅkara explicitly defines aśocyāḥ as na śocyāḥ and identifies the referents as Bhīṣma, Droṇa, etc.; he further gives the reasons as good conduct and ultimate eternality.",
+   "options_considered": [
+    "abstract neuter “unlamentable things”",
+    "a general adjective “unworthy of pity” with no specified referent",
+    "accusative masculine plural referring to Bhīṣma, Droṇa, etc., as not fit to be mourned"
+   ],
+   "chosen": "aśocyān = persons not fit to be mourned, especially Bhīṣma, Droṇa, and the like",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "na śocyā aśocyāḥ bhīṣma-droṇādayaḥ |",
+     "translation": "“Aśocyāḥ means ‘not to be grieved for’: Bhīṣma, Droṇa, and the others.”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sad-vṛttatvāt paramārtha-svarūpeṇa ca nityatvāt, tān aśocyān anvaśoco 'nuśocitavān asi",
+     "translation": "“Because of their good conduct and because, in their ultimate nature, they are eternal, you have mourned those who are not to be mourned.”"
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "paramārthatas tu tān nityān aśocyān anuśocasi, ato mūḍho 'si ity abhiprāyaḥ",
+     "translation": "“But in ultimate truth you mourn them, eternal and not to be mourned; therefore you are deluded—this is the purport.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Although formally a laṅ second singular, I render it idiomatically as “you have grieved,” following Śaṅkara’s gloss anuśocitavān asi. The following words in the bhāṣya are Arjuna’s imagined thought, marked by iti, not Śaṅkara’s doctrinal assertion.",
+   "options_considered": [
+    "literal past “you mourned”",
+    "present “you are mourning”",
+    "commentary-shaped perfective “you have grieved/mourned”"
+   ],
+   "chosen": "anvaśocaḥ = “you have grieved/mourned”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tān aśocyān anvaśoco 'nuśocitavān asi te mriyante man-nimittam, ahaṃ tair vinābhūtaḥ kiṃ kariṣyāmi rājya-sukhādinā iti |",
+     "translation": "“You have mourned those not to be mourned, thinking: ‘They are dying because of me; bereft of them, what shall I do with kingdom, pleasures, and so on?’”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "I do not take prajñā-vādān as “arguments about wisdom” or “philosophical doctrines.” Śaṅkara glosses it as the vādas and vacanāni of prajñāvats/buddhimats, so the translation is “pronouncements of the wise.”",
+   "options_considered": [
+    "“arguments about wisdom”",
+    "“philosophical doctrines”",
+    "“pronouncements/words of the wise”"
+   ],
+   "chosen": "prajñā-vādān = pronouncements/words of the wise and intelligent",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tvaṃ prajñā-vādān prajñāvatāṃ buddhimatāṃ vādāṃś ca vacanāni ca bhāṣase |",
+     "translation": "“You speak prajñā-vādas: the speeches and utterances of those possessed of wisdom, the intelligent.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "I add “and yet” in English to bring out the contrast between grieving and speaking like the wise. Śaṅkara says Arjuna is displaying mutually opposed delusion and learnedness, like a madman.",
+   "options_considered": [
+    "neutral coordination: “and you speak”",
+    "complimentary statement: “you speak wisely”",
+    "ironic rebuke: “and yet you speak pronouncements of the wise”"
+   ],
+   "chosen": "the first hemistich is a rebuke with ironic contrast",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tad etat mauḍhyaṃ pāṇḍityaṃ ca viruddham ātmani darśayasi unmatta iva ity abhiprāyaḥ |",
+     "translation": "“Thus you display in yourself this delusion and learnedness, mutually opposed, like a madman—such is the purport.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The bahuvrīhi compounds are construed personally in the accusative plural: those whose life-breaths have gone and those whose life-breaths have not gone. Śaṅkara glosses them as mṛtān and jīvataḥ respectively.",
+   "options_considered": [
+    "literal but non-personal “departed breaths and non-departed breaths”",
+    "those in whom life-breaths have departed/not departed, i.e. dead/living persons",
+    "metaphorical “past and future”"
+   ],
+   "chosen": "gatāsūn / agatāsūn = the dead / the living",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "yasmāt gatāsūn gata-prāṇān mṛtān, agatāsūn agata-prāṇān jīvataś ca nānuśocanti paṇḍitāḥ ātmajñāḥ |",
+     "translation": "“For the wise, knowers of the Self, do not mourn those whose breaths have gone, the dead, nor those whose breaths have not gone, the living.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "I translate paṇḍitāḥ as “the wise, knowers of the Self.” Śaṅkara first glosses paṇḍitāḥ as ātmajñāḥ and then derives the term through paṇḍā as an intellect whose object is the Self.",
+   "options_considered": [
+    "scholars in the ordinary social sense",
+    "clever or skilled people",
+    "Self-knowers, the wise in Śaṅkara’s technical sense"
+   ],
+   "chosen": "paṇḍitāḥ = wise knowers of the Self, not merely learned scholars",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "paṇḍitāḥ ātmajñāḥ |",
+     "translation": "“Paṇḍitas are knowers of the Self.”"
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "paṇḍā ātma-viṣayā buddhir yeṣāṃ te hi paṇḍitāḥ, pāṇḍityaṃ nirvidya [bau 3.5.1] iti śruteḥ |",
+     "translation": "“Those whose intellect, called paṇḍā, has the Self as its object are paṇḍitas, because of the śruti, ‘having known paṇḍitya…’”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The commentary does not explain the narrator’s title. I translate the standard Gītā formula as “The Blessed Lord said,” taking śrī as an honorific element rather than as a separate claim about Lakṣmī or prosperity.",
+   "options_considered": [
+    "“Śrī, the Bhagavān, said”",
+    "“The prosperous lord said”",
+    "standard honorific formula: “The Blessed Lord said”"
+   ],
+   "chosen": "śrī-bhagavān uvāca = “The Blessed Lord said”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "The Blessed Lord said:\nYou have grieved for those who are not to be grieved for,\nand yet you speak pronouncements of the wise (prajñā-vādān).\nThe wise (paṇḍitāḥ), knowers of the Self,\ndo not grieve for the dead, whose breaths have gone,\nnor for the living, whose breaths have not gone.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render prajñā-vādān as “arguments about wisdom”; Śaṅkara instead takes it as the words or pronouncements of wise, intelligent persons.",
+  "It might take paṇḍitāḥ as ordinary learned scholars; Śaṅkara makes the term technical: ātmajñāḥ, knowers of the Self.",
+  "It might miss the rebuking irony of the first half; Śaṅkara explicitly says Arjuna is displaying mutually opposed delusion and learnedness.",
+  "It might treat aśocyān as only a vague moral adjective; Śaṅkara identifies the referents as Bhīṣma, Droṇa, and the others, and gives the deeper reason that they are ultimately eternal."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 treats śrī as a compound prefix plus bhagavān; I analyze the printed title as one honorific compound stem śrībhagavat in Prathama Eka, normalizing bhagavant to the standard -vat stem and writing the Pāṇinian form without the editorial hyphen.",
+  "For tvam I supply masculine linga because the addressee is Arjuna; the form itself is not gender-distinct, but the verifier requires linga for the subanta claim.",
+  "ByT5 gives the verbal lemmas as anuśuc for anvaśocaḥ and anuśocanti; per the required format I give the bare root śuc and list anu as the prefix.",
+  "ByT5 presents prajñā as a compound prefix and vādān as the inflected item; I record the whole inflected compound stem prajñāvāda, as required for compounds, writing the Pāṇinian form without the editorial hyphen."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13070,
+   "completion_tokens": 21734,
+   "reasoning_tokens": 14207
+  },
+  "est_cost": 0.3652,
+  "reverified": true
+ },
+ "mula": "śrī-bhagavān uvāca aśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase | gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ",
+ "commentary_lines": [
+  "na śocyā aśocyāḥ bhīṣma-droṇādayaḥ |",
+  "sad-vṛttatvāt paramārtha-svarūpeṇa ca nityatvāt, tān aśocyān anvaśoco 'nuśocitavān asi te mriyante man-nimittam, ahaṃ tair vinābhūtaḥ kiṃ kariṣyāmi rājya-sukhādinā iti |",
+  "tvaṃ prajñā-vādān prajñāvatāṃ buddhimatāṃ vādāṃś ca vacanāni ca bhāṣase |",
+  "tad etat mauḍhyaṃ pāṇḍityaṃ ca viruddham ātmani darśayasi unmatta iva ity abhiprāyaḥ |",
+  "yasmāt gatāsūn gata-prāṇān mṛtān, agatāsūn agata-prāṇān jīvataś ca nānuśocanti paṇḍitāḥ ātmajñāḥ |",
+  "paṇḍā ātma-viṣayā buddhir yeṣāṃ te hi paṇḍitāḥ, pāṇḍityaṃ nirvidya [bau 3.5.1] iti śruteḥ |",
+  "paramārthatas tu tān nityān aśocyān anuśocasi, ato mūḍho 'si ity abhiprāyaḥ ||bhgs_2.11||",
+  "kutas te aśocyāḥ ? yato nityāḥ |",
+  "katham ?"
+ ]
+}

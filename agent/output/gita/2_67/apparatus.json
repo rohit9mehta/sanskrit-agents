@@ -1,0 +1,531 @@
+{
+ "unit": "2.67",
+ "analysis": [
+  {
+   "surface": "indriyāṇām",
+   "surface_in_sandhi": "indriyāṇāṃ",
+   "lemma": "indriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive plural, modified by caratām; Śaṅkara construes the senses as proceeding in their own respective objects.",
+   "verification": {
+    "status": "pass",
+    "detail": "indriya Napumsaka/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal particle, glossed by yasmāt in the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "caratām",
+   "surface_in_sandhi": "caratāṃ",
+   "lemma": "carat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial stem carat- from √car, agreeing with indriyāṇām.",
+   "verification": {
+    "status": "pass",
+    "detail": "carat Napumsaka/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yan",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative adjective agreeing with manaḥ; correlative with tat.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "manaḥ",
+   "surface_in_sandhi": "mano",
+   "lemma": "manas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of anuvidhīyate; through the correlative tat it is also the subject of harati according to Śaṅkara.",
+   "verification": {
+    "status": "pass",
+    "detail": "manas Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anuvidhīyate",
+   "surface_in_sandhi": "'nuvidhīyate",
+   "lemma": "dhā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dhā",
+    "prefixes": [
+     "anu",
+     "vi"
+    ],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive form of anu-vi-√dhā; Śaṅkara glosses its sense as anupravartate, “follows after/proceeds along.”",
+   "verification": {
+    "status": "pass",
+    "detail": "anu-vi-dhā Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yat manaḥ; Śaṅkara explicitly supplies mano as what tat refers to.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asya",
+   "surface_in_sandhi": "asya",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara supplies yateḥ: “of this striver/ascetic.”",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "harati",
+   "surface_in_sandhi": "harati",
+   "lemma": "hṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "hṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "The subject is tat ... mano; Śaṅkara glosses the effect as nāśayati, “destroys,” and explains it as diverting wisdom toward sense-objects.",
+   "verification": {
+    "status": "pass",
+    "detail": "hṛ Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "prajñām",
+   "surface_in_sandhi": "prajñāṃ",
+   "lemma": "prajñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of harati; Śaṅkara defines it as wisdom born from discrimination of self and not-self.",
+   "verification": {
+    "status": "pass",
+    "detail": "prajñā Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vāyuḥ",
+   "surface_in_sandhi": "vāyur",
+   "lemma": "vāyu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the simile: the wind propels the boat off course.",
+   "verification": {
+    "status": "pass",
+    "detail": "vāyu Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nāvam",
+   "surface_in_sandhi": "nāvam",
+   "lemma": "nau",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object in the simile.",
+   "verification": {
+    "status": "pass",
+    "detail": "nau Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "iva",
+   "surface_in_sandhi": "ivā",
+   "lemma": "iva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Particle of comparison; printed in vowel sandhi with ambhasi as ivāmbhasi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ambhasi",
+   "surface_in_sandhi": "āmbhasi",
+   "lemma": "ambhas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by Śaṅkara as udake, “in water”; in the printed ivāmbhasi, the initial a is coalesced with final -a of iva.",
+   "verification": {
+    "status": "pass",
+    "detail": "ambhas Napumsaka/Saptami/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse is introduced as giving the reason for the preceding point, not merely as an emphatic “indeed.”",
+   "options_considered": [
+    "hi as emphatic “indeed”",
+    "hi as causal “for/because”"
+   ],
+   "chosen": "hi is causal: “for/because.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "indriyāṇāṃ hi yasmāt",
+     "translation": "“indriyāṇām hi — because...”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The genitive plural participle caratām modifies indriyāṇām, and Śaṅkara specifies the field of their movement as sva-sva-viṣayeṣu.",
+   "options_considered": [
+    "senses merely “moving” without object-domain specified",
+    "senses ranging in their respective sense-objects"
+   ],
+   "chosen": "indriyāṇāṃ caratām means “of the senses as they range/proceed in their own respective objects.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "caratāṃ sva-sva-viṣayeṣu pravartamānānām",
+     "translation": "“moving/proceeding in their own respective objects.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although the form is passive, the commentary glosses its contextual sense with anupravartate, so the translation should not be a bare “is regulated” or “is assigned.”",
+   "options_considered": [
+    "“is regulated/laid down”",
+    "“follows after/conforms to”"
+   ],
+   "chosen": "anuvidhīyate is translated by sense as “follows after / is led to conform to.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yat mano 'nuvidhīyate anupravartate",
+     "translation": "“the mind which is anuvidhīyate — follows along after.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara explicitly expands tat as the mind set in motion by sense-object construction, and later says that the mind, having carried away self-directed wisdom, makes it sense-object-directed.",
+   "options_considered": [
+    "tat = the particular roaming sense",
+    "tat = the sense-object",
+    "tat = the mind that follows the senses"
+   ],
+   "chosen": "tat refers to the mind, not to a sense or sense-object; that mind is the subject of harati.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tat indriya-viṣaya-vikalpanena pravṛttaṃ mano 'sya yateḥ harati prajñām",
+     "translation": "“that mind, set in motion by the construction of sense-objects, carries away this striver’s wisdom.”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "evam ātma-viṣayāṃ prajñāṃ hṛtvā mano viṣaya-viṣayāṃ karoti",
+     "translation": "“so the mind, having carried away the wisdom whose object is the Self, makes it have sense-objects as its object.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The pronoun is not left as a vague “his”; Śaṅkara supplies yateḥ as the possessor whose wisdom is carried away.",
+   "options_considered": [
+    "generic “his” with no specified referent",
+    "“of this striver/ascetic”"
+   ],
+   "chosen": "asya means “of this striver/ascetic.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "asya yateḥ",
+     "translation": "“of this yati/striver.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara glosses prajñā not as general intelligence but as ātmānātma-vivekajā and ātma-viṣayā.",
+   "options_considered": [
+    "ordinary intelligence or cleverness",
+    "discriminative self-directed wisdom"
+   ],
+   "chosen": "prajñā is discriminative wisdom concerning the Self, born from self/not-self discrimination.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "prajñām ātmānātma-vivekajāṃ",
+     "translation": "“wisdom born of discrimination between Self and not-Self.”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "ātma-viṣayāṃ prajñāṃ",
+     "translation": "“wisdom whose object is the Self.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The main verb preserves the boat simile’s “carry away” sense, but Śaṅkara adds nāśayati and explains the carrying away as a redirection of wisdom toward sense-objects.",
+   "options_considered": [
+    "physically takes away only",
+    "destroys utterly with no simile-sense",
+    "carries away, i.e. ruins by diverting"
+   ],
+   "chosen": "harati is “carries away,” with the destructive effect of ruining/diverting wisdom.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "harati prajñām ātmānātma-vivekajāṃ nāśayati",
+     "translation": "“it carries away the wisdom born of self/not-self discrimination — destroys it.”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "prajñāṃ hṛtvā mano viṣaya-viṣayāṃ karoti",
+     "translation": "“the mind, having carried away the wisdom, makes it directed to sense-objects.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Śaṅkara glosses ambhasi as udake and expands the simile: wind takes a boat from the desired path and propels it onto a wrong path.",
+   "options_considered": [
+    "a neutral image of wind and boat",
+    "an image of wind driving a boat off course on water"
+   ],
+   "chosen": "The simile is a wind driving a boat on water off its intended course.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "vāyuḥ nāvam iva ambhasi udake jigamiṣatāṃ mārgāduddhṛtya unmārge yathā vāyuḥ nāvaṃ pravartayati",
+     "translation": "“as the wind, in water, taking a boat away from the route of those wishing to go, propels the boat onto a wrong course.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For the mind (manas) that follows after the senses (indriyāṇi),\nas they range in their own objects,\nthat mind carries away this striver’s discriminative wisdom (prajñā),\nas the wind carries a boat on the waters.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take tat as “that sense” or “that sense-object”; Śaṅkara identifies it as the mind set in motion by sense-object ideation.",
+  "It might render prajñā as generic intelligence; Śaṅkara defines it as wisdom born of self/not-self discrimination and directed toward the Self.",
+  "It might miss the causal force of hi and the specification that the senses range in their own respective objects.",
+  "It might flatten the boat simile, whereas Śaṅkara reads it as the wind diverting a boat from its intended route onto a wrong course, parallel to the mind diverting wisdom toward sense-objects."
+ ],
+ "analyzer_disagreements": [
+  "caratām: ByT5 gives the verbal lemma car; since this is a subanta participle, I record the nominal stem carat- while retaining its genitive plural neuter analysis.",
+  "yat: ByT5 left the morphosyntactic features unspecified; I analyze it as yad, neuter nominative singular, agreeing with manaḥ and correlating with tat, as supported by Śaṅkara’s tat ... mano.",
+  "anuvidhīyate: ByT5 gives the lemma anuvidhā; following the required format for verbs, I decompose it as bare root dhā with prefixes anu and vi. The passive Lat third-singular analysis is retained."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5571,
+   "completion_tokens": 13468,
+   "reasoning_tokens": 10239
+  },
+  "est_cost": 0.2187,
+  "reverified": true
+ },
+ "mula": "indriyāṇāṃ hi caratāṃ yan mano 'nuvidhīyate | tad asya harati prajñāṃ vāyur nāvam ivāmbhasi",
+ "commentary_lines": [
+  "indriyāṇāṃ hi yasmāt caratāṃ sva-sva-viṣayeṣu pravartamānānāṃ yat mano 'nuvidhīyate anupravartate tat indriya-viṣaya-vikalpanena pravṛttaṃ mano 'sya yateḥ harati prajñām ātmānātma-vivekajāṃ nāśayati |",
+  "katham ? vāyuḥ nāvam iva ambhasi udake jigamiṣatāṃ mārgāduddhṛtya unmārge yathā vāyuḥ nāvaṃ pravartayati, evam ātma-viṣayāṃ prajñāṃ hṛtvā mano viṣaya-viṣayāṃ karoti ||bhgs_2.67||",
+  "yatato hi ity upanyastasyārthasya anekadhā upapattim uktvā taṃ cārtham upapādya upasaṃharati ---"
+ ]
+}

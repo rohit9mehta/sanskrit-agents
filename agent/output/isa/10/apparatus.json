@@ -1,0 +1,456 @@
+{
+ "unit": "10",
+ "analysis": [
+  {
+   "surface": "anyat",
+   "surface_in_sandhi": "anyad",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular understood with ellipsed phalam, following the commentary’s passive paraphrase vidyayā kriyate phalam; the form is syncretic with accusative.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evā",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphasizes distinctness; the commentary glosses it with pṛthag eva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "āhuḥ",
+   "surface_in_sandhi": "āhur",
+   "lemma": "ah",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ah",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Defective perfect 3rd plural: ‘they say’. In sandhi before vidyayā the visarga is realized as -r.",
+   "verification": {
+    "status": "pass",
+    "detail": "ah Lit/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vidyayā",
+   "surface_in_sandhi": "vidyayā",
+   "lemma": "vidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular: ‘by/through vidyā’. In the supplied spacing ‘vidyayān yad’, the expected continuous sandhi is vidyayānyad = vidyayā + anyat.",
+   "verification": {
+    "status": "pass",
+    "detail": "vidyā Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "anyat",
+   "surface_in_sandhi": "nyad",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The supplied ‘yad’ is treated, with the preceding printed -n, as nyad < anyat in vidyayānyad; not as the relative pronoun yad. As with the first anyat, nominative is chosen from the commentary’s passive phalam-kriyate construal.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "āhuḥ",
+   "surface_in_sandhi": "āhur",
+   "lemma": "ah",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ah",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Defective perfect 3rd plural: ‘they say’.",
+   "verification": {
+    "status": "pass",
+    "detail": "ah Lit/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "avidyayā",
+   "surface_in_sandhi": "avidyayā",
+   "lemma": "avidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular. Śaṅkara construes avidyā here as karma, ritual action, in contrast with jñāna/vidyā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avidyā Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "iti",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Marks the preceding teaching as what has been heard.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "śuśruma",
+   "surface_in_sandhi": "śuśruma",
+   "lemma": "śru",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "śru",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Perfect 1st plural: ‘we have heard’; glossed by śrutavanto vayam.",
+   "verification": {
+    "status": "pass",
+    "detail": "śru Lit/Uttama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "dhīrāṇām",
+   "surface_in_sandhi": "dhīrāṇāṃ",
+   "lemma": "dhīra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine genitive plural: ‘of the wise’; glossed as dhīmatām, and further specified as teachers.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhīra Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ye",
+   "surface_in_sandhi": "ye",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative plural relative pronoun, referring to dhīrāḥ, glossed as ācāryāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "naḥ",
+   "surface_in_sandhi": "nas",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic first-person plural pronoun used as dative: ‘to us’; commentary has asmabhyam. The grammatical linga is supplied as Pum for the required subanta feature set; the first-person pronoun is not semantically gender-specific here, and the same enclitic form is used irrespective of natural gender.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Caturthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter accusative singular object of vicacakṣire, referring to the twofold topic, karma ca jñānaṃ ca.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vicacakṣire",
+   "surface_in_sandhi": "vicacakṣire",
+   "lemma": "cakṣ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "cakṣ",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect 3rd plural Ātmanepada in active sense; glossed by vyākhyātavantaḥ, ‘they explained’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-cakṣ Lit/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first anyat, and by parallelism the second, is not an adverbial ‘otherwise’ nor a relative yad; it qualifies an understood phalam, ‘fruit/result’. The supplied mūla-spacing ‘vidyayān yad’ is therefore read as vidyayānyad = vidyayā + anyat.",
+   "options_considered": [
+    "anyat as adverbial ‘otherwise’",
+    "second printed yad as a relative pronoun, ‘what’",
+    "anyat as neuter adjective to supplied phalam, ‘a different fruit’"
+   ],
+   "chosen": "anyat … anyat: ‘a distinct fruit … a distinct fruit’, with phalam supplied and pṛthag eva giving the force of eva.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "anyatpṛthageva vidyayā kriyate phalamityāhur",
+     "translation": "‘A different, separate fruit is produced by vidyā,’ they say."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The verse is not contrasting liberating knowledge with sheer psychological ignorance. Śaṅkara reads vidyā as jñāna whose fruit is devaloka, and avidyā as karma whose fruit is pitṛloka.",
+   "options_considered": [
+    "vidyā as supreme liberating Self-knowledge",
+    "avidyā as mere ignorance or nescience",
+    "vidyā/jñāna and avidyā/karma as two ritual-upāsanā means with distinct fruits"
+   ],
+   "chosen": "vidyā is knowledge/meditative knowledge, while avidyā is here ritual action (karma); the instrumentals denote means producing distinct fruits.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vidyayā kriyate phalamityāhur ... \"vidyayā devalokaḥ\"",
+     "translation": "They say a fruit is produced by vidyā; ‘by vidyā, the world of the gods.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "karmaṇā pitṛlokaḥ",
+     "translation": "By karma, the world of the ancestors."
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "tatkarma ca jñānaṃ ca",
+     "translation": "That—both karma and knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "dhīrāṇām is a genitive dependent on an understood/commentarial vacanam, not an accusative object; śuśruma is first plural perfect, ‘we have heard’.",
+   "options_considered": [
+    "‘we heard the wise men’ as direct object",
+    "‘we heard from the wise’ without supplying vacanam",
+    "‘we have heard the utterance of the wise’"
+   ],
+   "chosen": "iti śuśruma dhīrāṇām = ‘thus have we heard the utterance of the wise’.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "ityevaṃ śuśruma śrutavanto vayaṃ dhīrāṇāṃ dhīmatāṃ vacanam",
+     "translation": "Thus, śuśruma: we have heard the utterance of the wise, of the intelligent."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "ye refers to the wise as teachers; naḥ is dative, ‘to us’; tat refers to karma and jñāna; vicacakṣire means ‘explained’, not merely ‘saw’ or ‘perceived’.",
+   "options_considered": [
+    "naḥ as genitive ‘our’",
+    "vicacakṣire as ‘saw/perceived’",
+    "tat as an unspecified singular ‘that’ only",
+    "naḥ as dative and vicacakṣire as ‘explained’, with tat = karma and jñāna"
+   ],
+   "chosen": "ye nas tad vicacakṣire = ‘those teachers who explained that to us’.",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "ye ācāryā no 'smabhyaṃ tatkarma ca jñānaṃ ca vicacakṣire vyākhyātavantasteṣāmayamāgamaḥ pāramparyāgata ityarthaḥ",
+     "translation": "Those teachers who explained to us that—both karma and knowledge; this tradition of theirs has come down by succession."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "One thing indeed, distinct, they say, is the fruit through knowledge (vidyā);\nanother, they say, is the fruit through non-knowledge (avidyā, that is, ritual action).\nThus have we heard the utterance of the wise—\nof those who explained that, action and knowledge, to us.",
+ "one_shot_delta": [
+  "A commentary-blind translation could take the printed ‘vidyayān yad’ as involving a relative pronoun yad; Śaṅkara’s anyat … phalam requires vidyayā + anyat, ‘a distinct fruit through vidyā’.",
+  "It could render avidyā simply as ‘ignorance’; Śaṅkara identifies it here with karma, ritual action, contrasted with jñāna/vidyā.",
+  "It could translate vicacakṣire as ‘saw’ and naḥ as ‘our’; the bhāṣya explicitly gives no ’smabhyaṃ and vyākhyātavantaḥ, ‘explained to us’.",
+  "It could miss the supplied vacanam after dhīrāṇām; the point is that the speaker has heard the utterance/tradition of the wise teachers."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 treats vidyayān as vidyā_SNM. This is overridden to vidyayā, feminine instrumental singular; the supplied spacing ‘vidyayān yad’ is handled as the standard sandhi vidyayānyad = vidyayā + anyat.",
+  "ByT5 treats yat as the relative pronoun yad. This is overridden to anya- neuter singular anyat, because the commentary glosses anyat … phalam and the mantra’s sandhi requires vidyayānyad rather than vidyayā yad.",
+  "ByT5’s likely accusative analysis for the two anyat forms is overridden to nominative singular, since Śaṅkara paraphrases the construction as a passive proposition, vidyayā kriyate phalam. The surface form is, however, identical in nominative and accusative neuter singular.",
+  "ByT5 marks naḥ as genitive. The commentary’s no ’smabhyaṃ requires dative plural: ‘to us’. In this revision, linga is explicitly supplied as Pum for the verifier’s required subanta feature set, without implying a gendered English reference.",
+  "ByT5 lemmatizes vicacakṣire as vicakṣ. For the required bare-root analysis this is split into prefix vi + root cakṣ; the verbal meaning is fixed by the commentary’s vyākhyātavantaḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12814,
+   "completion_tokens": 18860,
+   "reasoning_tokens": 12799
+  },
+  "est_cost": 0.3213,
+  "reverified": true
+ },
+ "mula": "anyad evāhur vidyayān yad āhur avidyayā | iti śuśruma dhīrāṇāṃ ye nas tad vicacakṣire",
+ "commentary_lines": [
+  "anyatpṛthageva vidyayā kriyate phalamityāhurvadatti\"vidyayā devalokaḥ\"(bṛ.u.1 /",
+  "6 /",
+  "16) \"karmaṇā kriyate karmaṇā pitṛlokaḥ\"(bṛ.u.1 /",
+  "5 /",
+  "16) iti śruteḥ /",
+  "ityevaṃ śuśruma śrutavanto vayaṃ dhīrāṇāṃ dhīmatāṃ vacanam /",
+  "ye ācāryā no 'smabhyaṃ tatkarma ca jñānaṃ ca vicacakṣire vyākhyātavantasteṣāmayamāgamaḥ pāramparyāgata ityarthaḥ"
+ ]
+}

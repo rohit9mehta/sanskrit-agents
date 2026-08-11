@@ -1,0 +1,563 @@
+{
+ "unit": "2.7",
+ "analysis": [
+  {
+   "surface": "kārpaṇya-doṣopahata-svabhāvaḥ",
+   "surface_in_sandhi": "kārpaṇya-doṣopahata-svabhāvaḥ",
+   "lemma": "kārpaṇya-doṣopahata-svabhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "kārpaṇya-doṣeṇa upahataḥ svabhāvo yasya saḥ",
+    "members": [
+     "kārpaṇya",
+     "doṣa",
+     "upahata",
+     "svabhāva"
+    ]
+   },
+   "note": "Bahuvrīhi qualifying the speaker: upahata is a past participial member from upa-√han; kārpaṇya is taken here as weakness/poor-spiritedness rather than literal poverty. The verifier reported a tool_error for this long compound and logged bahuvrīhi as unsupported; since this does not disprove the grammatical analysis, it is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kārpaṇya-doṣopahata-svabhāva as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "pṛcchāmi",
+   "surface_in_sandhi": "pṛcchāmi",
+   "lemma": "pracch",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "pracch",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "pracch Lat/Uttama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tvām",
+   "surface_in_sandhi": "tvāṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Direct object of pṛcchāmi. The form is not gender-distinct in itself; masculine is supplied contextually for the male addressee, Kṛṣṇa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "dharma-saṃmūḍha-cetāḥ",
+   "surface_in_sandhi": "dharma-saṃmūḍha-cetāḥ",
+   "lemma": "dharma-saṃmūḍha-cetas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "dharme saṃmūḍhaṃ ceto yasya saḥ",
+    "members": [
+     "dharma",
+     "saṃmūḍha",
+     "cetas"
+    ]
+   },
+   "note": "The internal cetas is neuter, but the bahuvrīhi is masculine nominative singular, agreeing with the male speaker. The verifier reported a tool_error for this compound and logged bahuvrīhi as unsupported; since this does not disprove the grammatical analysis, it is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dharma-saṃmūḍha-cetas as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yac",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun in the clause yat śreyaḥ syāt; neuter nominative singular with syāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śreyaḥ",
+   "surface_in_sandhi": "chreyaḥ",
+   "lemma": "śreyas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate/substantive neuter: ‘the better thing, higher good’.",
+   "verification": {
+    "status": "pass",
+    "detail": "śreyas Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "syāt",
+   "surface_in_sandhi": "syān",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "as VidhiLin/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niścitam",
+   "surface_in_sandhi": "niścitaṃ",
+   "lemma": "niścitam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Taken as the indeclinable adverb ‘decisively, for certain’, not as an accusative adjective.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "brūhi",
+   "surface_in_sandhi": "brūhi",
+   "lemma": "brū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "brū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "brū Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tan",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yat and object of brūhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "me",
+   "surface_in_sandhi": "me",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic dative, the recipient with brūhi: ‘to me’. The form is not gender-distinct in itself; masculine is supplied contextually for Arjuna, the male speaker.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "śiṣyaḥ",
+   "surface_in_sandhi": "śiṣyas",
+   "lemma": "śiṣya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized ‘one to be instructed’: disciple/pupil.",
+   "verification": {
+    "status": "pass",
+    "detail": "śiṣya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic genitive with śiṣyaḥ: ‘your pupil’. The form is not gender-distinct in itself; masculine is supplied contextually for the male addressee, Kṛṣṇa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "aham",
+   "surface_in_sandhi": "'haṃ",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after te in the printed sandhi. The form is not gender-distinct in itself; masculine is supplied contextually for Arjuna, the male speaker.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śādhi",
+   "surface_in_sandhi": "śādhi",
+   "lemma": "śās",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "śās",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Imperative: ‘instruct, teach, command’.",
+   "verification": {
+    "status": "pass",
+    "detail": "śās Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mām",
+   "surface_in_sandhi": "māṃ",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of śādhi and head qualified by prapannam. The form is not gender-distinct in itself; masculine is supplied contextually for Arjuna, the male speaker.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tvām",
+   "surface_in_sandhi": "tvāṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object governed by prapannam/pra-√pad: ‘having taken refuge in you’. The form is not gender-distinct in itself; masculine is supplied contextually for the male addressee, Kṛṣṇa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "prapannam",
+   "surface_in_sandhi": "prapannam",
+   "lemma": "prapanna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past participial adjective from pra-√pad, agreeing with mām: ‘having resorted to, taken refuge’.",
+   "verification": {
+    "status": "pass",
+    "detail": "prapanna Pum/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is masculine nominative singular and suits the first-person subject of pṛcchāmi/aham, not an independent subject ‘nature’. The internal relation is instrumental/causal: the svabhāva is upahata by the kārpaṇya-doṣa. MW supports svabhāva as ‘nature, innate disposition’ and upa-√han as ‘hurt, damage, afflict, impede, spoil’.",
+   "options_considered": [
+    "bahuvrīhi qualifying the speaker: ‘whose nature is impaired by the fault of weakness’",
+    "tatpuruṣa/karmadhāraya taken as an independent nominative: ‘the nature impaired by the fault of weakness’"
+   ],
+   "chosen": "kārpaṇya-doṣopahata-svabhāvaḥ is a bahuvrīhi: ‘one whose own disposition has been impaired by the fault of kārpaṇya’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied for this unit."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Among the MW senses—poverty, pitiful circumstances, weakness/poorness of spirit, parsimony—the psychological sense best fits Arjuna’s confession of a damaged svabhāva and bewildered cetas.",
+   "options_considered": [
+    "poverty/pitiful circumstances",
+    "parsimony/niggardliness",
+    "weakness or poorness of spirit"
+   ],
+   "chosen": "kārpaṇya is rendered ‘weakness’ or ‘poor-spiritedness’, not literal poverty or miserliness.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied for this unit."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is masculine nominative singular and qualifies the speaker. The natural vigraha is dharme saṃmūḍhaṃ ceto yasya: cetas is the inner head, saṃmūḍha describes the mind’s bewilderment, and dharma marks the matter about which the mind is confused. MW supports dharma as duty/right/prescribed conduct and sam-√muh as being stupefied or bewildered.",
+   "options_considered": [
+    "‘mind bewildered concerning dharma/duty’",
+    "‘a religiously bewildered mind’",
+    "‘a mind bewildered by dharma as agent’"
+   ],
+   "chosen": "dharma-saṃmūḍha-cetāḥ is a bahuvrīhi: ‘one whose mind is bewildered concerning dharma’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied for this unit."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "yat is nominative neuter singular in the relative clause with syāt, śreyaḥ is the neuter predicate/substantive ‘the better thing, higher good’, and tat is the neuter accusative object of brūhi. me is the dative recipient, ‘to me’.",
+   "options_considered": [
+    "relative-correlative construction: yat … tat, with tat as object of brūhi",
+    "taking yat itself as the direct object of brūhi across the clause",
+    "taking me as genitive ‘of me’ rather than dative ‘to me’"
+   ],
+   "chosen": "yac chreyaḥ syāt … tan me brūhi is relative-correlative: ‘what would be the higher good, tell that to me’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied for this unit."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Although niścitam could formally be read as a neuter accusative adjective, MW explicitly gives niścitam as an indeclinable meaning ‘decidedly, positively’. Its placement before brūhi naturally gives the force ‘tell for certain’.",
+   "options_considered": [
+    "indeclinable adverb with brūhi: ‘tell decisively’",
+    "accusative adjective modifying tat: ‘tell that certain thing’",
+    "adjective modifying śreyaḥ: ‘the certain good’"
+   ],
+   "chosen": "niścitam is adverbial with brūhi: ‘tell decisively/for certain’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied for this unit."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "te is genitive singular with śiṣyaḥ. prapannam is masculine accusative singular agreeing with mām, while tvām is the object governed by pra-√pad, ‘resort to, take refuge with’ (MW s.v. pra-√pad). śādhi, from √śās, is therefore best translated ‘instruct’ here rather than merely ‘rule’.",
+   "options_considered": [
+    "‘I am your disciple; instruct me, who have taken refuge in you’",
+    "‘I am to be taught by you’ with śiṣya primarily adjectival",
+    "taking prapannam with tvām: ‘you, who are surrendered’"
+   ],
+   "chosen": "śiṣyas te ’ham means ‘I am your disciple/pupil’, and śādhi māṃ tvāṃ prapannam means ‘instruct me, who have taken refuge in you’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied for this unit."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "With my own disposition stricken by the fault of weakness (kārpaṇya),\nwith my mind bewildered about duty (dharma), I ask you:\nwhat would be the higher good (śreyas)—tell that to me decisively.\nI am your disciple; instruct me, who have taken refuge in you.",
+ "one_shot_delta": [
+  "Since no commentary text is supplied for this unit, the main risks are grammatical and lexical rather than commentarial.",
+  "A quick translation might render kārpaṇya literally as ‘poverty’ or ‘miserliness’; here the context favors ‘weakness/poor-spiritedness’.",
+  "It might miss the bahuvrīhi force of kārpaṇya-doṣopahata-svabhāvaḥ and dharma-saṃmūḍha-cetāḥ, both qualifying Arjuna/the speaker.",
+  "It might take niścitam as ‘the certain good’ rather than the adverbial ‘tell me decisively/for certain’.",
+  "It might attach prapannam to tvām, but grammatically it agrees with mām: ‘me, having taken refuge in you’."
+ ],
+ "analyzer_disagreements": [
+  "The tagger marked me as genitive singular (mad_SG); here it is taken as dative singular because it is the recipient with brūhi, ‘tell to me’.",
+  "The tagger left niścitam without a full inflectional analysis; it is taken as an indeclinable adverb, following MW s.v. niścitam: ‘decidedly, positively’.",
+  "The tagger reports prapannam under the verbal root prapad as a past participial form; per the requested schema it is represented as a subanta from the participial stem prapanna, Pum Dvitiya Eka.",
+  "The tagger’s first- and second-person pronoun analyses do not mark linga; masculine is supplied contextually for Arjuna/the speaker and Kṛṣṇa/the addressee, while keeping their case and number stable."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 18,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15230,
+   "completion_tokens": 19592,
+   "reasoning_tokens": 12284
+  },
+  "est_cost": 0.3396,
+  "reverified": true
+ },
+ "mula": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṃ dharma-saṃmūḍha-cetāḥ | yac chreyaḥ syān niścitaṃ brūhi tan me śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam",
+ "commentary_lines": []
+}

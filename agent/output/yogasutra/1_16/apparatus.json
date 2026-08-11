@@ -1,0 +1,228 @@
+{
+ "unit": "1.16",
+ "analysis": [
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal subject/predicate element agreeing with the neuter nominal guṇavaitṛṣṇyam; the commentary supplies the topic as vairāgyam.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "param",
+   "surface_in_sandhi": "paraṃ",
+   "lemma": "para",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular adjective/predicate: ‘higher/superior,’ clarified by Vyāsa as uttaram.",
+   "verification": {
+    "status": "pass",
+    "detail": "para Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "puruṣakhyāteḥ",
+   "surface_in_sandhi": "puruṣakhyāter",
+   "lemma": "puruṣakhyāti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "puruṣasya khyātiḥ, puruṣasya darśanam",
+    "members": [
+     "puruṣa",
+     "khyāti"
+    ]
+   },
+   "note": "The ending -eḥ is taken as ablative singular, not merely genitive, because Vyāsa glosses with the causal ablative puruṣadarśanābhyāsāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem puruṣakhyāti as Stri/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "guṇavaitṛṣṇyam",
+   "surface_in_sandhi": "guṇavaitṛṣṇyam",
+   "lemma": "guṇavaitṛṣṇya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "guṇebhyo vaitṛṣṇyam",
+    "members": [
+     "guṇa",
+     "vaitṛṣṇya"
+    ]
+   },
+   "note": "Neuter nominative singular nominal predicate in an ellipsis of asti. The first member guṇa is construed as the object/source from which the yogin is free of craving.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem guṇavaitṛṣṇya as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The pronoun tat refers back to vairāgya, and param means the latter/higher member of a twofold vairāgya, not an adverbial ‘therefore’ or ‘beyond’ attached to puruṣakhyāti.",
+   "options_considered": [
+    "tat as referring to vairāgya and param as ‘higher/latter’",
+    "tat as an adverbial connector, ‘therefore’",
+    "param as ‘remote/beyond’ qualifying puruṣakhyāti"
+   ],
+   "chosen": "tat param is ‘that higher [dispassion]’",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3
+     ],
+     "quote": "tad dvayaṃ vairāgyam. tatra yad uttaraṃ taj jñānaprasādamātram.",
+     "translation": "That pair is dispassion. Of these, that which is the latter/higher is nothing but the lucidity of knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound puruṣakhyāti is a tatpuruṣa, ‘knowledge/perception of Puruṣa.’ Its case is read as ablative because Vyāsa explains it through puruṣadarśanābhyāsāt, ‘from the practice of seeing Puruṣa.’",
+   "options_considered": [
+    "ablative of cause/source: ‘because of knowledge of Puruṣa’",
+    "genitive only: ‘of the knowledge of Puruṣa’",
+    "khyāti as fame or reputation rather than yogic knowledge/perception"
+   ],
+   "chosen": "puruṣakhyāteḥ is causal ablative: ‘from / owing to the knowledge-seeing of Puruṣa’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "puruṣadarśanābhyāsāt tacchuddhipravivekāpyāyitabuddhir",
+     "translation": "whose intellect is nourished by the purity and distinct discernment of that, through the practice of seeing Puruṣa"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is not ‘the quality of desirelessness’ or a moral ‘virtue.’ Vyāsa glosses it with guṇebhyo ... viraktaḥ, showing both that guṇa is the technical object from which detachment occurs and that vaitṛṣṇya is virāga, freedom from craving.",
+   "options_considered": [
+    "thirstlessness toward/from the guṇas",
+    "a quality called thirstlessness",
+    "freedom from desire only toward ordinary sensory objects"
+   ],
+   "chosen": "guṇavaitṛṣṇyam means ‘thirstlessness/dispassion toward the guṇas’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "guṇebhyo vyaktāvyaktadharmakebhyo virakta iti.",
+     "translation": "is dispassionate from the guṇas, which have manifest and unmanifest characteristics."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Vyāsa distinguishes the lower dispassion based on seeing defects in seen and scripturally-heard objects from the higher one associated with the arising of knowledge.",
+   "options_considered": [
+    "higher vairāgya as knowledge-lucidity concerning Puruṣa and the guṇas",
+    "ordinary aversion to objects alone",
+    "a merely emotional state of indifference"
+   ],
+   "chosen": "The sūtra defines the higher form of vairāgya as a lucidity born of knowledge, not as ordinary disgust alone",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      3,
+      4
+     ],
+     "quote": "dṛṣṭānuśravikaviṣayadoṣadarśī viraktaḥ ... tatra yad uttaraṃ taj jñānaprasādamātram. yasyodaye sati yogī pratyuditakhyātir evaṃ manyate",
+     "translation": "The dispassionate one sees the defects in seen and scripturally-heard objects ... Of these, the latter/higher is nothing but the lucidity of knowledge. When it arises, the yogin has awakened knowledge and thinks thus."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "That higher [dispassion] is thirstlessness toward the guṇas, owing to the knowledge-seeing of Puruṣa.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take guṇa as ordinary ‘qualities’ or ‘virtues’; Vyāsa’s guṇebhyo vyaktāvyaktadharmakebhyo shows the technical Sāṃkhya-Yoga guṇas are meant.",
+  "It might render puruṣakhyāteḥ as a simple genitive, ‘of the knowledge of the person’; Vyāsa’s puruṣadarśanābhyāsāt supports a causal ablative, ‘because of seeing/knowing Puruṣa.’",
+  "It might miss that tat param is locating this as the higher member of two forms of vairāgya; Vyāsa explicitly says tad dvayaṃ vairāgyam and yad uttaraṃ."
+ ],
+ "analyzer_disagreements": [
+  "ByT5’s compact tag for puruṣakhyāteḥ does not settle the genitive/ablative ambiguity of -eḥ; on the basis of Vyāsa’s causal ablative puruṣadarśanābhyāsāt, I resolve it as Panchami Eka."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3218,
+   "completion_tokens": 6340,
+   "reasoning_tokens": 4608
+  },
+  "est_cost": 0.1048,
+  "reverified": true
+ },
+ "mula": "15 tat paraṃ puruṣakhyāter guṇavaitṛṣṇyam",
+ "commentary_lines": [
+  "dṛṣṭānuśravikaviṣayadoṣadarśī viraktaḥ puruṣadarśanābhyāsāt tacchuddhipravivekāpyāyitabuddhir guṇebhyo vyaktāvyaktadharmakebhyo virakta iti.",
+  "tad dvayaṃ vairāgyam.",
+  "tatra yad uttaraṃ taj jñānaprasādamātram.",
+  "yasyodaye sati yogī pratyuditakhyātir evaṃ manyate"
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "unit": "2.35",
+ "analysis": [
+  {
+   "surface": "bhayāt",
+   "surface_in_sandhi": "bhayād",
+   "lemma": "bhaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of cause/source: “out of fear”; Śaṅkara supplies the feared persons as Karṇa and others.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhaya Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "raṇāt",
+   "surface_in_sandhi": "raṇād",
+   "lemma": "raṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative singular, construed with uparatam: “from battle.”",
+   "verification": {
+    "status": "pass",
+    "detail": "raṇa Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "uparatam",
+   "surface_in_sandhi": "uparataṃ",
+   "lemma": "uparata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative masculine singular predicate to tvām; kta-participle from upa-√ram, “withdrawn/ceased.”",
+   "verification": {
+    "status": "pass",
+    "detail": "uparata Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "maṃsyante",
+   "surface_in_sandhi": "maṃsyante",
+   "lemma": "man",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "man",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Simple future, 3rd plural Ātmanepada in form, active in sense: “they will think.”",
+   "verification": {
+    "status": "pass",
+    "detail": "man Lrt/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tvām",
+   "surface_in_sandhi": "tvāṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun, object of maṃsyante; masculine supplied from its male referent Arjuna and agreement with uparatam, though the form itself is not gender-distinct.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "mahārathāḥ",
+   "surface_in_sandhi": "mahārathāḥ",
+   "lemma": "mahāratha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "mahāntaḥ rathāḥ, rathāḥ yodhāḥ",
+    "members": [
+     "mahat",
+     "ratha"
+    ]
+   },
+   "note": "Subject of maṃsyante; used substantively of great chariot-warriors.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mahāratha as Pum/Prathama/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yeṣām",
+   "surface_in_sandhi": "yeṣāṃ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative genitive plural referring to Duryodhana and the other mahārathas: “in whose eyes / by whom.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction, “and.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tvam",
+   "surface_in_sandhi": "tvaṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun, subject of bhūtvā and yāsyasi; masculine supplied from its male referent Arjuna and agreement with bahumataḥ, though the form itself is not gender-distinct.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bahumataḥ",
+   "surface_in_sandhi": "bahumato",
+   "lemma": "bahumata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "bahu, bahubhir guṇair yuktaḥ iti, mataḥ",
+    "members": [
+     "bahu",
+     "mata"
+    ]
+   },
+   "note": "Nominative masculine singular agreeing with tvam; final visarga becomes -o before bh-. Śaṅkara explains it as “regarded as endowed with many qualities.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem bahumata as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bhūtvā",
+   "surface_in_sandhi": "bhūtvā",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive: “having been/become.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yāsyasi",
+   "surface_in_sandhi": "yāsyasi",
+   "lemma": "yā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yā",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Simple future, second singular: “you will go/come.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yā Lrt/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "lāghavam",
+   "surface_in_sandhi": "lāghavam",
+   "lemma": "lāghava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative goal/state with yāsyasi: “lowliness, insignificance,” glossed by Śaṅkara as laghu-bhāva.",
+   "verification": {
+    "status": "pass",
+    "detail": "lāghava Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The ablative bhayāt is causal, and Śaṅkara explicitly supplies karṇādibhyaḥ as the object/source of fear and excludes kṛpā as the motive. Therefore the translation should not leave the withdrawal as noble compassion.",
+   "options_considered": [
+    "general fear with no object",
+    "fear of Karṇa and the others",
+    "withdrawal from compassion or pity"
+   ],
+   "chosen": "“Out of fear of Karṇa and the others,” not “from compassion.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "bhayāt karṇādibhyaḥ raṇāt yuddhāt uparataṃ nivṛttaṃ maṃsyante cintayiṣyanti na kṛpayeti",
+     "translation": "“Out of fear—of Karṇa and the others; from raṇa, that is, battle; uparata, withdrawn; they will think, i.e. they will consider—not through pity.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara glosses raṇāt as yuddhāt, uparatam as nivṛttam, and maṃsyante as cintayiṣyanti. Thus tvām is the object of “they will think,” with uparatam as its predicate complement.",
+   "options_considered": [
+    "raṇa as battle",
+    "raṇa as noise or delight",
+    "uparam as merely ceasing",
+    "uparam as withdrawing from battle"
+   ],
+   "chosen": "“Withdrawn from battle” as the predicate thought by the mahārathas.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "raṇāt yuddhāt uparataṃ nivṛttaṃ maṃsyante cintayiṣyanti",
+     "translation": "“From raṇa, from battle; uparata, withdrawn; maṃsyante, they will think.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The commentary identifies the subject mahārathāḥ not as literal “great chariots” but as persons, specifically Duryodhana and others.",
+   "options_considered": [
+    "literal great chariots",
+    "unspecified elite warriors",
+    "Duryodhana and his party as the mahārathas"
+   ],
+   "chosen": "mahārathāḥ are the Kaurava-side great warriors, Duryodhana and the rest.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tvāṃ mahārathāḥ duryodhana-prabhṛtayaḥ",
+     "translation": "“You—the mahārathas, Duryodhana and the rest.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Rather than taking bahumataḥ as merely “thought by many” or socially popular, Śaṅkara explains the content of the esteem: Arjuna is regarded as endowed with many qualities.",
+   "options_considered": [
+    "thought by many people",
+    "well liked in a vague sense",
+    "esteemed as endowed with many qualities"
+   ],
+   "chosen": "bahumataḥ means highly esteemed as possessing many virtues/qualities.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yeṣāṃ ca tvaṃ duryodhanādīnāṃ bahu-mato bahubhir guṇair yuktaḥ ity evaṃ mataḥ bahumato bhūtvā",
+     "translation": "“And for whom—you, among Duryodhana and the others—bahu-mata: thought thus, ‘endowed with many qualities’; having become bahumata.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The object of yāsyasi is not speed, dexterity, or physical lightness; Śaṅkara glosses lāghava as laghu-bhāva, a fall into being ‘light’ or slight in esteem.",
+   "options_considered": [
+    "speed or rapidity",
+    "skill or dexterity",
+    "lightness as loss of weight",
+    "lowliness/insignificance in reputation"
+   ],
+   "chosen": "lāghavam is lowliness/insignificance, the state of being slight.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "punar yāsyasi lāghavaṃ laghu-bhāvam",
+     "translation": "“Then you will go to lāghava, the state of being slight.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Out of fear of Karṇa and the others, not from compassion,\nthe great chariot-warriors—Duryodhana and the rest—\nwill think you withdrawn from battle;\nand, having been highly esteemed in their eyes—\nregarded as possessed of many virtues—\nyou will come to lowliness (lāghava), the state of being slight.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take bhayāt as vague fear and miss Śaṅkara’s explicit “fear of Karṇa and the others,” as well as the contrast “not through compassion.”",
+  "It might render mahārathāḥ generically, or even as literal chariots, rather than as Duryodhana and the other great warriors.",
+  "It might translate bahumataḥ as “thought by many” or simply “popular,” whereas Śaṅkara explains it as being regarded as endowed with many qualities.",
+  "It might choose a dictionary sense of lāghava such as speed, lightness, or dexterity; the bhāṣya requires “lowliness/insignificance,” laghu-bhāva."
+ ],
+ "analyzer_disagreements": [
+  "raṇāt: ByT5 marks raṇa as masculine; in the battle sense, Śaṅkara’s gloss raṇāt yuddhāt and the supplied MW entry support neuter raṇa here. The ablative singular form is identical either way.",
+  "uparatam: ByT5 gives lemma uparam; for the required subanta analysis I record the inflected participial stem uparata, while noting its derivation from upa-√ram.",
+  "mahārathāḥ: ByT5 outputs mahā + rathāḥ as compound part plus noun; I treat the printed form as a single inflected compound stem mahāratha.",
+  "bahumato/bahumataḥ: ByT5 outputs bahu + mataḥ separately and lemmatizes mataḥ to √man; I treat the printed sandhi-form as one inflected compound stem bahumata, with mata as the kta-participle within the compound.",
+  "tvām and tvam: ByT5 gives second-person pronoun case/number without gender; I supply masculine because the referent is Arjuna and the agreeing predicates are masculine uparatam and bahumataḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12363,
+   "completion_tokens": 14823,
+   "reasoning_tokens": 9118
+  },
+  "est_cost": 0.2594,
+  "reverified": true
+ },
+ "mula": "bhayād raṇād uparataṃ maṃsyante tvāṃ mahārathāḥ | yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam",
+ "commentary_lines": [
+  "bhayāt karṇādibhyaḥ raṇāt yuddhāt uparataṃ nivṛttaṃ maṃsyante cintayiṣyanti na kṛpayeti tvāṃ mahārathāḥ duryodhana-prabhṛtayaḥ |",
+  "yeṣāṃ ca tvaṃ duryodhanādīnāṃ bahu-mato bahubhir guṇair yuktaḥ ity evaṃ mataḥ bahumato bhūtvā punar yāsyasi lāghavaṃ laghu-bhāvam ||bhgs_2.35||"
+ ]
+}

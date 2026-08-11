@@ -1,0 +1,441 @@
+{
+ "unit": "2.65",
+ "analysis": [
+  {
+   "surface": "prasāde",
+   "surface_in_sandhi": "prasāde",
+   "lemma": "prasāda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative of circumstance: “when/in serenity.” Śaṅkara connects this with prasannatā, mental serenity.",
+   "verification": {
+    "status": "pass",
+    "detail": "prasāda Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarva-duḥkhānām",
+   "surface_in_sandhi": "sarva-duḥkhānāṃ",
+   "lemma": "sarvaduḥkha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "sarvāṇi duḥkhāni, teṣām",
+    "members": [
+     "sarva",
+     "duḥkha"
+    ]
+   },
+   "note": "The whole compound stem is inflected in genitive plural neuter. I normalize the lemma as unhyphenated sarvaduḥkha; the printed surface keeps the hyphen. The verifier’s samāsa-relation warning is treated as a limitation of compound-relation support, since the grammar and Śaṅkara’s gloss support the compound analysis.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvaduḥkha as Napumsaka/Sasthi/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hāniḥ",
+   "surface_in_sandhi": "hānir",
+   "lemma": "hāni",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Not merely diminution here; the bhāṣya glosses it as vināśa, destruction.",
+   "verification": {
+    "status": "pass",
+    "detail": "hāni Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asya",
+   "surface_in_sandhi": "asyopajāyate",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to the yati supplied by Śaṅkara. Printed together with the following verb as asyopajāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "upajāyate",
+   "surface_in_sandhi": "asyopajāyate",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jan",
+    "prefixes": [
+     "upa"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Intransitive ātmanepada: “arises, comes about.” Printed together with preceding asya as asyopajāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "upa-jan Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "prasanna-cetasaḥ",
+   "surface_in_sandhi": "prasanna-cetaso",
+   "lemma": "prasannacetas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "prasannaṃ ceto yasya, tasya",
+    "members": [
+     "prasanna",
+     "cetas"
+    ]
+   },
+   "note": "Masculine because it denotes the person whose mind/inner organ is serene, not a neuter genitive “of a serene mind.” I normalize the lemma as unhyphenated prasannacetas; the printed surface keeps the hyphen. The verifier’s samāsa-relation warning is treated as a limitation of compound-relation support, since Śaṅkara’s svasthāntaḥ-karaṇasya supports the bahuvrīhi reading.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem prasannacetas as Pum/Sasthi/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hy",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal particle here, glossed by yasmāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "āśu",
+   "surface_in_sandhi": "āśu",
+   "lemma": "āśu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial: “quickly,” glossed śīghram.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "buddhiḥ",
+   "surface_in_sandhi": "buddhiḥ",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of paryavatiṣṭhate.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "paryavatiṣṭhate",
+   "surface_in_sandhi": "paryavatiṣṭhate",
+   "lemma": "sthā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "sthā",
+    "prefixes": [
+     "pari",
+     "ava"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada intransitive: “becomes firmly established”; Śaṅkara explains it as becoming immovable in Self-nature.",
+   "verification": {
+    "status": "pass",
+    "detail": "pari-ava-sthā Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The locative is taken as the circumstance in which the result arises; Śaṅkara frames the verse as praise of prasannatā, serenity, and glosses the related prasanna-cetasaḥ by a well-composed inner organ.",
+   "options_considered": [
+    "mental serenity/tranquillity",
+    "grace or favor",
+    "clarity/brightness in a non-psychological sense"
+   ],
+   "chosen": "prasāde = in/when there is mental serenity (prasāda), not divine favor or mere stylistic clarity.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "seyaṃ prasannatā stūyate --",
+     "translation": "This serenity is being praised."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "prasanna-cetasaḥ svasthāntaḥ-karaṇasya",
+     "translation": "Of one whose mind is serene, whose inner instrument is well-composed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is read as “all sorrows,” not “sorrows of all [people/things].” Śaṅkara glosses the genitive plural with ādhyātmikādīnām.",
+   "options_considered": [
+    "all sorrows, i.e. the ādhyātmika and other kinds",
+    "sorrows belonging to all beings",
+    "all difficult things generally"
+   ],
+   "chosen": "sarva-duḥkhānām = of all sorrows, specifically including the ādhyātmika and other classes.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarva-duḥkhānām ādhyātmikādīnāṃ",
+     "translation": "Of all sorrows, beginning with the internal/psychophysical ones."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although hāni can mean decrease, Śaṅkara explicitly glosses it by vināśa, destruction.",
+   "options_considered": [
+    "destruction/cessation",
+    "decrease/diminution",
+    "abandonment"
+   ],
+   "chosen": "hāniḥ = destruction/cessation, not mere loss or diminution.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "hānir vināśo",
+     "translation": "hāniḥ means destruction."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The pronoun is not left as a vague “of this”; Śaṅkara supplies yateḥ as its referent.",
+   "options_considered": [
+    "of this yati/practitioner",
+    "of this mind",
+    "of this state of serenity"
+   ],
+   "chosen": "asya = of this yati, this disciplined ascetic/practitioner.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vināśo 'sya yater upajāyate",
+     "translation": "Destruction arises for this yati."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The form could be read superficially as “of a serene mind,” but Śaṅkara treats it as qualifying the person: svasthāntaḥ-karaṇasya, and then speaks of the prasanna-cetas as having an established buddhi.",
+   "options_considered": [
+    "bahuvrīhi: of the person whose mind is serene",
+    "karmadhāraya/substantive: of the serene mind itself"
+   ],
+   "chosen": "prasanna-cetasaḥ = of the serene-minded person, one whose inner organ is composed.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "prasanna-cetasaḥ svasthāntaḥ-karaṇasya",
+     "translation": "Of one whose mind is serene, whose inner instrument is well-composed."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "evaṃ prasanna-cetaso 'vasthita-buddhiḥ",
+     "translation": "Thus, for the serene-minded one, the intellect is established."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara glosses hi by yasmāt and āśu by śīghram, so the second hemistich explains the first rather than merely adding emphasis.",
+   "options_considered": [
+    "causal hi: for/because",
+    "emphatic hi: indeed",
+    "āśu as adverb: quickly",
+    "āśu as adjective: swift"
+   ],
+   "chosen": "hi is causal, “for/because,” and āśu is adverbial, “quickly.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "hi yasmāt āśu śīghraṃ",
+     "translation": "For/because; quickly, swiftly."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Śaṅkara expands the verb as complete, all-around abiding and then states the intended sense as niścalībhavati, becoming motionless, with ātma-svarūpa. The translation therefore uses “becomes firmly established,” not merely “stands” or “pervades.”",
+   "options_considered": [
+    "becomes firmly established/immovable",
+    "simply remains or stands",
+    "pervades an object"
+   ],
+   "chosen": "buddhiḥ paryavatiṣṭhate = the intellect quickly becomes firmly established, immovable as Self-nature itself.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "buddhiḥ paryavatiṣṭhate ākāśam iva pari samantāt avatiṣṭhate, ātma-svarūpeṇaiva niścalībhavatīty arthaḥ",
+     "translation": "The intellect becomes established; it abides all around, as it were like space; the meaning is that it becomes motionless as Self-nature itself."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "When serenity (prasāda) is present, the destruction of all sorrows arises for this yati.\nFor, in the serene-minded one, the intellect (buddhi) quickly becomes firmly established, immovable as Self-nature itself.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render prasāda as “favor” or generic “clarity”; Śaṅkara treats it as mental serenity, prasannatā, of the inner organ.",
+  "It might translate hāni as mere “loss” or “diminution”; Śaṅkara requires vināśa, destruction/cessation.",
+  "It might leave asya as a vague “of this”; Śaṅkara identifies the referent as the yati.",
+  "It might take prasanna-cetasaḥ as “of the serene mind” rather than “of the serene-minded person”; Śaṅkara’s svasthāntaḥ-karaṇasya supports the bahuvrīhi reading.",
+  "It might flatten paryavatiṣṭhate to “settles down”; Śaṅkara adds the force of complete, immovable establishment in Self-nature."
+ ],
+ "analyzer_disagreements": [
+  "sarva-duḥkhānām: ByT5 treated sarva and duḥkhānām separately; I analyze the printed form as one inflected compound stem, normalized as sarvaduḥkha, genitive plural neuter, with karmadhāraya relation. The verifier’s tool_error/unsupported-relation report is noted but does not overturn the analysis.",
+  "upajāyate: ByT5 gave the prefixed lemma upajan; per the requested format I give the bare root jan with prefix upa. The verb is Kartari, intransitive, not passive.",
+  "prasanna-cetasaḥ: ByT5 split prasanna and cetasaḥ and tagged cetas as a separate genitive; I analyze prasannacetas as a masculine genitive singular bahuvrīhi, following Śaṅkara’s svasthāntaḥ-karaṇasya. The verifier’s tool_error/unsupported-relation report is noted but does not overturn the analysis.",
+  "paryavatiṣṭhate: ByT5 gave prefixed lemma paryavasthā; per the requested format I give the bare root sthā with prefixes pari and ava."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12356,
+   "completion_tokens": 15483,
+   "reasoning_tokens": 9728
+  },
+  "est_cost": 0.2693,
+  "reverified": true
+ },
+ "mula": "prasāde sarva-duḥkhānāṃ hānir asyopajāyate | prasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate",
+ "commentary_lines": [
+  "prasāde sarva-duḥkhānām ādhyātmikādīnāṃ hānir vināśo 'sya yater upajāyate |",
+  "kiṃ ca - prasanna-cetasaḥ svasthāntaḥ-karaṇasya hi yasmāt āśu śīghraṃ buddhiḥ paryavatiṣṭhate ākāśam iva pari samantāt avatiṣṭhate, ātma-svarūpeṇaiva niścalībhavatīty arthaḥ |",
+  "evaṃ prasanna-cetaso 'vasthita-buddhiḥ kṛta-kṛtyatā yataḥ, tasmāt rāga-dveṣa-viyuktair indriyaiḥ śāstrā-viruddheṣu avarjanīyeṣu yuktaḥ samācaret iti vākyārthaḥ ||bhgs_2.65||",
+  "seyaṃ prasannatā stūyate --"
+ ]
+}

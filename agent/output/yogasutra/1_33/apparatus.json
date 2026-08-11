@@ -1,0 +1,249 @@
+{
+ "unit": "1.33",
+ "analysis": [
+  {
+   "surface": "maitrīkaruṇāmuditopekṣāṇām",
+   "surface_in_sandhi": "maitrīkaruṇāmuditopekṣāṇāṃ",
+   "lemma": "maitrīkaruṇāmuditopekṣā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "maitrī ca karuṇā ca muditā ca upekṣā ca",
+    "members": [
+     "maitrī",
+     "karuṇā",
+     "muditā",
+     "upekṣā"
+    ]
+   },
+   "note": "Genitive plural governed by bhāvanātaḥ: “from cultivation of …”; the four members are mapped one-to-one in the commentary. Revised after the verifier report to write the lemma as the internally sandhied whole compound stem rather than a hyphenated member-list; the dvandva relation is retained, since the verifier’s “unsupported” relation report is not a grammatical disproof.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem maitrīkaruṇāmuditopekṣā as Stri/Sasthi/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sukhaduḥkhapuṇyāpuṇyaviṣayāṇām",
+   "surface_in_sandhi": "sukhaduḥkhapuṇyāpuṇyaviṣayāṇāṃ",
+   "lemma": "sukhaduḥkhapuṇyāpuṇyaviṣayā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sukha-duḥkha-puṇyāpuṇyāni viṣayāḥ yāsām tāḥ",
+    "members": [
+     "sukha",
+     "duḥkha",
+     "puṇya",
+     "apuṇya",
+     "viṣaya"
+    ]
+   },
+   "note": "Feminine genitive plural bahuvrīhi adjective agreeing with maitrī-karuṇā-muditā-upekṣāṇām: “whose objects/spheres are happiness, suffering, virtue, and vice,” interpreted by Vyāsa as classes of living beings. Revised after the verifier report to write the lemma as the internally sandhied whole compound stem; the feminine analysis and bahuvrīhi relation are retained despite the verifier’s unsupported-compound report.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sukhaduḥkhapuṇyāpuṇyaviṣayā as Stri/Sasthi/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bhāvanātaḥ",
+   "surface_in_sandhi": "bhāvanātaś",
+   "lemma": "bhāvanātaḥ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival indeclinable in -taḥ from bhāvanā, functioning as “from/through cultivation,” not the regular ā-stem ablative bhāvanāyāḥ.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "cittaprasādanam",
+   "surface_in_sandhi": "cittaprasādanam",
+   "lemma": "cittaprasādana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "cittasya prasādanam",
+    "members": [
+     "citta",
+     "prasādana"
+    ]
+   },
+   "note": "Neuter nominative singular: the nominal result stated by the sūtra, “clarification/serenity of the mind.” Revised after the verifier report to write the lemma as the internally sandhied whole compound stem; the tatpuruṣa relation is retained despite the verifier’s unsupported-compound report.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem cittaprasādana as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound lists are not to be read as two undifferentiated groups. Vyāsa explicitly expands the sūtra into four separate prescriptions, assigning each attitude to its own object-class.",
+   "options_considered": [
+    "An undifferentiated cultivation of all four attitudes toward all four objects",
+    "A one-to-one distributive pairing of the four attitudes with the four classes"
+   ],
+   "chosen": "A one-to-one pairing: maitrī toward beings enjoying happiness, karuṇā toward the distressed, muditā toward the virtuous, and upekṣā toward those of unvirtuous conduct.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "quote": "tatra sarvaprāṇiṣu sukhasaṃbhogāpanneṣu maitrīṃ bhāvayet.\nduḥkhiteṣu karuṇām.\npuṇyātmakeṣu muditām.\napuṇyaśīleṣūpekṣām.",
+     "translation": "There, toward all living beings who have come into the enjoyment of happiness, one should cultivate friendliness; toward the distressed, compassion; toward those whose nature is virtuous, glad joy; toward those of unvirtuous conduct, equanimous overlooking."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Although the sūtra’s compound says “having happiness, suffering, virtue, and vice as their viṣaya,” Vyāsa interprets the practical targets in the locative plural as living beings: those enjoying happiness, the distressed, the virtuous, and those of unvirtuous conduct.",
+   "options_considered": [
+    "Toward the abstractions happiness, suffering, merit, and demerit themselves",
+    "Toward living beings characterized by happiness, suffering, virtue, and vice"
+   ],
+   "chosen": "sukha, duḥkha, puṇya, and apuṇya are taken, in translation, as qualifying classes of beings rather than merely abstract objects.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "quote": "sarvaprāṇiṣu sukhasaṃbhogāpanneṣu ... duḥkhiteṣu ... puṇyātmakeṣu ... apuṇyaśīleṣūpekṣām",
+     "translation": "Among all living beings who are in the enjoyment of happiness … among the distressed … among the virtuous … among those of unvirtuous conduct."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Vyāsa glosses the sūtra’s bhāvanā with the verbal instruction bhāvayet and then with bhāvayataḥ, showing an intentional practice of cultivating these dispositions.",
+   "options_considered": [
+    "A passive mental state or feeling arising on its own",
+    "An intentional cultivation/practice of the four attitudes"
+   ],
+   "chosen": "bhāvanātaḥ means “from/through cultivation,” not merely “from imagination” or “from feeling.”",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      5
+     ],
+     "quote": "maitrīṃ bhāvayet.\nevam asya bhāvayataḥ śuklo dharma upajāyate.",
+     "translation": "One should cultivate friendliness. Thus, for him who is cultivating in this way, white dharma arises."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Vyāsa explains the result by saying that the mind becomes prasanna; he further characterizes that clarified mind as one-pointed and attaining a stable state.",
+   "options_considered": [
+    "Propitiation of the mind as though making it favorable",
+    "Clarification/serening of citta, leading to one-pointed steadiness"
+   ],
+   "chosen": "cittaprasādanam is the clarification or serenity of the mind, with one-pointed steadiness following from that clarity.",
+   "evidence": [
+    {
+     "lines": [
+      5,
+      6,
+      7
+     ],
+     "quote": "evam asya bhāvayataḥ śuklo dharma upajāyate.\ntataś ca cittaṃ prasīdati.\nprasannam ekāgraṃ sthitipadaṃ labhate.",
+     "translation": "Thus, for him who cultivates in this way, white dharma arises. And from that the mind becomes clear/serene. Being clear, it becomes one-pointed and obtains a state of steadiness."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Through cultivating friendliness (maitrī), compassion (karuṇā), appreciative joy (muditā), and equanimous overlooking (upekṣā), respectively in regard to beings enjoying happiness, the distressed, the virtuous, and those of unvirtuous conduct, there is clarification of the mind (citta-prasādana).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take sukha, duḥkha, puṇya, and apuṇya as abstract objects only; Vyāsa makes them practical target-classes of beings.",
+  "It might miss the one-to-one distribution of the four attitudes across the four classes; Vyāsa spells out the pairing line by line.",
+  "It might parse viṣayāṇām as an independent masculine genitive plural, “of the objects,” rather than as a feminine genitive plural adjective qualifying the four attitudes.",
+  "It might translate prasādanam as generic “propitiation” or “soothing”; Vyāsa defines the result as the mind becoming prasanna, then ekāgra and stable."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 tagged sukhaduḥkhapuṇyāpuṇyaviṣayāṇām as viṣaya_PGM, i.e. masculine genitive plural. I analyze it as feminine genitive plural bahuvrīhi adjective agreeing with maitrī-karuṇā-muditā-upekṣāṇām; Vyāsa’s four accusative attitudes with four locative target-classes support this construal.",
+  "ByT5 tagged bhāvanātaḥ as bhāvanā_SBF, apparently a feminine ablative singular subanta. I treat bhāvanātaḥ as an ablatival indeclinable in -taḥ, since the regular ā-stem ablative would be bhāvanāyāḥ; syntactically it still means “from/through cultivation.”"
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 10051,
+   "completion_tokens": 16095,
+   "reasoning_tokens": 11771
+  },
+  "est_cost": 0.2716,
+  "reverified": true
+ },
+ "mula": "maitrīkaruṇāmuditopekṣāṇāṃ sukhaduḥkhapuṇyāpuṇyaviṣayāṇāṃ bhāvanātaś cittaprasādanam",
+ "commentary_lines": [
+  "tatra sarvaprāṇiṣu sukhasaṃbhogāpanneṣu maitrīṃ bhāvayet.",
+  "duḥkhiteṣu karuṇām.",
+  "puṇyātmakeṣu muditām.",
+  "apuṇyaśīleṣūpekṣām.",
+  "evam asya bhāvayataḥ śuklo dharma upajāyate.",
+  "tataś ca cittaṃ prasīdati.",
+  "prasannam ekāgraṃ sthitipadaṃ labhate.",
+  "1.33",
+  "pracchardanavidhāraṇābhyāṃ vā prāṇasya"
+ ]
+}

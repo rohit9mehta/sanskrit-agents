@@ -1,0 +1,391 @@
+{
+ "unit": "2.32",
+ "analysis": [
+  {
+   "surface": "yadṛcchayā",
+   "surface_in_sandhi": "yadṛcchayā",
+   "lemma": "yadṛcchā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental used adverbially: “by chance, unsolicitedly.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yadṛcchā Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "co-",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic; in the printed sandhi yadṛcchayā copapannaṃ, ca + upapannam gives co-.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "upapannam",
+   "surface_in_sandhi": "-papannaṃ",
+   "lemma": "upapanna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Kta-participial adjective from upa-√pad, agreeing with yuddham; Śaṅkara glosses it as āgatam.",
+   "verification": {
+    "status": "pass",
+    "detail": "upapanna Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "svargadvāram",
+   "surface_in_sandhi": "svarga-dvāram",
+   "lemma": "svargadvāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svargasya dvāram",
+    "members": [
+     "svarga",
+     "dvāra"
+    ]
+   },
+   "note": "Accusative apposition/predicative description of yuddham: the battle is a gate to heaven. The printed text marks the compound with a hyphen; the lexical compound stem is given unhyphenated as svargadvāra. The verifier logged the tatpuruṣa relation as unsupported, not as a grammatical contradiction, so the standard ṣaṣṭhī-tatpuruṣa analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svargadvāra as Napumsaka/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "apāvṛtam",
+   "surface_in_sandhi": "apāvṛtam",
+   "lemma": "apāvṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Kta-participial adjective from apā-√vṛ, “opened,” glossed by Śaṅkara as udghāṭitam; it qualifies svarga-dvāram/yuddham.",
+   "verification": {
+    "status": "pass",
+    "detail": "apāvṛta Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "sukhinaḥ",
+   "surface_in_sandhi": "sukhinaḥ",
+   "lemma": "sukhin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative with kṣatriyāḥ: “fortunate/happy are the kṣatriyas,” not merely an attributive “happy kṣatriyas.”",
+   "verification": {
+    "status": "pass",
+    "detail": "sukhin Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kṣatriyāḥ",
+   "surface_in_sandhi": "kṣatriyāḥ",
+   "lemma": "kṣatriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of labhante.",
+   "verification": {
+    "status": "pass",
+    "detail": "kṣatriya Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pārtha",
+   "surface_in_sandhi": "pārtha",
+   "lemma": "pārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative address to Arjuna.",
+   "verification": {
+    "status": "pass",
+    "detail": "pārtha Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "labhante",
+   "surface_in_sandhi": "labhante",
+   "lemma": "labh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "labh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present middle in active/kartari sense: “they obtain.”",
+   "verification": {
+    "status": "pass",
+    "detail": "labh Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yuddham",
+   "surface_in_sandhi": "yuddham",
+   "lemma": "yuddha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of labhante.",
+   "verification": {
+    "status": "pass",
+    "detail": "yuddha Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "īdṛśam",
+   "surface_in_sandhi": "īdṛśam",
+   "lemma": "īdṛśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Qualifies yuddham: “such a battle.”",
+   "verification": {
+    "status": "pass",
+    "detail": "īdṛśa Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The instrumental yadṛcchayā is taken adverbially to mark that the battle has come without being sought.",
+   "options_considered": [
+    "by chance, of itself, unsolicitedly",
+    "by self-will",
+    "according to desire"
+   ],
+   "chosen": "yadṛcchayā = “unsolicitedly / of itself,” not primarily “by one’s own will.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yadṛcchayā ca aprārthitatayā",
+     "translation": "“yadṛcchayā—i.e. by not having been asked for / unsolicitedly.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The participle is not translated here as “fitting” or “reasonable,” but as describing the battle as having presented itself.",
+   "options_considered": [
+    "come, arrived",
+    "proper, fitting",
+    "obtained"
+   ],
+   "chosen": "upapannam = “come, arrived.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "upapannam āgataṃ",
+     "translation": "“upapannam—come/arrived.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "svargadvāram is a tatpuruṣa, ‘gate of/to heaven,’ and apāvṛtam means ‘opened.’ The commentary explicitly glosses apāvṛtam by udghāṭitam; the precise compound relation is grammatical rather than explicitly explained by Śaṅkara.",
+   "options_considered": [
+    "an opened gate to heaven",
+    "an uncovered heavenly door",
+    "a means to heaven that is open"
+   ],
+   "chosen": "svargadvāram apāvṛtam = “an opened gate to heaven.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svarga-dvāram apāvṛtam udghāṭitaṃ",
+     "translation": "“the gate to heaven, opened—unbarred/opened up.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara recasts the syntax as a relative sentence: those kṣatriyas who obtain such a battle—are they not sukhinaḥ? This prevents reading sukhinaḥ merely as an attributive adjective, ‘happy kṣatriyas obtain…’.",
+   "options_considered": [
+    "fortunate are the kṣatriyas who obtain such a battle",
+    "happy kṣatriyas obtain such a battle"
+   ],
+   "chosen": "sukhinaḥ is predicative: “fortunate/happy are the kṣatriyas who obtain…”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ya etad īdṛśaṃ yuddhaṃ labhante kṣatriyāḥ he pārtha, kiṃ na sukhinas te ?",
+     "translation": "“Those kṣatriyas who obtain this such battle, O Pārtha—are they not happy/fortunate?”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The commentary’s order etad īdṛśaṃ yuddhaṃ labhante makes yuddham the object and confirms īdṛśam as its qualifier; upapannam, svarga-dvāram, and apāvṛtam are construed with the same accusative object phrase.",
+   "options_considered": [
+    "they obtain such a battle",
+    "such kṣatriyas obtain battle",
+    "they obtain heaven through battle"
+   ],
+   "chosen": "yuddham īdṛśam is the direct object of labhante; the preceding accusative neuters describe that battle.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ya etad īdṛśaṃ yuddhaṃ labhante kṣatriyāḥ",
+     "translation": "“the kṣatriyas who obtain this such battle.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "And when such a battle comes of itself, unsolicited—\nan opened gate to heaven—\nfortunate are the kṣatriyas, O Pārtha,\nwho obtain it.",
+ "one_shot_delta": [
+  "Without the commentary, sukhinaḥ could easily be read as merely attributive, “happy kṣatriyas obtain…,” whereas Śaṅkara makes it a predicate: those who obtain such a battle are fortunate.",
+  "upapannam might be flattened to “suitable” or “proper”; Śaṅkara’s āgatam shows the intended sense is “come/presented itself.”",
+  "yadṛcchayā might be translated vaguely as “by chance”; Śaṅkara sharpens it to aprārthitatayā, “without being sought.”",
+  "apāvṛtam should be taken as “opened/unbarred,” not just “uncovered,” because Śaṅkara glosses it with udghāṭitam."
+ ],
+ "analyzer_disagreements": [
+  "upapannam: the tagger gave lemma/root upapad and a nominative-looking tag; I analyze the word-form as the accusative singular neuter nominal stem upapanna, a kta-participle from upa-√pad, because it agrees with yuddham as the object phrase and is glossed upapannam āgatam in the commentary (line 1).",
+  "apāvṛtam: the tagger gave lemma/root apāvṛ and a nominative-looking tag; I analyze the word-form as the accusative singular neuter nominal stem apāvṛta, a kta-participle, agreeing with svarga-dvāram/yuddham and glossed apāvṛtam udghāṭitam in the commentary (line 1).",
+  "For neuter forms upapannam, svarga-dvāram, apāvṛtam, yuddham, and īdṛśam, nominative and accusative are formally identical; I select accusative because Śaṅkara construes etad īdṛśaṃ yuddhaṃ as the object of labhante (line 1)."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11128,
+   "completion_tokens": 9958,
+   "reasoning_tokens": 4975
+  },
+  "est_cost": 0.1828,
+  "reverified": true
+ },
+ "mula": "yadṛcchayā copapannaṃ svarga-dvāram apāvṛtam | sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam",
+ "commentary_lines": [
+  "yadṛcchayā ca aprārthitatayā upapannam āgataṃ svarga-dvāram apāvṛtam udghāṭitaṃ ya etad īdṛśaṃ yuddhaṃ labhante kṣatriyāḥ he pārtha, kiṃ na sukhinas te ? ||bhgs_2.32||"
+ ]
+}

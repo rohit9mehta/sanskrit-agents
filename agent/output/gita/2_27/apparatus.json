@@ -1,0 +1,488 @@
+{
+ "unit": "2.27",
+ "analysis": [
+  {
+   "surface": "jātasya",
+   "surface_in_sandhi": "jātasya",
+   "lemma": "jāta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle used substantively: “of one born.”",
+   "verification": {
+    "status": "pass",
+    "detail": "jāta Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal particle: “for.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dhruvaḥ",
+   "surface_in_sandhi": "dhruvo",
+   "lemma": "dhruva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective agreeing with mṛtyuḥ; Śaṅkara takes it as “invariable/certain.”",
+   "verification": {
+    "status": "pass",
+    "detail": "dhruva Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mṛtyuḥ",
+   "surface_in_sandhi": "mṛtyur",
+   "lemma": "mṛtyu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "mṛtyu Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dhruvam",
+   "surface_in_sandhi": "dhruvaṃ",
+   "lemma": "dhruva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular agreeing with janma; printed with anusvāra before janma, pausal normalized as -m.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhruva Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "janma",
+   "surface_in_sandhi": "janma",
+   "lemma": "janman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter -an stem, nominative singular: “birth.”",
+   "verification": {
+    "status": "pass",
+    "detail": "janman Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mṛtasya",
+   "surface_in_sandhi": "mṛtasya",
+   "lemma": "mṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle from √mṛ, used substantively: “of one dead.”",
+   "verification": {
+    "status": "pass",
+    "detail": "mṛta Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction: “and/also.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tasmāt",
+   "surface_in_sandhi": "tasmād",
+   "lemma": "tasmāt",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival causal adverb: “therefore/on that account”; sandhi changes final -t to -d before a vowel.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "aparihārye",
+   "surface_in_sandhi": "aparihārye",
+   "lemma": "aparihārya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Gerundival adjective, “not to be avoided/inevitable,” agreeing with arthe.",
+   "verification": {
+    "status": "pass",
+    "detail": "aparihārya Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "arthe",
+   "surface_in_sandhi": "'rthe",
+   "lemma": "artha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: “in/regarding the matter.” Śaṅkara identifies the matter as one characterized by birth and death.",
+   "verification": {
+    "status": "pass",
+    "detail": "artha Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negating arhasi with the infinitive śocitum.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tvam",
+   "surface_in_sandhi": "tvaṃ",
+   "lemma": "yuṣmad",
+   "morph": {
+    "pos": "subanta",
+    "linga": null,
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun; the form is common-gender, so no grammatical linga is assigned.",
+   "verification": {
+    "status": "pass",
+    "detail": "yuṣmad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śocitum",
+   "surface_in_sandhi": "śocitum",
+   "lemma": "śuc",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "śuc",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Infinitive in -tum from √śuc: “to grieve.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "arhasi",
+   "surface_in_sandhi": "arhasi",
+   "lemma": "arh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "arh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "With śocitum under negation: “you should/are entitled to grieve” → “you should not grieve.”",
+   "verification": {
+    "status": "pass",
+    "detail": "arh Lat/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The genitive is not taken as an abstract “of birth” but as a substantivized participle referring to a born person or being.",
+   "options_considered": [
+    "“of one born” as a substantivized participle",
+    "“of birth” as an abstract genitive"
+   ],
+   "chosen": "jātasya = “of one who has obtained birth / one born”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "jātasya hi labdha-janmanaḥ",
+     "translation": "“jātasya, that is, of one who has obtained birth.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Both occurrences of dhruva are translated as “certain,” not merely “fixed” in a physical sense, because Śaṅkara glosses dhruvaḥ with avyabhicārī, “not deviating/failing.”",
+   "options_considered": [
+    "“fixed/firm” as a general adjective",
+    "“certain/invariable” as a rule about birth and death"
+   ],
+   "chosen": "dhruvaḥ/dhruvam = “certain, invariable”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "dhruvo 'vyabhicārī mṛtyur maraṇaṃ dhruva janma mṛtasya ca",
+     "translation": "“dhruvaḥ means invariable; mṛtyuḥ is death; and birth is certain for one who has died.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The verse’s mṛtyuḥ is ordinary death/dying, not Death personified, since the commentary glosses it by maraṇam.",
+   "options_considered": [
+    "death/dying",
+    "Death as a deity or personification"
+   ],
+   "chosen": "mṛtyuḥ = “death,” specifically maraṇam",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "mṛtyur maraṇaṃ",
+     "translation": "“mṛtyuḥ is maraṇam, death.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "artha is not rendered as “purpose” or “wealth,” but as the matter/state of affairs constituted by birth and death; the locative is construed with the following prohibition of grief: in such an unavoidable matter, grief is not appropriate.",
+   "options_considered": [
+    "artha as aim/purpose",
+    "artha as advantage/wealth",
+    "artha as the unavoidable matter or fact of birth-and-death"
+   ],
+   "chosen": "aparihārye arthe = “in/regarding this unavoidable matter”",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3
+     ],
+     "quote": "tasmād aparihāryo 'yaṃ janma-maraṇa-lakṣaṇo 'rthaḥ | tasminn aparihārye 'rthe na tvaṃ śocitum arhasi",
+     "translation": "“Therefore this matter, characterized by birth and death, is unavoidable. In that unavoidable matter you ought not to grieve.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "arhasi with the infinitive śocitum is modal: “you are not entitled/fit/required to grieve,” idiomatically “you should not grieve.”",
+   "options_considered": [
+    "literal “you do not deserve to grieve”",
+    "modal “you should not grieve”"
+   ],
+   "chosen": "na tvaṃ śocitum arhasi = “you should not grieve”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "na tvaṃ śocitum arhasi",
+     "translation": "“you ought not to grieve.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The particle introduces the reason for the preceding teaching: birth entails death and death entails birth. This is decided from ordinary grammar and usage rather than an explicit gloss in the commentary.",
+   "options_considered": [
+    "emphatic “indeed”",
+    "causal “for”"
+   ],
+   "chosen": "hi = “for”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For one who is born, death is certain;\nand for one who has died, birth is certain.\nTherefore, in this unavoidable matter (artha),\nyou should not grieve.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take artha in aparihārye 'rthe as “purpose” or “object,” whereas Śaṅkara identifies it as the unavoidable matter characterized by birth and death.",
+  "It might render dhruva merely as “fixed” or “permanent”; Śaṅkara’s avyabhicārī points to “certain/invariable.”",
+  "It might miss that jātasya and mṛtasya are substantivized participles—“of one born” and “of one dead”—rather than abstract nouns.",
+  "It might over-literalize na śocitum arhasi as “you do not deserve to grieve,” while the bhāṣya supports the idiomatic modal sense “you should not grieve.”"
+ ],
+ "analyzer_disagreements": [
+  "jātasya: ByT5 reports lemma/root jan; here it is analyzed as the inflected participial nominal stem jāta, masculine genitive singular, supported by Śaṅkara’s gloss labdha-janmanaḥ.",
+  "mṛtasya: ByT5 reports lemma/root mṛ; here it is analyzed as the inflected participial nominal stem mṛta, masculine genitive singular.",
+  "tasmāt: ByT5 leaves it effectively as an uninflected segment; here it is represented as an avyaya causal adverb, in line with its idiomatic use and Śaṅkara’s inferential explanation.",
+  "tvam: ByT5 reports lemma tvad and the prior apparatus assigned masculine gender; corrected to the pronoun stem yuṣmad, nominative singular, with no grammatical linga assigned to the common-gender form.",
+  "śocitum: ByT5 marks an infinitive from śuc; retained, but represented in this schema as an avyaya infinitive with root śuc rather than as a finite verb."
+ ],
+ "open_questions": [
+  "Line 1 of the supplied commentary reads “dhruva janma” without the expected neuter ending in the verse’s dhruvaṃ janma; this appears to be a surface/segmentation irregularity in the plaintext, not a different interpretation."
+ ],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13479,
+   "completion_tokens": 9683,
+   "reasoning_tokens": 4095
+  },
+  "est_cost": 0.1857,
+  "reverified": true
+ },
+ "mula": "jātasya hi dhruvo mṛtyur dhruvaṃ janma mṛtasya ca | tasmād aparihārye 'rthe na tvaṃ śocitum arhasi",
+ "commentary_lines": [
+  "jātasya hi labdha-janmanaḥ dhruvo 'vyabhicārī mṛtyur maraṇaṃ dhruva janma mṛtasya ca |",
+  "tasmād aparihāryo 'yaṃ janma-maraṇa-lakṣaṇo 'rthaḥ |",
+  "tasminn aparihārye 'rthe na tvaṃ śocitum arhasi ||bhgs_2.27||",
+  "kārya-karaṇa-saṃghātātma-kānyapi bhūtāny uddiśya śoko na yuktaḥ kartum, yataḥ-"
+ ]
+}

@@ -1,0 +1,410 @@
+{
+ "unit": "2.52",
+ "analysis": [
+  {
+   "surface": "yadā",
+   "surface_in_sandhi": "yadā",
+   "lemma": "yadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative with tadā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic genitive singular; Śaṅkara glosses te as tava. The form is common to genders for the second-person pronoun; Pum is supplied contextually for Arjuna while retaining the genitive-singular construal.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "moha-kalilam",
+   "surface_in_sandhi": "moha-kalilaṃ",
+   "lemma": "moha-kalila",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "moha-rūpaṃ kalilam",
+    "members": [
+     "moha",
+     "kalila"
+    ]
+   },
+   "note": "Object of vyatitariṣyati; Śaṅkara explains it as an impurity/turbidity consisting in delusion and having the form of non-discrimination. The verifier reported a tool_error for this compound derivation and did not support the karmadhāraya relation; the analysis is retained on the commentary’s neuter gloss kāluṣyaṃ and the syntactic accusative object relation.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem moha-kalila as Napumsaka/Dvitiya/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "buddhiḥ",
+   "surface_in_sandhi": "buddhir",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of vyatitariṣyati.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vyatitariṣyati",
+   "surface_in_sandhi": "vyatitariṣyati",
+   "lemma": "tṝ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "tṝ",
+    "prefixes": [
+     "vi",
+     "ati"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Simple future: ‘will pass beyond/cross over’; Śaṅkara glosses with vyatikramiṣyati.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-ati-tṝ Lrt/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tadā",
+   "surface_in_sandhi": "tadā",
+   "lemma": "tadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative of yadā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "gantāsi",
+   "surface_in_sandhi": "gantāsi",
+   "lemma": "gam",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "gam",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lut",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Periphrastic future: ‘you will reach/attain’; Śaṅkara glosses gantāsi with prāpsyasi.",
+   "verification": {
+    "status": "pass",
+    "detail": "gam Lut/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nirvedam",
+   "surface_in_sandhi": "nirvedaṃ",
+   "lemma": "nirveda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of gantāsi; Śaṅkara glosses as vairāgya, ‘dispassion,’ not mere despair.",
+   "verification": {
+    "status": "pass",
+    "detail": "nirveda Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "śrotavyasya",
+   "surface_in_sandhi": "śrotavyasya",
+   "lemma": "śrotavya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Gerundive/future passive participle of √śru used substantively: ‘what is to be heard.’ The neuter is confirmed by Śaṅkara’s paraphrase śrotavyam.",
+   "verification": {
+    "status": "pass",
+    "detail": "śrotavya Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "śrutasya",
+   "surface_in_sandhi": "śrutasya",
+   "lemma": "śruta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle of √śru used substantively: ‘what has been heard.’ The neuter is confirmed by Śaṅkara’s paraphrase śrutam.",
+   "verification": {
+    "status": "pass",
+    "detail": "śruta Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The enclitic te is construed as genitive singular dependent on buddhiḥ: ‘your intellect.’",
+   "options_considered": [
+    "dative ‘for you/to you’",
+    "genitive ‘your/of you’"
+   ],
+   "chosen": "te = tava, ‘your/of you’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "te tava",
+     "translation": "‘te’ means ‘your.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is taken as a karmadhāraya-like ‘delusion-impurity,’ not merely a physical ‘thicket’ or an unspecified difficulty. It is the accusative object crossed over by the intellect.",
+   "options_considered": [
+    "literal ‘mire/thicket of delusion’ without explanation",
+    "‘impurity/turbidity consisting in delusion’",
+    "a bahuvrīhi describing the intellect itself"
+   ],
+   "chosen": "moha-kalilaṃ = an impurity/turbidity consisting in delusion and non-discrimination",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "moha-kalilaṃ mohātmakam aviveka-rūpaṃ kāluṣyaṃ",
+     "translation": "‘moha-kalila’ is an impurity/turbidity whose nature is delusion, whose form is non-discrimination."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yena ātmānātma-viveka-bodhaṃ kaluṣīkṛtya viṣayaṃ pratyantaḥ-karaṇaṃ pravartate",
+     "translation": "By it, after the cognition discriminating self and not-self has been defiled, the inner organ turns toward objects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The verb is not a mere motion verb but means that the intellect will pass beyond the delusive impurity, reaching a highly purified condition.",
+   "options_considered": [
+    "‘will cross’ as simple spatial crossing",
+    "‘will pass beyond/transcend’ as overcoming delusion"
+   ],
+   "chosen": "vyatitariṣyati = ‘will pass beyond/transcend’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tat tava buddhiḥ vyatitariṣyati vyatikramiṣyati, atiśuddha-bhāvam āpātryate ity arthaḥ",
+     "translation": "That, your intellect, will pass beyond; that is, it will overstep it; the sense is that it comes to a state of great purity."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "nirveda is translated as dispassion/detachment, not as depression, despair, or simple disgust.",
+   "options_considered": [
+    "despair",
+    "disgust",
+    "dispassion/detachment"
+   ],
+   "chosen": "nirvedaṃ = vairāgya, ‘dispassion’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "gantāsi prāpsyasi nirvedaṃ vairāgyaṃ",
+     "translation": "‘You will go/come to’ means ‘you will attain’; ‘nirveda’ means ‘dispassion.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The two genitives depend on nirveda/vairāgya and are neuter substantives. Śaṅkara further explains that both the not-yet-heard and the already-heard appear fruitless to the seeker at that point.",
+   "options_considered": [
+    "genitives dependent on gantāsi",
+    "neuter substantives governed by nirveda",
+    "masculine agreement with an implied teacher or text"
+   ],
+   "chosen": "śrotavyasya śrutasya ca = ‘toward what is to be heard and what has been heard’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "nirvedaṃ vairāgyaṃ śrotavyasya śrutasya ca",
+     "translation": "Dispassion with respect to what is to be heard and what has been heard."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tadā śrotavyaṃ śrutaṃ ca te niṣphalaṃ pratibhātīty abhiprāyaḥ",
+     "translation": "The purport is: then what is to be heard and what has been heard appear fruitless to you."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "When your intellect (buddhi) shall pass beyond\nthis delusion-impurity (moha-kalila),\nthen you will attain dispassion (nirveda)\ntoward what is to be heard and what has been heard.",
+ "one_shot_delta": [
+  "Without Śaṅkara, nirvedaṃ might be rendered as ‘despair’ or ‘disgust’; the commentary fixes it as vairāgya, dispassion.",
+  "A commentary-blind translation might leave moha-kalilaṃ as a vague ‘mire/thicket of delusion’; Śaṅkara specifies it as the impurity/turbidity of non-discrimination that defiles self/not-self discernment.",
+  "One might take śrotavyasya śrutasya ca as merely ‘scriptures heard and to be heard’; Śaṅkara’s paraphrase emphasizes their appearing niṣphala, fruitless, to the seeker at that stage."
+ ],
+ "analyzer_disagreements": [
+  "te: ByT5 only marked tvad_SG; Śaṅkara’s te tava fixes the case as genitive singular. The form is not gender-distinct; Pum is supplied contextually for Arjuna.",
+  "vyatitariṣyati: ByT5 gives the prefixed lemma vyatitṛ; per the requested format this is analyzed as bare root tṝ with prefixes vi + ati.",
+  "gantāsi: ByT5 marks it as simple future, but the form is the periphrastic future (Luṭ) of √gam; the simple future would be gamiṣyasi.",
+  "śrotavyasya: ByT5 gives root śru with gerundive information; for the required subanta analysis the inflected nominal stem is śrotavya, neuter genitive singular.",
+  "śrutasya: ByT5 gives root śru with participial information; for the required subanta analysis the inflected nominal stem is śruta, neuter genitive singular."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11517,
+   "completion_tokens": 11228,
+   "reasoning_tokens": 6143
+  },
+  "est_cost": 0.203,
+  "reverified": true
+ },
+ "mula": "yadā te moha-kalilaṃ buddhir vyatitariṣyati | tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca",
+ "commentary_lines": [
+  "yadā yasmin kāle te tava moha-kalilaṃ mohātmakam aviveka-rūpaṃ kāluṣyaṃ yena ātmānātma-viveka-bodhaṃ kaluṣīkṛtya viṣayaṃ pratyantaḥ-karaṇaṃ pravartate, tat tava buddhiḥ vyatitariṣyati vyatikramiṣyati, atiśuddha-bhāvam āpātryate ity arthaḥ |",
+  "tadā tasmin kāle gantāsi prāpsyasi nirvedaṃ vairāgyaṃ śrotavyasya śrutasya ca, tadā śrotavyaṃ śrutaṃ ca te niṣphalaṃ pratibhātīty abhiprāyaḥ ||bhgs_2.52||",
+  "moha-kalilātyaya-dvāreṇa labdhātma-vivekaja-prajñaḥ kadā karma-yogajaṃ phalaṃ paramārtha-yogam avāpsyāmīti cet, tat sṛṇu --"
+ ]
+}

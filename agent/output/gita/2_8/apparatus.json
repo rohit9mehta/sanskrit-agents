@@ -1,0 +1,562 @@
+{
+ "unit": "2.8",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "prapaśyāmi",
+   "surface_in_sandhi": "prapaśyāmi",
+   "lemma": "paś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "paś",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Present 1st singular: “I see/perceive/discern.”",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-paś Lat/Uttama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mama",
+   "surface_in_sandhi": "mamā",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First-person pronoun, genitive singular; the form mama is not gender-distinct in usage, but Pum is supplied for the masculine speaker Arjuna and for verifier-style nominal features. Construed here as possessive genitive with śokam. In the printed sandhi mamāpanudyād, final -a of mama coalesces with initial a- of apanudyāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "apanudyāt",
+   "surface_in_sandhi": "apanudyād",
+   "lemma": "nud",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "nud",
+    "prefixes": [
+     "apa"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "AshirLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Morphologically treated as Āśīrliṅ 3rd singular active, since VidhiLiṅ with this root/prefix derives apanudet rather than the printed apanudyāt; in context the relative clause still has potential force, “would/could drive away, remove.” Final -t is voiced in sandhi before yac: apanudyād yac.",
+   "verification": {
+    "status": "pass",
+    "detail": "apa-nud AshirLin/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yac",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Formally nom./acc. neuter singular; taken syntactically as nominative subject of apanudyāt. Sandhi: yat śokam > yac chokam.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śokam",
+   "surface_in_sandhi": "chokam",
+   "lemma": "śoka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of apanudyāt: “grief/sorrow.” Initial ś appears as ch in the printed sandhi yac chokam.",
+   "verification": {
+    "status": "pass",
+    "detail": "śoka Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ucchoṣaṇam",
+   "surface_in_sandhi": "ucchoṣaṇam",
+   "lemma": "ucchoṣaṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular mfn adjective agreeing with śokam: “parching/drying up.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ucchoṣaṇa Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "indriyāṇām",
+   "surface_in_sandhi": "indriyāṇām",
+   "lemma": "indriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Objective genitive dependent on ucchoṣaṇam: “of the senses.”",
+   "verification": {
+    "status": "pass",
+    "detail": "indriya Napumsaka/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "avāpya",
+   "surface_in_sandhi": "avāpya",
+   "lemma": "āp",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "āp",
+    "prefixes": [
+     "ava"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive/converb of ava-√āp, “having obtained/attained”; rendered concessively in context.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhūmau",
+   "surface_in_sandhi": "bhūmāv",
+   "lemma": "bhūmi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: “on earth.” Sandhi before asapatnam: bhūmau > bhūmāv.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūmi Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "asapatnam",
+   "surface_in_sandhi": "asapatnam",
+   "lemma": "asapatna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "na vidyate sapatnaḥ yasya tat rājyam",
+    "members": [
+     "nañ",
+     "sapatna"
+    ]
+   },
+   "note": "Neuter accusative singular adjective qualifying rājyam: “without rival/adversary.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asapatna as Napumsaka/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ṛddham",
+   "surface_in_sandhi": "ṛddhaṃ",
+   "lemma": "ṛddha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past participial adjective from √ṛdh, qualifying rājyam: “prosperous, flourishing, abundant.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ṛddha Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "rājyam",
+   "surface_in_sandhi": "rājyaṃ",
+   "lemma": "rājya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of avāpya, together with ādhipatyam.",
+   "verification": {
+    "status": "pass",
+    "detail": "rājya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "surāṇām",
+   "surface_in_sandhi": "surāṇām",
+   "lemma": "sura",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive plural dependent on ādhipatyam: “of/over the gods.”",
+   "verification": {
+    "status": "pass",
+    "detail": "sura Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "api",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here intensifying: “even.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coordinates ādhipatyam with rājyam. Printed in cādhipatyam by vowel coalescence ca + ādhipatyam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ādhipatyam",
+   "surface_in_sandhi": "ādhipatyam",
+   "lemma": "ādhipatya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of avāpya, coordinated with rājyam: “sovereignty/supremacy.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ādhipatya Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The form yat is formally ambiguous between nominative and accusative neuter singular. Since apanudyāt is active and transitive with śokam as its object, the relative pronoun most naturally supplies the subject: “what would remove…”.",
+   "options_considered": [
+    "yat as accusative object of prapaśyāmi",
+    "yat as nominative subject of apanudyāt, with an omitted correlative object for prapaśyāmi"
+   ],
+   "chosen": "yat is nominative neuter singular, subject of apanudyāt; an omitted correlative tad is understood as the object of prapaśyāmi.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No relevant gloss on this clause is supplied; the decision is grammatical."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The genitive pronoun is best taken with the nearby object śokam. The verb apanudyāt already takes śokam as its direct object, so a separate genitive complement “for me/from me” is less direct.",
+   "options_considered": [
+    "mama as possessive genitive with śokam",
+    "mama as a genitive/dative-like complement to apanudyāt, “for me”"
+   ],
+   "chosen": "mama is possessive genitive with śokam: “my grief.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No relevant gloss on this phrase is supplied; the decision is grammatical."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Although ucchoṣaṇam could be read as a neuter noun in isolation, agreement with masculine accusative śokam favors an attributive adjective. MW s.v. ucchoṣaṇa gives the mfn sense “making dry, parching,” which fits the construction.",
+   "options_considered": [
+    "ucchoṣaṇam as a neuter substantive, “the drying up of the senses,” apposed to śokam",
+    "ucchoṣaṇam as a masculine accusative adjective qualifying śokam"
+   ],
+   "chosen": "ucchoṣaṇam is an accusative masculine adjective qualifying śokam; indriyāṇām is its objective genitive: “parching the senses.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No relevant gloss on this phrase is supplied; the decision is grammatical and lexical."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The accusative neuter nouns rājyam and ādhipatyam are the objects of avāpya. In the larger negative sentence—“I do not see what would remove…”—the absolutive gives a circumstance that would still not remove the sorrow; English idiom therefore calls for a concessive rendering.",
+   "options_considered": [
+    "strictly sequential rendering, “after obtaining…”",
+    "concessive rendering under the scope of the negation, “even if/upon obtaining…”"
+   ],
+   "chosen": "avāpya is an absolutive governing both rājyam and ādhipatyam, rendered concessively in English: “even were I to obtain…”.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No relevant gloss on this construction is supplied; the decision is grammatical and contextual."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The three accusative neuter singular forms asapatnam, ṛddham, and rājyam form one noun phrase, while bhūmau locates the kingdom. MW s.v. rājya supports “kingdom/sovereignty,” and MW s.v. asapatna supports “without a rival/adversary.”",
+   "options_considered": [
+    "bhūmau as merely the place where obtaining occurs",
+    "bhūmau as specifying the location/domain of the kingdom"
+   ],
+   "chosen": "bhūmau construes with rājyam: “a kingdom on earth”; asapatnam and ṛddham are attributes of rājyam.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No relevant gloss on this noun phrase is supplied; the decision is grammatical and lexical."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "A genitive with a sovereignty term naturally marks the domain or object of lordship. The placement of api after surāṇām heightens the claim from earthly kingdom to lordship even over gods, while ca links that object with rājyam under avāpya.",
+   "options_considered": [
+    "surāṇām ādhipatyam as “the gods’ own sovereignty”",
+    "surāṇām ādhipatyam as “sovereignty over/of the gods,” intensified by api"
+   ],
+   "chosen": "surāṇām depends on ādhipatyam, api intensifies it, and ca coordinates ādhipatyam with rājyam: “and even sovereignty over the gods.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No relevant gloss on this phrase is supplied; the decision is grammatical and contextual."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For I do not see what could drive away\nmy grief (śoka), which parches the senses (indriyāṇi)—\neven were I to obtain on earth an unrivalled, prosperous kingdom,\nand even sovereignty over the gods.",
+ "one_shot_delta": [
+  "A commentary-blind or purely mechanical reading might take ucchoṣaṇam as a neuter noun apposed to śokam, rather than as a masculine adjective agreeing with śokam: “grief that parches the senses.”",
+  "It might render avāpya only as a sequential “after obtaining,” missing the concessive force created by the negated main clause.",
+  "It might construe surāṇām ādhipatyam as “the gods’ sovereignty” rather than “sovereignty even over the gods.”",
+  "The supplied commentary excerpt is not actually a gloss on 2.8, so none of the above contested decisions can be anchored in Śaṅkara’s explanation for this unit."
+ ],
+ "analyzer_disagreements": [
+  "prapaśyāmi: ByT5 gives the lemma as prapaś; normalized to bare root paś with prefix pra, as required by the requested format.",
+  "apanudyāt: ByT5 gives the lemma as apanud; normalized to bare root nud with prefix apa. The earlier VidhiLiṅ analysis was rejected by the verifier, which derives apanudet for VidhiLiṅ; the lakāra is therefore corrected to AshirLin for the printed form apanudyāt, while preserving the contextual English force “would/could remove.”",
+  "mama: ByT5 marks the pronoun but does not spell out the requested features; analyzed as mad-pronoun, genitive singular, with Pum supplied for the masculine speaker/referent although the surface form is common to genders.",
+  "ucchoṣaṇam: ByT5 tags the form as neuter accusative singular; because it qualifies masculine śokam, it is analyzed here as masculine accusative singular.",
+  "avāpya: ByT5 marks a converb; represented in the required schema as an avyaya, with root āp and prefix ava noted.",
+  "ṛddham: ByT5 traces the form to root ṛdh; for subanta analysis the lemma is the participial adjective stem ṛddha, neuter accusative singular agreeing with rājyam.",
+  "asapatnam: ByT5 supplies only the inflectional value; the compound analysis is added as a negative bahuvrīhi because the adjective means “having no rival/adversary.”"
+ ],
+ "open_questions": [
+  "The commentary lines supplied under this unit are Gītā 2.9 (saṃjaya uvāca … tūṣṇīṃ babhūva ha), not Śaṅkara-bhāṣya on 2.8; therefore all interpretive decisions here are made without commentary evidence."
+ ],
+ "verification_summary": {
+  "pass": 18,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14347,
+   "completion_tokens": 21576,
+   "reasoning_tokens": 14328
+  },
+  "est_cost": 0.3667,
+  "reverified": true
+ },
+ "mula": "na hi prapaśyāmi mamāpanudyād yac chokam ucchoṣaṇam indriyāṇām | avāpya bhūmāv asapatnam ṛddhaṃ rājyaṃ surāṇām api cādhipatyam",
+ "commentary_lines": [
+  "saṃjaya uvāca",
+  "evam uktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ |",
+  "na yotsya iti govindam uktvā tūṣṇīṃ babhūva ha"
+ ]
+}

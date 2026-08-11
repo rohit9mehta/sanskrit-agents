@@ -30,6 +30,8 @@ def _mw_says_indeclinable(surface_iast: str) -> bool:
     candidates = [surface_iast]
     if surface_iast.endswith("ḥ"):  # MW headwords use pausal finals (punar)
         candidates += [surface_iast[:-1] + "s", surface_iast[:-1] + "r"]
+    if surface_iast.endswith("t"):  # sandhi t for underlying d (cet/ced)
+        candidates.append(surface_iast[:-1] + "d")
     try:
         return any(
             _IND_RE.search(e["text"])
@@ -126,8 +128,13 @@ def verify_word(w: WordAnalysis, verse, run_id: str, text: str = "trbh") -> Word
             return WordResult(w.surface, status, detail, stem["expected_forms"])
 
         if m.pos == "subanta":
-            if not (m.linga and m.vibhakti and m.vacana):
+            linga = m.linga
+            if linga is None and w.lemma in (
+                    "mad", "tvad", "asmad", "yuṣmad", "yuṣmād"):
+                linga = "Pum"  # personal pronouns are aliṅga; vidyut needs one
+            if not (linga and m.vibhakti and m.vacana):
                 return WordResult(w.surface, "fail", "subanta missing linga/vibhakti/vacana")
+            m = m.model_copy(update={"linga": linga})
             rec = verify.verify_subanta_claim(
                 w.surface, w.lemma, m.linga, m.vibhakti, m.vacana,
                 run_id=run_id, context=ctx, source="reasoner",

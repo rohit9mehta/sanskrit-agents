@@ -1,0 +1,252 @@
+{
+ "unit": "1.26",
+ "analysis": [
+  {
+   "surface": "pūrveṣām",
+   "surface_in_sandhi": "pūrveṣām",
+   "lemma": "pūrva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized: “of the former ones,” with “teachers” supplied by the bhāṣya’s pūrve hi guravaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "pūrva Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "api",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Its scope is over pūrveṣām: “even of the former [teachers].”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "guruḥ",
+   "surface_in_sandhi": "guruḥ",
+   "lemma": "guru",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicative nominative; the implied subject is the previously discussed Īśvara, referred to by the bhāṣya as sa eṣa.",
+   "verification": {
+    "status": "pass",
+    "detail": "guru Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kālena",
+   "surface_in_sandhi": "kālenānavacchedāt",
+   "lemma": "kāla",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental: time is the delimiting factor in kālena anavacchedāt. Printed in external sandhi with following a- as part of kālenānavacchedāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "kāla Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "anavacchedāt",
+   "surface_in_sandhi": "kālenānavacchedāt",
+   "lemma": "anavaccheda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na avacchedaḥ",
+    "members": [
+     "nañ",
+     "avaccheda"
+    ]
+   },
+   "note": "Ablative of cause: “because of non-delimitation.” Printed in external sandhi after kālena as kālenānavacchedāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anavaccheda as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Although guru can mean “heavy” in ordinary lexicon, the bhāṣya explicitly discusses pūrve guravaḥ, “former teachers,” and restates the sūtra as sa eṣa pūrveṣām api guruḥ. Thus the nominative guruḥ is “teacher,” not an adjective “heavy,” and pūrveṣām is read substantively with “teachers” understood.",
+   "options_considered": [
+    "guruḥ as “heavy/weighty”",
+    "guruḥ as “teacher” and pūrveṣām as “of the former teachers”"
+   ],
+   "chosen": "guruḥ = “teacher,” and pūrveṣām = “of the former teachers”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "pūrve hi guravaḥ kālenāvacchidyante.",
+     "translation": "For former teachers are delimited by time."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yatrāvacchedārthena kālo nopāvartate sa eṣa pūrveṣām api guruḥ.",
+     "translation": "Where time does not come into operation for the purpose of delimitation, that very one is the teacher even of the former ones."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The commentary repeats the phrase as pūrveṣām api guruḥ, making api inclusive/emphatic with the genitive group: he is teacher not only of later beings but even of prior teachers.",
+   "options_considered": [
+    "“he too is a teacher of the former ones”",
+    "“he is also a former teacher”",
+    "“he is teacher even of the former ones”"
+   ],
+   "chosen": "api scopes with pūrveṣām: “even of the former [teachers]”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sa eṣa pūrveṣām api guruḥ",
+     "translation": "that very one is the teacher even of the former ones"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The instrumental kālena is tied to avaccheda: ordinary former teachers are kālena avacchidyante, “delimited by time,” whereas for this one time does not operate avacchedārthena, “for delimitation.” The ablative anavacchedāt therefore gives the reason for his being guru even of the former teachers.",
+   "options_considered": [
+    "“by time, from non-delimitation” as two loose adverbials",
+    "“because of non-delimitation by time”",
+    "“because time has cut him off”"
+   ],
+   "chosen": "kālena anavacchedāt = “because he is not delimited by time”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "pūrve hi guravaḥ kālenāvacchidyante.",
+     "translation": "For former teachers are delimited by time."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yatrāvacchedārthena kālo nopāvartate",
+     "translation": "where time does not come into operation for the purpose of delimitation"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Vyāsa extends the point from the beginning of the present creation to the beginnings of past creations; therefore the “former” teachers are not only immediate predecessors within one historical sequence.",
+   "options_considered": [
+    "former only within the present human lineage",
+    "former including those at the beginnings of previous creations"
+   ],
+   "chosen": "pūrve includes earlier cosmic cycles, not merely historically earlier persons in this creation",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yathāsya sargasyādau prakarṣagatyā siddhas tathātikrāntasargādiṣv api pratyetavyaḥ.",
+     "translation": "Just as he is established at the beginning of this creation by the course of pre-eminence, so too he is to be recognized at the beginnings of past creations."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "He is the teacher (guru) even of the former [teachers], because he is not delimited by time.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might choose the lexical sense “heavy” for guruḥ; Vyāsa’s guravaḥ shows that “teacher” is required.",
+  "It might misplace api as “he also” rather than “even of the former [teachers].”",
+  "It might treat kālena and anavacchedāt as separate adverbials; the bhāṣya makes time the delimiting factor whose absence is the reason.",
+  "It might miss the cosmological extension to previous creations indicated in the bhāṣya."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 5,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2918,
+   "completion_tokens": 5201,
+   "reasoning_tokens": 3583
+  },
+  "est_cost": 0.0868,
+  "reverified": true
+ },
+ "mula": "pūrveṣām api guruḥ kālenānavacchedāt",
+ "commentary_lines": [
+  "pūrve hi guravaḥ kālenāvacchidyante.",
+  "yatrāvacchedārthena kālo nopāvartate sa eṣa pūrveṣām api guruḥ.",
+  "yathāsya sargasyādau prakarṣagatyā siddhas tathātikrāntasargādiṣv api pratyetavyaḥ.",
+  "1.26",
+  "tasya vācakaḥ praṇavaḥ"
+ ]
+}

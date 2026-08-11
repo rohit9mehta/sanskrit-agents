@@ -1,0 +1,180 @@
+{
+ "unit": "1.12",
+ "analysis": [
+  {
+   "surface": "abhyāsavairāgyābhyām",
+   "surface_in_sandhi": "abhyāsavairāgyābhyāṃ",
+   "lemma": "abhyāsavairāgya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "abhyāsaś ca vairāgyaṃ ca",
+    "members": [
+     "abhyāsa",
+     "vairāgya"
+    ]
+   },
+   "note": "Instrumental dual in -ābhyām; the ending is gender-ambiguous, but Napuṃsaka is assigned from the final member vairāgya. Vyāsa’s separate instrumentals vairāgyeṇa and abhyāsena support the instrumental construal.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem abhyāsavairāgya as Napumsaka/Trtiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tannirodhaḥ",
+   "surface_in_sandhi": "tannirodhaḥ",
+   "lemma": "tannirodha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tāsāṃ cittavṛttīnām nirodhaḥ",
+    "members": [
+     "tad",
+     "nirodha"
+    ]
+   },
+   "note": "The compound is underlyingly tad + nirodha; d+n is realized as nn in tan-nirodha. Vyāsa glosses the referent as cittavṛttinirodhaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tannirodha as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "abhyāsavairāgyābhyām is an instrumental dual dvandva, not a loose list or an alternative pair; the cessation is dependent on both.",
+   "options_considered": [
+    "a merely coordinative phrase without specifying relation",
+    "two alternative means, either practice or dispassion",
+    "instrumental dual: by both practice and dispassion"
+   ],
+   "chosen": "“by practice and dispassion,” construed as two jointly operative means",
+   "evidence": [
+    {
+     "lines": [
+      4,
+      5
+     ],
+     "quote": "tatra vairāgyeṇa viṣayasrotaḥ khilīkriyate. vivekadarśanābhyāsena vivekasrota udghāṭyata ity ubhayādhīnaś cittavṛttinirodhaḥ.",
+     "translation": "There, by dispassion the stream toward objects is made barren; by the practice of discriminative seeing the stream of discrimination is opened; thus the cessation of mental fluctuations is dependent on both. The printed udghāṭyata is taken as the intended passive udghāṭyate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "tan-nirodhaḥ refers to citta-vṛtti-nirodha, the cessation of the mental fluctuations, not to the cessation of practice/dispassion or of the two streams themselves.",
+   "options_considered": [
+    "that cessation, left wholly vague",
+    "cessation of the object-stream alone",
+    "cessation of practice and dispassion",
+    "cessation of the mental fluctuations of consciousness"
+   ],
+   "chosen": "“the cessation of those [mental fluctuations of consciousness]”",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "ity ubhayādhīnaś cittavṛttinirodhaḥ.",
+     "translation": "Thus the cessation of mental fluctuations is dependent on both."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The terms are translated neutrally as “practice” and “dispassion,” but their operative senses here are fixed by Vyāsa’s river metaphor: dispassion checks the viṣaya-current, while practice opens the viveka-current.",
+   "options_considered": [
+    "generic repetition and ordinary aversion",
+    "practice as any repeated effort, with dispassion as an independent ethical attitude",
+    "practice of discriminative seeing together with dispassion’s blocking of the object-stream"
+   ],
+   "chosen": "abhyāsa as practice oriented to discriminative seeing; vairāgya as blocking the object-current",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3
+     ],
+     "quote": "cittanadī nāmobhayatovāhinī vahati kalyāṇāya vahati pāpāya ca. yā tu kaivalyaprāgbhārā vivekaviṣayanimnā sā kalyāṇavahā. saṃsāraprāgbhārāvivekaviṣayaniṃnā pāpavahā.",
+     "translation": "The river called consciousness flows in both directions: it flows toward good and toward evil. That which slopes toward kaivalya and has discrimination as its field is good-bearing. That which slopes toward saṃsāra and has non-discrimination as its field is evil-bearing."
+    },
+    {
+     "lines": [
+      4,
+      5
+     ],
+     "quote": "tatra vairāgyeṇa viṣayasrotaḥ khilīkriyate. vivekadarśanābhyāsena vivekasrota udghāṭyata",
+     "translation": "There, by dispassion the stream toward objects is made barren; by the practice of discriminative seeing the stream of discrimination is opened."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Through practice (abhyāsa) and dispassion (vairāgya), there is the cessation (nirodha) of those [mental fluctuations of consciousness].",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave tan-nirodhaḥ as simply “that cessation”; Vyāsa identifies it specifically as cittavṛttinirodhaḥ, the cessation of mental fluctuations.",
+  "It might treat practice and dispassion as alternatives; Vyāsa says the nirodha is ubhayādhīnaḥ, dependent on both.",
+  "It might take abhyāsa as generic repetition only; in this context Vyāsa construes it as vivekadarśanābhyāsa, practice of discriminative seeing."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives only the lexical split abhyāsa + vairāgya, but the printed unit has one dual ending; I analyze abhyāsavairāgyābhyām as a single itaretara-dvandva subanta, Trtīyā Dvivacana, supported by Vyāsa’s vairāgyeṇa ... abhyāsena and ubhayādhīnaḥ at lines 4–5.",
+  "ByT5 segments tad + nirodha; I record the printed surface as the compound tannirodhaḥ, a Pum Prathamā Ekavacana ṣaṣṭhī-tatpuruṣa. An independent tat would not agree with masculine nirodhaḥ, and Vyāsa glosses the expression as cittavṛttinirodhaḥ at line 5."
+ ],
+ "open_questions": [
+  "Line 7, tatra sthitau yatno 'bhyāsaḥ, appears to be the next sūtra, YS 1.13, rather than Vyāsa’s commentary on 1.12; it has not been used as evidence for this unit.",
+  "Line 5’s udghāṭyata and line 3’s viṣayaniṃnā look like unproofread forms; where cited, the text is quoted verbatim but translated according to the probable intended reading."
+ ],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2215,
+   "completion_tokens": 8819,
+   "reasoning_tokens": 7169
+  },
+  "est_cost": 0.1389,
+  "reverified": true
+ },
+ "mula": "abhyāsavairāgyābhyāṃ tannirodhaḥ",
+ "commentary_lines": [
+  "cittanadī nāmobhayatovāhinī vahati kalyāṇāya vahati pāpāya ca.",
+  "yā tu kaivalyaprāgbhārā vivekaviṣayanimnā sā kalyāṇavahā.",
+  "saṃsāraprāgbhārāvivekaviṣayaniṃnā pāpavahā.",
+  "tatra vairāgyeṇa viṣayasrotaḥ khilīkriyate.",
+  "vivekadarśanābhyāsena vivekasrota udghāṭyata ity ubhayādhīnaś cittavṛttinirodhaḥ.",
+  "1.12",
+  "tatra sthitau yatno 'bhyāsaḥ"
+ ]
+}

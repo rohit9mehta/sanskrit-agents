@@ -1,0 +1,413 @@
+{
+ "unit": "15",
+ "analysis": [
+  {
+   "surface": "hiraṇmayena",
+   "surface_in_sandhi": "hiraṇmayena",
+   "lemma": "hiraṇmaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with pātreṇa. Śaṅkara glosses it as jyotirmaya, “made of light,” not merely as material gold; see J1.",
+   "verification": {
+    "status": "pass",
+    "detail": "hiraṇmaya Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "pātreṇa",
+   "surface_in_sandhi": "pātreṇa",
+   "lemma": "pātra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental means: the covering by which the face is concealed; see J2.",
+   "verification": {
+    "status": "pass",
+    "detail": "pātra Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "satyasya",
+   "surface_in_sandhi": "satyasyā",
+   "lemma": "satya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized “Truth”; Śaṅkara identifies it with the Brahman in the solar disk. In the printed sandhi satyasya + apihitam appears as satyasyāpihitam; see J2.",
+   "verification": {
+    "status": "pass",
+    "detail": "satya Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "apihitam",
+   "surface_in_sandhi": "apihitaṃ",
+   "lemma": "apihita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective from api-√dhā, agreeing with mukham; the clause is construed as “the face is covered.” Initial a- is coalesced in satyasyāpihitaṃ. See J3.",
+   "verification": {
+    "status": "pass",
+    "detail": "apihita Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mukham",
+   "surface_in_sandhi": "mukham",
+   "lemma": "mukha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the passive nominal clause; Śaṅkara glosses mukha as dvāra, “doorway”; see J2–J3.",
+   "verification": {
+    "status": "pass",
+    "detail": "mukha Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of apāvṛṇu, referring back to the covered mukham/dvāram; see J4.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tvam",
+   "surface_in_sandhi": "tvaṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun, subject of the imperative apāvṛṇu. Gender is supplied as masculine by agreement in context with the addressed Pūṣan.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pūṣan",
+   "surface_in_sandhi": "pūṣann",
+   "lemma": "pūṣan",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative address to Pūṣan; printed pūṣann before the following vowel.",
+   "verification": {
+    "status": "pass",
+    "detail": "pūṣan Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "apāvṛṇu",
+   "surface_in_sandhi": "apāvṛṇu",
+   "lemma": "vṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vṛ",
+    "prefixes": [
+     "apa",
+     "ā"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Imperative 2nd singular: “uncover/remove.” The form is from apa-ā-√vṛ; Śaṅkara glosses it with apasāraya. See J4.",
+   "verification": {
+    "status": "pass",
+    "detail": "apa-ā-vṛ Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "satyadharmāya",
+   "surface_in_sandhi": "satyadharmāya",
+   "lemma": "satyadharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "satyaṃ dharmaḥ yasya saḥ; tasmai",
+    "members": [
+     "satya",
+     "dharma"
+    ]
+   },
+   "note": "Dative beneficiary. Śaṅkara’s primary vigraha is bahuvrīhi, “one whose dharma is truth,” and he also gives an alternative as “one who performs dharma as it really is”; see J5.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem satyadharma as Pum/Caturthi/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "dṛṣṭaye",
+   "surface_in_sandhi": "dṛṣṭaye",
+   "lemma": "dṛṣṭi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative of purpose: not mere eyesight, but upalabdhi, realization/apprehension, of Pūṣan’s true Self; see J6.",
+   "verification": {
+    "status": "pass",
+    "detail": "dṛṣṭi Stri/Caturthi/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The instrumental hiraṇmayena qualifies the covering as gold-like or radiant. Śaṅkara explicitly glosses hiraṇmaya as jyotirmaya, so the translation includes “light-filled.”",
+   "options_considered": [
+    "literal “by a golden/gold-made vessel”",
+    "commentarial “by a golden-bright, luminous vessel”"
+   ],
+   "chosen": "“golden-bright, light-filled,” not merely a physical golden object",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "hiraṇmayamiva hiraṇmayaṃ jyotirmayamityetat /",
+     "translation": "“Hiraṇmaya means as though made of gold; that is, made of light.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Pātra is not just an ordinary cup here but something functioning as a cover; mukha is glossed as dvāra, “doorway.” The printed commentary has brāhmaṇo, likely an unproofread form for brahmaṇo; I take the reference as Brahman located in the sun’s disk, in line with the syntax satyasya ... ādityamaṇḍalasthasya.",
+   "options_considered": [
+    "pātra as an ordinary vessel only; mukha as literal mouth",
+    "pātra as vessel-like covering; mukha as face/doorway of Truth/Brahman"
+   ],
+   "chosen": "“the face—the doorway—of Truth/Brahman in the solar disk, covered by a vessel-like cover”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tena pātreṇeva apidhānabhūtena satyasyaivādityamaṇḍalasthasya brāhmaṇo 'pihitam ācchāditaṃ mukhaṃ dvāram /",
+     "translation": "“By that, as by a vessel, being a covering, the face/doorway of Satya—Brahman [reading brāhmaṇo as likely brahmaṇo] located in the solar disk—is covered, concealed.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The participle apihitam is a passive predication of mukham. Śaṅkara glosses it directly with ācchāditam, “covered/concealed.”",
+   "options_considered": [
+    "“placed upon” from a broader sense of api-√dhā",
+    "“covered/concealed”"
+   ],
+   "chosen": "“is covered/concealed”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "apihitam ācchāditaṃ mukhaṃ dvāram",
+     "translation": "“The covered/concealed face, the doorway.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The second hemistich asks Pūṣan to remove the covering from the previously mentioned doorway. The commentary line is unsegmented and likely defective at apāvṛṇvapasāraya; I read it contextually as apāvṛṇu apasāraya, because apasāraya is the explicit gloss.",
+   "options_considered": [
+    "tat as a vague demonstrative unrelated to mukham",
+    "tat as the covered mukham/dvāram, object of the imperative"
+   ],
+   "chosen": "tat refers back to the covered face/doorway; apāvṛṇu means “uncover/remove”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tattvaṃ he pūṣannapāvṛṇvapasāraya",
+     "translation": "“That—do you, O Pūṣan—apāvṛṇu, remove.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Satyadharmāya is dative singular masculine, not “for true dharma” as an abstract dative. Śaṅkara’s primary analysis is a bahuvrīhi: satyaṃ dharmaḥ yasya mama. He also offers an athavā: yathābhūtasya dharmasya anuṣṭhātre.",
+   "options_considered": [
+    "abstract dative: “for true dharma”",
+    "karmadhāraya-like: “for one of true dharma”",
+    "commentarial bahuvrīhi: “for me whose dharma is truth,” with the stated alternative performer-of-real-dharma sense"
+   ],
+   "chosen": "“for me, whose dharma is truth,” with Śaṅkara’s alternative “for the performer of dharma as it really is” recorded",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "satyasya upāsanātsatyaṃ dharmo yasya mama so 'haṃ satyadharmā tasmai mahyamathavā yathābhūtasya dharmasyānuṣṭhātre",
+     "translation": "“Through worship of Satya, truth is the dharma of me; I am satyadharma—for that me; or else, for the performer of dharma as it really is.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Dṛṣṭaye is not merely a request for physical sight. Śaṅkara glosses it as upalabdhi, apprehension/realization, and specifies the object as Pūṣan’s satyātman, true Self.",
+   "options_considered": [
+    "ordinary physical seeing",
+    "realizing/apprehending Pūṣan’s true Self"
+   ],
+   "chosen": "“for seeing/realization of your true Self”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "dṛṣṭaye tava satyātmana upalabdhaye",
+     "translation": "“For dṛṣṭi, that is, for the apprehension of your true Self.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "By a golden-bright, light-filled vessel\nis covered the face—the doorway—of Truth (satya).\nThat, O Pūṣan, uncover; remove it\nfor me, whose dharma (dharma) is truth,\nfor the seeing, the realization, of your true Self.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render hiraṇmayena pātreṇa as simply “with a golden vessel,” missing Śaṅkara’s “light-filled” and “covering” interpretation.",
+  "It might translate satyasya mukham literally as “the mouth of truth,” missing the gloss mukhaṃ dvāram and the identification with Brahman in the solar disk.",
+  "It might take satyadharmāya as “for true dharma,” but Śaṅkara construes it personally: “for me whose dharma is truth,” with an alternative “for the performer of dharma as it really is.”",
+  "It might render dṛṣṭaye as mere visual seeing, whereas the bhāṣya takes it as upalabdhi, realization of Pūṣan’s true Self."
+ ],
+ "analyzer_disagreements": [
+  "apihitam: ByT5 gives the verbal source apidhā; following the required nominal analysis for subantas, I give the participial stem apihita, while noting derivation from api-√dhā.",
+  "apāvṛṇu: ByT5 gives the prefixed lemma apāvṛ; following the required verbal format, I analyze it as bare root √vṛ with prefixes apa and ā.",
+  "satyadharmāya: ByT5 splits satya + dharmāya without assigning a compound type; Śaṅkara’s vigraha satyaṃ dharmo yasya makes it a single inflected bahuvrīhi stem satyadharma in the dative singular masculine.",
+  "tvam: ByT5 did not specify gender; I supply masculine by context, since tvam refers to the addressed Pūṣan."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 10591,
+   "completion_tokens": 18698,
+   "reasoning_tokens": 12682
+  },
+  "est_cost": 0.3122,
+  "reverified": true
+ },
+ "mula": "hiraṇmayena pātreṇa satyasyāpihitaṃ mukham / tat tvaṃ pūṣann apāvṛṇu satyadharmāya dṛṣṭaye",
+ "commentary_lines": [
+  "hiraṇmayamiva hiraṇmayaṃ jyotirmayamityetat /",
+  "tena pātreṇeva apidhānabhūtena satyasyaivādityamaṇḍalasthasya brāhmaṇo 'pihitam ācchāditaṃ mukhaṃ dvāram /",
+  "tattvaṃ he pūṣannapāvṛṇvapasāraya satyasya upāsanātsatyaṃ dharmo yasya mama so 'haṃ satyadharmā tasmai mahyamathavā yathābhūtasya dharmasyānuṣṭhātre dṛṣṭaye tava satyātmana upalabdhaye"
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "unit": "1.10",
+ "analysis": [
+  {
+   "surface": "abhāvapratyayālambanā",
+   "surface_in_sandhi": "abhāvapratyayālambanā",
+   "lemma": "abhāvapratyayālambanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "abhāvasya pratyayaḥ abhāvapratyayaḥ; abhāvapratyayaḥ ālambanaṃ yasyāḥ sā vṛttiḥ",
+    "members": [
+     "abhāva",
+     "pratyaya",
+     "ālambana"
+    ]
+   },
+   "note": "Feminine nominative singular bahuvrīhi adjective agreeing with vṛttiḥ; internally abhāva-pratyaya is understood as ‘a cognition/presentation of absence’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem abhāvapratyayālambanā as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vṛttiḥ",
+   "surface_in_sandhi": "vṛttir",
+   "lemma": "vṛtti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The pausal visarga appears as -r before nidrā by external sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "vṛtti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nidrā",
+   "surface_in_sandhi": "nidrā",
+   "lemma": "nidrā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "nidrā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The defining compound is translated as ‘a cognition/presentation of absence.’ Vyāsa argues that sleep is a pratyayaviśeṣa, a specific pratyaya, because on waking there is retrospective awareness; without an experienced pratyaya such recollection would not occur. Thus the sūtra does not define sleep as blank non-cognition.",
+   "options_considered": [
+    "pratyaya as cognition/presentation experienced in sleep",
+    "pratyaya as belief or conviction in a non-technical sense",
+    "abhāvapratyaya as sheer absence of cognition"
+   ],
+   "chosen": "pratyaya = a cognition/presentation, not a mere absence of cognition",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sā ca saṃprabodhe pratyavamarśāt pratyayaviśeṣaḥ.",
+     "translation": "And it, because of retrospective awareness on full awakening, is a particular cognition."
+    },
+    {
+     "lines": [
+      10
+     ],
+     "quote": "sa khalv ayaṃ prabuddhasya pratyavamarśo na syād asati pratyayānubhave",
+     "translation": "This retrospective awareness of one who has awakened would not exist if there had been no experience of a cognition."
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "tasmāt pratyayaviśeṣo nidrā.",
+     "translation": "Therefore sleep is a particular cognition."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is taken as a bahuvrīhi adjective: ‘that vṛtti whose ālambana is an abhāva-pratyaya.’ The commentary does not give an explicit vigraha for the compound, so the compound relation is decided grammatically; Vyāsa’s pratyayaviśeṣa discussion controls only that the relevant pratyaya is positive enough to ground later recollection.",
+   "options_considered": [
+    "bahuvrīhi: abhāvapratyayaḥ ālambanaṃ yasyāḥ sā vṛttiḥ",
+    "tatpuruṣa-like reading: a support consisting in absence of cognition",
+    "taking ālambanā as an independent noun rather than a qualifier of vṛttiḥ"
+   ],
+   "chosen": "abhāvapratyayālambanā qualifies vṛttiḥ as ‘having a cognition of absence as its support/object’",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The nominatives are construed definitionally: ‘Sleep is a vṛtti…’. Vyāsa confirms that sleep belongs among pratyayas/vṛttis and is subject to nirodha in samādhi, so it is not excluded from the class of mental modifications.",
+   "options_considered": [
+    "definition: sleep is a vṛtti supported by an absence-cognition",
+    "inverse or loose apposition: a vṛtti is sleep",
+    "sleep as the absence of all vṛtti rather than one vṛtti among others"
+   ],
+   "chosen": "nidrā is being defined as a vṛtti/pratyayaviśeṣa to be restrained like other pratyayas",
+   "evidence": [
+    {
+     "lines": [
+      11
+     ],
+     "quote": "tasmāt pratyayaviśeṣo nidrā.",
+     "translation": "Therefore sleep is a particular cognition."
+    },
+    {
+     "lines": [
+      12
+     ],
+     "quote": "sā ca samādhāv itarapratyayavan niroddhavyeti.",
+     "translation": "And in samādhi it is to be restrained like other cognitions."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary here does not separately gloss abhāva. Its basic lexical sense is used, while avoiding the commentary-rejected idea that sleep is simply the absence of pratyaya.",
+   "options_considered": [
+    "absence/non-presence",
+    "non-entity as a separate Vaiśeṣika category",
+    "proof from non-existence"
+   ],
+   "chosen": "abhāva = absence/non-presence",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Sleep (nidrā) is a mental modification (vṛtti) whose support is a cognition/presentation (pratyaya) of absence (abhāva).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might translate the compound as ‘sleep is a modification based on absence of cognition,’ implying no cognition occurs in sleep. Vyāsa explicitly argues the opposite: sleep is a pratyayaviśeṣa, evidenced by recollection on waking.",
+  "It might miss that ālambanā is a feminine compound adjective agreeing with vṛttiḥ, not a separate neuter ‘support’.",
+  "It might treat nidrā as outside the sequence of restrainable vṛttis; Vyāsa says it is to be restrained in samādhi like other pratyayas."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 exposes abhāva, pratyaya, and ālambanā as compound elements; the apparatus treats the printed abhāvapratyayālambanā as one inflected compound qualifying vṛttiḥ. This changes segmentation, not the feminine nominative singular analysis of the final element.",
+  "ByT5 gives the final member’s lemma as ālambana; per the requested rule that the stem of an inflected compound is the whole compound stem, the lemma is recorded as abhāvapratyayālambanā, while ālambana is retained among the compound members."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3012,
+   "completion_tokens": 6182,
+   "reasoning_tokens": 4604
+  },
+  "est_cost": 0.1018,
+  "reverified": true
+ },
+ "mula": "9 abhāvapratyayālambanā vṛttir nidrā",
+ "commentary_lines": [
+  "sā ca saṃprabodhe pratyavamarśāt pratyayaviśeṣaḥ.",
+  "katham, sukham aham asvāpsam.",
+  "prasannaṃ me manaḥ.",
+  "prajñāṃ me viśāradīkaroti.",
+  "duḥkham aham asvāpsam.",
+  "styānaṃ me mano bhramaty anavasthitam gāḍhaṃ mūḍho 'ham asvāpsam.",
+  "gurūṇi me gātrāṇi.",
+  "klāntaṃ me cittam.",
+  "alasaṃ muṣitam iva tiṣṭhatīti.",
+  "sa khalv ayaṃ prabuddhasya pratyavamarśo na syād asati pratyayānubhave tadāśritāḥ smṛtayś ca tadviṣayā na syuḥ.",
+  "tasmāt pratyayaviśeṣo nidrā.",
+  "sā ca samādhāv itarapratyayavan niroddhavyeti.",
+  "1.10",
+  "anubhūtaviṣayāsaṃpramoṣaḥ smṛtiḥ"
+ ]
+}

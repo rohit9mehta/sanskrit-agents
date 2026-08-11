@@ -1,0 +1,164 @@
+{
+ "unit": "1.39",
+ "analysis": [
+  {
+   "surface": "yathābhimatadhyānāt",
+   "surface_in_sandhi": "yathābhimatadhyānād",
+   "lemma": "yathābhimatadhyāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yad evābhimataṃ vastu, tasmin dhyānam",
+    "members": [
+     "yathābhimata",
+     "dhyāna"
+    ]
+   },
+   "note": "Ablative singular of the compound. Internally yathābhimata contains abhimata, a past participial form of abhi-√man, “desired/approved”; Vyāsa construes it as the object to be meditated on, not merely as an adverbial manner.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem yathābhimatadhyāna as Napumsaka/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable disjunctive particle, “or.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Referent of yathābhimata",
+   "options_considered": [
+    "“in whatever manner one wishes,” taking yathābhimata adverbially",
+    "“desired meditation,” taking abhimata as qualifying dhyāna itself",
+    "“meditation on whatever object is agreeable/chosen,” taking abhimata as the object of dhyāna"
+   ],
+   "chosen": "yathābhimata denotes “whatever is agreeable/chosen” as the meditation-object.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yad evābhimataṃ tad eva dhyāyet.",
+     "translation": "Whatever is just agreeable/chosen, just that one should meditate on."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Compound relation of yathābhimatadhyāna",
+   "options_considered": [
+    "karmadhāraya: “meditation that is agreeable”",
+    "adverbial construal: “meditation as one likes”",
+    "object-tatpuruṣa: “meditation on what is agreeable/chosen”"
+   ],
+   "chosen": "The compound is understood as a tatpuruṣa headed by dhyāna: meditation whose object is the yathābhimata vastu.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yad evābhimataṃ tad eva dhyāyet.",
+     "translation": "Whatever is just agreeable/chosen, just that one should meditate on."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Force of the ablative and the supplied effect",
+   "options_considered": [
+    "pure source ablative, “away from meditation”",
+    "bare nominal phrase without supplying the sūtra-contextual result",
+    "means/cause ablative: “through meditation,” producing steadiness"
+   ],
+   "chosen": "The ablative -dhyānāt has instrumental/causal force, “through/from meditation,” with the implied result of steadiness supplied from the bhāṣya.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tatra labdhasthitikam anyatrāpi sthitipadaṃ labhata iti.",
+     "translation": "There, having acquired stability, [it] obtains a footing of stability elsewhere as well; the printed labhata is likely an unproofread form for labhate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Function of vā",
+   "options_considered": [
+    "nominal vā, e.g. “arrow/going”",
+    "indeclinable disjunctive particle, “or”"
+   ],
+   "chosen": "vā is the indeclinable alternative particle, “or.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Or, through meditation (dhyāna) on just whatever is agreeable/chosen (abhimata) to one, [the mind becomes steadied].",
+ "one_shot_delta": [
+  "Without Vyāsa’s gloss, one might translate yathābhimatadhyānāt as “by meditating however one likes,” making yathābhimata describe the manner of meditation; the commentary instead makes the agreeable/chosen thing the object: yad evābhimataṃ tad eva dhyāyet.",
+  "A commentary-blind rendering might miss the practical point of the aphorism: the chosen-object meditation is a way to gain stability there and then obtain steadiness elsewhere too, as line 2 states."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments yathā / abhimata / dhyānāt as separate analytical items. I treat the printed pada yathābhimatadhyānād as one inflected compound, pausal yathābhimatadhyānāt, because -āt + vā gives the printed sandhi -ād vā and because Vyāsa glosses the whole by a single predication, yad evābhimataṃ tad eva dhyāyet."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2758,
+   "completion_tokens": 8353,
+   "reasoning_tokens": 7168
+  },
+  "est_cost": 0.1336,
+  "reverified": true
+ },
+ "mula": "38 yathābhimatadhyānād vā",
+ "commentary_lines": [
+  "yad evābhimataṃ tad eva dhyāyet.",
+  "tatra labdhasthitikam anyatrāpi sthitipadaṃ labhata iti.",
+  "1.39",
+  "paramāṇuparamamahattvānto 'sya vaśīkāraḥ"
+ ]
+}

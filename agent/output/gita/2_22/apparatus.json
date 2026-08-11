@@ -1,0 +1,517 @@
+{
+ "unit": "2.22",
+ "analysis": [
+  {
+   "surface": "vāsāṃsi",
+   "surface_in_sandhi": "vāsāṃsi",
+   "lemma": "vāsas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of vihāya in the comparison; glossed by the commentary as vastrāṇi, ‘garments’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vāsas Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "jīrṇāni",
+   "surface_in_sandhi": "jīrṇāni",
+   "lemma": "jīrṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with vāsāṃsi; the commentary explains it as ‘having reached weakness’.",
+   "verification": {
+    "status": "pass",
+    "detail": "jīrṇa Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yathā",
+   "surface_in_sandhi": "yathā",
+   "lemma": "yathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative with tathā, introducing the illustrative comparison.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vihāya",
+   "surface_in_sandhi": "vihāya",
+   "lemma": "hā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "hā",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive/gerund: ‘having cast off’; glossed as parityajya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "navāni",
+   "surface_in_sandhi": "navāni",
+   "lemma": "nava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized adjective agreeing with an implied vāsāṃsi, as object of gṛhṇāti.",
+   "verification": {
+    "status": "pass",
+    "detail": "nava Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "gṛhṇāti",
+   "surface_in_sandhi": "gṛhṇāti",
+   "lemma": "grah",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "grah",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present indicative, active: ‘takes up’; glossed as upādatte.",
+   "verification": {
+    "status": "pass",
+    "detail": "grah Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "naraḥ",
+   "surface_in_sandhi": "naro",
+   "lemma": "nara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of gṛhṇāti in the illustrative half; glossed as puruṣaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "nara Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "aparāṇi",
+   "surface_in_sandhi": "'parāṇi",
+   "lemma": "apara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "‘Other’; glossed as anyāni and agreeing with the implied vāsāṃsi.",
+   "verification": {
+    "status": "pass",
+    "detail": "apara Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yathā; Śaṅkara glosses it as tadvad eva, ‘just in that same way’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "śarīrāṇi",
+   "surface_in_sandhi": "śarīrāṇi",
+   "lemma": "śarīra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of the second vihāya: the bodies cast off by the dehin.",
+   "verification": {
+    "status": "pass",
+    "detail": "śarīra Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vihāya",
+   "surface_in_sandhi": "vihāya",
+   "lemma": "hā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "hā",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second absolutive/gerund: ‘having cast off’; same gloss as the first vihāya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "jīrṇāni",
+   "surface_in_sandhi": "jīrṇāni",
+   "lemma": "jīrṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with śarīrāṇi, not with the new bodies.",
+   "verification": {
+    "status": "pass",
+    "detail": "jīrṇa Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "anyāni",
+   "surface_in_sandhi": "anyāni",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "‘Other’; agreeing with an implied śarīrāṇi as object/complement of saṃyāti.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "saṃyāti",
+   "surface_in_sandhi": "saṃyāti",
+   "lemma": "yā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yā",
+    "prefixes": [
+     "sam"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present indicative, active: ‘goes to / comes together with’; glossed by Śaṅkara as saṃgacchati.",
+   "verification": {
+    "status": "pass",
+    "detail": "sam-yā Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "navāni",
+   "surface_in_sandhi": "navāni",
+   "lemma": "nava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "‘New’; agreeing with the implied śarīrāṇi after anyāni.",
+   "verification": {
+    "status": "pass",
+    "detail": "nava Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "dehī",
+   "surface_in_sandhi": "dehī",
+   "lemma": "dehin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative singular of the -in stem dehin; glossed as ātmā, ‘the self’.",
+   "verification": {
+    "status": "pass",
+    "detail": "dehin Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first half describes an ordinary man discarding old garments, not merely separating from something or dealing with ‘old’ in some other sense such as ‘digested’.",
+   "options_considered": [
+    "garments worn out and cast off",
+    "dwelling/coverings in a non-literal sense",
+    "jīrṇa as merely old or digested",
+    "vihāya as going apart rather than abandoning"
+   ],
+   "chosen": "vāsāṃsi means ‘garments/clothes’; jīrṇāni means ‘worn out, grown weak’; vihāya means ‘having cast off/abandoned’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vāsāṃsi vastrāṇi jīrṇāni durbalatāṃ gatāni yathā loke vihāya parityajya",
+     "translation": "‘vāsāṃsi’ means garments; ‘jīrṇāni’ means those that have become weak; ‘vihāya’ means having abandoned, as in ordinary life."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The man takes up other new garments after abandoning the old ones; aparāṇi is not ‘later’ here but equivalent to anyāni, ‘other’.",
+   "options_considered": [
+    "takes up other, new garments",
+    "grasps later garments",
+    "takes new things without supplying the implied garments"
+   ],
+   "chosen": "gṛhṇāti is ‘takes up’; navāni are ‘new’; aparāṇi are ‘other’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "navāni abhinavāni gṛhṇāti upādatte naraḥ puruṣo 'parāṇi anyāni",
+     "translation": "‘navāni’ means quite new; ‘gṛhṇāti’ means takes up; ‘naraḥ’ is a man/person; ‘aparāṇi’ means other."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The scope of the comparison is the whole action of abandoning worn-out coverings and going to/taking up other new ones; tathā is ‘just so’.",
+   "options_considered": [
+    "full yathā–tathā analogy between man/clothes and dehin/bodies",
+    "a loose comparison only between garments and bodies",
+    "tathā as merely ‘therefore’"
+   ],
+   "chosen": "yathā … tathā states a strict analogy: as a man does this with clothes, so the embodied self does this with bodies.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yathā loke",
+     "translation": "‘as in ordinary life’."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tathā tadvad eva",
+     "translation": "‘so, just in that very same way’."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "puruṣavat",
+     "translation": "‘like the man/person’."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The subject of the second half is not the physical body or merely an empirical person, but the self that has a body; Śaṅkara explicitly adds avikriya, ‘unchanged’.",
+   "options_considered": [
+    "dehī as the embodied self/ātman, remaining unchanged",
+    "dehī as simply a living creature undergoing intrinsic alteration",
+    "dehī as the body itself"
+   ],
+   "chosen": "dehī is the embodied self, i.e. the ātman, and the intended purport includes its remaining unchanged.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "dehī ātmā puruṣavat avikriya evety arthaḥ",
+     "translation": "The dehī is the self; the meaning is that, like the man, it is indeed unchanged."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The accusative śarīrāṇi jīrṇāni is governed by vihāya, while anyāni navāni supplies the new bodies reached by saṃyāti.",
+   "options_considered": [
+    "goes to other new bodies after abandoning worn-out bodies",
+    "goes together with worn-out bodies",
+    "abandons all bodies without taking others",
+    "takes jīrṇāni as qualifying the new bodies"
+   ],
+   "chosen": "In the second half, the dehī abandons worn-out bodies and goes to other new bodies; saṃyāti is ‘goes to / comes together with’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "śarīrāṇi vihāya jīrṇāni anyāni saṃyāti saṃgacchati navāni dehī",
+     "translation": "The dehī, having abandoned worn-out bodies, goes to / comes together with other new ones."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "As a man, having cast off worn-out garments,\ntakes up other, new ones,\nso too the embodied one (dehī), the self (ātman), remaining unchanged,\nhaving cast off worn-out bodies,\ngoes to other, new ones.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might translate dehī merely as ‘the embodied person’ and miss Śaṅkara’s explicit identification with the self (ātman) and the point that it remains unchanged.",
+  "It might take aparāṇi as ‘later’ rather than Śaṅkara’s anyāni, ‘other’.",
+  "It might render saṃyāti as ‘goes together’ in a vague sense, whereas the commentary glosses it as saṃgacchati in the sense of going to/coming into relation with the new bodies.",
+  "It might fail to keep the second jīrṇāni with the abandoned bodies, not with the other new bodies."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives vihā as the converb lemma; following the required format, both occurrences are normalized to the bare root hā with prefix vi and pos avyaya.",
+  "ByT5 gives saṃyā as the verbal lemma; following the required format, this is normalized to the bare root yā with prefix sam."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 16,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4897,
+   "completion_tokens": 9178,
+   "reasoning_tokens": 6141
+  },
+  "est_cost": 0.1524,
+  "reverified": true
+ },
+ "mula": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro 'parāṇi | tathā śarīrāṇi vihāya jīrṇāni anyāni saṃyāti navāni dehī",
+ "commentary_lines": [
+  "vāsāṃsi vastrāṇi jīrṇāni durbalatāṃ gatāni yathā loke vihāya parityajya navāni abhinavāni gṛhṇāti upādatte naraḥ puruṣo 'parāṇi anyāni, tathā tadvad eva śarīrāṇi vihāya jīrṇāni anyāni saṃyāti saṃgacchati navāni dehī ātmā puruṣavat avikriya evety arthaḥ ||bhgs_2.22||",
+  "kasmāt avikriya eveti, āha ---"
+ ]
+}

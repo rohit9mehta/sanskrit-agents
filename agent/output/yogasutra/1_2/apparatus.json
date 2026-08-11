@@ -1,0 +1,213 @@
+{
+ "unit": "1.2",
+ "analysis": [
+  {
+   "surface": "yogaḥ",
+   "surface_in_sandhi": "yogaś",
+   "lemma": "yoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical term; the commentary says this yoga is twofold and includes saṃprajñāta as well as asaṃprajñāta because the sūtra does not say ‘all’ vṛttis.",
+   "verification": {
+    "status": "pass",
+    "detail": "yoga Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "cittavṛttinirodhaḥ",
+   "surface_in_sandhi": "cittavṛttinirodhaḥ",
+   "lemma": "cittavṛttinirodha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "cittavṛttīnāṃ nirodhaḥ; nested: cittasya vṛttayaḥ",
+    "members": [
+     "cittavṛtti",
+     "nirodha"
+    ]
+   },
+   "note": "The whole inflected compound stem is cittavṛttinirodha. Internally, cittavṛtti is understood as ‘the vṛtti(s) of citta’; the compound as a whole is ‘restraint of the citta-vṛttis’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem cittavṛttinirodha as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The sūtra’s yoga is not to be restricted to asaṃprajñāta alone. Vyāsa explicitly says that because the word sarva ‘all’ is not used, saṃprajñāta too is called yoga, and then states that this yoga is twofold.",
+   "options_considered": [
+    "yoga means only asaṃprajñāta/nirbīja samādhi, with every cognition absent",
+    "yoga includes saṃprajñāta too, since the sūtra does not specify ‘all’ citta-vṛttis"
+   ],
+   "chosen": "yoga as a technical state/discipline with twofold scope, not only total objectless cessation",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvaśabdāgrahaṇāt saṃprajñāto 'pi yoga ity ākhyāyate.",
+     "translation": "Because the word ‘all’ is not taken, saṃprajñāta too is designated yoga."
+    },
+    {
+     "lines": [
+      13
+     ],
+     "quote": "dvividhaḥ sa yogaś cittavṛttinirodha iti.",
+     "translation": "That yoga is twofold: ‘the restraint of the fluctuations of citta.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The translation keeps citta in Sanskrit and glosses it as ‘mind-stuff’ because the commentary characterizes citta as triguṇa, marked by illumination, activity, and stability. That excludes taking it as the unchanging conscious principle itself.",
+   "options_considered": [
+    "citta = consciousness/self/puruṣa",
+    "citta = guṇa-composed mind-stuff or internal organ"
+   ],
+   "chosen": "citta as mind-stuff/inner organ, not pure consciousness or puruṣa",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "cittaṃ hi prakhyāpravṛttisthitiśīlatvāt triguṇam.",
+     "translation": "For citta, since it has the character of illumination, activity, and stability, is composed of the three guṇas."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is read as a genitive tatpuruṣa: nirodha is directed toward the vṛttis belonging to citta. The commentary repeats the compound but does not give an explicit vigraha; this construal follows standard grammar of dependent tatpuruṣa compounds.",
+   "options_considered": [
+    "a karmadhāraya: ‘restraint that is a citta-vṛtti’",
+    "a dvandva-like reading: ‘citta, vṛtti, and restraint’",
+    "a genitive tatpuruṣa: ‘restraint of the citta-vṛttis’"
+   ],
+   "chosen": "cittavṛttinirodhaḥ = cittavṛttīnāṃ nirodhaḥ, ‘restraint of the fluctuations of citta’",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "‘Restraint’ best preserves Vyāsa’s scope: in the highest objectless state nothing is cognized, but the definition also covers saṃprajñāta yoga because ‘all’ is not stated. The commentator also uses the cognate verb niruṇaddhi for citta’s checking even viveka-khyāti.",
+   "options_considered": [
+    "nirodha = destruction/annihilation of citta",
+    "nirodha = cessation of absolutely all cognition in every kind of yoga",
+    "nirodha = restraint/checking of citta-vṛttis, with total objectlessness only in asaṃprajñāta"
+   ],
+   "chosen": "nirodha as restraint/checking, not annihilation of mind and not necessarily cessation of every vṛtti in all yoga",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvaśabdāgrahaṇāt saṃprajñāto 'pi yoga ity ākhyāyate.",
+     "translation": "Because the word ‘all’ is not taken, saṃprajñāta too is designated yoga."
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "atas tasyāṃ viraktaṃ cittaṃ tām api khyātiṃ niruṇaddhi.",
+     "translation": "Therefore, citta, dispassionate toward that, restrains even that discernment."
+    },
+    {
+     "lines": [
+      12
+     ],
+     "quote": "na tatra kiṃcit saṃprajñāyata ity asaṃprajñātaḥ.",
+     "translation": "There nothing at all is distinctly cognized; therefore it is asaṃprajñāta."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Both words are nominative singular masculine, forming a definition: ‘Yoga is ...’. Vyāsa’s restatement confirms the equation.",
+   "options_considered": [
+    "take cittavṛttinirodhaḥ as an apposition defining yoga",
+    "take it as a separate nominal heading without predication"
+   ],
+   "chosen": "nominal equation: yogaḥ = cittavṛttinirodhaḥ",
+   "evidence": [
+    {
+     "lines": [
+      13
+     ],
+     "quote": "dvividhaḥ sa yogaś cittavṛttinirodha iti.",
+     "translation": "That yoga is twofold: ‘the restraint of the fluctuations of citta.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Yoga (yoga) is the restraint (nirodha) of the fluctuations of citta—the mind-stuff.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render nirodha as ‘cessation of all mental activity’ and thereby exclude saṃprajñāta yoga; Vyāsa explicitly prevents that by noting the absence of sarva ‘all’.",
+  "It might translate citta simply as ‘consciousness’; Vyāsa treats citta as triguṇa and therefore distinct from the pure conscious principle.",
+  "It might leave cittavṛttinirodha as an opaque compound rather than the genitive relation ‘restraint of the fluctuations of citta.’"
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2464,
+   "completion_tokens": 4691,
+   "reasoning_tokens": 3072
+  },
+  "est_cost": 0.0778,
+  "reverified": true
+ },
+ "mula": "yogaś cittavṛttinirodhaḥ",
+ "commentary_lines": [
+  "sarvaśabdāgrahaṇāt saṃprajñāto 'pi yoga ity ākhyāyate.",
+  "cittaṃ hi prakhyāpravṛttisthitiśīlatvāt triguṇam.",
+  "prakhyārūpaṃ hi cittasattvaṃ rajastamobhyāṃ saṃsṛṣṭam aiśvaryaviṣayapriyaṃ bhavati.",
+  "tad eva tamasānuviddham adharmājñānāvairāgyānaiśvaryopagaṃ bhavati.",
+  "tad eva prakṣīṇamohāvaraṇaṃ sarvataḥ pradyotamānam anuviddhaṃ rajomātrayā dharmajñānavairāgyaiśvaryopagaṃ bhavati.",
+  "tad eva rajoleśamalāpetaṃ svarūpapratiṣṭhaṃ sattvapuruṣānyatākhyātimātraṃ dharmameghadhyānopagaṃ bhavati.",
+  "tat paraṃ prasaṃkhyānam ity ācakṣate dhyāyinaḥ.",
+  "citiśaktir apariṇāminy apratisaṃkramā darśitaviṣayā śuddhā cānantā ca sattvaguṇātmikā ceyam ato viparītā vivekakhyātir iti.",
+  "atas tasyāṃ viraktaṃ cittaṃ tām api khyātiṃ niruṇaddhi.",
+  "tadavasthaṃ saṃskāropagaṃ bhavati.",
+  "sa nirbījaḥ samādhiḥ.",
+  "na tatra kiṃcit saṃprajñāyata ity asaṃprajñātaḥ.",
+  "dvividhaḥ sa yogaś cittavṛttinirodha iti.",
+  "1.2",
+  "tadavasthe cetasi viṣayābhāvād buddhibodhātmā puruṣaḥ kiṃsvabhāva iti"
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "unit": "2.39",
+ "analysis": [
+  {
+   "surface": "eṣā",
+   "surface_in_sandhi": "eṣā",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative agreeing with buddhiḥ; Śaṅkara takes it as the buddhi already stated.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic dative singular, glossed by tubhyam. The second-person form is not gender-distinct in surface morphology; Pum is supplied from the male addressee, Pārtha/Arjuna.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "abhihitā",
+   "surface_in_sandhi": "'bhihitā",
+   "lemma": "abhihita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective, feminine nominative singular agreeing with buddhiḥ; glossed uktā.",
+   "verification": {
+    "status": "pass",
+    "detail": "abhihita Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sāṃkhye",
+   "surface_in_sandhi": "sāṃkhye",
+   "lemma": "sāṃkhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular; Śaṅkara glosses the domain as paramārtha-vastu-viveka-viṣaya, not mere numerical enumeration.",
+   "verification": {
+    "status": "pass",
+    "detail": "sāṃkhya Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "buddhiḥ",
+   "surface_in_sandhi": "buddhir",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by jñānam in the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yoge",
+   "surface_in_sandhi": "yoge",
+   "lemma": "yoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular; Śaṅkara explains it as the means to attainment, including karma-yoga and samādhi-yoga.",
+   "verification": {
+    "status": "pass",
+    "detail": "yoga Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tv",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Contrastive particle; before imām it appears as tv by sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "imām",
+   "surface_in_sandhi": "imāṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular feminine qualifying the supplied buddhiṃ, explicitly supplied by Śaṅkara.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "śṛṇu",
+   "surface_in_sandhi": "śṛṇu",
+   "lemma": "śru",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "śru",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Second-person singular imperative: “listen.”",
+   "verification": {
+    "status": "pass",
+    "detail": "śru Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "buddhyā",
+   "surface_in_sandhi": "buddhyā",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular construed with yuktaḥ; Śaṅkara further specifies yayā as yoga-viṣayayā.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "yuktaḥ",
+   "surface_in_sandhi": "yukto",
+   "lemma": "yukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective used substantively/predicatively of Arjuna: “endowed/joined.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yukta Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yayā",
+   "surface_in_sandhi": "yayā",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative instrumental feminine singular referring to buddhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "pārtha",
+   "surface_in_sandhi": "pārtha",
+   "lemma": "pārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative singular; Śaṅkara glosses with he pārtha.",
+   "verification": {
+    "status": "pass",
+    "detail": "pārtha Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "karmabandham",
+   "surface_in_sandhi": "karmabandhaṃ",
+   "lemma": "karmabandha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "karma eva bandhaḥ",
+    "members": [
+     "karman",
+     "bandha"
+    ]
+   },
+   "note": "Single compound, not two separate syntactic words; Śaṅkara defines it appositionally as karma itself being bondage.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem karmabandha as Pum/Dvitiya/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "prahāsyasi",
+   "surface_in_sandhi": "prahāsyasi",
+   "lemma": "hā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "hā",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Simple future, second-person singular, with prefix pra: “you will abandon/cast off.”",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-hā Lrt/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "te is dative “to you,” abhihitā means “declared/said,” and buddhi is not merely a psychological faculty but jñāna, knowledge/understanding in the domain of discriminating ultimate reality.",
+   "options_considered": [
+    "te as genitive “your”",
+    "abhihitā as “named” rather than “said”",
+    "sāṃkhya as enumeration or as the later dualist school without qualification",
+    "buddhi as mere intellect rather than salvific knowledge"
+   ],
+   "chosen": "eṣā te ’bhihitā sāṃkhye buddhiḥ = “this understanding has been declared to you in Sāṅkhya.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "eṣā te tubhyam abhihitā uktā sāṃkhye paramārtha-vastu-viveka-viṣaye buddhir jñānaṃ sākṣāt śoka-mohādi-saṃsāra-hetu-doṣa-nivṛtti-kāraṇam",
+     "translation": "“This has been declared, said, to you; in Sāṅkhya, in the sphere of discriminating the ultimate real thing, buddhi is knowledge, the direct cause of the removal of the defect that is the cause of saṃsāra, beginning with grief and delusion.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The feminine imām supplies buddhiṃ as object of śṛṇu. Yoga is construed as the means to the attainment of the preceding knowledge, specifically including non-attached performance of action as karma-yoga and also samādhi-yoga.",
+   "options_considered": [
+    "yoga as generic union only",
+    "yoga as posture or meditation only",
+    "imām referring to yoga rather than to the supplied buddhiṃ"
+   ],
+   "chosen": "yoge tv imāṃ śṛṇu = “but in Yoga hear this [understanding now to be taught].”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yoge tu tat-prāpty-upāye niḥsaṅgatayā dvandva-prahāṇa-pūrvakam īśvarārādhanārthe karma-yoge karmānuṣṭhāne samādhi-yoge cemām anantaram evocyamānāṃ buddhiṃ śṛṇu",
+     "translation": "“But in Yoga, the means to the attainment of that, in karma-yoga—performance of action for the worship of the Lord, with non-attachment and preceded by abandoning the pairs of opposites—and also in samādhi-yoga, listen to this buddhi, about to be stated immediately hereafter.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The instrumental buddhyā/yayā is construed with yuktaḥ, and the relevant buddhi is the yoga-directed one praised for encouragement.",
+   "options_considered": [
+    "buddhyā as an independent instrumental of means only, detached from yuktaḥ",
+    "yayā referring to some other feminine noun than buddhi",
+    "the last pāda referring back only to the earlier Sāṅkhya-buddhi"
+   ],
+   "chosen": "buddhyā yayā yuktaḥ = “endowed with which understanding.”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tāṃ ca buddhiṃ stauti prarocanārtham -- buddhyā yayā yoga-viṣayayā yuktaḥ",
+     "translation": "“And he praises that buddhi in order to make it attractive: endowed with the buddhi by which, which has Yoga as its subject.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The compound is taken as a karmadhāraya/appositional compound: karma itself, called dharma and adharma, is the bandha.",
+   "options_considered": [
+    "genitive tatpuruṣa: “bond of action”",
+    "instrumental/causal sense: “bond caused by action”",
+    "two-word parsing karma bandham"
+   ],
+   "chosen": "karmabandham = “the bondage that is karma,” not merely “the bond produced by karma.”",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "karma-bandhaṃ karmaiva dharmādharmākhyo bandhaḥ karma-bandhas taṃ",
+     "translation": "“karma-bandha: karma itself, called dharma and adharma, is bondage; that karma-bandha…”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The future verb is understood as the abandonment of that karma-bandha, ultimately through the obtaining of knowledge occasioned by the Lord’s grace.",
+   "options_considered": [
+    "prahāsyasi as merely “you will lose” without agency",
+    "prahāsyasi as physical throwing away rather than renouncing/casting off bondage"
+   ],
+   "chosen": "prahāsyasi = “you will cast off/abandon.”",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "taṃ prahāsyasi īśvara-prasāda-nimitta-jñāna-prāpter ity abhiprāyaḥ",
+     "translation": "“You will abandon that; the intention is: because of the attainment of knowledge occasioned by the grace of the Lord.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "This understanding (buddhi) has been declared to you in Sāṅkhya (sāṃkhya);\nbut in Yoga (yoga), listen to this [understanding now to be taught].\nEndowed with which understanding, O Pārtha,\nyou shall cast off the bondage that is karma (karmabandha).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take te as possessive “your”; Śaṅkara’s tubhyam makes it dative, “to you.”",
+  "It might render sāṃkhya as simple enumeration or unqualified later Sāṅkhya doctrine; Śaṅkara takes it as the sphere of discrimination of ultimate reality.",
+  "It might make yoga generic “union” or meditation only; Śaṅkara defines it as the means to that attainment, including detached karma-yoga and samādhi-yoga.",
+  "It might translate karmabandham as a genitive “bond of action” or “bond caused by action”; Śaṅkara says karma itself, under the names dharma and adharma, is the bond.",
+  "It might miss that imām supplies buddhiṃ as the object of śṛṇu, since Śaṅkara explicitly supplies emām … buddhiṃ śṛṇu."
+ ],
+ "analyzer_disagreements": [
+  "te: ByT5 marked tvad_SG, plausibly genitive singular; Śaṅkara glosses te by tubhyam, so it is taken as Caturthi Eka, “to you”; Pum is supplied from the male addressee Pārtha, while the second-person form itself is not gender-distinct.",
+  "abhihitā: ByT5 gave lemma abhidhā; the form is treated here as the feminine nominative singular past passive participle abhihita, confirmed by Śaṅkara’s uktā.",
+  "śṛṇu: ByT5’s imperative tag is normalized to the requested lakāra label Lot.",
+  "yuktaḥ: ByT5 lemmatized to yuj; for subanta analysis the nominal participial stem yukta is used, with a note that it is from √yuj.",
+  "karmabandham: ByT5 segmented karma + bandham; Śaṅkara explicitly treats karma-bandhaḥ as a compound, so it is analyzed as one karmadhāraya compound.",
+  "prahāsyasi: ByT5 gave prahā as the lemma; following the instruction to give the bare root separately from prefixes, it is analyzed as root hā with prefix pra."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14935,
+   "completion_tokens": 14354,
+   "reasoning_tokens": 7812
+  },
+  "est_cost": 0.2601,
+  "reverified": true
+ },
+ "mula": "eṣā te 'bhihitā sāṃkhye buddhir yoge tv imāṃ śṛṇu | buddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi",
+ "commentary_lines": [
+  "eṣā te tubhyam abhihitā uktā sāṃkhye paramārtha-vastu-viveka-viṣaye buddhir jñānaṃ sākṣāt śoka-mohādi-saṃsāra-hetu-doṣa-nivṛtti-kāraṇam |",
+  "yoge tu tat-prāpty-upāye niḥsaṅgatayā dvandva-prahāṇa-pūrvakam īśvarārādhanārthe karma-yoge karmānuṣṭhāne samādhi-yoge cemām anantaram evocyamānāṃ buddhiṃ śṛṇu |",
+  "tāṃ ca buddhiṃ stauti prarocanārtham -- buddhyā yayā yoga-viṣayayā yuktaḥ |",
+  "he pārtha, karma-bandhaṃ karmaiva dharmādharmākhyo bandhaḥ karma-bandhas taṃ prahāsyasi īśvara-prasāda-nimitta-jñāna-prāpter ity abhiprāyaḥ ||bhgs_2.39||",
+  "kiṃ cānyat --"
+ ]
+}

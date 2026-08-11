@@ -1,0 +1,227 @@
+{
+ "unit": "1.5",
+ "analysis": [
+  {
+   "surface": "vṛttayaḥ",
+   "surface_in_sandhi": "vṛttayaḥ",
+   "lemma": "vṛtti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the sūtra; in this Yoga context rendered as the technical term “modifications” and given as vṛtti on first occurrence.",
+   "verification": {
+    "status": "pass",
+    "detail": "vṛtti Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pañcatayyaḥ",
+   "surface_in_sandhi": "pañcatayyaḥ",
+   "lemma": "pañcatayī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative plural of the feminine stem pañcatayī, the feminine form of lexical pañcataya ‘fivefold’; agrees with vṛttayaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "pañcatayī Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kliṣṭākliṣṭāḥ",
+   "surface_in_sandhi": "kliṣṭākliṣṭāḥ",
+   "lemma": "kliṣṭākliṣṭa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "kliṣṭāś ca akliṣṭāś ca",
+    "members": [
+     "kliṣṭa",
+     "akliṣṭa"
+    ]
+   },
+   "note": "Inflected compound adjective agreeing with vṛttayaḥ. The member kliṣṭa is a past passive participial adjective from √kliś; akliṣṭa is its privative opposite.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kliṣṭākliṣṭa as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "vṛttayaḥ is not translated by a general sense such as ‘conducts’ or ‘ways of living’; it is kept as the Yoga technical term vṛtti and rendered ‘modifications’. The bhāṣya immediately treats vṛttis as items in a vṛtti–saṃskāra cycle belonging to citta.",
+   "options_considered": [
+    "general ‘activities’ or ‘conducts’",
+    "technical ‘modifications (vṛttis)’ of citta"
+   ],
+   "chosen": "“modifications (vṛttis)” as a technical mental process-term",
+   "evidence": [
+    {
+     "lines": [
+      6,
+      7,
+      8,
+      9
+     ],
+     "quote": "tathājātīyakāḥ saṃskārā vṛttibhir eva kriyante. saṃskāraiś ca vṛttaya iti. evaṃ vṛttisaṃskāracakram aniśam āvartate. tad evaṃbhūtaṃ cittam avasitādhikāram ātmakalpena vyavatiṣṭhate pralayaṃ vā gacchatīti.",
+     "translation": "Impressions of the same kind are produced precisely by vṛttis, and vṛttis by impressions. Thus the wheel of vṛtti and saṃskāra turns without cease. Such a citta, when its function has ended, abides in the form of self, or else goes to dissolution."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The adjective pañcatayyaḥ is construed predicatively with vṛttayaḥ: the vṛttis are fivefold. Vyāsa glosses it with pañcadhā and the next sūtra lists the five: pramāṇa, viparyaya, vikalpa, nidrā, smṛti.",
+   "options_considered": [
+    "‘fivefold’ as a mere lexical adjective without specified content",
+    "‘fivefold’ as the five classes enumerated in the following sūtra"
+   ],
+   "chosen": "pañcatayyaḥ = ‘fivefold’",
+   "evidence": [
+    {
+     "lines": [
+      10,
+      12
+     ],
+     "quote": "tāḥ kliṣṭāś cākliṣṭāś ca pañcadhā vṛttayaḥ. pramāṇaviparyayavikalpanidrāsmṛtayaḥ",
+     "translation": "Those vṛttis, afflicted and unafflicted, are fivefold: pramāṇa, viparyaya, vikalpa, sleep, and memory."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is taken as an itaretara-dvandva adjective, not as a karmadhāraya or as meaning that each vṛtti is simultaneously both. Vyāsa expands it with ca … ca: kliṣṭāś ca akliṣṭāś ca.",
+   "options_considered": [
+    "a single compound meaning ‘afflicted-unafflicted’ without coordination",
+    "two coordinated classes: ‘afflicted and unafflicted’"
+   ],
+   "chosen": "kliṣṭākliṣṭāḥ as coordinated ‘afflicted and unafflicted’",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "tāḥ kliṣṭāś cākliṣṭāś ca pañcadhā vṛttayaḥ.",
+     "translation": "Those vṛttis, afflicted and unafflicted, are fivefold."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "‘Afflicted’ is chosen over a merely physical ‘pained’ or ‘tormented’ sense. Vyāsa defines kliṣṭa vṛttis as having kleśas as their cause and as serving as a field for the accumulation of karmic deposits.",
+   "options_considered": [
+    "‘painful/tormented’ in a broad dictionary sense",
+    "‘afflicted’ in the technical sense: kleśa-caused and productive of karmāśaya"
+   ],
+   "chosen": "kliṣṭa = ‘afflicted’, specifically kleśa-based and karmically fertile",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kleśahetukāḥ karmāśayapracaye kṣetrībhūtāḥ kliṣṭāḥ.",
+     "translation": "Afflicted ones are those caused by kleśas and become a field for the accumulation of karmic deposits."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "‘Unafflicted’ is not just ‘untroubled’ in an ordinary sense. Vyāsa characterizes akliṣṭa vṛttis as having khyāti as their object and as opposing the authority of the guṇas; he also notes that unafflicted and afflicted currents may occur in the gaps of one another.",
+   "options_considered": [
+    "ordinary ‘untroubled/undisturbed’",
+    "technical ‘unafflicted’: khyāti-oriented and opposed to guṇa-dominion"
+   ],
+   "chosen": "akliṣṭa = ‘unafflicted’, oriented to discriminative knowledge and opposing guṇa-dominion",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "quote": "khyātiviṣayā guṇādhikāravirodhinyo 'kliṣṭāḥ. kliṣṭapravāhapatitā apy akliṣṭāḥ. kliṣṭacchidreṣv apy akliṣṭā bhavanti. akliṣṭacchideṣu kliṣṭā iti.",
+     "translation": "Unafflicted ones have discriminative knowledge as their object and oppose the dominion of the guṇas. Even when fallen into an afflicted stream they are unafflicted; even in the breaks in the afflicted there are unafflicted ones; and in the breaks in the unafflicted there are afflicted ones."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The modifications (vṛttis) are fivefold: afflicted (kliṣṭa) and unafflicted (akliṣṭa).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render kliṣṭa merely as ‘painful’ and akliṣṭa merely as ‘not painful’; Vyāsa instead defines them by relation to kleśa, karmāśaya, khyāti, and the guṇas.",
+  "It might miss that pañcatayyaḥ is glossed by pañcadhā and points forward to the five named vṛttis in 1.6.",
+  "It might treat kliṣṭākliṣṭāḥ as if every vṛtti were simultaneously both afflicted and unafflicted; the bhāṣya’s kliṣṭāś cākliṣṭāś ca supports two coordinated classes."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives pañcatayyaḥ with lemma pañcataya. I record the inflectional feminine stem pañcatayī, since the printed form pañcatayyaḥ is the feminine nominative plural of pañcatayī, the feminine form of lexical pañcataya ‘fivefold’.",
+  "ByT5 segments kliṣṭākliṣṭāḥ as kliṣṭa + akliṣṭāḥ and tags kliṣṭa as PaCp. I analyze the printed word as an inflected itaretara-dvandva compound stem kliṣṭākliṣṭa; the bhāṣya expands it as kliṣṭāś cākliṣṭāś ca in line 10. The participial value of kliṣṭa is retained as a compound member, not as a finite verb."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2807,
+   "completion_tokens": 7718,
+   "reasoning_tokens": 5632
+  },
+  "est_cost": 0.1242,
+  "reverified": true
+ },
+ "mula": "vṛttayaḥ pañcatayyaḥ kliṣṭākliṣṭāḥ",
+ "commentary_lines": [
+  "kleśahetukāḥ karmāśayapracaye kṣetrībhūtāḥ kliṣṭāḥ.",
+  "khyātiviṣayā guṇādhikāravirodhinyo 'kliṣṭāḥ.",
+  "kliṣṭapravāhapatitā apy akliṣṭāḥ.",
+  "kliṣṭacchidreṣv apy akliṣṭā bhavanti.",
+  "akliṣṭacchideṣu kliṣṭā iti.",
+  "tathājātīyakāḥ saṃskārā vṛttibhir eva kriyante.",
+  "saṃskāraiś ca vṛttaya iti.",
+  "evaṃ vṛttisaṃskāracakram aniśam āvartate.",
+  "tad evaṃbhūtaṃ cittam avasitādhikāram ātmakalpena vyavatiṣṭhate pralayaṃ vā gacchatīti.",
+  "tāḥ kliṣṭāś cākliṣṭāś ca pañcadhā vṛttayaḥ.",
+  "1.5",
+  "pramāṇaviparyayavikalpanidrāsmṛtayaḥ"
+ ]
+}

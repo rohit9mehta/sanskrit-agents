@@ -1,0 +1,458 @@
+{
+ "unit": "2.13",
+ "analysis": [
+  {
+   "surface": "dehinaḥ",
+   "surface_in_sandhi": "dehino",
+   "lemma": "dehin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular construed as the embodied self’s possession/experience of bodily states, per Śaṅkara’s dehavataḥ ātmanaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "dehin Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "asmin",
+   "surface_in_sandhi": "'smin",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine locative singular agreeing with dehe, taken here as masculine ‘body’.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "yathā",
+   "surface_in_sandhi": "yathā",
+   "lemma": "yathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative with tathā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dehe",
+   "surface_in_sandhi": "dehe",
+   "lemma": "deha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: ‘in this body’. The noun can be masculine or neuter; Śaṅkara’s paraphrase uses masculine deha-forms.",
+   "verification": {
+    "status": "pass",
+    "detail": "deha Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "kaumāram",
+   "surface_in_sandhi": "kaumāraṃ",
+   "lemma": "kaumāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantive neuter state-name: ‘childhood’, glossed as kumāra-bhāva/bālyāvasthā.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaumāra Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yauvanam",
+   "surface_in_sandhi": "yauvanaṃ",
+   "lemma": "yauvana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantive neuter state-name: ‘youth’, glossed as yūno bhāva/madhyamāvasthā.",
+   "verification": {
+    "status": "pass",
+    "detail": "yauvana Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "jarā",
+   "surface_in_sandhi": "jarā",
+   "lemma": "jarā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular state-name: ‘old age’, glossed as vayo-hāni/jīrṇāvasthā.",
+   "verification": {
+    "status": "pass",
+    "detail": "jarā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yathā: ‘so, in like manner’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dehāntaraprāptiḥ",
+   "surface_in_sandhi": "dehāntara-prāptir",
+   "lemma": "dehāntaraprāpti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dehād anyaḥ dehaḥ dehāntaram; tasya prāptiḥ",
+    "members": [
+     "dehāntara",
+     "prāpti"
+    ]
+   },
+   "note": "Stem and pausal form are given without the editorial hyphen for derivability; the printed sandhi form preserves the hyphen. The head is feminine prāpti. Śaṅkara explicitly analyzes dehāntara as ‘a body other than [this] body’ and the whole as ‘the attainment of it’. I keep the tatpuruṣa relation despite the verifier’s ‘unsupported’ log, since that is exactly the relation given by the bhāṣya’s tasya prāptiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dehāntaraprāpti as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "dhīraḥ",
+   "surface_in_sandhi": "dhīras",
+   "lemma": "dhīra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by Śaṅkara as dhīmān, ‘wise/intelligent’.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhīra Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatra",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Not merely spatial ‘there’; Śaṅkara glosses tatra as evaṃ sati, ‘when this is so / in this matter’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Simple negation.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "muhyati",
+   "surface_in_sandhi": "muhyati",
+   "lemma": "muh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "muh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present active 3rd singular, intransitive: ‘becomes deluded/bewildered’; Śaṅkara glosses na moham āpadyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "muh Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The genitive dehinaḥ is not translated merely as ‘of the embodied person’ or ‘of a living creature’; Śaṅkara identifies the dehin here as the body-possessing ātman, the self enveloped in a body.",
+   "options_considered": [
+    "an embodied person or corporeal living being",
+    "the embodied self/ātman"
+   ],
+   "chosen": "dehinaḥ = ‘of/for the embodied self’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "deho 'sya astīti dehī, tasya dehino dehavataḥ ātmano",
+     "translation": "‘One who has a body is dehin; of that dehin, of the body-possessing self ...’"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "avikriyasyaiva ātmana ity arthaḥ",
+     "translation": "‘The meaning is: of the self alone, which is changeless.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The three nouns are rendered as ‘childhood, youth, and old age’, not as generic juvenility/youthfulness/decay, because Śaṅkara defines them as successive avasthās: childhood, middle/youthful condition, and decrepit old age.",
+   "options_considered": [
+    "qualities such as juvenility, youthfulness, decrepitude in general",
+    "successive life-stages: childhood, youth, old age"
+   ],
+   "chosen": "kaumāram, yauvanam, jarā = three distinct bodily life-states",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kaumāraṃ kumāra-bhāvo bālyāvasthā, yauvanaṃ yūno bhāvo madhyamāvasthā, jarā vayo-hāniḥ jīrṇāvasthā, ity etāḥ tisro 'vasthāḥ anyonya-vilakṣaṇāḥ",
+     "translation": "‘Kaumāra is the condition of a child, the state of childhood; yauvana is the condition of a youth, the middle state; jarā is loss of age/vitality, the worn-out state. These three states are mutually distinct.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The yathā/tathā structure is taken to mean: just as the self is not destroyed or produced when bodily states perish or arise, so too its attainment of another body does not imply change in the self. The translation therefore includes ‘by/for that same unchanging self’.",
+   "options_considered": [
+    "the embodied being itself changes from childhood to youth to old age and then into another body",
+    "the changeless self attains successive bodily states and another body"
+   ],
+   "chosen": "The analogy is about attainment of states and then another body by the changeless self",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tāsāṃ prathamāvasthā-nāśe na nāśaḥ, dvitīyāvasthopajane na upajana ātmanaḥ",
+     "translation": "‘When the first of those states is destroyed, there is no destruction of the self; when the second state arises, there is no arising of the self.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "avikriyasyaiva dvitīya-tṛtīyāvasthā-prāptiḥ ātmano dṛṣṭā",
+     "translation": "‘Rather, the attainment of the second and third states is seen to belong to the self alone, which is changeless.’"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tathā tadvad eva ... dehāntara-prāptiḥ avikriyasyaiva ātmana ity arthaḥ",
+     "translation": "‘So, just in that same way ... the attainment of another body belongs to the self alone, which is changeless—that is the meaning.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The compound is not taken as ‘attainment between bodies’ or as a vague ‘bodily transformation’; Śaṅkara gives a two-step analysis: dehāntara is a body other than the present body, and dehāntara-prāpti is the attainment of that.",
+   "options_considered": [
+    "attainment between bodies",
+    "attainment of an inner/intermediate body",
+    "attainment of another body"
+   ],
+   "chosen": "dehāntaraprāptiḥ = ‘attainment of another body’",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "dehād anyo deho dehāntaram, tasya prāptiḥ dehāntara-prāptiḥ",
+     "translation": "‘A body different from the body is dehāntara, another body; the attainment of it is dehāntara-prāpti.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Dhīraḥ is rendered ‘wise one’, following the gloss dhīmān, rather than primarily ‘firm’ or ‘brave’. Tatra is taken situationally (‘in this matter, when this is so’), not spatially. Muhyati is active intransitive: ‘falls into delusion / is bewildered’.",
+   "options_considered": [
+    "a brave/steady man is not confused there, in that place",
+    "the wise person is not deluded about this situation"
+   ],
+   "chosen": "dhīraḥ tatra na muhyati = ‘the wise one is not deluded about this / when this is so’",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "dhīro dhīmān tatraivaṃ sati na muhyati na moham āpadyate",
+     "translation": "‘The dhīra is the intelligent/wise one; when this is so, he is not deluded, does not fall into delusion.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "As, for the embodied self, in this body there are childhood, youth, and old age,\nso too there is the attainment of another body by that same unchanging self.\nThe wise one is not deluded about this.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render dehin simply as ‘the embodied person’, missing Śaṅkara’s insistence that the referent is the body-possessing ātman, and specifically the changeless self.",
+  "It might describe childhood, youth, old age, and rebirth as changes of the self itself; Śaṅkara explicitly denies destruction, production, or modification of the self across these states.",
+  "It might take dehāntara-prāptiḥ vaguely as ‘body-change’ or even ‘attainment between bodies’; the bhāṣya fixes it as ‘attainment of a body other than this body’.",
+  "It might translate dhīraḥ as merely ‘steadfast’ and tatra as locative ‘there’; Śaṅkara glosses them as dhīmān and evaṃ sati: the wise one is not deluded in this matter."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 marks asmin and dehe as locative singular neuter (SLNe). I take both as masculine locative singular, because dehe is construed as masculine ‘body’; Śaṅkara’s line 4 has masculine deha-forms, dehād anyo deho. Commentary line 1 appears to print dehā in the phrase asmin vartamāne dehā yathā, evidently a plaintext error for dehe, so I do not rely on that reading.",
+  "ByT5 segments deha_antara_prāptiḥ as compound pieces. I analyze the printed dehāntara-prāptiḥ as one inflected feminine nominative singular compound stem dehāntaraprāpti; the hyphen is treated as editorial. Śaṅkara’s explicit vigraha is tasya prāptiḥ dehāntara-prāptiḥ in line 4."
+ ],
+ "open_questions": [
+  "Commentary line 1 appears to read asmin vartamāne dehā yathā where the verse and context require dehe yathā. I treat dehā as a plaintext error and have not cited it as an independent reading."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13440,
+   "completion_tokens": 14615,
+   "reasoning_tokens": 8190
+  },
+  "est_cost": 0.2595,
+  "reverified": true
+ },
+ "mula": "dehino 'smin yathā dehe kaumāraṃ yauvanaṃ jarā | tathā dehāntara-prāptir dhīras tatra na muhyati",
+ "commentary_lines": [
+  "deho 'sya astīti dehī, tasya dehino dehavataḥ ātmano 'smin vartamāne dehā yathā yena prakāreṇa kaumāraṃ kumāra-bhāvo bālyāvasthā, yauvanaṃ yūno bhāvo madhyamāvasthā, jarā vayo-hāniḥ jīrṇāvasthā, ity etāḥ tisro 'vasthāḥ anyonya-vilakṣaṇāḥ |",
+  "tāsāṃ prathamāvasthā-nāśe na nāśaḥ, dvitīyāvasthopajane na upajana ātmanaḥ |",
+  "kiṃ tarhi ?avikriyasyaiva dvitīya-tṛtīyāvasthā-prāptiḥ ātmano dṛṣṭā |",
+  "tathā tadvad eva dehād anyo deho dehāntaram, tasya prāptiḥ dehāntara-prāptiḥ avikriyasyaiva ātmana ity arthaḥ |",
+  "dhīro dhīmān tatraivaṃ sati na muhyati na moham āpadyate ||bhgs_2.13||"
+ ]
+}

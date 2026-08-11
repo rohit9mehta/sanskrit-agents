@@ -1,0 +1,465 @@
+{
+ "unit": "2.48",
+ "analysis": [
+  {
+   "surface": "yogasthaḥ",
+   "surface_in_sandhi": "yogasthaḥ",
+   "lemma": "yogastha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yoge sthitaḥ",
+    "members": [
+     "yoga",
+     "stha"
+    ]
+   },
+   "note": "Adjectival compound qualifying the addressed agent understood with kuru.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem yogastha as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "kuru",
+   "surface_in_sandhi": "kuru",
+   "lemma": "kṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "kṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "kṛ Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "karmāṇi",
+   "surface_in_sandhi": "karmāṇi",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of kuru.",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "saṅgam",
+   "surface_in_sandhi": "saṅgaṃ",
+   "lemma": "saṅga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of tyaktvā.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṅga Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tyaktvā",
+   "surface_in_sandhi": "tyaktvā",
+   "lemma": "tyaj",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "tyaj",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ktvā-absolutive: “having abandoned.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dhanaṃjaya",
+   "surface_in_sandhi": "dhanaṃjaya",
+   "lemma": "dhanaṃjaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dhanaṃ jayati iti",
+    "members": [
+     "dhana",
+     "jaya"
+    ]
+   },
+   "note": "Vocative proper name of Arjuna.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dhanaṃjaya as Pum/Sambodhana/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "siddhyasiddhyoḥ",
+   "surface_in_sandhi": "siddhy-asiddhyoḥ",
+   "lemma": "siddhyasiddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "siddhiś ca asiddhiś ca",
+    "members": [
+     "siddhi",
+     "asiddhi"
+    ]
+   },
+   "note": "The form is also formally genitive dual; here taken, with the analyzer and the idiom with samaḥ, as locative dual: “in success and failure.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem siddhyasiddhi as Stri/Saptami/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "samaḥ",
+   "surface_in_sandhi": "samo",
+   "lemma": "sama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective with the agent of kuru: “equal, the same.”",
+   "verification": {
+    "status": "pass",
+    "detail": "sama Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhūtvā",
+   "surface_in_sandhi": "bhūtvā",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ktvā-absolutive: “having become.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "samatvam",
+   "surface_in_sandhi": "samatvaṃ",
+   "lemma": "samatva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Abstract noun in -tva; nominative subject of ucyate: “equanimity is called yoga.”",
+   "verification": {
+    "status": "pass",
+    "detail": "samatva Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yogaḥ",
+   "surface_in_sandhi": "yoga",
+   "lemma": "yoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative with ucyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "yoga Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ucyate",
+   "surface_in_sandhi": "ucyate",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive present: “is called.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is construed as yoge sthitaḥ, and the referent of yoga in this verse is supplied by the verse-commentary itself as equality/equanimity regarding success and failure.",
+   "options_considered": [
+    "“established in yoga” as Śaṅkara’s equanimity in success and failure",
+    "a generic “practising yoga” or “yoked” without the verse-internal definition"
+   ],
+   "chosen": "yogasthaḥ = “established in yoga,” where yoga is the equanimity later defined, not merely physical discipline or yoking.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yoga-sthaḥ san kuru karmāṇi kevalam īśvarārtham |",
+     "translation": "Being yoga-established, perform actions solely for the sake of Īśvara."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "ko 'sau yogo yatra-sthaḥ kuru ity uktam ? idam eva tat --- siddhy-asiddhyoḥ samatvaṃ yoga ucyate",
+     "translation": "What is that yoga in which one is told to stand and act? This very thing: equanimity in success and failure is called yoga."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The object karmāṇi is not narrowed to one ritual action; Śaṅkara glosses the injunction as action performed kevalam īśvarārtham.",
+   "options_considered": [
+    "ordinary “do works” without specifying orientation",
+    "actions performed solely for the sake of Īśvara"
+   ],
+   "chosen": "karmāṇi kuru = “perform actions,” understood as actions done solely for Īśvara’s sake.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kuru karmāṇi kevalam īśvarārtham",
+     "translation": "Perform actions solely for the sake of Īśvara."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara specifically glosses the attachment to be given up at this point by quoting the attitude “īśvaro me tuṣyatu,” introduced with tatrāpi, ‘even there.’",
+   "options_considered": [
+    "attachment generally, especially to external fruits",
+    "attachment even within Īśvara-oriented action, expressed as “may Īśvara be pleased with me”"
+   ],
+   "chosen": "saṅgam tyaktvā = “having abandoned attachment,” including attachment even to the thought “may Īśvara be pleased with me.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tatrāpīśvaro me tuṣyatu iti saṅgaṃ tyaktvā dhanaṃjaya",
+     "translation": "Even there, abandoning attachment in the form ‘May Īśvara be pleased with me,’ O Dhanañjaya."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary defines siddhi as jñāna-prāpti-lakṣaṇā, born from sattva-śuddhi in action done without thirst for fruit; asiddhi is born from the opposite. The translation therefore says “success and failure” but records Śaṅkara’s technical construal.",
+   "options_considered": [
+    "worldly success and worldly failure only",
+    "Śaṅkara’s success as knowledge-attainment from purification, with failure as the opposite"
+   ],
+   "chosen": "siddhi and asiddhi are success and failure in the specific karmayoga context: attainment of knowledge born of purification of sattva, and its opposite.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "phala-tṛṣṇā-śūnyena kriyamāṇe karmaṇi sattva-śuddhijā jñāna-prāpti-lakṣaṇā siddhiḥ, tad-viparyayajā asiddhiḥ",
+     "translation": "In action performed free from thirst for fruit, success is characterized as the attainment of knowledge born of purity of sattva; failure is born from the opposite of that."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara glosses samaḥ directly with tulyo and repeats that one should perform actions after becoming such toward both success and failure.",
+   "options_considered": [
+    "samaḥ as merely “same” in a non-ethical sense",
+    "samaḥ as “equal/even-minded,” tulyo, toward success and failure"
+   ],
+   "chosen": "samaḥ bhūtvā = “having become equal/even-minded.”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tayoḥ siddhy-asiddhyor api samaḥ tulyo bhūtvā kuru karmāṇi",
+     "translation": "Having become equal, alike, even with respect to those two, success and failure, perform actions."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The commentary asks what the yoga is and answers with the same phrase, identifying siddhy-asiddhyoḥ samatvam as the yoga meant here.",
+   "options_considered": [
+    "Yoga is called equality, with yoga as subject",
+    "Equanimity regarding success and failure is called yoga, with samatvam as subject"
+   ],
+   "chosen": "samatvaṃ yoga ucyate = “equanimity is called yoga.”",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "idam eva tat --- siddhy-asiddhyoḥ samatvaṃ yoga ucyate",
+     "translation": "This very thing is that: equanimity in success and failure is called yoga."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The ending -oḥ is formally ambiguous between genitive and locative dual; the locative construal is chosen because samaḥ with a locus yields the natural sense “equal in/under success and failure.” The commentary does not remove the morphological ambiguity, though it supports the semantic pairing.",
+   "options_considered": [
+    "genitive dual: “equal with respect to/of success and failure”",
+    "locative dual: “equal in success and failure”"
+   ],
+   "chosen": "siddhyasiddhyoḥ is taken as Saptami dual, “in success and failure.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Established in yoga, perform actions, having abandoned attachment, O Dhanañjaya;\nhaving become even-minded in success and failure.\nEquanimity (samatva) is called yoga.",
+ "one_shot_delta": [
+  "Without the commentary, one might translate yoga-sthaḥ as a generic “practising yoga”; Śaṅkara identifies the yoga of this verse as equanimity in success and failure.",
+  "A commentary-blind reading could take siddhi/asiddhi as ordinary worldly success and failure only; Śaṅkara defines siddhi as knowledge-attainment born of sattva-purification from fruitless action, and asiddhi as its opposite.",
+  "One might take “abandoning attachment” only as giving up desire for material results; Śaṅkara also warns against attachment even in the pious form “may Īśvara be pleased with me.”",
+  "The phrase samatvaṃ yoga ucyate could be reversed too loosely as “yoga is called equality”; Śaṅkara’s question-and-answer makes equanimity the explanatory item called yoga here."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented samatvam as sama_Cp + tvam_tva; this has been overridden to the neuter abstract stem samatva, Prathama Eka, because the commentary quotes the phrase as “siddhy-asiddhyoḥ samatvaṃ yoga ucyate” and treats this samatva as the item called yoga (line 4).",
+  "ByT5 lists siddhi + asiddhi elements but not the compound class explicitly; this apparatus treats siddhyasiddhyoḥ as a dvandva compound, “success and failure.”"
+ ],
+ "open_questions": [
+  "The form siddhyasiddhyoḥ is morphologically ambiguous between genitive and locative dual. This apparatus follows the analyzer and the idiom with samaḥ in taking it as locative, while noting that Śaṅkara’s tayoḥ is itself equally ambiguous."
+ ],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5294,
+   "completion_tokens": 8113,
+   "reasoning_tokens": 5119
+  },
+  "est_cost": 0.1376,
+  "reverified": true
+ },
+ "mula": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanaṃjaya | siddhy-asiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate",
+ "commentary_lines": [
+  "yoga-sthaḥ san kuru karmāṇi kevalam īśvarārtham |",
+  "tatrāpīśvaro me tuṣyatu iti saṅgaṃ tyaktvā dhanaṃjaya |",
+  "phala-tṛṣṇā-śūnyena kriyamāṇe karmaṇi sattva-śuddhijā jñāna-prāpti-lakṣaṇā siddhiḥ, tad-viparyayajā asiddhiḥ, tayoḥ siddhy-asiddhyor api samaḥ tulyo bhūtvā kuru karmāṇi |",
+  "ko 'sau yogo yatra-sthaḥ kuru ity uktam ? idam eva tat --- siddhy-asiddhyoḥ samatvaṃ yoga ucyate ||bhgs_2.48||",
+  "yat punaḥ samatva-buddhi-yuktam īśvarārādhanārthaṃ karmoktam, etasmāt karmaṇaḥ --"
+ ]
+}

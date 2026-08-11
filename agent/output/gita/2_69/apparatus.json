@@ -1,0 +1,479 @@
+{
+ "unit": "2.69",
+ "analysis": [
+  {
+   "surface": "yā",
+   "surface_in_sandhi": "yā",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun agreeing with the first niśā; its correlative locative is tasyām.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niśā",
+   "surface_in_sandhi": "niśā",
+   "lemma": "niśā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First occurrence; Śaṅkara reads it metaphorically as the ultimate reality insofar as it is ‘night’ for ignorant beings.",
+   "verification": {
+    "status": "pass",
+    "detail": "niśā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvabhūtānām",
+   "surface_in_sandhi": "sarva-bhūtānāṃ",
+   "lemma": "sarvabhūta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "sarveṣāṃ bhūtānām",
+    "members": [
+     "sarva",
+     "bhūta"
+    ]
+   },
+   "note": "Genitive plural dependent on niśā: ‘night for/of all beings.’ Revised to the unhyphenated derivational stem sarvabhūta and pausal surface sarvabhūtānām; the printed text’s editorial hyphen is retained only in surface_in_sandhi. The karmadhāraya relation is retained on grammatical and commentarial grounds, though the verifier logged that relation as unsupported rather than deriving a contrary form.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvabhūta as Napumsaka/Sasthi/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tasyām",
+   "surface_in_sandhi": "tasyāṃ",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative correlative to yā niśā; Śaṅkara glosses its locus as characterized by paramārtha-tattva.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "jāgarti",
+   "surface_in_sandhi": "jāgarti",
+   "lemma": "jāgṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jāgṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Finite verb, ‘is awake/keeps awake’; commentary takes the waking as awakening from ignorance-sleep.",
+   "verification": {
+    "status": "pass",
+    "detail": "jāgṛ Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṃyamī",
+   "surface_in_sandhi": "saṃyamī",
+   "lemma": "saṃyamin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses: saṃyamavān, jitendriyaḥ yogī.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃyamin Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yasyām",
+   "surface_in_sandhi": "yasyāṃ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative locative in the second half-verse, correlating with sā niśā.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "jāgrati",
+   "surface_in_sandhi": "jāgrati",
+   "lemma": "jāgṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "jāgṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Plural finite verb with bhūtāni; commentary qualifies this as only being ‘said’ of beings who are really asleep in ignorance.",
+   "verification": {
+    "status": "pass",
+    "detail": "jāgṛ Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "bhūtāni",
+   "surface_in_sandhi": "bhūtāni",
+   "lemma": "bhūta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter plural subject of jāgrati.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūta Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sā",
+   "surface_in_sandhi": "sā",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun agreeing with the second niśā.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niśā",
+   "surface_in_sandhi": "niśā",
+   "lemma": "niśā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second occurrence; Śaṅkara identifies this ‘night’ as avidyā-rūpa, the sphere of subject-object distinction.",
+   "verification": {
+    "status": "pass",
+    "detail": "niśā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "paśyataḥ",
+   "surface_in_sandhi": "paśyato",
+   "lemma": "paśyat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial stem from √dṛś, with present stem paśya-. Genitive singular agreeing with muneḥ; Śaṅkara supplies the object as paramārtha-tattvam.",
+   "verification": {
+    "status": "pass",
+    "detail": "paśyat Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "muneḥ",
+   "surface_in_sandhi": "muneḥ",
+   "lemma": "muni",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular with paśyataḥ; translated idiomatically as ‘to/for the sage.’",
+   "verification": {
+    "status": "pass",
+    "detail": "muni Pum/Sasthi/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Render the opening as a metaphor: what is night to all beings is the ultimate reality, inaccessible to them.",
+   "options_considered": [
+    "literal nighttime",
+    "darkness or dream in a purely ordinary sense",
+    "ultimate reality metaphorically called night for the ignorant"
+   ],
+   "chosen": "The first niśā is not merely physical night; it is the ultimate reality (paramārtha-tattva) as ‘night’ for ignorant beings because it is outside the range of their cognition.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yā niśā rātriḥ sarva-padārthānām aviveka-karī tamaḥ-svabhāvatvāt sarva-bhūtānāṃ sarveṣāṃ bhūtānām",
+     "translation": "‘The night’ is night/darkness, causing nondiscrimination of all objects because it has the nature of darkness; ‘of all beings’ means of all beings."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "kiṃ tat paramārtha-tattvaṃ sthita-prajñasya viṣayaḥ",
+     "translation": "What is that? The ultimate reality, the object of the one whose wisdom is steady."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "niśā paramārtha-tattvam, agocaratvād atad-buddhīnām",
+     "translation": "The ‘night’ is the ultimate reality, because it is not within the range of those whose understanding is not turned to that."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Translate jāgarti as cognitive/spiritual wakefulness, and saṃyamī as the self-controlled, sense-conquering yogin.",
+   "options_considered": [
+    "ordinary wakefulness at night",
+    "ritual vigilance",
+    "spiritual wakefulness in the ultimate reality"
+   ],
+   "chosen": "tasyām jāgarti means that the self-controlled yogin is awake in that ultimate-reality locus, having awakened from the sleep of ignorance.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tasyāṃ paramārtha-tattva-lakṣaṇāyām ajñāna-nidrāyāḥ prabuddho jāgarti saṃyamī saṃyamavān, jitendriyo yogīty arthaḥ",
+     "translation": "In that which is characterized by the ultimate reality, awakened from the sleep of ignorance, the self-controlled one keeps awake; ‘self-controlled’ means restrained, a yogin whose senses are conquered."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Render yasyāṃ jāgrati bhūtāni as beings being ‘said’ to be awake within ignorance, while in truth they are asleep like dreamers.",
+   "options_considered": [
+    "ordinary daytime activity",
+    "morally commendable alertness of beings",
+    "apparent wakefulness within ignorance and dualistic cognition"
+   ],
+   "chosen": "The sphere in which beings are ‘awake’ is the night of ignorance (avidyā-niśā), characterized by the division between grasped object and grasper.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "yasyāṃ grāhya-grāhaka-bheda-lakṣaṇāyām avidyā-niśāyāṃ prasuptāny eva bhūtāni jāgrati iti ucyante, yasyāṃ niśāyāṃ prasuptā iva svapna-dṛśaḥ",
+     "translation": "In the night of ignorance characterized by the distinction between grasped and grasper, beings, though really asleep, are said to be awake; in that night they are as if asleep, like dream-seers."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Translate paśyato muneḥ as ‘to/for the sage who sees the ultimate reality,’ not as an ablative or as seeing ordinary objects.",
+   "options_considered": [
+    "‘from the seeing sage’ as ablative",
+    "‘of the sage who sees ordinary objects’",
+    "‘for the sage who sees the ultimate reality’"
+   ],
+   "chosen": "sā niśā paśyato muneḥ means that this ignorance-sphere is night to the sage who sees the ultimate reality; paśyataḥ is genitive agreeing with muneḥ.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "sā niśā avidyā-rūpatvāt paramārtha-tattvaṃ paśyato muneḥ",
+     "translation": "That is night, because it has the form of ignorance, for the sage who sees the ultimate reality."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Use ‘all beings’ rather than ‘all elements,’ ‘all past things,’ or an abstract ‘all existents.’",
+   "options_considered": [
+    "all physical elements",
+    "all past/existing things in abstraction",
+    "all beings, especially the ignorant ordinary beings"
+   ],
+   "chosen": "sarvabhūtānām is ‘of all beings,’ with sarva qualifying bhūta; in context Śaṅkara treats these as the ignorant ordinary beings for whom the ultimate reality is inaccessible.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarva-bhūtānāṃ sarveṣāṃ bhūtānām",
+     "translation": "‘Of all beings’ means ‘of all beings.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "ajñānāṃ sarva-bhūtānāṃ",
+     "translation": "Of all beings, the ignorant."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "What is night to all beings—the ultimate reality (paramārtha-tattva), out of reach for the ignorant—\nin that the self-controlled one (saṃyamī), the yogin of conquered senses, keeps awake.\nIn what beings are said to be awake—the night of ignorance (avidyā) marked by the grasper–grasped division (grāhya-grāhaka-bheda)—\nthat is night to the sage (muni) who sees the ultimate reality.",
+ "one_shot_delta": [
+  "A commentary-blind translation might make the verse a simple contrast between nocturnal sleep and daytime waking; Śaṅkara instead makes the first ‘night’ the ultimate reality and the second ‘night’ ignorance.",
+  "It might treat jāgrati bhūtāni as genuinely positive wakefulness; the commentary says beings are only ‘said’ to be awake and are actually asleep like dreamers in avidyā.",
+  "It might translate paśyato muneḥ vaguely as ‘of the seeing sage’; Śaṅkara specifies that the sage sees paramārtha-tattva, the ultimate reality.",
+  "It might miss that saṃyamī is not merely restrained in a general sense but, for Śaṅkara, a jitendriya yogin awakened from ignorance-sleep."
+ ],
+ "analyzer_disagreements": [
+  "sarvabhūtānām: ByT5 presents sarva as a compound member and bhūtānām as the inflected head; I record the printed hyphenated expression as one karmadhāraya compound with derivational stem sarvabhūta, Napumsaka Sasthi Bahu, supported by Śaṅkara’s gloss sarveṣāṃ bhūtānām at line 1. The verifier issue appears to have concerned the hyphenated stem notation and unsupported relation logging, so only the stem/surface notation is revised.",
+  "paśyataḥ: ByT5 gives lemma/root dṛś with a participial tag; because the requested format treats participles as subanta, I record the nominal participle stem paśyat, noting that it is from √dṛś with present stem paśya-."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13198,
+   "completion_tokens": 20235,
+   "reasoning_tokens": 14007
+  },
+  "est_cost": 0.3431,
+  "reverified": true
+ },
+ "mula": "yā niśā sarva-bhūtānāṃ tasyāṃ jāgarti saṃyamī | yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ",
+ "commentary_lines": [
+  "yā niśā rātriḥ sarva-padārthānām aviveka-karī tamaḥ-svabhāvatvāt sarva-bhūtānāṃ sarveṣāṃ bhūtānām |",
+  "kiṃ tat paramārtha-tattvaṃ sthita-prajñasya viṣayaḥ |",
+  "yathā naktaṃ-carāṇām ahar eva sad anyeṣāṃ niśā bhavati, tadvat naktaṃ-cara-sthānīyānām ajñānāṃ sarva-bhūtānāṃ niśeva niśā paramārtha-tattvam, agocaratvād atad-buddhīnām |",
+  "tasyāṃ paramārtha-tattva-lakṣaṇāyām ajñāna-nidrāyāḥ prabuddho jāgarti saṃyamī saṃyamavān, jitendriyo yogīty arthaḥ |",
+  "yasyāṃ grāhya-grāhaka-bheda-lakṣaṇāyām avidyā-niśāyāṃ prasuptāny eva bhūtāni jāgrati iti ucyante, yasyāṃ niśāyāṃ prasuptā iva svapna-dṛśaḥ, sā niśā avidyā-rūpatvāt paramārtha-tattvaṃ paśyato muneḥ |",
+  "ataḥ karmāṇi avidyāvasthāyām eva codyante, na vidyāvasthāyām |",
+  "vidyāyāṃ hi satyām udite savitari śārvaram iva tamaḥ praṇāśam upagacchati avidyā |",
+  "prāk vidyotpatteḥ avidyā pramāṇa-buddhyā gṛhyamāṇā kriyā-kāraka-phala-bheda-rūpā satī sarva-karma-hetutvaṃ pratipadyate |",
+  "na apramāṇa-buddhyā gṛhyamāṇāyāḥ karma-hetutvopapattiḥ, pramāṇa-bhūtena vedena mama coditaṃ kartavyaṃ karma iti hi karmaṇi kartā pravartate, na avidyā-mātram idaṃ sarvaṃ bheda-jātam iti jñānaṃ tasya ātmajñasya sarva-karma-saṃnyāse eva adhikāro na pravṛttau |",
+  "tathā ca darśayiṣyati --- tad-buddhayas tad-ātmānaḥ ity ādinā jñāna-niṣṭhāyām eva tasya adhikāram |",
+  "tatrāpi pravartaka-pramāṇābhāve pravṛtty-anupapattiḥ iti cet, na |",
+  "svātma-viṣayatvād ātma-vijñānasya |",
+  "na hy ātmanaḥ svātmani pravartaka-pramāṇāpekṣatā, ātmatvād eva |",
+  "tad-antatvāc ca sarva-pramāṇānāṃ pramāṇatvasya |",
+  "na hy ātma-svarūpādhigame sati punaḥ pramāṇa-prameya-vyavahāraḥ saṃbhavati |",
+  "pramātṛtvaṃ hy ātmanaḥ nivartayati antyaṃ pramāṇam |",
+  "nivartayad eva cāpramāṇībhavati, svapna-kāla-pramāṇam iva prabodhe |",
+  "loke ca vastv-adhigame pravṛtti-hetutvādarśanāt pramāṇasya |",
+  "tasmān nātma-vidaḥ karmaṇy adhikāra iti siddham ||bhgs_2.69||",
+  "viduṣas tyaktaiṣaṇasya sthita-prajñasya yater eva mokṣa-prāptiḥ, na tu asaṃnyāsinaḥ kāma-kāminaḥ ity etam arthaṃ dṛṣṭāntena pratipādayiṣyan āha -",
+  "āpūryamāṇam acala-pratiṣṭhaṃ",
+  "samudram āpaḥ praviśanti yadvat |",
+  "tadvat kāmā yaṃ praviśanti sarve",
+  "sa śāntim āpnoti na kāma-kāmī"
+ ]
+}

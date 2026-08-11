@@ -1,0 +1,494 @@
+{
+ "unit": "2.58",
+ "analysis": [
+  {
+   "surface": "yadā",
+   "surface_in_sandhi": "yadā",
+   "lemma": "yadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saṃharate",
+   "surface_in_sandhi": "saṃharate",
+   "lemma": "hṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "hṛ",
+    "prefixes": [
+     "sam"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada ending; the schema records prayoga, not pada. Śaṅkara glosses the action as upasaṃharate, 'withdraws.'",
+   "verification": {
+    "status": "pass",
+    "detail": "sam-hṛ Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cāyaṃ",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "In the printed sandhi segment ca + ayam = cāyaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "cāyaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers, per Śaṅkara, to the yati engaged in jñāna-niṣṭhā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kūrmaḥ",
+   "surface_in_sandhi": "kūrmo",
+   "lemma": "kūrma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "kūrma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "aṅgāni",
+   "surface_in_sandhi": "'ṅgānīva",
+   "lemma": "aṅga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object within the simile: Śaṅkara supplies svāni, 'its own.' Printed in the sandhi segment aṅgāni + iva.",
+   "verification": {
+    "status": "pass",
+    "detail": "aṅga Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "iva",
+   "surface_in_sandhi": "'ṅgānīva",
+   "lemma": "iva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara expands the comparison with yathā ... evaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sarvaśaḥ",
+   "surface_in_sandhi": "sarvaśaḥ",
+   "lemma": "sarvaśaḥ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by Śaṅkara as sarvataḥ, 'from every side / in every respect.'",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "indriyāṇi",
+   "surface_in_sandhi": "indriyāṇīndriyārthebhyas",
+   "lemma": "indriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Direct object of saṃharate/upasaṃharate. Printed in the sandhi segment indriyāṇi + indriyārthebhyaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "indriya Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "indriyārthebhyaḥ",
+   "surface_in_sandhi": "indriyāṇīndriyārthebhyas",
+   "lemma": "indriyārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "indriyāṇām arthāḥ",
+    "members": [
+     "indriya",
+     "artha"
+    ]
+   },
+   "note": "The -bhyaḥ ending is here ablative, governed by the sense 'withdraws from.'",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem indriyārtha as Pum/Panchami/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasya",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular referring back to the jñāna-niṣṭha yati identified in the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "prajñā",
+   "surface_in_sandhi": "prajñā",
+   "lemma": "prajñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "prajñā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pratiṣṭhitā",
+   "surface_in_sandhi": "pratiṣṭhitā",
+   "lemma": "pratiṣṭhita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular of the past passive participial adjective pratiṣṭhita, agreeing with prajñā; from prati + √sthā.",
+   "verification": {
+    "status": "pass",
+    "detail": "pratiṣṭhita Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate ayam as 'this one—the ascetic intent on knowledge' and take kūrmaḥ as the comparison: 'as a tortoise ...'.",
+   "options_considered": [
+    "ayam = this tortoise",
+    "ayam = Arjuna directly",
+    "ayam = the disciplined seeker / yati described by the teaching"
+   ],
+   "chosen": "ayam refers to the disciplined seeker, not to the tortoise; kūrmaḥ belongs to the simile.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "cāyaṃ jñāna-niṣṭhāyāṃ pravṛtto yatiḥ",
+     "translation": "‘and this’ means the ascetic who has set out in steadfastness in knowledge."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "evaṃ jñāna-niṣṭhaḥ indriyāṇi indriyārthebhyaḥ sarva-viṣayebhya upasaṃharate",
+     "translation": "So the one steadfast in knowledge withdraws the senses from the sense-objects, from all objects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Render saṃharate as 'withdraws,' not as 'destroys' or merely 'collects.'",
+   "options_considered": [
+    "destroys",
+    "collects together",
+    "withdraws / draws in"
+   ],
+   "chosen": "saṃharate means 'withdraws / draws in completely.'",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yadā saṃharate samyag upasaṃharate",
+     "translation": "When he saṃharate: he properly withdraws."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "indriyāṇi indriyārthebhyaḥ sarva-viṣayebhya upasaṃharate",
+     "translation": "He withdraws the senses from the sense-objects, from all objects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Translate kūrmo ’ṅgānīva as 'as a tortoise [withdraws] its limbs.'",
+   "options_considered": [
+    "aṅgāni as the seeker's bodily limbs",
+    "aṅgāni as the tortoise’s limbs in the simile",
+    "kūrmaḥ as the main subject rather than a simile"
+   ],
+   "chosen": "The tortoise withdraws its own limbs; aṅgāni is the object within the simile.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kūrmo 'ṅgāni iva yathā kūrmo bhayāt svāny aṅgāni upasaṃharati",
+     "translation": "‘Like a tortoise its limbs’: just as a tortoise, from fear, withdraws its own limbs."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Render sarvaśaḥ as 'on every side' and let the corresponding withdrawal of the senses extend to all sense-objects.",
+   "options_considered": [
+    "in every way, with no special scope",
+    "all at once",
+    "on every side / completely, corresponding to all objects"
+   ],
+   "chosen": "sarvaśaḥ means 'on every side / completely' and supports total withdrawal from the range of objects.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvaśaḥ sarvataḥ",
+     "translation": "sarvaśaḥ means ‘from every side / in every respect.’"
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "indriyārthebhyaḥ sarva-viṣayebhya",
+     "translation": "from the sense-objects, from all objects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Take indriyārthebhyaḥ with upasaṃharate/saṃharate as the source from which the senses are withdrawn, and analyze indriyārtha as indriyāṇām arthāḥ.",
+   "options_considered": [
+    "dative: for the sense-objects",
+    "ablative: from the sense-objects",
+    "instrumental-like loose relation to the senses"
+   ],
+   "chosen": "indriyārthebhyaḥ is ablative plural: 'from the sense-objects'; indriyārtha is 'object of the senses.'",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "indriyāṇi indriyārthebhyaḥ sarva-viṣayebhya upasaṃharate",
+     "translation": "He withdraws the senses from the sense-objects, from all objects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Construe tasya with the yati/jñāna-niṣṭha of the first half and take prajñā pratiṣṭhitā as a nominative subject plus predicate adjective.",
+   "options_considered": [
+    "prajñā as an instrumental or abstract verbal action",
+    "tasya referring to the tortoise",
+    "prajñā as the subject whose state is established"
+   ],
+   "chosen": "The concluding clause is the refrain: 'his wisdom (prajñā) is established.'",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tasya prajñā pratiṣṭhitā ity uktārthaṃ vākyam",
+     "translation": "The sentence ‘his wisdom is established’ has the meaning already stated."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Translate pratiṣṭhitā as 'established / standing firm,' not as the abstract noun pratiṣṭhā, 'stability.'",
+   "options_considered": [
+    "abstract noun pratiṣṭhā",
+    "finite verb",
+    "participial adjective pratiṣṭhitā agreeing with prajñā"
+   ],
+   "chosen": "pratiṣṭhitā is a feminine nominative singular participial adjective agreeing with prajñā.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "And when this one—the ascetic intent on knowledge—withdraws,\nlike a tortoise its limbs, on every side,\nthe senses (indriyāṇi) from the sense-objects (indriyārtha),\nhis wisdom (prajñā) stands established.",
+ "one_shot_delta": [
+  "Without Śaṅkara’s gloss, one might take ayam kūrmaḥ as 'this tortoise' and make the tortoise the main subject; the commentary identifies ayam as the jñāna-niṣṭha yati and makes kūrmaḥ a simile.",
+  "A commentary-blind translation might render saṃharate as 'destroys' or 'takes away'; Śaṅkara repeatedly glosses it with upasaṃharate, 'withdraws.'",
+  "The -bhyaḥ in indriyārthebhyaḥ could be read dative; Śaṅkara’s sarva-viṣayebhya upasaṃharate fixes it as ablative: 'from all objects.'",
+  "sarvaśaḥ could be left vague; the bhāṣya glosses it as sarvataḥ and aligns it with withdrawal from all objects."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 lemmatizes saṃharate as saṃhṛ; per the required verbal format I give the bare root hṛ with prefix sam.",
+  "ByT5 gives sarvaśas as the lexical form; the pausal surface required here is sarvaśaḥ.",
+  "ByT5 gives pratiṣṭhitā under lemma pratiṣṭhā; I analyze it as feminine nominative singular of the participial stem pratiṣṭhita, agreeing with prajñā.",
+  "ByT5 does not mark the compound structure of indriyārtha; I analyze it as a ṣaṣṭhī-tatpuruṣa, indriyāṇām arthāḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4804,
+   "completion_tokens": 10744,
+   "reasoning_tokens": 7669
+  },
+  "est_cost": 0.1756,
+  "reverified": true
+ },
+ "mula": "yadā saṃharate cāyaṃ kūrmo 'ṅgānīva sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā",
+ "commentary_lines": [
+  "yadā saṃharate samyag upasaṃharate cāyaṃ jñāna-niṣṭhāyāṃ pravṛtto yatiḥ kūrmo 'ṅgāni iva yathā kūrmo bhayāt svāny aṅgāni upasaṃharati sarvaśaḥ sarvataḥ, evaṃ jñāna-niṣṭhaḥ indriyāṇi indriyārthebhyaḥ sarva-viṣayebhya upasaṃharate |",
+  "tasya prajñā pratiṣṭhitā ity uktārthaṃ vākyam ||bhgs_2.58||",
+  "tatra viṣayān anāharataḥ āturasyāpi indriyāṇi kūrmāṅgānīva saṃhriyante na tu tad-viṣayo rāgaḥ sa kathaṃ saṃhriyate ity ucyate -"
+ ]
+}

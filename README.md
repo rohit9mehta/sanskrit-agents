@@ -35,8 +35,16 @@ the seed corpus for a planned "Pāṇini as reward function" study.
   objects (182 commentary-dependent), compared four ways against a raw
   same-model LLM, MITRA translate, and a published human translation.
   See [`agent/output/comparison.md`](agent/output/comparison.md).
-- **Phase 2 (next)** — human-graded eval on term fidelity and compound
-  resolution; decision gate.
+- **Phase 2 (in progress)** — citation audit (0 fabrications in 304 quotes)
+  and ablations done; blinded human grading underway.
+- **Phase 3 (started)** — the library + ask-box. Three more texts onboarded
+  and translated end to end: **Īśopaniṣad** (Śaṅkara), **Bhagavad-Gītā
+  ch. 2** (Śaṅkara), **Yoga-sūtras ch. 1** (Vyāsa) — 141 units, 1,400
+  verified word-claims, 0 unresolved tool errors. `scripts/20_serve.py`
+  serves a local demo: ask a question in English, get an answer composed
+  only from the library's apparatuses, every claim cited and clickable
+  through to the verse page (grammar badges, commentary lines). Questions
+  outside the library are refused, not improvised.
 
 Plans: [`commentary-grounded-translation-plan.md`](commentary-grounded-translation-plan.md)
 (project) and [`phase1-plan.md`](phase1-plan.md) (pipeline MVP).

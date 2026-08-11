@@ -1,0 +1,350 @@
+{
+ "unit": "2.43",
+ "analysis": [
+  {
+   "surface": "kāmātmānaḥ",
+   "surface_in_sandhi": "kāmātmānaḥ",
+   "lemma": "kāmātman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "kāma ātmā svabhāvo yeṣāṃ te",
+    "members": [
+     "kāma",
+     "ātman"
+    ]
+   },
+   "note": "Describes the speakers carried over from 2.42.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kāmātman as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "svarga-parāḥ",
+   "surface_in_sandhi": "svarga-parā",
+   "lemma": "svarga-para",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "svargaḥ paraḥ puruṣārtho yeṣāṃ te",
+    "members": [
+     "svarga",
+     "para"
+    ]
+   },
+   "note": "Final visarga is lost before the following voiced consonant j in sandhi. The verifier’s tool_error/unsupported-compound report is not taken as grammatical disproof: masculine nominative plural of -para is parāḥ, and Śaṅkara explicitly parses the relation as yeṣāṃ te.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svarga-para as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "janma-karma-phala-pradām",
+   "surface_in_sandhi": "janma-karma-phala-pradām",
+   "lemma": "janma-karma-phala-pradā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "karmaṇaḥ phalaṃ karma-phalam; janma eva karma-phalaṃ; tat pradadāti iti",
+    "members": [
+     "janman",
+     "karman",
+     "phala",
+     "prada"
+    ]
+   },
+   "note": "Accusative feminine singular agreeing with the understood vācam from 2.42. Lemma revised to the feminine whole-compound stem ending in -pradā for the inflected form pradām; the lexical final member remains prada.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem janma-karma-phala-pradā as Stri/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "kriyā-viśeṣa-bahulām",
+   "surface_in_sandhi": "kriyā-viśeṣa-bahulāṃ",
+   "lemma": "kriyā-viśeṣa-bahulā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "kriyāṇāṃ viśeṣā bahulā yasyāṃ vāci sā",
+    "members": [
+     "kriyā",
+     "viśeṣa",
+     "bahula"
+    ]
+   },
+   "note": "Accusative feminine singular agreeing with the understood vācam. Lemma revised to the feminine whole-compound stem ending in -bahulā for the inflected form bahulām; the lexical final member remains bahula.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kriyā-viśeṣa-bahulā as Stri/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bhogaiśvarya-gatim",
+   "surface_in_sandhi": "bhogaiśvarya-gatiṃ",
+   "lemma": "bhogaiśvarya-gati",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "bhogaś ca aiśvaryaṃ ca bhogaiśvarye; tayor gatiḥ prāptiḥ",
+    "members": [
+     "bhoga",
+     "aiśvarya",
+     "gati"
+    ]
+   },
+   "note": "Accusative governed by prati. The verifier’s tool_error/unsupported-compound report is not taken as grammatical disproof: gati is a feminine i-stem with accusative singular gatim, and the commentary explicitly gives tayor gatiḥ prāptiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem bhogaiśvarya-gati as Stri/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "prati",
+   "surface_in_sandhi": "prati",
+   "lemma": "prati",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Postposition taking bhogaiśvarya-gatim as its object.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is read as a bahuvrīhi describing the speakers: their nature is desire, or desire is their chief concern.",
+   "options_considered": [
+    "desire-natured",
+    "having desire as the self",
+    "lustful-souled"
+   ],
+   "chosen": "kāmātmānaḥ = ‘desire-natured,’ not merely ‘having selves of desire’ in a literal sense.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kāmātmānaḥ kāmasvabhāvāḥ, kāmaparā ity arthaḥ |",
+     "translation": "‘kāmātmānaḥ’ means ‘having desire as their nature’; the sense is ‘intent on desire.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is a bahuvrīhi: heaven is para/puruṣārtha for them, hence they are heaven-dominant.",
+   "options_considered": [
+    "intent on heaven",
+    "heaven as the highest goal",
+    "heavenly and beyond"
+   ],
+   "chosen": "svarga-parāḥ = ‘those for whom heaven is the supreme human goal.’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "svarga-parāḥ svargaḥ paraḥ puruṣārthaḥ yeṣāṃ te svarga-parāḥ svarga-pradhānāḥ |",
+     "translation": "‘svarga-parāḥ’: those for whom heaven is the supreme human goal; they are heaven-dominant."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara supplies vācam as the qualified noun and parses the compound so that birth itself is the fruit of action, which the speech gives/promises.",
+   "options_considered": [
+    "giving birth, action, and fruit as three separate items",
+    "granting the fruit of birth and action",
+    "granting birth as the fruit of action"
+   ],
+   "chosen": "janma-karma-phala-pradām qualifies the understood vācam and means ‘granting birth as the fruit of karma/action.’",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "janma-karma-phala-pradāṃ karmaṇaḥ phalaṃ karma-phalaṃ janmaiva karma-phalaṃ janma-karma-phalaṃ tat pradadātīti janma-karma-phala-pradā, tāṃ vācam |",
+     "translation": "‘janma-karma-phala-pradā’: the fruit of action is karma-phala; birth itself is the fruit of action, janma-karma-phala; that which gives it is janma-karma-phala-pradā—namely that speech."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "pravadanti ity anuṣajyate |",
+     "translation": "The verb ‘they proclaim’ is to be supplied."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The outer compound is bahuvrīhi qualifying the understood speech: in that speech, many particular ritual actions are set forth, especially for aims such as heaven, cattle, and sons.",
+   "options_considered": [
+    "full of various activities in general",
+    "rich in special rites",
+    "much concerned with ritual particulars"
+   ],
+   "chosen": "kriyā-viśeṣa-bahulām = ‘abounding in special ritual acts/details.’",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "kriyā-viśeṣa-bahulāṃ kriyāṇāṃ viśeṣāḥ kriyā-viśeṣāḥ te bahulā yasyāṃ vāci tāṃ svarga-paśu-putrādy-arthāḥ yayā vācā bāhulyena prakāśyante |",
+     "translation": "‘kriyā-viśeṣa-bahulām’: the special forms of rites are kriyā-viśeṣāḥ; that speech in which they are numerous, by which aims such as heaven, cattle, and sons are abundantly displayed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara defines gati here as prāpti, ‘attainment,’ and construes the ritual particulars as means to enjoyment and aiśvarya.",
+   "options_considered": [
+    "path consisting of enjoyment and power",
+    "going to enjoyment and sovereignty",
+    "attainment of enjoyment and lordly power"
+   ],
+   "chosen": "bhogaiśvarya-gatim prati = ‘toward/for the attainment of enjoyment and lordly power.’",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "bhogaiśvarya-gatiṃ prati bhogaś ca aiśvaryaṃ ca bhogaiśvarye, tayor gatiḥ prāptiḥ bhogaiśvarya-gatiḥ, tāṃ prati sādhana-bhūtāḥ ye kriyā-viśeṣāḥ tad-bahulāṃ tāṃ vācaṃ pravadantaḥ mūḍhāḥ saṃsāre parivartante ity abhiprāyaḥ ||bhgs_2.43||",
+     "translation": "Regarding ‘bhogaiśvarya-gati’: enjoyment and lordly power are bhogaiśvarya; their gati is attainment. The special rites are means toward that; proclaiming that speech full of them, fools revolve in saṃsāra—such is the intention."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "This unit is not a complete sentence by itself; the commentary explicitly says pravadanti is supplied and repeatedly identifies the accusative adjectives as qualifying vācam.",
+   "options_considered": [
+    "translate the unit as an independent verbless list",
+    "carry over ‘speech’ and ‘they proclaim’ from the preceding verse"
+   ],
+   "chosen": "The finite verb ‘they proclaim’ and object ‘speech’ are syntactically carried over from 2.42.",
+   "evidence": [
+    {
+     "lines": [
+      3,
+      4,
+      6
+     ],
+     "quote": "tāṃ vācam | pravadanti ity anuṣajyate | ... tāṃ vācaṃ pravadantaḥ",
+     "translation": "‘That speech’; ‘they proclaim’ is to be supplied; ‘proclaiming that speech.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Desire-natured, with heaven as their highest goal, [they proclaim] that speech\nwhich grants rebirth as the fruit of action,\nabounding in special ritual acts,\nfor the attainment of enjoyment and lordly power.",
+ "one_shot_delta": [
+  "Without Śaṅkara, janma-karma-phala-pradām might be taken as ‘giving birth, action, and fruit’ or ‘giving the fruits of birth and action’; the commentary instead makes birth itself the fruit of karma/action.",
+  "A commentary-blind reading might treat kriyā-viśeṣa-bahulām as merely ‘full of varied activity’; Śaṅkara anchors it in numerous ritual particulars aimed at heaven, cattle, sons, and similar ends.",
+  "One might translate bhogaiśvarya-gati as a ‘path of enjoyment and sovereignty’; Śaṅkara glosses gati as prāpti, ‘attainment.’",
+  "The half-verse could be mistranslated as an independent sentence; Śaṅkara explicitly carries over vācam and pravadanti from the preceding verse."
+ ],
+ "analyzer_disagreements": [
+  "Rejected the api_seg reading svarga_pare; the local analysis has svarga_parāḥ, and Śaṅkara explicitly reads svarga-parāḥ in line 2.",
+  "For janma-karma-phala-pradām, ByT5 gives the lexical final-member base prada; for the lemma field I record the checkable feminine whole-compound stem janma-karma-phala-pradā, while retaining prada as the compound member stem.",
+  "For kriyā-viśeṣa-bahulām, ByT5 gives the lexical final-member base bahula; for the lemma field I record the checkable feminine whole-compound stem kriyā-viśeṣa-bahulā, while retaining bahula as the compound member stem."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 6,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12921,
+   "completion_tokens": 14473,
+   "reasoning_tokens": 9192
+  },
+  "est_cost": 0.2559,
+  "reverified": true
+ },
+ "mula": "kāmātmānaḥ svarga-parā janma-karma-phala-pradām | kriyā-viśeṣa-bahulāṃ bhogaiśvarya-gatiṃ prati",
+ "commentary_lines": [
+  "kāmātmānaḥ kāmasvabhāvāḥ, kāmaparā ity arthaḥ |",
+  "svarga-parāḥ svargaḥ paraḥ puruṣārthaḥ yeṣāṃ te svarga-parāḥ svarga-pradhānāḥ |",
+  "janma-karma-phala-pradāṃ karmaṇaḥ phalaṃ karma-phalaṃ janmaiva karma-phalaṃ janma-karma-phalaṃ tat pradadātīti janma-karma-phala-pradā, tāṃ vācam |",
+  "pravadanti ity anuṣajyate |",
+  "kriyā-viśeṣa-bahulāṃ kriyāṇāṃ viśeṣāḥ kriyā-viśeṣāḥ te bahulā yasyāṃ vāci tāṃ svarga-paśu-putrādy-arthāḥ yayā vācā bāhulyena prakāśyante |",
+  "bhogaiśvarya-gatiṃ prati bhogaś ca aiśvaryaṃ ca bhogaiśvarye, tayor gatiḥ prāptiḥ bhogaiśvarya-gatiḥ, tāṃ prati sādhana-bhūtāḥ ye kriyā-viśeṣāḥ tad-bahulāṃ tāṃ vācaṃ pravadantaḥ mūḍhāḥ saṃsāre parivartante ity abhiprāyaḥ ||bhgs_2.43||",
+  "teṣāṃ ca -",
+  "bhogaiśvarya-prasaktānāṃ tayāpahṛta-cetasām |",
+  "vyavasāyātmikā buddhiḥ samādhau na vidhīyate"
+ ]
+}

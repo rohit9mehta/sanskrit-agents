@@ -1,0 +1,445 @@
+{
+ "unit": "2.46",
+ "analysis": [
+  {
+   "surface": "yāvān",
+   "surface_in_sandhi": "yāvān",
+   "lemma": "yāvant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative adjective, agreeing with arthaḥ; Śaṅkara glosses it as yāvat-parimāṇaḥ. Stem recorded as yāvant for the inflected form yāvān; MW’s lexical headword is yāvat.",
+   "verification": {
+    "status": "pass",
+    "detail": "yāvant Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "arthaḥ",
+   "surface_in_sandhi": "artha",
+   "lemma": "artha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The supplied verse prints artha before udapāne; the pausal nominative singular is arthaḥ, also found in the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "artha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "udapāne",
+   "surface_in_sandhi": "udapāne",
+   "lemma": "udapāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular; Śaṅkara construes it as a limited water-source such as a well or tank.",
+   "verification": {
+    "status": "pass",
+    "detail": "udapāna Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvataḥ",
+   "surface_in_sandhi": "sarvataḥ",
+   "lemma": "sarvatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable adverb: “from/on all sides.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saṃplutodake",
+   "surface_in_sandhi": "saṃplutodake",
+   "lemma": "saṃplutodaka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "saṃplutam udakam",
+    "members": [
+     "saṃpluta",
+     "udaka"
+    ]
+   },
+   "note": "Analyzed as one compound word; the first member is the past participial stem saṃpluta from sam-√plu. Śaṅkara’s saṃplutodaka-sthānīyam confirms the compound stem.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem saṃplutodaka as Napumsaka/Saptami/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tāvān",
+   "surface_in_sandhi": "tāvān",
+   "lemma": "tāvant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative adjective, with arthaḥ understood; Śaṅkara glosses it as tāvat-parimāṇa. Stem recorded as tāvant for the inflected form tāvān; MW’s lexical headword is tāvat.",
+   "verification": {
+    "status": "pass",
+    "detail": "tāvant Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarveṣu",
+   "surface_in_sandhi": "sarveṣu",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with vedeṣu.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Pum/Saptami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vedeṣu",
+   "surface_in_sandhi": "vedeṣu",
+   "lemma": "veda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara construes “in all the Vedas” as “in the Veda-enjoined rites.”",
+   "verification": {
+    "status": "pass",
+    "detail": "veda Pum/Saptami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "brāhmaṇasya",
+   "surface_in_sandhi": "brāhmaṇasya",
+   "lemma": "brāhmaṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular; Śaṅkara glosses the referent as a saṃnyāsin.",
+   "verification": {
+    "status": "pass",
+    "detail": "brāhmaṇa Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijānataḥ",
+   "surface_in_sandhi": "vijānataḥ",
+   "lemma": "vijānat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": "jñā",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participle, genitive singular masculine, agreeing with brāhmaṇasya; Śaṅkara supplies its object as paramārtha-tattvam.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijānat Pum/Sasthi/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse is not read temporally (“as long as ... so long”) but quantitatively, since Śaṅkara glosses both correlatives with parimāṇa, measure/extent.",
+   "options_considered": [
+    "temporal yāvat/tāvat: “as long as ... so long”",
+    "quantitative correlative: “as much ... so much”"
+   ],
+   "chosen": "yāvān ... tāvān expresses correlative measure: “as much ... just so much.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yāvān yāvat-parimāṇaḥ",
+     "translation": "yāvān means “of whatever measure/extent.”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tāvān tāvat-parimāṇa eva",
+     "translation": "tāvān means “just of that measure/extent.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara glosses artha in the water example as phala and prayojana, and in the Vedic analogue as karma-phala and vijñāna-phala.",
+   "options_considered": [
+    "meaning or semantic content",
+    "wealth/object",
+    "purpose/use/result/fruit"
+   ],
+   "chosen": "artha is translated as “purpose/use/result,” not as semantic “meaning,” wealth, or object.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "snāna-pānādir arthaḥ phalaṃ prayojanaṃ",
+     "translation": "the artha such as bathing and drinking is fruit, purpose."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yo 'rthaḥ yat karma-phalaṃ",
+     "translation": "the artha there is the fruit of action."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yo 'rthaḥ yat vijñāna-phalaṃ",
+     "translation": "the artha there is the fruit of knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The singular udapāna is not treated narrowly as one particular well; Śaṅkara explicitly expands it to many such limited-water sources.",
+   "options_considered": [
+    "one particular well only",
+    "a class of limited water-sources such as wells and tanks"
+   ],
+   "chosen": "udapāne denotes a limited water-source, exemplified by wells and tanks.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kūpa-taḍāgādy-anekasmin udapāne paricchinnodake",
+     "translation": "in many water-sources such as wells and tanks, with limited water."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara says that all the limited purposes of wells and tanks are fulfilled in, and included within, the all-around flooded water. This rules out a commentary-blind rendering in which the point is merely that wells become useless during a flood.",
+   "options_considered": [
+    "a flood making a well useless",
+    "a separate adjective+noun split rather than a compound",
+    "all-around flooded water that includes the limited purposes"
+   ],
+   "chosen": "sarvataḥ saṃplutodake is “in water flooded on every side,” the inclusive counterpart to the limited well/tank water.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sa sarvo 'rthaḥ sarvataḥ saṃplutodake 'pi yo 'rthaḥ tāvān eva saṃpadyate, tatra antarbhavatīty arthaḥ",
+     "translation": "all that purpose is fulfilled as just that much also in the water flooded on every side; the meaning is that it is included there."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "vijñāna-phalaṃ sarvataḥ saṃplutodaka-sthānīyaṃ",
+     "translation": "the fruit of knowledge occupies the position of the all-around flooded water."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara construes the locative not merely as the textual Vedas or sacred lore in general, but as the karmas taught by the Vedas and their fruits.",
+   "options_considered": [
+    "all Vedic texts as textual meaning",
+    "all sacred knowledge generally",
+    "the rites enjoined in all the Vedas and their fruits"
+   ],
+   "chosen": "sarveṣu vedeṣu is interpreted as “in all Veda-enjoined rites,” and their artha as karma-phala.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sarveṣu vedeṣu vedokteṣu karmasu yo 'rthaḥ yat karma-phalaṃ",
+     "translation": "the artha in all the Vedas, that is, in the rites taught by the Vedas, is the fruit of action."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara identifies the brāhmaṇa here with a saṃnyāsin and specifies the object of knowing as paramārtha-tattva, ultimate reality.",
+   "options_considered": [
+    "a caste Brāhmaṇa simply as such",
+    "a ritual priest as such",
+    "the renouncer who knows ultimate reality"
+   ],
+   "chosen": "brāhmaṇasya vijānataḥ means “for/of the Brāhmaṇa, the renouncer, who knows ultimate reality.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "brāhmaṇasya saṃnyāsinaḥ paramārtha-tattvaṃ vijānataḥ",
+     "translation": "of the Brāhmaṇa, the renouncer, who knows the truth of ultimate reality."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Although the knower’s knowledge-fruit includes the fruits of Veda-enjoined rites, Śaṅkara adds that before eligibility for steadfast knowledge, one who is qualified for karma must still perform karma.",
+   "options_considered": [
+    "all ritual action is useless for everyone immediately",
+    "ritual action remains obligatory before eligibility for jñāna-niṣṭhā"
+   ],
+   "chosen": "The verse is not a blanket rejection of karma for everyone.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tasmāt prāk jñāna-niṣṭhādhikāra-prāpteḥ karmaṇy adhikṛtena kūpa-taḍāgādy-artha-sthānīyam api karma kartavyam",
+     "translation": "therefore, before attaining eligibility for steadfastness in knowledge, karma—though occupying the place of the purposes of wells, tanks, and the like—must be done by one qualified for karma."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Whatever purpose/result (artha) there is in a water-source—a well or tank—\n[all that] is fulfilled in water flooded on every side;\njust that much [fruit], in all the Vedas—that is, in Veda-enjoined rites—\nis [included] for the Brāhmaṇa (brāhmaṇa), the renouncer (saṃnyāsin), who knows ultimate reality (paramārtha-tattva).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render artha as “meaning” and make the verse about the semantic content of the Vedas; Śaṅkara makes it purpose/result, specifically karma-phala and vijñāna-phala.",
+  "It might say simply, “a well is useless when there is a flood.” Śaṅkara’s point is inclusion: the purposes of limited water-sources are fulfilled within water flooded on every side.",
+  "It might take sarveṣu vedeṣu as the Vedic texts in general. Śaṅkara narrows the comparison to Veda-enjoined rites and their fruits.",
+  "It might take brāhmaṇa as a caste label. Śaṅkara glosses the brāhmaṇa here as a saṃnyāsin who knows paramārtha-tattva.",
+  "It might infer a universal dismissal of karma; Śaṅkara explicitly preserves the obligation of karma before eligibility for jñāna-niṣṭhā."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives yāvān with lemma yāvat. After the verifier report, I record the inflectional stem as yāvant: yāvat Pum/Prathama/Eka derives yāvat/yāvad, not yāvān.",
+  "The source text prints artha before udapāne, while ByT5 normalizes arthaḥ. I set the pausal surface to arthaḥ but the surface_in_sandhi to the printed artha; the nominative syntax and Śaṅkara’s arthaḥ support the restoration.",
+  "ByT5 segments saṃplutodake as saṃpluta + udake. I analyze the printed form as the single compound stem saṃplutodaka, Napumsaka Saptami Eka, because Śaṅkara cites saṃplutodaka-sthānīyam at line 2.",
+  "ByT5 gives tāvān with lemma tāvat. After the verifier report, I record the inflectional stem as tāvant: tāvat Pum/Prathama/Eka derives tāvat/tāvad, not tāvān.",
+  "ByT5 gives vijānataḥ under the verbal lemma vijñā. For the required nominal analysis I record the participial stem vijānat, with root jñā and prefix vi; this is a formatting/morphology override, not a semantic disagreement."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12003,
+   "completion_tokens": 21359,
+   "reasoning_tokens": 15117
+  },
+  "est_cost": 0.3564,
+  "reverified": true
+ },
+ "mula": "yāvān artha udapāne sarvataḥ saṃplutodake | tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ",
+ "commentary_lines": [
+  "yathā loke kūpa-taḍāgādy-anekasmin udapāne paricchinnodake yāvān yāvat-parimāṇaḥ snāna-pānādir arthaḥ phalaṃ prayojanaṃ sa sarvo 'rthaḥ sarvataḥ saṃplutodake 'pi yo 'rthaḥ tāvān eva saṃpadyate, tatra antarbhavatīty arthaḥ |",
+  "evaṃ tāvān tāvat-parimāṇa eva saṃpadyate sarveṣu vedeṣu vedokteṣu karmasu yo 'rthaḥ yat karma-phalaṃ so 'rthaḥ brāhmaṇasya saṃnyāsinaḥ paramārtha-tattvaṃ vijānataḥ yo 'rthaḥ yat vijñāna-phalaṃ sarvataḥ saṃplutodaka-sthānīyaṃ tasmin tāvān eva saṃpadyate tatraivāntarbhavatīty arthaḥ |",
+  "yathā kṛtāya vijitāyādhareyāḥ saṃyanty evam enaṃ sarvaṃ tad abhisameti yat kiṃcit prajāḥ sādhu kurvanti yas tad veda yat sa veda [chāu 4.1.2] iti śruteḥ |",
+  "sarvaṃ karmākhilam iti ca vakṣyati |",
+  "tasmāt prāk jñāna-niṣṭhādhikāra-prāpteḥ karmaṇy adhikṛtena kūpa-taḍāgādy-artha-sthānīyam api karma kartavyam ||bhgs_2.46||",
+  "tava ca -"
+ ]
+}

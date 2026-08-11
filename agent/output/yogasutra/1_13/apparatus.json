@@ -1,0 +1,201 @@
+{
+ "unit": "1.13",
+ "analysis": [
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatra",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial locative: “there, in that context.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sthitau",
+   "surface_in_sandhi": "sthitau",
+   "lemma": "sthiti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative construed as the goal or object of the effort: “toward steadiness.”",
+   "verification": {
+    "status": "pass",
+    "detail": "sthiti Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "yatnaḥ",
+   "surface_in_sandhi": "yatno",
+   "lemma": "yatna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate/definiens with abhyāsaḥ: the effort which is practice.",
+   "verification": {
+    "status": "pass",
+    "detail": "yatna Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "abhyāsaḥ",
+   "surface_in_sandhi": "'bhyāsaḥ",
+   "lemma": "abhyāsa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Technical term defined here, not merely “repetition.”",
+   "verification": {
+    "status": "pass",
+    "detail": "abhyāsa Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The locative sthitau is not taken as bodily posture or mere remaining in place, but as the yogic mental condition glossed by Vyāsa: the mind, free of vṛttis, has a pacified continuity.",
+   "options_considered": [
+    "generic standing/staying",
+    "bodily posture",
+    "yogic mental steadiness as tranquil flow"
+   ],
+   "chosen": "“steadiness” (sthiti) means the tranquil flow of the mind when it is without fluctuations.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "cittasyāvṛttikasya praśāntavāhitā sthitiḥ.",
+     "translation": "Steadiness is the tranquil flow of the mind when it is without fluctuations."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The word yatna is interpreted through Vyāsa’s synonyms prayatna, vīrya, and utsāha, and through tadarthaḥ: it is effort for the sake of that sthiti, not effort occurring while already in it.",
+   "options_considered": [
+    "ordinary effort without specified aim",
+    "effort while in steadiness",
+    "effort for the sake of bringing about steadiness"
+   ],
+   "chosen": "yatnaḥ is “effort/exertion,” specifically energy and resolve directed to that steadiness.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tadarthaḥ prayatno vīryam utsāhaḥ.",
+     "translation": "For the sake of that, exertion—energy, resolve."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The predicate relation ‘yatnaḥ abhyāsaḥ’ is expanded by the commentary: practice is the performance of the means to that state, undertaken with the wish to bring it fully about. Thus it is not merely mechanical repetition.",
+   "options_considered": [
+    "mere repetition",
+    "study/drill in a general sense",
+    "undertaking the means to accomplish steadiness"
+   ],
+   "chosen": "abhyāsaḥ is “practice,” i.e. undertaking the means for attaining that steadiness.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tat saṃpipādayiṣayā tat sādhanānuṣṭhānam abhyāsaḥ.",
+     "translation": "With the wish to accomplish that, the undertaking of its means is practice."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary does not independently gloss tatra in this unit. Grammatically it is an indeclinable locative adverb, here introducing the definition of abhyāsa in the context established by the preceding sūtra.",
+   "options_considered": [
+    "literal spatial “there”",
+    "contextual “in that regard/as to that”"
+   ],
+   "chosen": "tatra is rendered “in that context / as to that.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "In that context, practice (abhyāsa) is the energetic effort toward steadiness (sthiti)—the tranquil flow of the mind when it is without fluctuations.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render sthiti as simple “standing,” “remaining,” or even bodily “posture”; Vyāsa makes it the mind’s tranquil flow when devoid of fluctuations.",
+  "It might take yatna as any effort; Vyāsa specifies effort for the sake of that steadiness, with the force of vīrya and utsāha.",
+  "It might translate abhyāsa as mere repetition or drill; Vyāsa defines it as undertaking the means to bring that steadiness about."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2815,
+   "completion_tokens": 2706,
+   "reasoning_tokens": 1536
+  },
+  "est_cost": 0.049,
+  "reverified": true
+ },
+ "mula": "12 tatra sthitau yatno 'bhyāsaḥ",
+ "commentary_lines": [
+  "cittasyāvṛttikasya praśāntavāhitā sthitiḥ.",
+  "tadarthaḥ prayatno vīryam utsāhaḥ.",
+  "tat saṃpipādayiṣayā tat sādhanānuṣṭhānam abhyāsaḥ.",
+  "1.13",
+  "sa tu dīrghakālanairantaryasatkārāsevito dṛḍhabhūmiḥ"
+ ]
+}

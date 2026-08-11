@@ -1,0 +1,117 @@
+{
+ "unit": "1.6",
+ "analysis": [
+  {
+   "surface": "pramāṇaviparyayavikalpanidrāsmṛtayaḥ",
+   "surface_in_sandhi": "pramāṇaviparyayavikalpanidrāsmṛtayaḥ",
+   "lemma": "pramāṇaviparyayavikalpanidrāsmṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "pramāṇaṃ ca viparyayaś ca vikalpaś ca nidrā ca smṛtiś ca",
+    "members": [
+     "pramāṇa",
+     "viparyaya",
+     "vikalpa",
+     "nidrā",
+     "smṛti"
+    ]
+   },
+   "note": "An itaretara-dvandva enumerating five types; the compound takes the feminine i-stem inflection of the final member smṛti. Semantically it continues the preceding topic, vṛttayaḥ, ‘modifications’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem pramāṇaviparyayavikalpanidrāsmṛti as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The long compound is not construed as a dependent tatpuruṣa such as ‘memory of sleep ...’, but as an itaretara-dvandva naming five parallel items; the nominative plural ending supplies the predication from the preceding sūtra, ‘[the modifications] are ...’.",
+   "options_considered": [
+    "itaretara-dvandva enumeration of five items",
+    "tatpuruṣa chain with smṛti as head",
+    "karmadhāraya descriptive compound"
+   ],
+   "chosen": "A co-ordinate dvandva list: pramāṇa, viparyaya, vikalpa, nidrā, and smṛti.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "Although pramāṇa can mean ‘measure’ lexically, the commentary immediately identifies pramāṇas as perception, inference, and āgama, showing the epistemological Yoga sense.",
+   "options_considered": [
+    "measure, standard",
+    "valid cognition / means of valid knowledge"
+   ],
+   "chosen": "pramāṇa is rendered as ‘valid cognition’ / ‘means of valid knowledge’, not merely ‘measure’.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "pratyakṣānumānāgamāḥ pramāṇāni",
+     "translation": "Perception, inference, and authoritative testimony are the pramāṇas."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The supplied commentary on this unit does not gloss these four terms; the renderings therefore rest on grammar, Yoga context, and ordinary lexical values rather than on an explicit bhāṣya line here.",
+   "options_considered": [
+    "viparyaya as reversal/contrariety vs. error",
+    "vikalpa as option/alternative vs. conceptual construction",
+    "nidrā as sleep",
+    "smṛti as memory/remembrance"
+   ],
+   "chosen": "viparyaya, vikalpa, nidrā, and smṛti are translated as ‘error’, ‘conceptual construction’, ‘sleep’, and ‘memory’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Valid cognition (pramāṇa), error (viparyaya), conceptual construction (vikalpa), sleep (nidrā), and memory (smṛti) [are the five modifications].",
+ "one_shot_delta": [
+  "A commentary-blind translation might render pramāṇa as the ordinary ‘measure’ or ‘standard’; the bhāṣya line identifies it instead with the epistemic set perception, inference, and āgama.",
+  "It might misread the single long compound as a dependent chain headed by smṛti, whereas the form is a co-ordinate dvandva enumeration of the five vṛttis.",
+  "It might omit the syntactic carry-over from the preceding sūtra and so miss that these are the five mental modifications being listed."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [
+  "Only pramāṇa is glossed in the supplied commentary line; the other four technical renderings are not directly confirmed by this excerpt."
+ ],
+ "verification_summary": {
+  "pass": 1,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2882,
+   "completion_tokens": 3475,
+   "reasoning_tokens": 2559
+  },
+  "est_cost": 0.0608,
+  "reverified": true
+ },
+ "mula": "5 pramāṇaviparyayavikalpanidrāsmṛtayaḥ",
+ "commentary_lines": [
+  "1.6",
+  "pratyakṣānumānāgamāḥ pramāṇāni"
+ ]
+}

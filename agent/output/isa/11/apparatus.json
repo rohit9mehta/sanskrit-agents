@@ -1,0 +1,479 @@
+{
+ "unit": "11",
+ "analysis": [
+  {
+   "surface": "vidyām",
+   "surface_in_sandhi": "vidyāṃ",
+   "lemma": "vidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of veda; Śaṅkara takes the technical sense as devatājñāna, not generic knowledge.",
+   "verification": {
+    "status": "pass",
+    "detail": "vidyā Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First ca is joined by vowel sandhi with following avidyām.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "avidyām",
+   "surface_in_sandhi": "avidyāṃ",
+   "lemma": "avidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of veda; Śaṅkara takes the technical sense as karma.",
+   "verification": {
+    "status": "pass",
+    "detail": "avidyā Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yas",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun referring to the single person described by the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object of veda, in apposition with ubhayam.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "veda",
+   "surface_in_sandhi": "vedo",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect form veda used with present sense ‘knows’; final -a enters sandhi with following ubhayam, giving vedobhayaṃ. The Pāṇinian verifier reports that √vid + liṭ derives regular forms such as viveda rather than veda; I keep the analysis as liṭ because veda is the well-known unreduplicated perfect of √vid ‘know’ with present force in Vedic/Upaniṣadic usage, also reflected in the dictionary notice that perfect veda is often substituted for the present.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "vid Lit/Prathama/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "ubhayam",
+   "surface_in_sandhi": "ubhayaṃ",
+   "lemma": "ubhaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative neuter singular substantive/adjective: ‘both, the pair’.",
+   "verification": {
+    "status": "pass",
+    "detail": "ubhaya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial ‘together’, as confirmed by Śaṅkara’s saha ... samuccaya construal.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "avidyayā",
+   "surface_in_sandhi": "avidyayā",
+   "lemma": "avidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental of means: by avidyā, glossed by Śaṅkara as karmaṇā agnihotrādinā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avidyā Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "mṛtyum",
+   "surface_in_sandhi": "mṛtyuṃ",
+   "lemma": "mṛtyu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of tīrtvā; Śaṅkara construes the term mṛtyu technically, not merely as physical death.",
+   "verification": {
+    "status": "pass",
+    "detail": "mṛtyu Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tīrtvā",
+   "surface_in_sandhi": "tīrtvā",
+   "lemma": "tṝ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "tṝ",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable absolutive ‘having crossed’; Śaṅkara glosses tīrtvā as atikramya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vidyayā",
+   "surface_in_sandhi": "vidyayā",
+   "lemma": "vidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental of means: by vidyā, glossed by Śaṅkara as devatājñānena; in sandhi with following amṛtam.",
+   "verification": {
+    "status": "pass",
+    "detail": "vidyā Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "amṛtam",
+   "surface_in_sandhi": "amṛtam",
+   "lemma": "amṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of aśnute; Śaṅkara glosses it as devatātmabhāva/devatātmagamana, not final mokṣa or nectar.",
+   "verification": {
+    "status": "pass",
+    "detail": "amṛta Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "aśnute",
+   "surface_in_sandhi": "aśnute",
+   "lemma": "aś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "aś",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada present form; Śaṅkara glosses aśnute as prāpnoti.",
+   "verification": {
+    "status": "pass",
+    "detail": "aś Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Technical meanings of vidyā and avidyā.",
+   "options_considered": [
+    "generic knowledge and ignorance",
+    "Brahman/Self-knowledge and metaphysical nescience",
+    "deity-knowledge and ritual action"
+   ],
+   "chosen": "vidyā is ‘deity-knowledge’ (devatājñāna), and avidyā is ritual action (karma), not generic knowledge and ignorance.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yata evamato vidyāṃ cāvidyāṃ ca devatājñānaṃ karma cetyarthaḥ /",
+     "translation": "Therefore, since this is so, ‘knowledge and ignorance’ means deity-knowledge and action."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "avidyayā karmaṇā agnihotrādinā ... vidyayā devatājñānenāmṛtaṃ devatātmabhāvamaśnute prāpnoti /",
+     "translation": "By avidyā, by action such as the Agnihotra ... by vidyā, by deity-knowledge, he attains the immortal, the state of deity-selfhood."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Construe yas tad vedobhayaṃ saha.",
+   "options_considered": [
+    "saha as a separate preposition ‘with’ requiring an omitted companion",
+    "ubhayam adverbially, ‘in both ways’",
+    "tat/ubhayam as the object ‘that pair’, with saha as ‘together’"
+   ],
+   "chosen": "tat and ubhayam form the accusative object ‘that pair’; saha means ‘together’, i.e. the two are known as jointly to be undertaken by one person.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yastadetadubhayaṃ sahaikena puruṣeṇa anuṣṭheyaṃ veda tasyaivaṃ samuccayakāriṇa eva ekapuruṣārthasambandhaḥ krameṇa syādityucyate /",
+     "translation": "He who knows this very pair together as to be performed by one person—for him alone, who thus makes the combination, connection with the one human goal would occur in sequence; this is being stated."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Force of avidyayā mṛtyuṃ tīrtvā.",
+   "options_considered": [
+    "by ignorance one overcomes literal death",
+    "by non-knowledge one crosses saṃsāra generally",
+    "by ritual action one transcends what the commentary calls death"
+   ],
+   "chosen": "avidyayā means ‘by ritual action such as Agnihotra’; tīrtvā means ‘having transcended’; mṛtyu is a technical ‘death’ rather than merely physical dying.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "avidyayā karmaṇā agnihotrādinā mṛtyuṃ svābhāvikaṃ karma jñānaṃ ca mṛtyuśabdavācyamubhayaṃ tīrtvā atikramya",
+     "translation": "By avidyā, by action such as the Agnihotra, having crossed—having transcended—death: the natural action and knowledge, both denoted by the word ‘death’."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Force of vidyayāmṛtam aśnute.",
+   "options_considered": [
+    "eats nectar",
+    "attains final mokṣa/Brahman",
+    "attains the deity-self state, a relative immortality"
+   ],
+   "chosen": "vidyayā means ‘by deity-knowledge’; aśnute means ‘attains’; amṛtam is the deity-self state or going to deity-selfhood, not nectar or absolute liberation.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "vidyayā devatājñānenāmṛtaṃ devatātmabhāvamaśnute prāpnoti /",
+     "translation": "By vidyā, by deity-knowledge, he attains—obtains—the immortal, the state of deity-selfhood."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "taddhyamṛtamucyate yaddevatātmagamanam",
+     "translation": "For that is called immortal which is going to deity-selfhood."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Tense/aspect of veda in English.",
+   "options_considered": [
+    "has known",
+    "knows"
+   ],
+   "chosen": "Render veda as present ‘knows’ despite its perfect morphology, because this is the normal gnomic force of this form in such relative clauses.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Knowledge (vidyā, deity-knowledge) and ignorance (avidyā, ritual action)—\nwhoever knows that pair together,\nhaving crossed death—natural action and knowledge so called—by ignorance/action,\nby knowledge attains the immortal: the state of deity-selfhood.",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely take avidyā as simple ignorance; Śaṅkara instead glosses it as karma, specifically action such as Agnihotra.",
+  "It might take vidyā as liberating Self-knowledge and amṛta as final mokṣa; the bhāṣya restricts them here to deity-knowledge and the deity-self state.",
+  "It might miss the samuccaya: line 2 says the two are to be known as jointly undertaken by one person, with the result connected in sequence."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 tags veda as vid_SPs3In. I retain veda as √vid, Kartari, liṭ, Prathama, Eka: although the verifier generates regular liṭ forms such as viveda and rejects veda, this Upaniṣadic veda is the established unreduplicated perfect of √vid ‘know’ used with present meaning, so changing it to a different lakāra merely to satisfy the verifier would be false.",
+  "ByT5 gives the absolutive root as tṛ. I normalize it to the long-vowel dhātu √tṝ ‘cross’ for tīrtvā; the commentary supports the sense by glossing tīrtvā as atikramya at line 3."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12511,
+   "completion_tokens": 20742,
+   "reasoning_tokens": 14842
+  },
+  "est_cost": 0.3487,
+  "reverified": true
+ },
+ "mula": "vidyāṃ cāvidyāṃ ca yas tad vedobhayaṃ saha | avidyayā mṛtyuṃ tīrtvā vidyayāmṛtam aśnute",
+ "commentary_lines": [
+  "yata evamato vidyāṃ cāvidyāṃ ca devatājñānaṃ karma cetyarthaḥ /",
+  "yastadetadubhayaṃ sahaikena puruṣeṇa anuṣṭheyaṃ veda tasyaivaṃ samuccayakāriṇa eva ekapuruṣārthasambandhaḥ krameṇa syādityucyate /",
+  "avidyayā karmaṇā agnihotrādinā mṛtyuṃ svābhāvikaṃ karma jñānaṃ ca mṛtyuśabdavācyamubhayaṃ tīrtvā atikramya vidyayā devatājñānenāmṛtaṃ devatātmabhāvamaśnute prāpnoti /",
+  "taddhyamṛtamucyate yaddevatātmagamanam"
+ ]
+}

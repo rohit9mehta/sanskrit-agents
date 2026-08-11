@@ -1,0 +1,490 @@
+{
+ "unit": "2.18",
+ "analysis": [
+  {
+   "surface": "antavantaḥ",
+   "surface_in_sandhi": "antavanta",
+   "lemma": "antavant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Possessive -vat/-vant formation: “having an end”; predicative to dehāḥ. Lexical citation is often antavat, but the inflectional stem needed for this masculine nominative plural is antavant.",
+   "verification": {
+    "status": "pass",
+    "detail": "antavant Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ime",
+   "surface_in_sandhi": "ime",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "dehāḥ",
+   "surface_in_sandhi": "dehā",
+   "lemma": "deha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of uktāḥ; antavantaḥ is its predicate.",
+   "verification": {
+    "status": "pass",
+    "detail": "deha Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "nityasya",
+   "surface_in_sandhi": "nityasy",
+   "lemma": "nitya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular qualifying the ātman/śarīrin, not dehāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "nitya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "uktāḥ",
+   "surface_in_sandhi": "oktāḥ",
+   "lemma": "ukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle from √vac, agreeing with dehāḥ: “are said/declared.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ukta Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "śarīriṇaḥ",
+   "surface_in_sandhi": "śarīriṇaḥ",
+   "lemma": "śarīrin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "“The embodied one,” glossed as śarīravat and identified with the ātman.",
+   "verification": {
+    "status": "pass",
+    "detail": "śarīrin Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "anāśinaḥ",
+   "surface_in_sandhi": "anāśino",
+   "lemma": "anāśin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na nāśī",
+    "members": [
+     "nañ",
+     "nāśin"
+    ]
+   },
+   "note": "Genitive singular qualifying the same ātman/śarīrin.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anāśin as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "aprameyasya",
+   "surface_in_sandhi": "'prameyasya",
+   "lemma": "aprameya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na prameyaḥ",
+    "members": [
+     "nañ",
+     "prameya"
+    ]
+   },
+   "note": "Genitive singular qualifying the same ātman; in Śaṅkara’s gloss, not a prameya of perception and the other pramāṇas.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem aprameya as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tasmāt",
+   "surface_in_sandhi": "tasmāt",
+   "lemma": "tasmāt",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival adverb: “therefore, on that account.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yudhyasva",
+   "surface_in_sandhi": "yudhyasva",
+   "lemma": "yudh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yudh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada imperative, second singular: “fight.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yudh Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhārata",
+   "surface_in_sandhi": "bhārata",
+   "lemma": "bhārata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative: “O descendant of Bharata.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhārata Pum/Sambodhana/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The predicate is not merely “limited” in an abstract sense. Śaṅkara glosses anta as vināśa and then states that these dehāḥ are antavantaḥ. Hence the translation uses “are said to have an end / are perishable.”",
+   "options_considered": [
+    "“limited” without implying destruction",
+    "“having an end / perishable”"
+   ],
+   "chosen": "antavantaḥ = “having an end,” i.e. perishable/destructible, predicated of the bodies",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "antaḥ vināśaḥ vidyate yeṣāṃ te antavantaḥ",
+     "translation": "Those in which an end, that is destruction, exists are antavantaḥ."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tathā ime dehāḥ svapnamāyādehādivaca antavantaḥ",
+     "translation": "So these bodies, like dream- and magic-bodies and the like, are perishable. The printed svapnamāyādehādivaca appears to be a plaintext error for -vat/-vacca, but the intended comparison is clear."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The genitives do not qualify dehāḥ. Śaṅkara explicitly expands śarīriṇaḥ as śarīravat and identifies the referent as ātman; the bodies are the finite bodies of that eternal embodied Self.",
+   "options_considered": [
+    "Take nityasya etc. as describing the bodies",
+    "Take them as genitives describing the embodied Self/ātman"
+   ],
+   "chosen": "nityasya śarīriṇaḥ anāśinaḥ aprameyasya are genitive singular qualifiers of the ātman, the embodied Self",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "nityasya śarīriṇaḥ śarīravato 'nāśino",
+     "translation": "Of the eternal embodied one, the possessor of a body, the imperishable one ..."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "ātmano 'ntavanta iti uktāḥ vivekibhirity arthaḥ",
+     "translation": "They are said by discriminating people to be perishable bodies of the Self."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara rejects punarukti. He distinguishes kinds of destruction and says the Self is unconnected with destruction in both senses, so the translation preserves both terms rather than collapsing them into one.",
+   "options_considered": [
+    "Translate only one idea: “eternal/imperishable” as a hendiadys",
+    "Translate both: “eternal” and “imperishable,” with distinct force"
+   ],
+   "chosen": "nityasya and anāśinaḥ are both retained: “eternal” and “imperishable,” not treated as a redundant pair",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "nityasya anāśinaḥ iti na punaruktam",
+     "translation": "‘Eternal’ and ‘imperishable’ is not repetition."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "nityatvasya dvividhatvāt lokā, nāśasya ca",
+     "translation": "Because in ordinary usage eternality is of two sorts, and so is destruction."
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "dvividhenāpi nāśena asaṃbandho 'syety arthaḥ",
+     "translation": "The meaning is that it has no connection with either kind of destruction."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The word is not simply “immeasurable” in a vague quantitative sense. Śaṅkara glosses it by na prameyasya and argues that the Self is svataḥsiddha; scripture functions chiefly to remove superimposition, not to make known a previously unknown object. Line 11 has evident plaintext corruptions in aprameyamya/aparicchādyasya, understood as aprameyasya/aparicchedyasya in the standard sense.",
+   "options_considered": [
+    "“immeasurable” as merely very large or infinite",
+    "“not an object of pramāṇic measurement/knowledge,” self-established"
+   ],
+   "chosen": "aprameyasya = not an object delimited or established as a prameya by pratyakṣa and other pramāṇas; the Self is self-established",
+   "evidence": [
+    {
+     "lines": [
+      11
+     ],
+     "quote": "aprameyamya na prameyasya pratyakṣādi-pramāṇaiḥ aparicchādyasyety arthaḥ",
+     "translation": "‘Aprameya’ means not a prameya, not delimitable by perception and the other pramāṇas. The spelling is cited as printed, with likely plaintext errors."
+    },
+    {
+     "lines": [
+      14
+     ],
+     "quote": "ātmanaḥ svataḥsiddhatvāt",
+     "translation": "Because the Self is established by itself."
+    },
+    {
+     "lines": [
+      17
+     ],
+     "quote": "na hi ātmā nāma kasyacit aprasiddho bhavati",
+     "translation": "For the Self is not something unknown to anyone."
+    },
+    {
+     "lines": [
+      18
+     ],
+     "quote": "śāstraṃ tu antyaṃ pramāṇam atad-dharmādhyāropaṇa-mātra-nivartakatvena pramāṇatvam ātmanaḥ pratipadyate, na hy ajñātārthajñāpakatvena",
+     "translation": "Scripture, as the final pramāṇa, has pramāṇa-status with regard to the Self only by removing the superimposition of non-Self properties, not by informing one of an unknown object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although yudhyasva is formally an imperative, Śaṅkara states that no new yuddha-kartavyatā is being enjoined. Arjuna is already engaged in battle but obstructed by grief and delusion; Kṛṣṇa removes that obstruction. The translation therefore avoids a heavy deontic “you must fight” and renders the practical force as “fight—do not withdraw.”",
+   "options_considered": [
+    "A new prescriptive command: “therefore you must fight”",
+    "A reiterative imperative removing Arjuna’s obstruction: “therefore fight; do not withdraw”"
+   ],
+   "chosen": "tasmād yudhyasva = therefore fight, i.e. do not withdraw from the battle; not a fresh injunction of the duty to fight",
+   "evidence": [
+    {
+     "lines": [
+      20
+     ],
+     "quote": "yasmād evaṃ nityo 'vikriyaś cātmā tasmād yudhyasva, yuddhād uparamaṃ mā kārṣīḥ ity arthaḥ",
+     "translation": "Since the Self is thus eternal and changeless, therefore fight; the meaning is, do not desist from battle."
+    },
+    {
+     "lines": [
+      21
+     ],
+     "quote": "na hy atra yuddha-kartavyatā vidhīyate",
+     "translation": "For here the obligatoriness of fighting is not being enjoined."
+    },
+    {
+     "lines": [
+      22
+     ],
+     "quote": "ataḥ tasya pratibandhāpanayana-mātraṃ bhagavatā kriyate",
+     "translation": "Therefore the Blessed Lord merely removes his obstruction."
+    },
+    {
+     "lines": [
+      23
+     ],
+     "quote": "tasmād yudhyasva iti anuvāda-mātram, na vidhiḥ",
+     "translation": "Therefore ‘fight’ is only a reiteration, not an injunction."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "These bodies are said to have an end; they belong to the eternal embodied Self (śarīrin), the imperishable, the one not objectifiable as a prameya. Therefore fight—do not withdraw, O Bhārata.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take aprameya as merely “immeasurable” or “unfathomably large,” whereas Śaṅkara construes it epistemologically: the Self is not a prameya of perception and other pramāṇas, being self-established.",
+  "It might read yudhyasva as a fresh injunction that Arjuna is now being ordered to perform the duty of war; Śaṅkara explicitly says it is anuvāda-mātra, not vidhi.",
+  "It might flatten nitya and anāśin into a redundant pair, but the bhāṣya insists that both are meaningful because the Self is unrelated to both kinds of destruction.",
+  "It might miss that the genitives refer to the śarīrin/ātman, not to the perishable bodies."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives antavantaḥ_antavat_PNM. I revise the inflectional stem to antavant because the verifier shows antavat Pum/Prathama/Bahu derives antavataḥ, whereas the printed/pausal form antavantaḥ is the masculine nominative plural of the -vant stem.",
+  "ByT5 gives uktāḥ_vac_PNPaM. I record the inflected word as a subanta with nominal stem ukta, because the response schema treats participles as nominal inflections; the note preserves its derivation from √vac."
+ ],
+ "open_questions": [
+  "The supplied commentary text contains several apparent plaintext corruptions, especially in lines 3, 8, 11, 15, and 16. The apparatus cites necessary readings as printed and notes the significant ones where they affect interpretation."
+ ],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12842,
+   "completion_tokens": 12955,
+   "reasoning_tokens": 6656
+  },
+  "est_cost": 0.2329,
+  "reverified": true
+ },
+ "mula": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ | anāśino 'prameyasya tasmād yudhyasva bhārata",
+ "commentary_lines": [
+  "antaḥ vināśaḥ vidyate yeṣāṃ te antavantaḥ |",
+  "yathā mṛgatṛṣṇikādau sad-buddhiḥ anuvṛttā pramāṇanirūpaṇānte vicchidyate, sa tasya antaḥ |",
+  "tathā ime dehāḥ svapnamāyādehādivaca antavantaḥ nityasya śarīriṇaḥ śarīravato 'nāśino 'prameyarya ātmano 'ntavanta iti uktāḥ vivekibhirity arthaḥ |",
+  "nityasya anāśinaḥ iti na punaruktam |",
+  "nityatvasya dvividhatvāt lokā, nāśasya ca |",
+  "yathā deho bhasmībhūto 'darśanaṃ gato naṣṭa ucyate |",
+  "vidyamāno 'pi yathā anyathā pariṇato vyādhyādi-yukto jāto naṣṭa ucyate |",
+  "tatra nityasya ṭh anāśinaḥ iti dvividhenāpi nāśena asaṃbandho 'syety arthaḥ |",
+  "anyathā pṛthivyādivad api nityatvaṃ syāt ātmanaḥ |",
+  "tat mā bhūditi nityasya anāśinaḥ ityāha |",
+  "aprameyamya na prameyasya pratyakṣādi-pramāṇaiḥ aparicchādyasyety arthaḥ ||",
+  "nanu āgamena ātmā paricchidyate, pratyakṣādinā ca pūrvam |",
+  "na |",
+  "ātmanaḥ svataḥsiddhatvāt |",
+  "sirā hi ātmani pramātari pramitsoḥ pramāṇānveṣaṇā bhavati |",
+  "na hi pūrvam itthamaham iti ātmānamapramāya pa cāt prameyaparicchādāya pravartate |",
+  "na hi ātmā nāma kasyacit aprasiddho bhavati |",
+  "śāstraṃ tu antyaṃ pramāṇam atad-dharmādhyāropaṇa-mātra-nivartakatvena pramāṇatvam ātmanaḥ pratipadyate, na hy ajñātārthajñāpakatvena |",
+  "tathā ca śrutiḥ --- yat sākṣād aparokṣād brahma ya ātmā sarvāntaraḥ [bau 3.4.1] iti |",
+  "yasmād evaṃ nityo 'vikriyaś cātmā tasmād yudhyasva, yuddhād uparamaṃ mā kārṣīḥ ity arthaḥ |",
+  "na hy atra yuddha-kartavyatā vidhīyate, yuddhe pravṛtta eva hi asau śoka-moha-pratibaddhaḥ tūṣṇīm āste |",
+  "ataḥ tasya pratibandhāpanayana-mātraṃ bhagavatā kriyate |",
+  "tasmād yudhyasva iti anuvāda-mātram, na vidhiḥ ||bhgs_2.18||",
+  "śoka-mohādi-saṃsāra-kāraṇa-nivṛtty-arthaṃ gītā-śāstram, na pravartakam ity etasyārthasya sākṣi-bhūte ṛcau ānināya bhagavān |",
+  "yat tu manyase yuddhā bhīṣmādayo mayā hanyante aham eva teṣāṃ hantā iti, eṣā buddhir mṛṣaiva te |",
+  "katham ?"
+ ]
+}

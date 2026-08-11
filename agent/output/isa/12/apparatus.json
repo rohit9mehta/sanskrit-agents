@@ -1,0 +1,493 @@
+{
+ "unit": "12",
+ "analysis": [
+  {
+   "surface": "andham",
+   "surface_in_sandhi": "andhaṃ",
+   "lemma": "andha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective qualifying tamaḥ: “blind/dark.”",
+   "verification": {
+    "status": "pass",
+    "detail": "andha Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tamaḥ",
+   "surface_in_sandhi": "tamaḥ",
+   "lemma": "tamas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of praviśanti, with andham.",
+   "verification": {
+    "status": "pass",
+    "detail": "tamas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "praviśanti",
+   "surface_in_sandhi": "praviśanti",
+   "lemma": "viś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "viś",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present active, “they enter,” governing the accusative tamaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-viś Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ye",
+   "surface_in_sandhi": "ye",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun, subject of upāsate; correlated with te.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "asambhūtim",
+   "surface_in_sandhi": "'sambhūtim",
+   "lemma": "asambhūti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after ye in the printed saṃhitā form; Śaṅkara identifies it with avyākṛtā prakṛti, the cause/avidyā.",
+   "verification": {
+    "status": "pass",
+    "detail": "asambhūti Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "upāsate",
+   "surface_in_sandhi": "upāsate",
+   "lemma": "ās",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ās",
+    "prefixes": [
+     "upa"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada present of upa-√ās, here “worship/meditate upon,” with accusative asambhūtim.",
+   "verification": {
+    "status": "pass",
+    "detail": "upa-ās Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tataḥ",
+   "surface_in_sandhi": "tato",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival adverb; Śaṅkara construes it comparatively, “even than that.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhūyaḥ",
+   "surface_in_sandhi": "bhūya",
+   "lemma": "bhūyas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Comparative adjective/adverbial accusative agreeing with the second tamaḥ: “greater/more abundant.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūyas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "iva",
+   "surface_in_sandhi": "iva",
+   "lemma": "iva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Particle: “as it were.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun, “they/those,” not genitive or dative here.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tamaḥ",
+   "surface_in_sandhi": "tamo",
+   "lemma": "tamas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of the ellipsed praviśanti in the second half; Śaṅkara supplies the verb.",
+   "verification": {
+    "status": "pass",
+    "detail": "tamas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ye",
+   "surface_in_sandhi": "ya",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal ye; the printed ya before u is the Vedic saṃhitā form. It agrees with ratāḥ and correlates with te.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "u",
+   "surface_in_sandhi": "u",
+   "lemma": "u",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle, lightly rendered as “indeed.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sambhūtyām",
+   "surface_in_sandhi": "sambhūtyāṃ",
+   "lemma": "sambhūti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative governed by ratāḥ; Śaṅkara identifies it with kāryabrahman called Hiraṇyagarbha.",
+   "verification": {
+    "status": "pass",
+    "detail": "sambhūti Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "ratāḥ",
+   "surface_in_sandhi": "ratāḥ",
+   "lemma": "rata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "kta participial adjective from √ram: “delighting in/devoted to,” construed with the locative sambhūtyām.",
+   "verification": {
+    "status": "pass",
+    "detail": "rata Pum/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The object of upāsate is interpreted through Śaṅkara’s explicit identification of asambhūti as prakṛti, kāraṇa/avidyā, called avyākṛta, and as the seed of desire and action, of the nature of non-seeing.",
+   "options_considered": [
+    "literal non-existence/destruction",
+    "absence of birth in a general sense",
+    "unmanifest causal prakṛti/avidyā"
+   ],
+   "chosen": "asambhūti = the unmanifest causal prakṛti, the cause/avidyā, not simply “non-existence” or “destruction.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tasyā anyā asambhūtiḥ prakṛtiḥ kāraṇamavidyā avyākṛtākhyā tāmasambhūtimavyākṛtākhyāṃ prakṛtiṃ kāraṇamavidyāṃ kāmakarmabījabhūtāmadarśanātmikāmupāsate ye",
+     "translation": "Different from that is asambhūti: prakṛti, the cause, ignorance, called the unmanifest; those who worship that asambhūti—called unmanifest, prakṛti, the cause, ignorance, become the seed of desire and action, of the nature of non-seeing."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The locative sambhūtyām is not left as generic “birth” or “production”; Śaṅkara specifies the referent as kāryabrahman, Hiraṇyagarbha.",
+   "options_considered": [
+    "generic birth/origin",
+    "manifestation in an unspecified sense",
+    "the produced Brahman Hiraṇyagarbha"
+   ],
+   "chosen": "sambhūti = the effected/produced Brahman, called Hiraṇyagarbha.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sambhavanaṃ sambhūtiḥ sā yasya kāryasya sā sambhūtiḥ",
+     "translation": "Coming-into-being is sambhūti; that product which has it is sambhūti."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "ya u sambhūtyāṃ kāryabrahmaṇi hiraṇyagarbhākhye ratāḥ",
+     "translation": "Those who are devoted to sambhūti, the effected Brahman called Hiraṇyagarbha."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara makes the darkness not merely physical gloom but adarśanātmaka, of the nature of non-seeing, and says it corresponds to the worshipped asambhūti.",
+   "options_considered": [
+    "ordinary physical darkness",
+    "hell as a place",
+    "spiritual non-seeing/ignorance-like darkness"
+   ],
+   "chosen": "andhaṃ tamaḥ is “blind/sightless darkness,” a state of non-seeing corresponding to the object worshipped.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "te tadanurūpamevāndhaṃ tamo 'darśanātmakaṃ praviśanti",
+     "translation": "They enter just a blind darkness corresponding to that, of the nature of non-seeing."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The second pāda is comparative, not merely temporal “then”; Śaṅkara glosses tataḥ as tasmād api and bhūyaḥ as bahutaram iva, and explicitly repeats tamaḥ praviśanti.",
+   "options_considered": [
+    "then/afterwards they [are in] darkness",
+    "from that source comes darkness",
+    "into a darkness even greater than that, with praviśanti understood"
+   ],
+   "chosen": "tataḥ bhūya iva means “greater than that, as it were,” and the verb praviśanti is supplied in the second half.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tatastasmādapi bhūyo bahutaramiva tamaḥ praviśanti",
+     "translation": "tataḥ means even than that; they enter darkness more, much greater as it were."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara’s paraphrase preserves the accusative tām asambhūtim with upāsate and the locative sambhūtyām with ratāḥ, fixing the syntactic construal.",
+   "options_considered": [
+    "taking asambhūtim adverbially or predicatively",
+    "taking sambhūtyām as a mere locative of place without the sense of devotion toward it",
+    "accusative object with upāsate and locative complement with ratāḥ"
+   ],
+   "chosen": "asambhūtim is the accusative object of upāsate, while sambhūtyām is a locative with ratāḥ.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tāmasambhūtimavyākṛtākhyāṃ prakṛtiṃ kāraṇamavidyāṃ kāmakarmabījabhūtāmadarśanātmikāmupāsate ye",
+     "translation": "Those who worship that asambhūti, called unmanifest, prakṛti, the cause, ignorance, of the nature of non-seeing."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "ya u sambhūtyāṃ kāryabrahmaṇi hiraṇyagarbhākhye ratāḥ",
+     "translation": "Those who are devoted in/to sambhūti, the effected Brahman called Hiraṇyagarbha."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Into blind darkness enter\nthose who worship the Unmanifest (asambhūti), causal prakṛti;\ninto darkness greater than that, as it were, enter\nthose indeed who are devoted to Manifestation (sambhūti),\nthe produced Brahman called Hiraṇyagarbha.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render asambhūti from the lexicon as mere “non-existence” or “destruction”; Śaṅkara instead makes it the unmanifest causal prakṛti/avidyā.",
+  "A commentary-blind translation might take sambhūti as generic “birth” or “production”; Śaṅkara specifies the produced Brahman, Hiraṇyagarbha.",
+  "One might read tataḥ as simply temporal “then”; the bhāṣya makes it comparative—“even than that”—and supplies the repeated verb “enter.”",
+  "One might miss that “darkness” is adarśanātmaka, “of the nature of non-seeing,” corresponding to the worshipped principle."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 lemmas praviś and upās include prefixes; the required format gives bare roots viś and ās with prefixes pra and upa.",
+  "ByT5 leaves bhūyas without a full inflectional tag; I analyze pausal bhūyaḥ as Napumsaka Dvitiya Eka agreeing with tamaḥ, supported by Śaṅkara’s gloss bhūyo bahutaramiva tamaḥ.",
+  "ByT5 gives ratāḥ derivationally under ram; for subanta analysis I give the inflected participial stem rata, while noting derivation from √ram.",
+  "ByT5 normalizes asaṃbhūtim; I keep the source/commentary spelling asambhūtim/asambhūti. This is orthographic, not a different grammatical analysis."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4563,
+   "completion_tokens": 15002,
+   "reasoning_tokens": 11776
+  },
+  "est_cost": 0.2387,
+  "reverified": true
+ },
+ "mula": "andhaṃ tamaḥ praviśanti ye 'sambhūtim upāsate | tato bhūya iva te tamo ya u sambhūtyāṃ ratāḥ",
+ "commentary_lines": [
+  "andhaṃ tamaḥ praviśanti ye asambhūtiṃ sambhavanaṃ sambhūtiḥ sā yasya kāryasya sā sambhūtiḥ tasyā anyā asambhūtiḥ prakṛtiḥ kāraṇamavidyā avyākṛtākhyā tāmasambhūtimavyākṛtākhyāṃ prakṛtiṃ kāraṇamavidyāṃ kāmakarmabījabhūtāmadarśanātmikāmupāsate ye te tadanurūpamevāndhaṃ tamo 'darśanātmakaṃ praviśanti /",
+  "tatastasmādapi bhūyo bahutaramiva tamaḥ praviśanti ya u sambhūtyāṃ kāryabrahmaṇi hiraṇyagarbhākhye ratāḥ"
+ ]
+}

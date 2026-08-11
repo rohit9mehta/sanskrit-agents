@@ -1,0 +1,634 @@
+{
+ "unit": "18",
+ "analysis": [
+  {
+   "surface": "agne",
+   "surface_in_sandhi": "agne",
+   "lemma": "agni",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative; Śaṅkara glosses with he agne.",
+   "verification": {
+    "status": "pass",
+    "detail": "agni Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "naya",
+   "surface_in_sandhi": "naya",
+   "lemma": "nī",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "nī",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Imperative, “lead/conduct”; glossed by gamaya.",
+   "verification": {
+    "status": "pass",
+    "detail": "nī Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "supathā",
+   "surface_in_sandhi": "supathā",
+   "lemma": "supath",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "śobhanaḥ panthāḥ; tena śobhanena mārgeṇa",
+    "members": [
+     "su",
+     "path"
+    ]
+   },
+   "note": "Instrumental singular from the Vedic compound stem supath, not from supathin, which would give supathinā. Schema type tatpuruṣa is used for a prādi-tatpuruṣa with semantically adjectival su; line 2's “supratheti” appears to be an unproofread reading for supatheti, but its explanatory phrase is clear.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem supath as Pum/Trtiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "rāye",
+   "surface_in_sandhi": "rāye",
+   "lemma": "rai",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative of goal/purpose; Śaṅkara takes it as dhana, specifically karmaphalabhoga.",
+   "verification": {
+    "status": "pass",
+    "detail": "rai Pum/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "asmān",
+   "surface_in_sandhi": "asmān",
+   "lemma": "asmad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First-person pronoun, accusative plural object of naya. The masculine linga is contextual/default for the requested nominal feature set; the first-person pronoun itself is not gender-contrastive.",
+   "verification": {
+    "status": "pass",
+    "detail": "asmad Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "viśvāni",
+   "surface_in_sandhi": "viśvāni",
+   "lemma": "viśva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Qualifies vayunāni; glossed sarvāṇi.",
+   "verification": {
+    "status": "pass",
+    "detail": "viśva Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "deva",
+   "surface_in_sandhi": "deva",
+   "lemma": "deva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative, continuing the address to Agni.",
+   "verification": {
+    "status": "pass",
+    "detail": "deva Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "vayunāni",
+   "surface_in_sandhi": "vayunāni",
+   "lemma": "vayuna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses as karmāṇi prajñānāni vā, “actions or cognitions/knowledges.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vayuna Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vidvān",
+   "surface_in_sandhi": "vidvān",
+   "lemma": "vidvat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Inflectional stem given as vidvat, from which nominative singular masculine vidvān is generated; the traditional semantic connection with √vid, “knowing,” is retained. Śaṅkara glosses jānan.",
+   "verification": {
+    "status": "pass",
+    "detail": "vidvat Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yuyodhi",
+   "surface_in_sandhi": "yuyodhy",
+   "lemma": "yu",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yu",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Vedic imperative “separate/remove”; final i appears as y before the following vowel in saṃhitā. Vidyut-prakriya did not generate this Vedic reduplicated imperative, but the analysis is retained on lexical and commentarial evidence: Śaṅkara glosses viyojaya vināśaya.",
+   "verification": {
+    "status": "fail",
+    "detail": "yu Lot/Madhyama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "yuhi",
+     "yutād",
+     "yutāt",
+     "yāvaya",
+     "yāvayasva",
+     "yāvayatād",
+     "yāvayatāt"
+    ]
+   }
+  },
+  {
+   "surface": "asmat",
+   "surface_in_sandhi": "asmaj",
+   "lemma": "asmad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vedic separative/ablative “from us”; final t/d is represented as j before juhurāṇam in the printed saṃhitā form. The masculine linga is contextual/default for the requested nominal feature set; the first-person pronoun itself is not gender-contrastive.",
+   "verification": {
+    "status": "pass",
+    "detail": "asmad Pum/Panchami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "juhurāṇam",
+   "surface_in_sandhi": "juhurāṇam",
+   "lemma": "juhurāṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Participial adjective from √hvṛ/hvar, “going crookedly”; Śaṅkara glosses kuṭilaṃ vañcanātmakam.",
+   "verification": {
+    "status": "pass",
+    "detail": "juhurāṇa Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "enaḥ",
+   "surface_in_sandhi": "eno",
+   "lemma": "enas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of yuyodhi; glossed pāpam. Final -aḥ appears as -o before bhūyiṣṭhām.",
+   "verification": {
+    "status": "pass",
+    "detail": "enas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhūyiṣṭhām",
+   "surface_in_sandhi": "bhūyiṣṭhāṃ",
+   "lemma": "bhūyiṣṭha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with nama-uktim/uktim; Śaṅkara glosses bahutarām.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūyiṣṭha Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative, not genitive: Śaṅkara glosses te as tubhyam. Masculine linga follows the masculine addressee Agni; the second-person form itself is not gender-contrastive.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "nama-uktim",
+   "surface_in_sandhi": "nama uktiṃ",
+   "lemma": "nama-ukti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "namasaḥ uktiḥ; namaskārasya vacanam",
+    "members": [
+     "namas",
+     "ukti"
+    ]
+   },
+   "note": "The printed text separates nama uktiṃ; Śaṅkara glosses the expression as one namaskāravacanaṃ, so it is analyzed as a tatpuruṣa compound object of vidhema. The verifier reported a tool error here rather than a successful contrary derivation; the compound analysis is therefore retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nama-ukti as Stri/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vidhema",
+   "surface_in_sandhi": "vidhema",
+   "lemma": "vidh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "vidh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Optative first plural: “may we render/perform worship”; Śaṅkara glosses with paricarema.",
+   "verification": {
+    "status": "pass",
+    "detail": "vidh VidhiLin/Uttama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The opening is a direct prayer to Agni, not a descriptive sentence about fire.",
+   "options_considered": [
+    "Vocative address to Agni with imperative “lead”",
+    "A nominative subject “fire” with a non-imperative verbal construal"
+   ],
+   "chosen": "agne is a vocative address and naya is the imperative “lead/conduct.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "he agne! naya gamaya supathā śobhanena mārgeṇa /",
+     "translation": "“O Agni! naya means gamaya, ‘lead/conduct’; supathā means ‘by the fair path.’”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is not merely “by a path well” or an unspecified route; Śaṅkara makes it a qualified path opposed to the dakṣiṇa-mārga characterized by repeated going and coming.",
+   "options_considered": [
+    "supathā as a single instrumental compound meaning “by the good path”",
+    "su as a separate adverb plus pathā",
+    "the southern path of ritual return as the intended path"
+   ],
+   "chosen": "supathā is the instrumental “by the fair/good path,” specifically the path excluding the southern path of return; formally it is analyzed from the compound stem supath.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "he agne! naya gamaya supathā śobhanena mārgeṇa /",
+     "translation": "“Lead/conduct by the fair path, by the beautiful/good road.”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "supratheti viśeṣaṇaṃ dakṣiṇamārganivṛttyartham /",
+     "translation": "“The adjective—printed here as supratheti, evidently unproofread for supatheti—is for excluding the southern path.”"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "nirviṇṇo 'haṃ dakṣiṇena mārgeṇa gatāgatalakṣaṇenāto yāce tvāṃ punaḥ punargamanāgamanavarjitena śobhanena pathā naya /",
+     "translation": "“I am weary of the southern path, characterized by going and returning; therefore I ask you: lead by the good path free from repeated coming and going.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The dative rāye is not taken in an unrelated sense such as “sound/noise”; in this bhāṣya it is the desired karmic fruit.",
+   "options_considered": [
+    "rāye as ordinary wealth alone",
+    "rāye as enjoyment of karmic fruit, Śaṅkara’s gloss",
+    "rāye from an unrelated lexical sense such as noise/barking"
+   ],
+   "chosen": "rāye means “for wealth,” explained as enjoyment of the fruit of action; asmān is “us” as qualified by the fruit of the dharma already taught.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "rāye dhanāya karmaphalabhogāyetyarthaḥ, asmānyathoktadharmaphalaviśiṣṭān viśvāni sarvāṇi he deva! vayunāni karmāṇi prajñānāni vā vidvāñjānan /",
+     "translation": "“rāye means ‘for wealth,’ that is, for enjoyment of the fruit of action; asmān means ‘us, qualified by the fruit of the dharma stated above.’”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The object of Agni’s knowing is not another “path” but the totality of vayunāni as glossed by the commentator.",
+   "options_considered": [
+    "vayunāni as vague “ways”",
+    "vayunāni as ritual/ethical actions",
+    "vayunāni as cognitions or knowledges",
+    "the commentary’s inclusive gloss: actions or cognitions"
+   ],
+   "chosen": "viśvāni qualifies vayunāni, and vayunāni are “actions, or cognitions/knowledges”; vidvān means “knowing.”",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "rāye dhanāya karmaphalabhogāyetyarthaḥ, asmānyathoktadharmaphalaviśiṣṭān viśvāni sarvāṇi he deva! vayunāni karmāṇi prajñānāni vā vidvāñjānan /",
+     "translation": "“viśvāni means ‘all’; O god, vayunāni are actions, or cognitions; vidvān means knowing.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "juhurāṇam is construed adjectivally with enas, and asmat is separative: the sin is to be removed from us.",
+   "options_considered": [
+    "yuyodhi as “join” from another √yu",
+    "yuyodhi as “separate/remove/destroy”",
+    "juhurāṇam as a separate substantive",
+    "juhurāṇam as an adjective of enas, “crooked/deceitful”"
+   ],
+   "chosen": "yuyodhi asks Agni to separate/remove or destroy from us the crooked, deceitful sin (enas).",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "kiñca yuyodhi viyojaya vināśaya asmadasmatto juhurāṇaṃ kuṭilaṃ vañcanātmakamenaḥ pāpam /",
+     "translation": "“Further, yuyodhi means separate, destroy; asmat means from us; juhurāṇam means crooked, deceitful; enas means sin.”"
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "tato vayaṃ viśuddhāḥ santa iṣṭaṃ prāpsyāma ityabhiprāyaḥ /",
+     "translation": "“Then, being purified, we shall obtain what is desired—this is the intention.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The final pāda is not “your salutation and speech we make” but a promise/prayer to perform verbal homage to Agni, since fuller service is not now possible.",
+   "options_considered": [
+    "te as genitive “your”",
+    "te as dative “to you”",
+    "namaḥ and uktiṃ as two coordinate objects",
+    "nama-uktiṃ as one compound/object, “utterance of obeisance”",
+    "vidhema as simple “we arrange/do”",
+    "vidhema as optative worship/service"
+   ],
+   "chosen": "te is dative “to you”; nama uktiṃ is a single “utterance of obeisance”; vidhema is optative, “may we render/serve with salutation.”",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "kintu vayamidānīṃ te na śaknumaḥ paricaryāṃ kartum /",
+     "translation": "“But now we are not able to perform service to you.”"
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "bhūyiṣṭhāṃ bahutarāṃ te tubhyaṃ nama uktiṃ namaskāravacanaṃ vidhema namaskāreṇa paricarema ityarthaḥ /",
+     "translation": "“bhūyiṣṭhām means more/very abundant; te means to you; nama uktiṃ means an utterance of obeisance; vidhema means we would serve with salutation.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "O Agni, lead us—qualified by the fruit of the dharma already taught—by the fair path, the path free from repeated going and coming, to wealth, that is, enjoyment of action’s fruit;\nO god, knowing all the vayunāni, all actions or forms of knowledge.\nRemove from us the crooked, deceitful sin (enas);\nto you may we render a most abundant utterance of obeisance (nama-ukti).",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely render rāye simply as “wealth”; Śaṅkara narrows it to karmaphalabhoga, enjoyment of the fruit of action.",
+  "It might miss that supathā is polemically contrasted with the dakṣiṇa-mārga, the southern path of repeated return, and not just any pleasant road.",
+  "It might translate vayunāni vaguely as “ways” or “paths”; Śaṅkara glosses them as karmāṇi or prajñānāni, actions or cognitions.",
+  "It might split nama uktiṃ into two objects or take te as possessive; Śaṅkara takes te as tubhyam and nama uktiṃ as one namaskāravacana, an utterance of obeisance.",
+  "It might miss the force of yuyodhi and juhurāṇam: the prayer is to remove/destroy from us a crooked, deceitful sin, yielding purification."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split su and pathā; I analyze supathā as one compound stem supath in the instrumental singular, since Śaṅkara glosses it as śobhanena mārgeṇa and treats it as a viśeṣaṇa. The formal compound type is recorded as broad tatpuruṣa/prādi-tatpuruṣa rather than the earlier karmadhāraya label.",
+  "ByT5 used mad as the lemma for asmān and asmat and did not supply gender; I use the grammatical pronominal stem asmad and supply contextual/default masculine linga while noting that first-person pronouns are not gender-contrastive.",
+  "ByT5 treated namaḥ and uktim as two separate inflected words; I analyze the printed nama uktiṃ as the compound nama-uktiṃ because Śaṅkara glosses it as a single namaskāravacanaṃ.",
+  "For participial vidvān, I give the inflectional nominal stem vidvat rather than the tagger’s verbal lemma vid; the semantic derivation from √vid is retained.",
+  "For participial juhurāṇam, I give the nominal stem juhurāṇa rather than only the verbal root hvṛ/hvar; the tagger’s root identification is retained in the note.",
+  "For te, ByT5 did not supply gender; I supply masculine by reference to the masculine addressee Agni, while noting that the second-person pronoun is not gender-contrastive."
+ ],
+ "open_questions": [
+  "Commentary line 2 reads supratheti; given the source caveat and context, this has been treated as an unproofread form for supatheti, but the quoted line is left verbatim.",
+  "The mūla prints nama uktiṃ as two graphic words; the apparatus analyzes it as the compound sense nama-uktiṃ because Śaṅkara glosses it with the single expression namaskāravacanaṃ.",
+  "Vidyut-prakriya did not derive yuyodhi under the ordinary √yu paradigms it tried; this apparatus retains yuyodhi as a Vedic 2nd singular imperative because both the lexical evidence and Śaṅkara’s gloss require it."
+ ],
+ "verification_summary": {
+  "pass": 16,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 18851,
+   "completion_tokens": 33307,
+   "reasoning_tokens": 24574
+  },
+  "est_cost": 0.5562,
+  "reverified": true
+ },
+ "mula": "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān | yuyodhy asmaj juhurāṇam eno bhūyiṣṭhāṃ te nama uktiṃ vidhema",
+ "commentary_lines": [
+  "he agne! naya gamaya supathā śobhanena mārgeṇa /",
+  "supratheti viśeṣaṇaṃ dakṣiṇamārganivṛttyartham /",
+  "nirviṇṇo 'haṃ dakṣiṇena mārgeṇa gatāgatalakṣaṇenāto yāce tvāṃ punaḥ punargamanāgamanavarjitena śobhanena pathā naya /",
+  "rāye dhanāya karmaphalabhogāyetyarthaḥ, asmānyathoktadharmaphalaviśiṣṭān viśvāni sarvāṇi he deva! vayunāni karmāṇi prajñānāni vā vidvāñjānan /",
+  "kiñca yuyodhi viyojaya vināśaya asmadasmatto juhurāṇaṃ kuṭilaṃ vañcanātmakamenaḥ pāpam /",
+  "tato vayaṃ viśuddhāḥ santa iṣṭaṃ prāpsyāma ityabhiprāyaḥ /",
+  "kintu vayamidānīṃ te na śaknumaḥ paricaryāṃ kartum /",
+  "bhūyiṣṭhāṃ bahutarāṃ te tubhyaṃ nama uktiṃ namaskāravacanaṃ vidhema namaskāreṇa paricarema ityarthaḥ /",
+  "'avidyayā mṛtyuṃ tīrtvā vidyayāmṛtamaśnute /' (ī.u.11) 'vināśena mṛtyuṃ tīrtvāsambhūtyāmṛtamaśnute' (ī.u.14) iti śrutvā kecitsaṃśayaṃ kurvanti /",
+  "atastannirākaraṇārthaṃ saṃkṣepato vicāraṇāṃ kariṣyāmaḥ /",
+  "tatra tāvaktinnimittaḥ saṃśaya ityucyate /",
+  "vidyāśabdena mukhyā paramātmavidyaiva kasmānna gṛhyate 'mṛtatvañca /",
+  "nānuktāyāḥ paramātmavidyāyāḥ karmaṇaśca virodhātsamuccayānupapattiḥ /",
+  "satyam /",
+  "virodhastu nāvagamyate virodhāvirodhayoḥ śāstrapramāṇakatvāt /",
+  "yathāvidyānuṣṭhānaṃ vidyopāsanañca śāstrapramāṇakaṃ tathā tadvirodhāvirodhāvapi /",
+  "yathā ca na hiṃsyātsarvā bhūtānīti śāstrādavagataṃ punaḥ śāstreṇaiva bādhyate 'dhvare paśuṃ hiṃsyāditi /",
+  "evaṃ vidyāvidyayorapi syāt /",
+  "vidyākarmaṇośca samuccayaḥ /",
+  "na\"dūramete viparīte viṣūcī avidyā yā ca vidyā\"(ka.u.1 /",
+  "2 /",
+  "4) iti śruteḥ /",
+  "vidyāṃ cāvidyāṃ ceti vacanādavirodha iti cet?",
+  "na ; hetusvarūpaphalavirodhāt /",
+  "vidyāvidyāvirodhāvirodhayorvikalpāsambhavātsamuccayavidhānādavirodha eveti cet?",
+  "na? sahasambhavānupapatteḥ /",
+  "krameṇaikāśraye syātāṃ vidyāvidye iti cet?",
+  "na ; vidyotpattau avidyāyā hyāstatvāttadāśraye 'vidyānupapatteḥ /",
+  "na hyagniruṣṇaḥ prakāśaśceti vijñānotpattau yasminnāśraye tadutpannaṃ tasminnevāśraye śīto 'gniraprakāśo vetyavidyāyā utpattirnāpi saṃśayo 'jñānaṃ vā\"yasmin sarvāṇi bhūtānyātmaivābhūdvijānataḥ /",
+  "tatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ\"(ī.u.7) iti śokamohādyasambhavaśruteḥ /",
+  "avidyāsambhavāttadupādānasya karmaṇo 'pyanupapattim avocāma /",
+  "amṛtamaśnuta ityāpekṣikam amṛtam /",
+  "vidyāśabdena paramātmavidyāgrahaṇe hiraṇmayenetyādinā dvāramārgādiyācanamanupapannaṃ syāt /",
+  "tasmādupāsanayā samuccayo na paramātmavijñāneneti yathāsmābhirvyākhyāta eva mantrāṇāmartha ityuparamyate"
+ ]
+}

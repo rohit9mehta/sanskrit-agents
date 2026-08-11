@@ -1,0 +1,558 @@
+{
+ "unit": "2.17",
+ "analysis": [
+  {
+   "surface": "avināśi",
+   "surface_in_sandhi": "avināśi",
+   "lemma": "avināśin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate accusative/neuter with tat: ‘know that to be imperishable’; Śaṅkara glosses it as lacking a nature of perishing.",
+   "verification": {
+    "status": "pass",
+    "detail": "avināśin Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tu",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Contrastive particle; Śaṅkara says it distinguishes from asat.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of viddhi; pausal tat becomes tad before viddhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "viddhi",
+   "surface_in_sandhi": "viddhi",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Imperative ‘know’; glossed by vijānīhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yena",
+   "surface_in_sandhi": "yena",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental agent in the passive relative clause; Śaṅkara identifies the referent as brahman called sat.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvam",
+   "surface_in_sandhi": "sarvam",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "With idam: ‘this whole [world]’; subject of the passive participle tatam.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "idaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "With sarvam; sandhi before t gives idaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tatam",
+   "surface_in_sandhi": "tatam",
+   "lemma": "tata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle from √tan, treated here as a subanta stem tata; Śaṅkara glosses tataṃ as vyāptam, ‘pervaded’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tata Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vināśam",
+   "surface_in_sandhi": "vināśam",
+   "lemma": "vināśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of kartum: ‘to bring about destruction/disappearance’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vināśa Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "avyayasya",
+   "surface_in_sandhi": "avyayasyāsya",
+   "lemma": "avyaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive agreeing with asya and implied brahmaṇaḥ; sandhi-fused in the printed token avyayasyāsya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "asya",
+   "surface_in_sandhi": "avyayasyāsya",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive ‘of this’; co-refers with brahman/ātman; sandhi-fused in the printed token avyayasyāsya.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates arhati/śaknoti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kaścit",
+   "surface_in_sandhi": "kaścit",
+   "lemma": "kaścit",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indefinite pronoun, subject of arhati; Śaṅkara explicitly extends the denial even to īśvara.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaścit Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kartum",
+   "surface_in_sandhi": "kartum",
+   "lemma": "kṛ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "kṛ",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Tumun infinitive: ‘to do, make, bring about’; complements arhati.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "arhati",
+   "surface_in_sandhi": "arhati",
+   "lemma": "arh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "arh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "With kartum, Śaṅkara takes arhati in the sense śaknoti, ‘is able/can’.",
+   "verification": {
+    "status": "pass",
+    "detail": "arh Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse’s syntax is tat ... viddhi with avināśi predicated of tat. Śaṅkara glosses avināśi as that whose nature is not to perish, and glosses tat viddhi simply as ‘understand that’.",
+   "options_considered": [
+    "‘The imperishable, know that ...’ as a substantival nominative",
+    "‘Know that to be imperishable’ as object plus predicate complement"
+   ],
+   "chosen": "avināśi is translated ‘imperishable’ as an object-complement to tat: ‘know that to be imperishable.’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avināśi na vinaṣṭuṃ śīlaṃ yasyeti |",
+     "translation": "‘Imperishable’: that whose nature is not to perish."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tat viddhi vijānīhi |",
+     "translation": "‘Know that’: understand it."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara explicitly assigns the particle a distinguishing/qualifying function with respect to asat, so it should not be left as a weak filler such as ‘indeed’.",
+   "options_considered": [
+    "untranslated metrical particle",
+    "‘indeed’",
+    "contrastive ‘but’"
+   ],
+   "chosen": "tu is rendered contrastively, ‘but’.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tu-śabdo 'sato viśeṣaṇārthaḥ |",
+     "translation": "The word tu is for distinguishing/qualifying from the unreal (asat)."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The relative clause is passive: ‘by which this whole world is pervaded.’ Śaṅkara identifies the instrumental agent as sad-ākhya brahman and glosses tataṃ with vyāptam, adding the comparison of pots pervaded by space.",
+   "options_considered": [
+    "‘stretched’ in a merely physical sense",
+    "‘spread over’ without identifying the agent",
+    "‘pervaded by Brahman called sat’"
+   ],
+   "chosen": "yena refers to the Brahman called sat, and tatam means ‘pervaded’.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "kim ? yena sarvam idaṃ jagat tataṃ vyāptaṃ sad-ākhyena brahmaṇā sākāśam, ākāśenaiva ghaṭādayaḥ |",
+     "translation": "What? That by which this whole world, including space, is spread/pervaded—by Brahman called sat; just as pots and the like are [pervaded] by space."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although the words alone could mean ‘all this/everything,’ Śaṅkara supplies jagat and even says sākāśam, ‘including space’.",
+   "options_considered": [
+    "‘everything’ with no supplied referent",
+    "‘this whole world’",
+    "‘this whole world, including space’ as the explanatory force"
+   ],
+   "chosen": "sarvam idam is ‘this whole world,’ not an abstract ‘everything’ without contextual referent.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yena sarvam idaṃ jagat tataṃ vyāptaṃ sad-ākhyena brahmaṇā sākāśam",
+     "translation": "By which this whole world is spread/pervaded by Brahman called sat, including space."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara defines avyaya not merely as ‘inexhaustible’ but as not undergoing increase or decrease and not deviating from its own form; he then restates the phrase as avyayasya asya brahmaṇaḥ.",
+   "options_considered": [
+    "‘inexhaustible’ in the sense of a store not running out",
+    "‘imperishable’ merely repeating avināśi",
+    "‘changeless/undeclining’ as no increase, decrease, or deviation from own form"
+   ],
+   "chosen": "avyayasya asya means ‘of this changeless/undeclining [Brahman]’.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "avyayasya na vyeti upacayāpacayau na yāti iti avyayaṃ tasya avyayasya |",
+     "translation": "‘Of the avyaya’: it does not pass away; it does not undergo increase and decrease—therefore it is avyaya; of that avyaya."
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "naitat sadākhyaṃ brahma svena rūpeṇa vyeti vyabhicarati, niravayavatvāt, dehādivat |",
+     "translation": "This Brahman called sat does not depart from, or deviate from, its own form, because it is partless, unlike body and the like."
+    },
+    {
+     "lines": [
+      10
+     ],
+     "quote": "ato 'vyayasya asya brahmaṇaḥ vināśaṃ na kaścit kartum arhati, na kaścit atmānaṃ vināśayituṃ śaknoti īśvaro 'pi |",
+     "translation": "Therefore no one is able to bring about the destruction of this avyaya Brahman; no one can destroy the Self, not even the Lord."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The noun is not restricted here to bodily death; Śaṅkara glosses it as adarśana and abhāva and applies it to the impossibility of destroying Brahman/the Self.",
+   "options_considered": [
+    "‘death’",
+    "‘decay’",
+    "‘destruction/disappearance/absence’"
+   ],
+   "chosen": "vināśam is rendered ‘destruction’ with the nuance ‘disappearance/absence’.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "vināśam adarśanam abhāvam |",
+     "translation": "‘Destruction’: disappearance, absence."
+    },
+    {
+     "lines": [
+      10
+     ],
+     "quote": "avyayasya asya brahmaṇaḥ vināśaṃ na kaścit kartum arhati",
+     "translation": "No one is able to bring about the destruction of this changeless Brahman."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "With the infinitive kartum, arhati can be read several ways, but Śaṅkara glosses it with śaknoti, ‘is able,’ and explicitly includes even īśvara in the negated scope.",
+   "options_considered": [
+    "‘no one deserves to do’",
+    "‘no one ought to do’",
+    "‘no one is able/can do’"
+   ],
+   "chosen": "na kaścit kartum arhati means ‘no one can bring about,’ not ‘no one deserves/ought to bring about’.",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "na kaścit atmānaṃ vināśayituṃ śaknoti īśvaro 'pi |",
+     "translation": "No one can destroy the Self, even the Lord."
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "ātmā hi brahma, svātmani ca kriyāvirodhāt ||bhgs_2.17||",
+     "translation": "For the Self is Brahman, and action with regard to oneself is contradictory."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "But know that to be imperishable\nby which this whole world is pervaded.\nNo one can bring about the destruction\nof this changeless Brahman (brahman), the Self (ātman).",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave tu as a negligible ‘indeed’; Śaṅkara makes it contrastive with asat.",
+  "It might fail to identify the ‘by which’ as Brahman called sat and the ‘this’ as the whole world; Śaṅkara states both.",
+  "It might translate avyaya simply as another word for ‘imperishable’; Śaṅkara narrows it to absence of increase, decrease, and deviation from its own form.",
+  "It might render arhati morally as ‘ought/deserves’; Śaṅkara glosses it by śaknoti, ‘can/is able,’ and extends the impossibility even to īśvara."
+ ],
+ "analyzer_disagreements": [
+  "ByT5’s api_seg omits avināśi, but the printed unit and ByT5 local_S/local_SLM include it; the analysis follows the printed unit.",
+  "ByT5 gives tatam with lemma tan; per the requested subanta format it is analyzed with the nominal participial stem tata, with the note that it is a past passive participle from √tan.",
+  "ByT5’s segmented/sandhi output has kaścid before kartum, but the printed unit has kaścit and regular sandhi before k does not voice final t; surface_in_sandhi is therefore kept as kaścit."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5563,
+   "completion_tokens": 11137,
+   "reasoning_tokens": 7682
+  },
+  "est_cost": 0.1837,
+  "reverified": true
+ },
+ "mula": "avināśi tu tad viddhi yena sarvam idaṃ tatam | vināśam avyayasyāsya na kaścit kartum arhati",
+ "commentary_lines": [
+  "avināśi na vinaṣṭuṃ śīlaṃ yasyeti |",
+  "tu-śabdo 'sato viśeṣaṇārthaḥ |",
+  "tat viddhi vijānīhi |",
+  "kim ? yena sarvam idaṃ jagat tataṃ vyāptaṃ sad-ākhyena brahmaṇā sākāśam, ākāśenaiva ghaṭādayaḥ |",
+  "vināśam adarśanam abhāvam |",
+  "avyayasya na vyeti upacayāpacayau na yāti iti avyayaṃ tasya avyayasya |",
+  "naitat sadākhyaṃ brahma svena rūpeṇa vyeti vyabhicarati, niravayavatvāt, dehādivat |",
+  "nāpy ātmīyena, ātmīyābhāvāt |",
+  "yathā devadatto dhana-hānyā vyeti, na tu evaṃ brahma vyeti |",
+  "ato 'vyayasya asya brahmaṇaḥ vināśaṃ na kaścit kartum arhati, na kaścit atmānaṃ vināśayituṃ śaknoti īśvaro 'pi |",
+  "ātmā hi brahma, svātmani ca kriyāvirodhāt ||bhgs_2.17||",
+  "kiṃ punas tad asat yat svātma-sattāṃ vyabhicaratīti, ucyate -"
+ ]
+}

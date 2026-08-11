@@ -1,0 +1,417 @@
+{
+ "unit": "2.49",
+ "analysis": [
+  {
+   "surface": "dūreṇa",
+   "surface_in_sandhi": "dūreṇa",
+   "lemma": "dūra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial instrumental: “by far, at a great remove,” per the bhāṣya gloss.",
+   "verification": {
+    "status": "pass",
+    "detail": "dūra Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hy",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic causal/emphatic particle; rendered “indeed/for.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "avaram",
+   "surface_in_sandhi": "avaraṃ",
+   "lemma": "avara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicative adjective agreeing with karma; neuter nominative singular, though the form is also accusative.",
+   "verification": {
+    "status": "pass",
+    "detail": "avara Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "karma",
+   "surface_in_sandhi": "karma",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of an implied ‘is’; Śaṅkara specifies it as action performed by a fruit-seeker.",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "buddhiyogāt",
+   "surface_in_sandhi": "buddhi-yogād",
+   "lemma": "buddhiyoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "buddhyā yogaḥ; bhāṣya-vivakṣayā samatva-buddhyā yuktaṃ karma",
+    "members": [
+     "buddhi",
+     "yoga"
+    ]
+   },
+   "note": "Ablative of comparison after avaram; Śaṅkara construes the term as karma endowed with the buddhi of equanimity. Surface is given without the editorial hyphen for derivational verification; the printed sandhi form has a hyphen.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem buddhiyoga as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "dhanaṃjaya",
+   "surface_in_sandhi": "dhanaṃjaya",
+   "lemma": "dhanaṃjaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dhanaṃ jayati iti dhanaṃjayaḥ",
+    "members": [
+     "dhana",
+     "jaya"
+    ]
+   },
+   "note": "Proper name of Arjuna, vocative; literally ‘winner of wealth.’",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dhanaṃjaya as Pum/Sambodhana/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "buddhau",
+   "surface_in_sandhi": "buddhau",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative with śaraṇam anviccha: “seek refuge in insight”; Śaṅkara allows yoga-oriented buddhi or the Sāṃkhya-buddhi born from its maturation.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "śaraṇam",
+   "surface_in_sandhi": "śaraṇam",
+   "lemma": "śaraṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of anviccha; glossed as āśraya, the ground for obtaining fearlessness.",
+   "verification": {
+    "status": "pass",
+    "detail": "śaraṇa Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "anviccha",
+   "surface_in_sandhi": "anviccha",
+   "lemma": "iṣ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "iṣ",
+    "prefixes": [
+     "anu"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Imperative 2nd singular, ‘seek’; Śaṅkara glosses prārthayasva.",
+   "verification": {
+    "status": "pass",
+    "detail": "anu-iṣ Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kṛpaṇāḥ",
+   "surface_in_sandhi": "kṛpaṇāḥ",
+   "lemma": "kṛpaṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative plural used substantively for the doers motivated by fruit; glossed dīnāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "kṛpaṇa Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "phalahetavaḥ",
+   "surface_in_sandhi": "phala-hetavaḥ",
+   "lemma": "phalahetu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "phalaṃ hetur yeṣām te",
+    "members": [
+     "phala",
+     "hetu"
+    ]
+   },
+   "note": "Substantive masculine plural: not simply ‘causes of fruit,’ but people whose motive is fruit, as Śaṅkara’s phala-tṛṣṇā-prayuktāḥ shows. Surface is given without the editorial hyphen for derivational verification; the printed form has a hyphen.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem phalahetu as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse is not merely saying that ‘action’ in general is low. Śaṅkara glosses dūreṇa as an extreme separation, avaram as low/inferior, and specifies karma as action performed by one who seeks fruit.",
+   "options_considered": [
+    "‘remote action is lower’",
+    "‘all action whatsoever is condemned as low’",
+    "‘action performed by a fruit-seeker is far inferior’"
+   ],
+   "chosen": "dūreṇa hy avaraṃ karma = ‘action done for fruit is indeed far inferior’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "dūreṇa ativiprakarṣeṇa atyantam eva hy avaram adhamaṃ nikṛṣṭaṃ karma phalārthinā kriyamāṇaṃ",
+     "translation": "‘dūreṇa’ means ‘by an extreme remoteness, utterly’; ‘avaram’ means ‘lowest, inferior’; the action is one performed by a person seeking its fruit."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The ablative is comparative with avaram. Śaṅkara does not take buddhi-yoga here as merely abstract intellectual concentration; he glosses it as karma endowed with samatva-buddhi, the insight of equanimity.",
+   "options_considered": [
+    "‘than knowledge/theory’",
+    "‘than meditation in general’",
+    "‘than action joined with equanimity-insight’"
+   ],
+   "chosen": "buddhi-yogāt = ‘than action joined with the insight of equanimity’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "buddhi-yogāt samatva-buddhi-yuktāt karmaṇaḥ",
+     "translation": "‘from buddhi-yoga’ means ‘from action endowed with the buddhi of equanimity.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The locative buddhau is the locus in which refuge is to be sought; śaraṇam is not a physical refuge but āśraya, the cause of attaining fearlessness. Śaṅkara further identifies the relevant buddhi as either yoga-oriented buddhi or the Sāṃkhya-buddhi born from its maturation, culminating in refuge in ultimate knowledge.",
+   "options_considered": [
+    "‘with your intellect, seek refuge elsewhere’",
+    "‘seek physical shelter in intelligence’",
+    "‘seek refuge in insight/knowledge itself’"
+   ],
+   "chosen": "buddhau śaraṇam anviccha = ‘seek refuge in insight’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yoga-viṣayāyāṃ buddhau tat-paripāka-jāyāṃ vā sāṃkhya-buddhau śaraṇam āśrayam abhaya-prāpti-kāraṇam anviccha prārthayasva, paramārtha-jñāna-śaraṇo bhavety arthaḥ",
+     "translation": "In the buddhi whose object is yoga, or in the Sāṃkhya-buddhi born from its maturation, seek refuge—an āśraya, the cause for obtaining fearlessness; the meaning is: become one whose refuge is knowledge of ultimate reality."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The compound phala-hetavaḥ is taken substantively of people impelled by desire for fruit, not as ‘causes that produce fruits.’ Śaṅkara glosses kṛpaṇāḥ as dīnāḥ and phala-hetavaḥ as those prompted by thirst for results.",
+   "options_considered": [
+    "‘the fruits are the causes’",
+    "‘those who cause fruits’",
+    "‘those for whom fruit is the motive; fruit-thirst-driven people’"
+   ],
+   "chosen": "kṛpaṇāḥ phala-hetavaḥ = ‘wretched are those whose motive is fruit’",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "kṛpaṇāḥ dīnāḥ phala-hetavaḥ phala-tṛṣṇā-prayuktāḥ santaḥ",
+     "translation": "‘kṛpaṇāḥ’ means ‘wretched’; ‘phala-hetavaḥ’ means ‘being impelled by thirst for fruit.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yo vā etad akṣaraṃ gārgy aviditvāsmāl lokāt praiti sa kṛpaṇaḥ [bau 3.8.10] iti śruteḥ",
+     "translation": "Śruti says: ‘Whoever, O Gārgī, departs from this world without knowing this imperishable is kṛpaṇa.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The vocative force is confirmed explicitly by Śaṅkara’s he dhanaṃjaya.",
+   "options_considered": [
+    "proper name in apposition without address",
+    "vocative address, ‘O Dhanaṃjaya’"
+   ],
+   "chosen": "dhanaṃjaya is vocative address to Arjuna",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "he dhanaṃjaya",
+     "translation": "O Dhanaṃjaya."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Indeed, action done by one who seeks its fruit is far inferior\n\nto action joined with the insight of equanimity (buddhi-yoga), O Dhanaṃjaya.\n\nSeek refuge in insight (buddhi);\n\nwretched are those whose motive is fruit.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render buddhi-yogāt as simply ‘than knowledge’ or ‘than intellectual discipline’; Śaṅkara makes it action endowed with the insight of equanimity.",
+  "It might treat karma as all action indiscriminately; Śaṅkara narrows the condemned action to that performed by a fruit-seeker.",
+  "It might translate phala-hetavaḥ literally as ‘causes of fruit’; Śaṅkara interprets it as persons impelled by thirst for fruit.",
+  "It might miss that buddhau śaraṇam means taking refuge in insight/ultimate knowledge as an abhaya-producing āśraya, not merely ‘use your intellect to seek shelter.’"
+ ],
+ "analyzer_disagreements": [
+  "anviccha: ByT5 gives lemma anviṣ; the analysis here separates the preverb and root as required: root iṣ with prefix anu.",
+  "phala-hetavaḥ: ByT5 only segments phala + hetu; Śaṅkara’s gloss requires a bahuvrīhi/substantive sense, ‘those whose motive is fruit / who are impelled by thirst for fruit,’ not a simple tatpuruṣa ‘causes of fruit’.",
+  "buddhiyogāt and phalahetavaḥ: revised the pausal surfaces to remove editorial hyphens, matching the derivable compound forms while keeping the printed hyphenated forms in surface_in_sandhi."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11875,
+   "completion_tokens": 12273,
+   "reasoning_tokens": 6653
+  },
+  "est_cost": 0.2197,
+  "reverified": true
+ },
+ "mula": "dūreṇa hy avaraṃ karma buddhi-yogād dhanaṃjaya | buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ",
+ "commentary_lines": [
+  "dūreṇa ativiprakarṣeṇa atyantam eva hy avaram adhamaṃ nikṛṣṭaṃ karma phalārthinā kriyamāṇaṃ buddhi-yogāt samatva-buddhi-yuktāt karmaṇaḥ, janma-maraṇādi-hetutvāt |",
+  "he dhanaṃjaya, yata evaṃ tataḥ yoga-viṣayāyāṃ buddhau tat-paripāka-jāyāṃ vā sāṃkhya-buddhau śaraṇam āśrayam abhaya-prāpti-kāraṇam anviccha prārthayasva, paramārtha-jñāna-śaraṇo bhavety arthaḥ |",
+  "yato 'varaṃ karma kurvāṇāḥ kṛpaṇāḥ dīnāḥ phala-hetavaḥ phala-tṛṣṇā-prayuktāḥ santaḥ, yo vā etad akṣaraṃ gārgy aviditvāsmāl lokāt praiti sa kṛpaṇaḥ [bau 3.8.10] iti śruteḥ ||bhgs_2.49||",
+  "samatva-buddhi-yuktaḥ san svadharmam anutiṣṭhan yat phalaṃ prāpnoti tac chṛṇu --"
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "unit": "1.23",
+ "analysis": [
+  {
+   "surface": "īśvarapraṇidhānāt",
+   "surface_in_sandhi": "īśvarapraṇidhānād",
+   "lemma": "īśvarapraṇidhāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "īśvare praṇidhānam",
+    "members": [
+     "īśvara",
+     "praṇidhāna"
+    ]
+   },
+   "note": "Final -t of the ablative singular appears as -d before the voiced v of vā. The compound is construed as devotion directed toward Īśvara, not as Īśvara’s own act.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem īśvarapraṇidhāna as Napumsaka/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Disjunctive indeclinable particle, ‘or’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate īśvarapraṇidhānāt as ‘through devotion to Īśvara’.",
+   "options_considered": [
+    "praṇidhāna = fixing/applying/concentration",
+    "praṇidhāna = exertion/endeavour",
+    "praṇidhāna = special devotion"
+   ],
+   "chosen": "praṇidhāna is ‘devotion’, specifically bhaktiviśeṣa, not merely ‘fixing’, ‘application’, or ‘exertion’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "praṇidhānād bhaktiviśeṣād āvarjita īśvaras tam a",
+     "translation": "‘By praṇidhāna, by a special devotion, Īśvara, won over, [him …]’; the supplied bhāṣya line breaks off at tam a."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Analyze īśvarapraṇidhāna as a tatpuruṣa: īśvare praṇidhānam, ‘devotion directed to Īśvara’.",
+   "options_considered": [
+    "īśvarasya praṇidhānam, ‘Īśvara’s own fixing/devotion’",
+    "īśvara-praṇidhāna as a vague karmadhāraya",
+    "īśvare praṇidhānam, devotion directed toward Īśvara"
+   ],
+   "chosen": "īśvara is the object/recipient of the devotion expressed by the compound.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "praṇidhānād bhaktiviśeṣād āvarjita īśvaras tam a",
+     "translation": "The bhāṣya glosses praṇidhāna as a special devotion and says Īśvara is ‘won over’, indicating that Īśvara is the one toward whom the devotion is directed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Render the pañcamī īśvarapraṇidhānāt as ‘through devotion to Īśvara’.",
+   "options_considered": [
+    "literal source: ‘from devotion’",
+    "causal/means: ‘through/by devotion’"
+   ],
+   "chosen": "The ablative singular expresses means/cause: ‘through’ or ‘by reason of’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "praṇidhānād bhaktiviśeṣād",
+     "translation": "The bhāṣya repeats the ablative: ‘by/from praṇidhāna, by/from a special devotion’."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Place ‘or’ first in English to match the sūtra’s alternative construction: ‘Or, through …’.",
+   "options_considered": [
+    "vā as a nominal form such as ‘arrow’ or ‘going’",
+    "vā as the disjunctive particle ‘or’"
+   ],
+   "chosen": "vā is the indeclinable disjunctive ‘or’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Or, through devotion to Īśvara (īśvarapraṇidhāna).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render praṇidhāna mechanically as ‘fixing’ or ‘application’; Vyāsa glosses it as bhaktiviśeṣa, a special devotion.",
+  "One might misconstrue īśvarapraṇidhāna as ‘Īśvara’s praṇidhāna’; the bhāṣya’s ‘Īśvara, won over’ points to devotion directed toward Īśvara.",
+  "The sūtra is elliptical; ‘vā’ marks this as an alternative means, so the English should not make it a standalone nominal statement such as ‘devotion to Īśvara or …’."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [
+  "The provided bhāṣya line is truncated after ‘tam a’; no further action ascribed to Īśvara can be safely included from this evidence."
+ ],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2370,
+   "completion_tokens": 4221,
+   "reasoning_tokens": 3070
+  },
+  "est_cost": 0.0704,
+  "reverified": true
+ },
+ "mula": "īśvarapraṇidhānād vā",
+ "commentary_lines": [
+  "praṇidhānād bhaktiviśeṣād āvarjita īśvaras tam a"
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "unit": "1.4",
+ "analysis": [
+  {
+   "surface": "vṛttisārūpyam",
+   "surface_in_sandhi": "vṛttisārūpyam",
+   "lemma": "vṛttisārūpya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vṛttīnām sārūpyam",
+    "members": [
+     "vṛtti",
+     "sārūpya"
+    ]
+   },
+   "note": "Whole inflected compound stem; the -am form is syncretic nom./acc. sg., but Prathama is chosen for the elliptical existential nominal sentence: “there is conformity.” Vyāsa identifies the vṛtti-s here as citta-vṛtti-s.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vṛttisārūpya as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "itaratra",
+   "surface_in_sandhi": "itaratra",
+   "lemma": "itaratra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Avyaya. The commentary’s vyutthāne fixes the sense as a contrasting state/time, not a merely spatial “elsewhere.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The adverb is not taken spatially as “elsewhere.” Vyāsa glosses the condition introduced by itaratra with vyutthāne, the state other than the restrained state of the preceding sūtra.",
+   "options_considered": [
+    "spatial “elsewhere”",
+    "general “on the other hand”",
+    "state/time contrast: “at other times, in vyutthāna”"
+   ],
+   "chosen": "itaratra = “at other times / in the other condition,” namely vyutthāna.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vyutthāne yāś cittavṛttayas tadaviśiṣṭavṛttiḥ puruṣaḥ.",
+     "translation": "In the emerged/active state, whatever mental modifications there are, the puruṣa’s functioning is not distinguished from those."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The first member of the compound is not rendered in the broad dictionary senses “conduct,” “livelihood,” or “usage”; Vyāsa explicitly identifies the relevant vṛtti-s as cittavṛttayaḥ.",
+   "options_considered": [
+    "conduct or mode of life",
+    "grammatical/common usage",
+    "mental modifications of citta"
+   ],
+   "chosen": "vṛtti = citta-vṛtti, “mental modification.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vyutthāne yāś cittavṛttayas tadaviśiṣṭavṛttiḥ puruṣaḥ.",
+     "translation": "In the emerged/active state, whatever mental modifications there are, the puruṣa’s functioning is not distinguished from those."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Sārūpya is read as conformity/assimilation to those vṛtti-s, not as mere physical resemblance or as the later devotional liberation-grade. Vyāsa explains it through tad-aviśiṣṭa-vṛttiḥ, “having a functioning not distinguished from those.”",
+   "options_considered": [
+    "literal sameness of visible shape",
+    "devotional-mukti sārūpya",
+    "conformity/non-distinction with the mental modifications"
+   ],
+   "chosen": "vṛtti-sārūpya = “conformity with the vṛtti-s,” a tatpuruṣa relation: vṛttīnām sārūpyam.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vyutthāne yāś cittavṛttayas tadaviśiṣṭavṛttiḥ puruṣaḥ.",
+     "translation": "In the emerged/active state, whatever mental modifications there are, the puruṣa’s functioning is not distinguished from those."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The translation includes “[for the puruṣa]” because Vyāsa makes puruṣaḥ the bearer of the non-distinguished vṛtti and describes citta as the object/possession serving puruṣa, its master. This avoids making the sūtra say merely that the mind resembles its own modifications.",
+   "options_considered": [
+    "the mind alone is the locus",
+    "an unqualified physical transformation of puruṣa",
+    "the puruṣa is the apparent locus of conformity with citta-vṛtti-s"
+   ],
+   "chosen": "The implicit locus is the puruṣa, supplied from the commentary and context.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vyutthāne yāś cittavṛttayas tadaviśiṣṭavṛttiḥ puruṣaḥ.",
+     "translation": "In the emerged/active state, whatever mental modifications there are, the puruṣa’s functioning is not distinguished from those."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "cittam ayaskāntamaṇikalpaṃ saṃnidhimātropakāri dṛśyatvena svaṃ bhavati puruṣasya svāminaḥ.",
+     "translation": "Citta, like a magnet-stone, helpful by mere proximity, as something seen, becomes the own/possession of puruṣa, its master."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "At other times, [for the puruṣa] there is conformity with the mental modifications (vṛtti-s).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take itaratra as spatial “elsewhere”; Vyāsa’s vyutthāne makes it a state/time contrast.",
+  "It might render vṛtti with a broad MW sense such as “conduct” or “usage”; Vyāsa specifies cittavṛttayaḥ, mental modifications.",
+  "It might understand sārūpya as literal sameness of shape or as a liberation term; Vyāsa glosses the point as tad-aviśiṣṭa-vṛttiḥ, non-distinguished functioning with respect to the citta-vṛtti-s.",
+  "It might omit the implicit puruṣa; Vyāsa explicitly supplies puruṣaḥ and explains citta as serving puruṣa."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments vṛtti + sārūpyam; I report the printed vṛttisārūpyam as one inflected compound word with vṛtti and sārūpya as its members."
+ ],
+ "open_questions": [
+  "The supplied commentary breaks off at line 4 (“tasmāc cittavṛttibod…”), so no argument is drawn from that incomplete line."
+ ],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2533,
+   "completion_tokens": 9212,
+   "reasoning_tokens": 7667
+  },
+  "est_cost": 0.1458,
+  "reverified": true
+ },
+ "mula": "vṛttisārūpyam itaratra",
+ "commentary_lines": [
+  "vyutthāne yāś cittavṛttayas tadaviśiṣṭavṛttiḥ puruṣaḥ.",
+  "tathā ca sūtram ekam eva darśanaṃ khyātir eva darśanam iti.",
+  "cittam ayaskāntamaṇikalpaṃ saṃnidhimātropakāri dṛśyatvena svaṃ bhavati puruṣasya svāminaḥ.",
+  "tasmāc cittavṛttibod"
+ ]
+}

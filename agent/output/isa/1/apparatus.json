@@ -613,7 +613,8 @@
    "completion_tokens": 11436,
    "reasoning_tokens": 6654
   },
-  "est_cost": 0.1899
+  "est_cost": 0.1899,
+  "reverified": true
  },
  "mula": "oṃ īśā vāsyam idaṃ sarvaṃ yat kiñca jagatyāṃ jagat | tena tyaktena bhuñjīthā mā gṛdhaḥ kasya sviddhanam",
  "commentary_lines": [

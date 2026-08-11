@@ -1,0 +1,456 @@
+{
+ "unit": "2.71",
+ "analysis": [
+  {
+   "surface": "vihāya",
+   "surface_in_sandhi": "vihāya",
+   "lemma": "hā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "hā",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive/gerund of vi-√hā, glossed by the commentary as parityajya, “having abandoned.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kāmān",
+   "surface_in_sandhi": "kāmān",
+   "lemma": "kāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "kāma Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yaḥ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun, correlated with saḥ later in the verse.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvān",
+   "surface_in_sandhi": "sarvān",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative plural agreeing with kāmān; the commentary takes it as totality: aśeṣataḥ kārtsnyena.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pumān",
+   "surface_in_sandhi": "pumāṃś",
+   "lemma": "pumāṃs",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative singular pumān appears as pumāṃś before c in carati by external sandhi. Revised from lemma puṃs to the strong-case stem pumāṃs, since the verifier rejects puṃs as deriving puṃḥ for this claim.",
+   "verification": {
+    "status": "fail",
+    "detail": "pumāṃs Pum/Prathama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "puṃḥ"
+    ]
+   }
+  },
+  {
+   "surface": "carati",
+   "surface_in_sandhi": "carati",
+   "lemma": "car",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "car",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "The commentary glosses the sense as paryaṭati, “wanders/moves about,” not merely “behaves.”",
+   "verification": {
+    "status": "pass",
+    "detail": "car Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niḥspṛhaḥ",
+   "surface_in_sandhi": "niḥspṛhaḥ",
+   "lemma": "niḥspṛha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "nirgatā spṛhā yasya",
+    "members": [
+     "nis",
+     "spṛhā"
+    ]
+   },
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem niḥspṛha as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nirmamaḥ",
+   "surface_in_sandhi": "nirmamo",
+   "lemma": "nirmama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "mama idam iti abhiniveśo nāsti yasya",
+    "members": [
+     "nis",
+     "mama"
+    ]
+   },
+   "note": "Printed nirmamo before following voiced n by visarga sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirmama as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nirahaṃkāraḥ",
+   "surface_in_sandhi": "nirahaṃkāraḥ",
+   "lemma": "nirahaṃkāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "ahaṃkāro nāsti yasya",
+    "members": [
+     "nis",
+     "ahaṃkāra"
+    ]
+   },
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirahaṃkāra as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative of yaḥ. Pausal saḥ is printed sa before śāntim.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śāntim",
+   "surface_in_sandhi": "śāntim",
+   "lemma": "śānti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of adhigacchati.",
+   "verification": {
+    "status": "pass",
+    "detail": "śānti Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "adhigacchati",
+   "surface_in_sandhi": "adhigacchati",
+   "lemma": "gam",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "gam",
+    "prefixes": [
+     "adhi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Here adhi-√gam means “attains/obtains,” as glossed by prāpnoti.",
+   "verification": {
+    "status": "pass",
+    "detail": "adhi-gam Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The absolutive is not taken as “having gone apart” but as vi-√hā in the sense “relinquishing.” sarvān is construed with kāmān and strengthened as complete, exhaustive abandonment.",
+   "options_considered": [
+    "vihāya as “having abandoned/relinquished”",
+    "vihāya as “having gone apart/opened”",
+    "sarvān as merely loose emphasis rather than exhaustive qualification of kāmān"
+   ],
+   "chosen": "vihāya = “having abandoned/renounced,” and sarvān qualifies kāmān as total abandonment.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vihāya parityajya kāmān yaḥ saṃnyāsī pumān sarvān aśeṣataḥ kārtsnyena carati",
+     "translation": "‘vihāya’ means ‘having cast aside’; the renunciant man abandons desires, all of them, without remainder, in their entirety."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The subject is the renunciant man, and carati is interpreted as paryaṭati, not as a general ethical “behaves.” The commentary adds that only the activity needed for bare life remains.",
+   "options_considered": [
+    "“moves about/wanders”",
+    "“acts/conducts himself”",
+    "“practises”"
+   ],
+   "chosen": "pumān carati = “the man moves about/wanders,” with only life-maintaining activity left.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yaḥ saṃnyāsī pumān ... carati, jīvana-mātra-ceṣṭāśeṣaḥ paryaṭatīty arthaḥ",
+     "translation": "The man is a renunciant; ‘carati’ means ‘wanders,’ with only the activity for mere living left."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The term is not just generic desirelessness; Śaṅkara specifies that longing has departed even with respect to the mere maintenance of body and life.",
+   "options_considered": [
+    "generic “without desire”",
+    "specific “without longing even for mere bodily life”"
+   ],
+   "chosen": "niḥspṛhaḥ = free from longing even for mere bodily life.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "niḥspṛhaḥ śarīra-jīvana-mātre 'pi nirgatā spṛhā yasya saḥ niḥspṛhaḥ san",
+     "translation": "‘niḥspṛha’ is he whose longing has gone away even regarding mere bodily life."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The translation avoids a merely modern “unselfish”; the commentary defines the word through absence of mamedam-abhiniveśa, possessive insistence, even in relation to requisites forced by bodily survival.",
+   "options_considered": [
+    "“unselfish/disinterested”",
+    "“free from mine-making/possessive fixation”"
+   ],
+   "chosen": "nirmamaḥ = free from the fixation ‘this is mine,’ even toward minimal life-imposed possessions.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "nirmamaḥ śarīra-jīvana-mātrākṣipta-parigrahe 'pi mamedam ity abhiniveśa-varjitaḥ",
+     "translation": "‘nirmama’ means devoid of the fixation ‘this is mine,’ even regarding possessions taken up merely because of bodily life."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The commentary gives a precise target: not metaphysical individuality in general, but self-regard or self-estimation caused by learning and the like.",
+   "options_considered": [
+    "“without ego” in a broad psychological sense",
+    "“free from self-conceit/self-estimation” as glossed by Śaṅkara"
+   ],
+   "chosen": "nirahaṃkāraḥ = devoid of self-conceit/ego-making based on such causes as being learned.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "nirahaṃkāraḥ vidyāvattvādi-nimittātma-saṃbhāvanā-rahitaḥ ity etat",
+     "translation": "‘nirahaṃkāra’ means devoid of self-estimation on account of being learned and the like."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The object śānti is not mere calmness. Śaṅkara defines it as the nirvāṇa called cessation of all suffering of saṃsāra, and glosses adhigacchati by prāpnoti, ‘attains.’",
+   "options_considered": [
+    "ordinary tranquility or mental calm",
+    "liberating peace/nirvāṇa as cessation of all saṃsāra-suffering",
+    "adhigacchati as “goes to” rather than “attains/obtains”"
+   ],
+   "chosen": "śāntim adhigacchati = attains peace, namely nirvāṇa, the cessation of all saṃsāra-suffering; becomes Brahman.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "śāntiṃ sarva-saṃsāra-duḥkhoparama-lakṣaṇāṃ nirvāṇākhyām adhigacchati prāpnoti brahma-bhūto bhavati ity arthaḥ",
+     "translation": "He attains peace, called nirvāṇa, characterized by the cessation of all suffering of saṃsāra; ‘adhigacchati’ means ‘obtains,’ that is, becomes Brahman."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Having abandoned all desires, the man who wanders free from longing—\nwith only the activity needed for bare life remaining—\nfree from mine-making, free from ego-making:\nhe attains peace (śānti), the nirvāṇa that is the cessation of all suffering in saṃsāra.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render carati vaguely as “acts” or “lives”; Śaṅkara specifically takes it as wandering with only life-maintaining activity left.",
+  "It might flatten niḥspṛhaḥ, nirmamaḥ, and nirahaṃkāraḥ into generic “desireless, unselfish, egoless”; the bhāṣya gives more technical limits: no longing even for bodily life, no ‘mine’ fixation even toward minimal possessions, and no self-conceit based on learning and the like.",
+  "It might take śānti as ordinary peace of mind; Śaṅkara identifies it with nirvāṇa, the cessation of all saṃsāra-suffering, and with becoming Brahman."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives vihāya with lemma vihā; here it is represented according to the requested verbal analysis as bare root hā with prefix vi, while remaining an indeclinable absolutive.",
+  "ByT5 gives pumān with lemma puṃs; revised to pumāṃs, the strong-case stem yielding nominative singular pumān, in response to the verifier rejection of puṃs for this form.",
+  "ByT5 gives adhigacchati with lemma adhigam; here the finite verb is analyzed as bare root gam with prefix adhi, per the requested format.",
+  "ByT5 normalizes nirmamaḥ in segmentation, but the unit text’s sandhi form is nirmamo before nirahaṃkāraḥ; the pausal form is nirmamaḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12309,
+   "completion_tokens": 9358,
+   "reasoning_tokens": 3585
+  },
+  "est_cost": 0.1773,
+  "reverified": true
+ },
+ "mula": "vihāya kāmān yaḥ sarvān pumāṃś carati niḥspṛhaḥ | nirmamo nirahaṃkāraḥ sa śāntim adhigacchati",
+ "commentary_lines": [
+  "vihāya parityajya kāmān yaḥ saṃnyāsī pumān sarvān aśeṣataḥ kārtsnyena carati, jīvana-mātra-ceṣṭāśeṣaḥ paryaṭatīty arthaḥ |",
+  "niḥspṛhaḥ śarīra-jīvana-mātre 'pi nirgatā spṛhā yasya saḥ niḥspṛhaḥ san nirmamaḥ śarīra-jīvana-mātrākṣipta-parigrahe 'pi mamedam ity abhiniveśa-varjitaḥ, nirahaṃkāraḥ vidyāvattvādi-nimittātma-saṃbhāvanā-rahitaḥ ity etat |",
+  "sa evaṃbhūtaḥ sthita-prajñaḥ brahmavit śāntiṃ sarva-saṃsāra-duḥkhoparama-lakṣaṇāṃ nirvāṇākhyām adhigacchati prāpnoti brahma-bhūto bhavati ity arthaḥ ||bhgs_2.71||",
+  "saiṣā jñāna-niṣṭhā stūyate -"
+ ]
+}

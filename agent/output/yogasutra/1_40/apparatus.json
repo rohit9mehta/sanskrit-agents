@@ -1,0 +1,214 @@
+{
+ "unit": "1.40",
+ "analysis": [
+  {
+   "surface": "paramāṇuparamamahattvāntaḥ",
+   "surface_in_sandhi": "paramāṇuparamamahattvānto",
+   "lemma": "paramāṇuparamamahattvānta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "paramāṇuś ca parama-mahattvaṃ ca antau yasya saḥ",
+    "members": [
+     "paramāṇu",
+     "parama-mahattva",
+     "anta"
+    ]
+   },
+   "note": "Complex compound: paramamahattva is taken as parama + mahattva, “supreme magnitude/greatness,” not as independent tva; the whole agrees with vaśīkāraḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem paramāṇuparamamahattvānta as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asya",
+   "surface_in_sandhi": "'sya",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The genitive pronoun refers to citta/cetas, supplied by the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vaśīkāraḥ",
+   "surface_in_sandhi": "vaśīkāraḥ",
+   "lemma": "vaśīkāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interpreted by the bhāṣya as the mind’s unobstructed ranging over the two extremes.",
+   "verification": {
+    "status": "pass",
+    "detail": "vaśīkāra Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is read as a bahuvrīhi adjective of vaśīkāraḥ: ‘whose two ends are the atom and supreme magnitude.’ The bhāṣya explicitly splits the range into subtle and gross, with paramāṇu as one end and paramamahattva as the other, then calls them ‘both limits’ (ubhayī koṭi).",
+   "options_considered": [
+    "A bahuvrīhi: ‘having the atom and supreme magnitude as its limits.’",
+    "A tatpuruṣa: ‘the limit of atom-and-supreme-magnitude.’",
+    "A loose adverbial range: ‘from the atom up to supreme magnitude.’"
+   ],
+   "chosen": "paramāṇu and parama-mahattva are the two limiting extremes of the mastery, not a single object called ‘atom-supreme-greatness’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sūkṣme niviśamānasya paramāṇvantaṃ sthitipadaṃ labhata iti.",
+     "translation": "When it enters into the subtle, it obtains a station of steadiness ending in the atom."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sthūle niviśamānasya paramamahattvāntaṃ sthitipadaṃ cittasya.",
+     "translation": "When it enters into the gross, there is for the mind a station of steadiness ending in supreme magnitude."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "evaṃ tām ubhayīṃ koṭim anudhāvato yo 'syāpratīghātaḥ sa paro vaśīkāraḥ.",
+     "translation": "Thus, as it runs along both those limits, its non-obstruction is supreme mastery."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The pronoun is construed with citta/cetas from the surrounding bhāṣya. The genitive is subjective/possessive: the mind’s mastery or non-impediment, not control exercised over the mind by someone else.",
+   "options_considered": [
+    "asya = ‘of this mind/citta.’",
+    "asya = ‘of this yogin.’",
+    "asya = objective genitive, ‘mastery over this.’"
+   ],
+   "chosen": "asya means ‘of this mind/citta,’ not ‘of this yogin’ as the primary syntactic referent.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sthūle niviśamānasya paramamahattvāntaṃ sthitipadaṃ cittasya.",
+     "translation": "When it enters into the gross, there is for the mind a station of steadiness ending in supreme magnitude."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yo 'syāpratīghātaḥ sa paro vaśīkāraḥ.",
+     "translation": "Its non-obstruction is supreme mastery."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tadvaśīkārāt paripūrṇaṃ yoginaś cittaṃ na punar abhyāsakṛtaṃ parikarmāpekṣata iti.",
+     "translation": "Because of that mastery, the yogin’s mind is complete and no longer depends on cultivation produced by practice."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The translation keeps ‘mastery’ but constrains it by Vyāsa’s definition: yo 'syāpratīghātaḥ sa paro vaśīkāraḥ, ‘its non-obstruction is supreme mastery.’",
+   "options_considered": [
+    "vaśīkāraḥ as ordinary domination/control.",
+    "vaśīkāraḥ as the mind’s unobstructed mastery over its range of objects."
+   ],
+   "chosen": "vaśīkāraḥ is ‘mastery’ understood as unobstructed capacity of the mind to range over the two extremes.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "evaṃ tām ubhayīṃ koṭim anudhāvato yo 'syāpratīghātaḥ sa paro vaśīkāraḥ.",
+     "translation": "Thus, as it runs along both those limits, its non-obstruction is supreme mastery."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tadvaśīkārāt paripūrṇaṃ yoginaś cittaṃ na punar abhyāsakṛtaṃ parikarmāpekṣata iti.",
+     "translation": "Because of that mastery, the yogin’s mind is complete and no longer depends on cultivation produced by practice."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For this mind, mastery (vaśīkāra) has as its limits the atom and supreme magnitude.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take asya as referring mainly to the yogin—‘his mastery’—whereas Vyāsa makes the immediate referent the citta/cetas.",
+  "It might flatten paramāṇuparamamahattvāntaḥ into a vague ‘from small to large’; the bhāṣya specifies two extremes: the subtle limit paramāṇu and the gross limit paramamahattva.",
+  "It might render vaśīkāraḥ as mere coercive control; the bhāṣya defines it more precisely as apratighāta, non-obstruction, of the mind as it ranges over both limits."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented mahā_tva as if tva were an independent compound-member; here the relevant form is mahattva, the abstract noun ‘magnitude/greatness,’ in paramamahattva, supported by the bhāṣya’s paramamahattvāntam (line 2).",
+  "ByT5 gave asya as idam_SGM without fixing gender; I specify neuter genitive singular because the bhāṣya identifies the referent as citta/cetas: cittasya (line 2), yoginaś cittaṃ (line 4)."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3277,
+   "completion_tokens": 4221,
+   "reasoning_tokens": 2559
+  },
+  "est_cost": 0.0731,
+  "reverified": true
+ },
+ "mula": "39 paramāṇuparamamahattvānto 'sya vaśīkāraḥ",
+ "commentary_lines": [
+  "sūkṣme niviśamānasya paramāṇvantaṃ sthitipadaṃ labhata iti.",
+  "sthūle niviśamānasya paramamahattvāntaṃ sthitipadaṃ cittasya.",
+  "evaṃ tām ubhayīṃ koṭim anudhāvato yo 'syāpratīghātaḥ sa paro vaśīkāraḥ.",
+  "tadvaśīkārāt paripūrṇaṃ yoginaś cittaṃ na punar abhyāsakṛtaṃ parikarmāpekṣata iti.",
+  "1.40",
+  "atha labdhasthitikasya cetasaḥ kiṃsvarūpā kiṃviṣayā v"
+ ]
+}

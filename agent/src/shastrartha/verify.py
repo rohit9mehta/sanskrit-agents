@@ -89,7 +89,7 @@ def _enum(cls, name: str):
 # Anusvāra vs homorganic nasal are orthographic variants of the same word
 # (text: saṃjñita; vidyut derivation: saYjYita). Canonicalize any nasal
 # before a stop to M so surface matching is spelling-insensitive.
-_NASAL_EQ = re.compile(r"[NYRnm](?=[kKgGcCjJwWqQtTdDpPbB])")
+_NASAL_EQ = re.compile(r"[NYRnm](?=[kKgGcCjJwWqQtTdDpPbBmnv])")
 
 
 def normalize_nasals(slp1: str) -> str:
@@ -286,6 +286,51 @@ def derive_tinanta(
 
 # ---------------------------------------------------------------- verifiers
 
+# Citation-convention aliases: the model may cite pronoun stems as mad/tvad
+# (traditional) where vidyut's prātipadikas are asmad/yuṣmad, etc.
+PRONOUN_ALIASES = {
+    "mad": ["asmad"], "tvad": ["yuzmad"],
+    "enad": ["etad", "idam"], "adas": ["adas"],
+    "pumAMs": ["puMs"], "pumAn": ["puMs"],
+}
+
+_A_JUNCTION = re.compile(r"[aA]{2}")
+
+
+def _clean(s: str) -> str:
+    """Strip compound-marking hyphens; apply savarṇa-dīrgha at the exposed
+    a-vowel junctions (madhya-adhimātra → madhyādhimātra)."""
+    return s.replace("-", "").replace("–", "").replace("­", "")
+
+
+def _clean_slp1_junctions(slp1: str) -> str:
+    return _A_JUNCTION.sub("A", slp1)
+
+
+def _stem_candidates(stem_slp1: str) -> list[str]:
+    out = [stem_slp1]
+    j = _clean_slp1_junctions(stem_slp1)
+    if j != stem_slp1:
+        out.append(j)
+    out += PRONOUN_ALIASES.get(stem_slp1, [])
+    if stem_slp1.endswith(("vant", "mant")):  # matup cited long
+        out.append(stem_slp1[:-2])            # Atmavant → Atmavat
+    if stem_slp1.endswith("vat"):
+        out.append(stem_slp1[:-1] + "nt")
+    return out
+
+
+def _kosha_feature_match(surface_slp1: str, vibhakti: str, vacana: str):
+    """Lexicon fallback when prakriya lacks a stem class: a stored pada with
+    the same surface AND claimed vibhakti+vacana confirms the analysis."""
+    want_vib, want_vac = _enum(pk.Vibhakti, vibhakti), _enum(pk.Vacana, vacana)
+    for key in kosha_key_candidates(surface_slp1):
+        for e in kosha().get(key):
+            if _is_subanta(e) and _same(e.vibhakti, want_vib) and _same(e.vacana, want_vac):
+                return e
+    return None
+
+
 def verify_subanta_claim(
     surface_iast: str,
     stem_iast: str,
@@ -298,7 +343,11 @@ def verify_subanta_claim(
     source: str = "llm",
     notes: str = "",
 ) -> dict:
-    """Prakriya-check a nominal claim: does stem+features derive the surface?"""
+    """Prakriya-check a nominal claim: does stem+features derive the surface?
+    Hyphens in stem/surface (compound-marking orthography) are stripped;
+    pronoun citation stems are aliased; on prakriya miss, a kosha pada entry
+    with identical surface+features confirms (method 'kosha'); known
+    underivable classes are downgraded to `unsupported` with the sūtra."""
     claim = {
         "source": source,
         "lemma": stem_iast,
@@ -310,13 +359,60 @@ def verify_subanta_claim(
             "vacana": vacana,
         },
     }
-    surface_slp1 = to_slp1(surface_iast)
+    surface_slp1 = to_slp1(_clean(surface_iast))
+    stem_slp1 = to_slp1(_clean(stem_iast))
     try:
-        prakriyas = derive_subanta(to_slp1(stem_iast), linga, vibhakti, vacana)
-        derived = [p.text for p in prakriyas]
-        matched = forms_match(surface_slp1, derived)
-        hit = next((p for p in prakriyas if p.text == matched), None)
+        prakriyas, derived, hit, used_stem = [], [], None, stem_slp1
+        for cand in _stem_candidates(stem_slp1):
+            prakriyas = derive_subanta(cand, linga, vibhakti, vacana)
+            derived = [p.text for p in prakriyas]
+            matched = forms_match(surface_slp1, derived)
+            hit = next((p for p in prakriyas if p.text == matched), None)
+            if hit is not None:
+                used_stem = cand
+                if cand != stem_slp1:
+                    notes = f"{notes} [stem cited as {stem_iast}; derived via {to_iast(cand)}]".strip()
+                break
         result = "pass" if hit else "fail"
+
+        if result == "fail":
+            e = _kosha_feature_match(surface_slp1, vibhakti, vacana)
+            if e is not None:
+                return _record(
+                    run_id=run_id, context=context, surface_iast=surface_iast,
+                    claim=claim, method="kosha", result="pass",
+                    expected_forms=[to_iast(t) for t in derived],
+                    prakriya_rules=[],
+                    notes=f"{notes} [prakriya no match for this stem class; kosha "
+                    f"pada entry confirms features (kosha lemma: {e.lemma})]".strip(),
+                )
+            # ena-ādeśa (P. 2.4.34): enam/enām etc. for idam/etad
+            if surface_slp1.startswith("en") and stem_slp1 in ("enad", "etad", "idam"):
+                return _record(
+                    run_id=run_id, context=context, surface_iast=surface_iast,
+                    claim=claim, method="prakriya", result="unsupported",
+                    expected_forms=[to_iast(t) for t in derived], prakriya_rules=[],
+                    notes=f"{notes} [ena-ādeśa (P. 2.4.34 dvitīyāṭaussv enaḥ) "
+                    "not modeled by vidyut]".strip(),
+                )
+            # matup/vas/puṃs strong nominatives (num + dīrgha) vidyut's
+            # basic() does not build: Atmavat→AtmavAn, vidvas→vidvAn, puMs→pumAn
+            strong = None
+            if stem_slp1.endswith(("vat", "mat")):
+                strong = stem_slp1[:-2] + "An"
+            elif stem_slp1.endswith("vas"):
+                strong = stem_slp1[:-2] + "An"
+            elif stem_slp1 in ("puMs", "pums"):
+                strong = "pumAn"
+            if strong and normalize_nasals(surface_slp1) == normalize_nasals(strong):
+                return _record(
+                    run_id=run_id, context=context, surface_iast=surface_iast,
+                    claim=claim, method="prakriya", result="unsupported",
+                    expected_forms=[to_iast(t) for t in derived], prakriya_rules=[],
+                    notes=f"{notes} [strong-stem nominative (num-dīrgha; cf. "
+                    "P. 6.4.10ff) of this stem class not built by "
+                    "Pratipadika.basic; surface matches the regular strong form]".strip(),
+                )
         trace = _trace(hit) if hit else (_trace(prakriyas[0]) if prakriyas else [])
         return _record(
             run_id=run_id,
@@ -374,7 +470,7 @@ def verify_tinanta_claim(
             "vacana": vacana,
         },
     }
-    surface_slp1 = to_slp1(surface_iast)
+    surface_slp1 = to_slp1(_clean(surface_iast))
     try:
         derived: list[str] = []
         hit = None
@@ -415,7 +511,15 @@ def verify_tinanta_claim(
 
         # Fallback: dhātupāṭha scan by cleaned aupadeshika, claim's prefixes.
         if hit is None:
-            for dhatu, aupadeshika in find_dhatus(to_slp1(root_iast), gana):
+            root_slp1 = to_slp1(root_iast)
+            candidates = list(find_dhatus(root_slp1, gana))
+            # ṇic citation forms (janay, vyathay → jan/vyath + Ric)
+            if root_slp1.endswith("ay"):
+                candidates += [
+                    (d.with_sanadi([pk.Sanadi.Ric]), f"{a}+Ric")
+                    for d, a in find_dhatus(root_slp1[:-2], gana)
+                ]
+            for dhatu, aupadeshika in candidates:
                 if prefixes:
                     dhatu = dhatu.with_prefixes([to_slp1(p) for p in prefixes])
                 tried.append(aupadeshika)
@@ -423,6 +527,17 @@ def verify_tinanta_claim(
                     derived.append(p.text)
                     if hit is None and normalize_nasals(p.text) == normalize_nasals(surface_slp1):
                         hit = p
+
+        # vid: 'veda' is the laṭ-substituted perfect (P. 3.4.83 vido laṭo vā)
+        if hit is None and to_slp1(root_iast) == "vid" and surface_slp1.startswith("ved"):
+            return _record(
+                run_id=run_id, context=context, surface_iast=surface_iast,
+                claim=claim, method="prakriya", result="unsupported",
+                expected_forms=sorted({to_iast(t) for t in derived}),
+                prakriya_rules=[],
+                notes=f"{notes} [veda-type liṭ with present sense "
+                "(P. 3.4.83 vido laṭo vā) not modeled by vidyut]".strip(),
+            )
 
         if not tried:
             return _record(

@@ -1,0 +1,265 @@
+{
+ "unit": "1.31",
+ "analysis": [
+  {
+   "surface": "duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsāḥ",
+   "surface_in_sandhi": "duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsā",
+   "lemma": "duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "duḥkhaṃ ca daurmanasyaṃ ca aṅgamejayatvaṃ ca śvāsaś ca praśvāsaś ca",
+    "members": [
+     "duḥkha",
+     "daurmanasya",
+     "aṅgamejayatva",
+     "śvāsa",
+     "praśvāsa"
+    ]
+   },
+   "note": "A five-member itaretara-dvandva; the masculine nominative plural ending is on the final member praśvāsa. Vyāsa glosses the members separately in lines 1–6.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsa as Pum/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vikṣepasahabhuvaḥ",
+   "surface_in_sandhi": "vikṣepasahabhuvaḥ",
+   "lemma": "vikṣepasahabhuv",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vikṣepeṇa saha bhavati iti",
+    "members": [
+     "vikṣepa",
+     "sahabhuv"
+    ]
+   },
+   "note": "Revised to the inflectional stem vikṣepasahabhuv, not the citation-form vikṣepasahabhū, so that the printed pausal form -bhuvaḥ is directly accounted for. Lexically this is still the sahabhū ‘being together’ adjective. The tatpuruṣa classification is retained on semantic grounds; the verifier report only logged that relation as unsupported.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vikṣepasahabhuv as Pum/Prathama/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first long word is not a single unanalyzed abstract noun but a coordinated list: suffering, despondency, limb-trembling, in-breath, and out-breath. Vyāsa defines each item in order and then resumes them collectively with ete.",
+   "options_considered": [
+    "one five-member dvandva list",
+    "one opaque compound denoting a single syndrome",
+    "five independently inflected words"
+   ],
+   "chosen": "duḥkha–daurmanasya–aṅgamejayatva–śvāsa–praśvāsāḥ as a five-item dvandva subject",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "duḥkham ādhyātmikam ādhibhautikam ādhidaivikaṃ ca. yenābhihatāḥ prāṇinas tadapaghātāya prayatante tad duḥkham.",
+     "translation": "Suffering is internal, caused by beings, and divine. That by which living beings, when struck, strive for its removal—that is suffering."
+    },
+    {
+     "lines": [
+      3,
+      4,
+      5,
+      6
+     ],
+     "quote": "daurmanasyam icchāvighātāc cetasaḥ kṣobhaḥ. yad aṅgāny ejayati kampayati tad aṅgamejayatvam. prāṇo yad bāhyaṃ vāyum ācāmati sa śvāsaḥ. yat kauṣṭhyaṃ vāyuṃ niḥsārayati sa praśvāsaḥ.",
+     "translation": "Despondency is disturbance of the mind from the thwarting of desire. What shakes and trembles the limbs is limb-trembling. When prāṇa draws in the external air, that is śvāsa. When it sends out the abdominal air, that is praśvāsa."
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "ete vikṣepasahabhuvo vikṣiptacittasyaite bhavanti.",
+     "translation": "These are concomitant with distraction; these occur in one whose mind is distracted."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The translation uses “suffering,” since Vyāsa defines duḥkha as threefold affliction and as something beings try to remove when struck by it.",
+   "options_considered": [
+    "suffering/pain",
+    "difficulty",
+    "unpleasantness"
+   ],
+   "chosen": "duḥkha = suffering/pain, not merely difficulty",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "duḥkham ādhyātmikam ādhibhautikam ādhidaivikaṃ ca. yenābhihatāḥ prāṇinas tadapaghātāya prayatante tad duḥkham.",
+     "translation": "Suffering is internal, caused by beings, and divine. That by which living beings, when struck, strive for its removal—that is suffering."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Rather than a vague “bad-mindedness,” daurmanasya is rendered as despondency because Vyāsa specifies mental agitation caused by obstruction of desire.",
+   "options_considered": [
+    "despondency",
+    "melancholy in general",
+    "bad-mindedness"
+   ],
+   "chosen": "daurmanasya = despondency/mental disturbance from frustrated desire",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "daurmanasyam icchāvighātāc cetasaḥ kṣobhaḥ.",
+     "translation": "Despondency is disturbance of the mind from the thwarting of desire."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The term is rendered concretely as trembling of the limbs/body, following Vyāsa’s causative gloss ejayati kampayati.",
+   "options_considered": [
+    "limb-trembling",
+    "mere bodily movement",
+    "restlessness"
+   ],
+   "chosen": "aṅgamejayatva = limb-trembling",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yad aṅgāny ejayati kampayati tad aṅgamejayatvam.",
+     "translation": "What shakes and trembles the limbs is limb-trembling."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Vyāsa fixes the direction of the two breath-terms: śvāsa is the drawing in of external air, and praśvāsa is the expelling of abdominal air. The translation therefore gives “in-breath and out-breath.”",
+   "options_considered": [
+    "śvāsa as in-breath and praśvāsa as out-breath",
+    "śvāsa as exhalation and praśvāsa as inhalation",
+    "both as generic respiration"
+   ],
+   "chosen": "śvāsa = in-breath; praśvāsa = out-breath",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "prāṇo yad bāhyaṃ vāyum ācāmati sa śvāsaḥ.",
+     "translation": "When prāṇa draws in the external air, that is śvāsa."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "yat kauṣṭhyaṃ vāyuṃ niḥsārayati sa praśvāsaḥ.",
+     "translation": "When it sends out the abdominal air, that is praśvāsa."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The final compound is taken predicatively: these five phenomena co-occur with distraction, rather than being simply identical with the primary obstacles. Vyāsa says they occur for the vikṣipta-citta and not for the samāhita-citta. The printed/commentarial sandhi vikṣiptacittasyaite is read as vikṣiptacittasya ete.",
+   "options_considered": [
+    "concomitants of distraction",
+    "the distractions themselves without qualification",
+    "causes of distraction"
+   ],
+   "chosen": "vikṣepasahabhuvaḥ = concomitants of distraction, occurring in a distracted mind",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "ete vikṣepasahabhuvo vikṣiptacittasyaite bhavanti.",
+     "translation": "These are concomitant with distraction; these occur in one whose mind is distracted."
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "samāhitacittasyaite na bhavanti.",
+     "translation": "These do not occur in one whose mind is composed."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Suffering (duḥkha), despondency (daurmanasya), limb-trembling (aṅgamejayatva), in-breath (śvāsa), and out-breath (praśvāsa) are concomitants of distraction (vikṣepa).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might follow a general dictionary value and translate praśvāsa as inhalation; Vyāsa explicitly makes śvāsa the taking in of external air and praśvāsa the expelling of abdominal air.",
+  "It might treat the five listed items as the main vikṣepas themselves; Vyāsa instead calls them vikṣepa-sahabhuvaḥ, occurring in a distracted mind and absent in a composed mind.",
+  "It might flatten daurmanasya into generic melancholy; Vyāsa narrows it to mental agitation caused by thwarted desire."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 displays duḥkha, daurmanasya, aṅgamejayatva, and śvāsa as Cp members and praśvāsāḥ as the inflected final token; here they are consolidated as the single inflected five-member dvandva stem, as required for compound-word analysis.",
+  "ByT5 labels sahabhuvaḥ as sahabhū_PNF; this apparatus takes it as Pum Prathama Bahu agreeing with the masculine plural dvandva and with Vyāsa’s ete in line 7, and uses the inflectional compound stem vikṣepasahabhuv to account for the printed -bhuvaḥ form."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 8459,
+   "completion_tokens": 19716,
+   "reasoning_tokens": 15350
+  },
+  "est_cost": 0.3211,
+  "reverified": true
+ },
+ "mula": "30 duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsā vikṣepasahabhuvaḥ",
+ "commentary_lines": [
+  "duḥkham ādhyātmikam ādhibhautikam ādhidaivikaṃ ca.",
+  "yenābhihatāḥ prāṇinas tadapaghātāya prayatante tad duḥkham.",
+  "daurmanasyam icchāvighātāc cetasaḥ kṣobhaḥ.",
+  "yad aṅgāny ejayati kampayati tad aṅgamejayatvam.",
+  "prāṇo yad bāhyaṃ vāyum ācāmati sa śvāsaḥ.",
+  "yat kauṣṭhyaṃ vāyuṃ niḥsārayati sa praśvāsaḥ.",
+  "ete vikṣepasahabhuvo vikṣiptacittasyaite bhavanti.",
+  "samāhitacittasyaite na bhavanti.",
+  "1.31",
+  "athaite vikṣepāḥ samādhipratipakṣās tābhyām evābhyāsavairāgyābhyāṃ niroddhavyāḥ.",
+  "tatrābhyāsasya viṣayam upasaṃharann idam āha"
+ ]
+}

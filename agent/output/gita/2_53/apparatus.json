@@ -1,0 +1,449 @@
+{
+ "unit": "2.53",
+ "analysis": [
+  {
+   "surface": "śruti-vipratipannā",
+   "surface_in_sandhi": "śruti-vipratipannā",
+   "lemma": "śruti-vipratipanna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "śrutibhiḥ vipratipannā",
+    "members": [
+     "śruti",
+     "vipratipanna"
+    ]
+   },
+   "note": "A feminine nominative singular adjective qualifying buddhiḥ; final member is the PPP vipratipanna from vi-prati-√pad. The later Pāṇinian verifier reported tool_error/unsupported relation for this compound rather than an alternate derivation; I retain the analysis because the bhāṣya explicitly supplies the instrumental vigraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem śruti-vipratipanna as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular, glossed by the bhāṣya as tava. Linga is supplied as Pum for the male addressee Arjuna; the form te itself is not overtly gender-distinct.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "yadā",
+   "surface_in_sandhi": "yadā",
+   "lemma": "yadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Temporal correlative with tadā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sthāsyati",
+   "surface_in_sandhi": "sthāsyati",
+   "lemma": "sthā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "sthā",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Future, 3rd singular; subject is buddhiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "sthā Lrt/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "niścalā",
+   "surface_in_sandhi": "niścalā",
+   "lemma": "niścala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular adjective qualifying buddhiḥ; glossed as free from the motion of distraction.",
+   "verification": {
+    "status": "pass",
+    "detail": "niścala Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "samādhau",
+   "surface_in_sandhi": "samādhāv",
+   "lemma": "samādhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular; Śaṅkara here explains samādhi as ātmā, ‘the Self’.",
+   "verification": {
+    "status": "pass",
+    "detail": "samādhi Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "acalā",
+   "surface_in_sandhi": "acalā",
+   "lemma": "acala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular adjective qualifying buddhiḥ; distinguished by the bhāṣya as absence of vikalpa there too.",
+   "verification": {
+    "status": "pass",
+    "detail": "acala Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "buddhiḥ",
+   "surface_in_sandhi": "buddhis",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of sthāsyati; glossed as antaḥkaraṇa, the inner organ.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tadā",
+   "surface_in_sandhi": "tadā",
+   "lemma": "tadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Temporal correlative of yadā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yogam",
+   "surface_in_sandhi": "yogam",
+   "lemma": "yoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular object of avāpsyasi; glossed by Śaṅkara as viveka-prajñā and samādhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "yoga Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "avāpsyasi",
+   "surface_in_sandhi": "avāpsyasyi",
+   "lemma": "āp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "āp",
+    "prefixes": [
+     "ava"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "The unit prints avāpsyasyi, but the grammatical form is avāpsyasi, supported by the bhāṣya’s avāpsyasi/prāpsyasi.",
+   "verification": {
+    "status": "pass",
+    "detail": "ava-āp Lrt/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The bhāṣya explains the first member by instrumental plurals śrutibhiḥ śravaṇaiḥ and glosses vipratipannā as vikṣiptā satī. The line’s headword śruti-vipratinnā and nānā-pratinnā appear to be plaintext corruptions; the decision does not adopt those spellings.",
+   "options_considered": [
+    "śruti-vipratipannā = opposed to śruti/scripture",
+    "śruti-vipratipannā = confused about scripture",
+    "śruti-vipratipannā = distracted by scriptural hearings"
+   ],
+   "chosen": "śruti-vipratipannā is an instrumental tatpuruṣa: ‘distracted/confounded by śrutis/hearings,’ not ‘opposed to scripture.’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "śruti-vipratinnā aneka-sādhya-sādhana-saṃbandha-prakāśana-śrutibhiḥ śravaṇaiḥ pravṛtti-nivṛtti-lakṣaṇaiḥ vipratipannā nānā-pratinnā vikṣiptā satī te tava buddhir",
+     "translation": "‘śruti-vipratipannā’: by śrutis/hearings that reveal many relations of ends and means and are characterized by engagement and withdrawal; being vipratipannā, scattered; your buddhi."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara explicitly glosses te by tava and identifies buddhi as the item under discussion; therefore the phrase is ‘your buddhi/understanding.’ The gender value for te is not overt in the form and is supplied only to complete the nominal feature set.",
+   "options_considered": [
+    "te as dative ‘to you’",
+    "te as genitive ‘your’",
+    "buddhiḥ as ordinary intellect without the commentarial antaḥkaraṇa sense"
+   ],
+   "chosen": "te is genitive singular, ‘your,’ with Pum recorded for the male addressee; buddhiḥ is the subject.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "te tava buddhir",
+     "translation": "te means tava, ‘your’; buddhi is the subject."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "buddhir antaḥkaraṇam |",
+     "translation": "buddhi is the inner organ."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The bhāṣya glosses sthāsyati as sthirībhūtā bhaviṣyati and niścalā as vikṣepa-calana-varjitā, so the steadiness is specifically freedom from scattering/agitation.",
+   "options_considered": [
+    "sthāsyati as mere physical standing",
+    "niścalā as only a redundant synonym of acalā",
+    "niścalā as freedom from distracting movement"
+   ],
+   "chosen": "sthāsyati niścalā means ‘will stand, having become steady, free from the motion of distraction.’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yadā yasmin kāle sthāsyati sthirībhūtā bhaviṣyati niścalā vikṣepa-calana-varjitā satī",
+     "translation": "When, at which time, it will stand—will have become steady; motionless, being free from the motion of distraction."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara derives samādhi as that in which the mind is placed and then states that this samādhi is the Self; the locative therefore means ‘in that Self.’",
+   "options_considered": [
+    "samādhau as merely ‘in meditative trance’",
+    "samādhau as ‘in mental concentration’ without specifying its locus",
+    "samādhau as ‘in the Self,’ following Śaṅkara"
+   ],
+   "chosen": "samādhau is construed as ‘in samādhi, i.e. in the Self (ātman).’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samādhau, samādhīyate cittam asminn iti samādhir ātmā, tasmin ātmani ity etat |",
+     "translation": "In samādhi: ‘that in which the mind is placed’ is samādhi, the Self; that means ‘in that Self.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The bhāṣya distinguishes acalā by tatrāpi vikalpa-varjitā, ‘even there devoid of alternatives/conceptual wavering.’",
+   "options_considered": [
+    "acalā as a mere duplicate of niścalā",
+    "acalā as physical immobility",
+    "acalā as absence of vikalpa even in the Self"
+   ],
+   "chosen": "acalā adds ‘there too free from vikalpa,’ not merely a second word for motionless.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "acalā tatrāpi vikalpa-varjitā ity etat |",
+     "translation": "acalā means ‘there too devoid of vikalpa.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara explains yogam by viveka-prajñāṃ samādhiṃ and avāpsyasi by prāpsyasi, making the object not generic yoking but the attained state/knowledge.",
+   "options_considered": [
+    "yoga as physical yoking",
+    "yoga as generic spiritual practice",
+    "yoga as discriminative insight/samādhi"
+   ],
+   "chosen": "yogam avāpsyasi means ‘you will attain yoga,’ glossed as discriminative insight and samādhi.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tadā tasmin kāle yogam avāpsyasi viveka-prajñāṃ samādhiṃ prāpsyasi",
+     "translation": "Then, at that time, you will attain yoga; you will attain discriminative insight, samādhi."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The unit’s final avāpsyasyi is treated as a typographical error: it is not the expected 2nd singular future form, while the bhāṣya has avāpsyasi and glosses it with prāpsyasi.",
+   "options_considered": [
+    "keep avāpsyasyi as printed",
+    "emend to avāpsyasi"
+   ],
+   "chosen": "Read avāpsyasi, not the printed avāpsyasyi.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yogam avāpsyasi viveka-prajñāṃ samādhiṃ prāpsyasi",
+     "translation": "You will attain yoga; you will attain discriminative insight, samādhi."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "When your understanding (buddhi), distracted by scriptural hearings (śruti),\nshall stand motionless—free from scattering—in samādhi, that is, in the Self,\nthere too unmoving, without alternative thought,\nthen you will attain yoga: discriminative insight (viveka-prajñā), samādhi.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take śruti-vipratipannā as ‘opposed to the Veda’; Śaṅkara instead makes the intellect scattered by many śrutis/hearings about means and ends.",
+  "It might render samādhau only as ‘in trance/concentration’; Śaṅkara explicitly construes it here as ‘in the Self.’",
+  "It might flatten niścalā and acalā into two identical adjectives; the bhāṣya distinguishes freedom from distracting motion and freedom from vikalpa.",
+  "It might translate yoga generically as ‘union’ or ‘practice’; Śaṅkara glosses it as viveka-prajñā and samādhi.",
+  "It might reproduce the final typo avāpsyasyi; the grammatical and commentarial reading is avāpsyasi."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 splits śruti-vipratipannā as śruti_Cp + vipratipannā and gives vipratipad as the lemma; I treat the printed hyphenated expression as one tatpuruṣa compound stem śruti-vipratipanna, feminine nominative singular, because the bhāṣya glosses it by śrutibhiḥ ... vipratipannā qualifying buddhiḥ. The later vidyut verifier reported tool_error/unsupported relation rather than an alternate derivation, so this analysis is retained with note.",
+  "ByT5 leaves te only as singular; I specify Pum/Sasthi/Eka. The genitive is fixed by the commentary’s te tava, while Pum is supplied for the male addressee; the form itself is common across genders.",
+  "ByT5/local text preserves avāpsyasyi; I correct the verified surface to avāpsyasi, the grammatical 2nd singular future, supported by commentary line 4.",
+  "ByT5 gives the verbal lemma avāp; per the instruction to separate upasargas, I analyze it as root āp with prefix ava."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11891,
+   "completion_tokens": 20198,
+   "reasoning_tokens": 13826
+  },
+  "est_cost": 0.3386,
+  "reverified": true
+ },
+ "mula": "śruti-vipratipannā te yadā sthāsyati niścalā | samādhāv acalā buddhis tadā yogam avāpsyasyi",
+ "commentary_lines": [
+  "śruti-vipratinnā aneka-sādhya-sādhana-saṃbandha-prakāśana-śrutibhiḥ śravaṇaiḥ pravṛtti-nivṛtti-lakṣaṇaiḥ vipratipannā nānā-pratinnā vikṣiptā satī te tava buddhir yadā yasmin kāle sthāsyati sthirībhūtā bhaviṣyati niścalā vikṣepa-calana-varjitā satī samādhau, samādhīyate cittam asminn iti samādhir ātmā, tasmin ātmani ity etat |",
+  "acalā tatrāpi vikalpa-varjitā ity etat |",
+  "buddhir antaḥkaraṇam |",
+  "tadā tasmin kāle yogam avāpsyasi viveka-prajñāṃ samādhiṃ prāpsyasi ||bhgs_2.53||",
+  "praśnabījaṃ pratilabhya arjuna uvācalabdhasamādhiprajñasya lakṣaṇabubhutsayā --- arjuna uvāca-",
+  "arjuna uvāca",
+  "sthita-prajñasya kā bhāṣā samādhi-sthasya keśava |",
+  "sthita-dhīḥ kiṃ prabhāṣeta kim āsīta vrajeta kim"
+ ]
+}

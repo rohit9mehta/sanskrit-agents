@@ -1,0 +1,314 @@
+{
+ "unit": "1.51",
+ "analysis": [
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasyā",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Objective genitive with nirodhe: “the inhibition of that.” The masculine antecedent is the preceding samādhi-/prajñā-born saṃskāra; Vyāsa also speaks of these in the plural as prajñākṛta/samādhija saṃskāras.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "pi",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visible as -pi in tasyāpi: the initial a of api coalesces with the final -a of tasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "nirodhe",
+   "surface_in_sandhi": "nirodhe",
+   "lemma": "nirodha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular in a conditional/temporal construction: “upon/when there is inhibition.”",
+   "verification": {
+    "status": "pass",
+    "detail": "nirodha Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvanirodhāt",
+   "surface_in_sandhi": "sarvanirodhān",
+   "lemma": "sarvanirodha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sarvasya nirodhaḥ",
+    "members": [
+     "sarva",
+     "nirodha"
+    ]
+   },
+   "note": "Ablative of cause. Printed sarvanirodhān before nirbījaḥ by sandhi of final -t before n-.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvanirodha as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nirbījaḥ",
+   "surface_in_sandhi": "nirbījaḥ",
+   "lemma": "nirbīja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "nirgataṃ bījaṃ yasmāt saḥ",
+    "members": [
+     "nir",
+     "bīja"
+    ]
+   },
+   "note": "Adjective qualifying samādhiḥ; MW s.v. nirbīja, 541,2 gives mfn. “seedless.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirbīja as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "samādhiḥ",
+   "surface_in_sandhi": "samādhiḥ",
+   "lemma": "samādhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative singular; together with nirbījaḥ forms a nominal sentence with no finite verb expressed.",
+   "verification": {
+    "status": "pass",
+    "detail": "samādhi Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The genitive singular tasya formally points back to a masculine singular saṃskāra, but Vyāsa explains the relevant target in plural terms as prajñākṛta and samādhija saṃskāras. Thus “even that” is not puruṣa or citta in general, but the refined saṃskāra produced by samādhi-prajñā, which too is blocked by a nirodha-born saṃskāra.",
+   "options_considered": [
+    "tasya = puruṣa",
+    "tasya = citta as a whole",
+    "tasya = samādhi-prajñā alone",
+    "tasya = the preceding samādhi-/prajñā-born saṃskāra(s)"
+   ],
+   "chosen": "tasya = the preceding samādhi-/prajñā-born saṃskāra(s); api marks that even these are inhibited.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sa na kevalaṃ samādhiprajñāvirodhī prajñākṛtānām api saṃskārāṇāṃ pratibandhī bhavati.",
+     "translation": "It is not only opposed to samādhi-prajñā; it also becomes an inhibitor of the saṃskāras produced by prajñā."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "kasmāt, nirodhajaḥ saṃskāraḥ samādhijān saṃskārān bādhata iti.",
+     "translation": "Why? Because the saṃskāra born of nirodha sublates the samādhi-born saṃskāras. The input’s bādhata is quoted verbatim, though it appears to stand for bādhate/bādhati."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Vyāsa does not use nirodha here in the dictionary sense of physical confinement. He describes a nirodha-born saṃskāra and a sustained nirodha-state in the mind; hence the locative nirodhe is read as the condition “when/upon that inhibition.”",
+   "options_considered": [
+    "physical confinement/imprisonment",
+    "mere non-existence",
+    "mental inhibitory cessation/restraint"
+   ],
+   "chosen": "nirodha = inhibitory cessation/restraint; nirodhe = “upon the inhibition.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "nirodhajaḥ saṃskāraḥ samādhijān saṃskārān bādhata iti.",
+     "translation": "The nirodha-born saṃskāra sublates the samādhi-born saṃskāras."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "nirodhasthitikālakramānubhavena nirodhacittakṛtasaṃskārāstitvam anumeyam.",
+     "translation": "From the experience of the sequence of time during which nirodha stands, the existence of a saṃskāra made by the nirodha-mind is to be inferred."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The commentary expands “all” into the whole range of saṃskāras connected with emergence, nirodha, samādhi, and kaivalya. The ablative is causal/result-grounding: because the mind with its completed function turns back, all seed-causes have ceased.",
+   "options_considered": [
+    "sarvanirodhāt = “from every act of suppression” distributively",
+    "sarvanirodhāt = “from complete restraint” without specifying what is restrained",
+    "sarvanirodhāt = “because of the inhibition of all saṃskāras/citta-seeds”"
+   ],
+   "chosen": "sarvanirodhāt = causal ablative, “because of the inhibition of all [saṃskāras],” with sarvanirodha as a ṣaṣṭhī-tatpuruṣa: sarvasya nirodhaḥ.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "vyutthānanirodhasamādhiprabhavaiḥ saha kaivalyabhāgīyaiḥ saṃskāraiś cittaṃ svasyāṃ prakṛtāv avasthitāyāṃ pravilīyate.",
+     "translation": "With the saṃskāras sprung from emergence, nirodha, and samādhi, together with those tending toward kaivalya, the mind dissolves into its own prakṛti, as that stands in itself."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tasmāt te saṃskārāś cittasyādhikāravirodhino na sthitihetavo bhavantīti.",
+     "translation": "Therefore those saṃskāras, being opposed to the mind’s function, do not become causes of its continued standing."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "yasmād avasitādhikāraṃ saha kaivalyabhāgīyaiḥ saṃskāraiś cittaṃ nivartate, tasmin nivṛtte puruṣaḥ svarūpamātrapratiṣṭho 'taḥ śuddhaḥ kevalo mukta ity ucyata iti.",
+     "translation": "Because the mind, its function completed, turns back together with the saṃskāras tending toward kaivalya; when it has turned back, puruṣa, established solely in its own nature, is therefore called pure, alone, liberated."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The word nirbīja lexically means “seedless,” but Vyāsa supplies the doctrinal force of “seed”: saṃskāras are no longer sthitihetavaḥ, causes of the mind’s continued operation; the mind turns back and puruṣa is established in its own nature.",
+   "options_considered": [
+    "nirbīja = merely without an external meditation-object",
+    "nirbīja = impotent in a non-technical sense",
+    "nirbīja = seedless because saṃskāra-seeds no longer sustain citta"
+   ],
+   "chosen": "nirbījaḥ samādhiḥ = seedless samādhi, seedless because no saṃskāra remains as a cause for citta’s continued standing.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tasmāt te saṃskārāś cittasyādhikāravirodhino na sthitihetavo bhavantīti.",
+     "translation": "Therefore those saṃskāras, being opposed to the mind’s function, do not become causes of its continued standing."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "tasmin nivṛtte puruṣaḥ svarūpamātrapratiṣṭho 'taḥ śuddhaḥ kevalo mukta ity ucyata iti.",
+     "translation": "When it has turned back, puruṣa, established solely in its own nature, is therefore called pure, alone, liberated."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Upon the inhibition (nirodha) even of that [saṃskāra born of samādhi-prajñā], because of the inhibition of all [saṃskāras], [there is] seedless samādhi (nirbīja samādhi).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take tasya as an unspecified “that” or as puruṣa/citta; Vyāsa points instead to samādhi-/prajñā-born saṃskāras as the refined residue that is also inhibited (lines 1–2).",
+  "It might render sarvanirodhāt vaguely as “from every suppression”; Vyāsa reads the scope as all classes of saṃskāras and the mind’s turning back into prakṛti (lines 4–6).",
+  "It might gloss nirbīja as simply “objectless”; Vyāsa makes seedlessness depend on the absence of saṃskāras as causes for the continued standing of citta (lines 5–6)."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives sarva_sarva_Cp + nirodhāt_nirodha_SBM; I analyze the printed sarvanirodhān (< sarvanirodhāt nir-) as one compound stem sarvanirodha, masculine pañcamī ekavacana, because the sūtra has the compound sarva-nirodha and Vyāsa construes it as cessation of all relevant saṃskāras (lines 4–6).",
+  "ByT5 treats nirbījaḥ simply as nirbīja_SNM; I retain nominative masculine singular but add its privative compound analysis nir- + bīja, semantically bahuvrīhi “whose seed is gone/seedless.”"
+ ],
+ "open_questions": [
+  "Line 2 reads bādhata; I have quoted it verbatim but understood it contextually as bādhate/bādhati, “sublates/obstructs.”"
+ ],
+ "verification_summary": {
+  "pass": 6,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3276,
+   "completion_tokens": 15580,
+   "reasoning_tokens": 12804
+  },
+  "est_cost": 0.2435,
+  "reverified": true
+ },
+ "mula": "tasyāpi nirodhe sarvanirodhān nirbījaḥ samādhiḥ",
+ "commentary_lines": [
+  "sa na kevalaṃ samādhiprajñāvirodhī prajñākṛtānām api saṃskārāṇāṃ pratibandhī bhavati.",
+  "kasmāt, nirodhajaḥ saṃskāraḥ samādhijān saṃskārān bādhata iti.",
+  "nirodhasthitikālakramānubhavena nirodhacittakṛtasaṃskārāstitvam anumeyam.",
+  "vyutthānanirodhasamādhiprabhavaiḥ saha kaivalyabhāgīyaiḥ saṃskāraiś cittaṃ svasyāṃ prakṛtāv avasthitāyāṃ pravilīyate.",
+  "tasmāt te saṃskārāś cittasyādhikāravirodhino na sthitihetavo bhavantīti.",
+  "yasmād avasitādhikāraṃ saha kaivalyabhāgīyaiḥ saṃskāraiś cittaṃ nivartate, tasmin nivṛtte puruṣaḥ svarūpamātrapratiṣṭho 'taḥ śuddhaḥ kevalo mukta ity ucyata iti.",
+  "1.51",
+  "iti śrīpātañjale sāṃkhyapravacane yogaśāstre śrīmadvyāsabhāṣye prathamaḥ samādhipādaḥ 1.",
+  "uddiṣṭaḥ samāhitacittasya yogaḥ.",
+  "kathaṃ vyutthitacitto 'pi yogayuktaḥ syād ity etad ārabhyate"
+ ]
+}

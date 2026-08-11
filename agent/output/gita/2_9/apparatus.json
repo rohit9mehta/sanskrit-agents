@@ -1,0 +1,481 @@
+{
+ "unit": "2.9",
+ "analysis": [
+  {
+   "surface": "saṃjayaḥ",
+   "surface_in_sandhi": "saṃjaya",
+   "lemma": "saṃjaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Proper name; final visarga is elided before uvāca in the printed sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃjaya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "uvāca",
+   "surface_in_sandhi": "uvāca",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect, third singular: “said.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lit/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "evam",
+   "surface_in_sandhi": "evam",
+   "lemma": "evam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverb: “thus, in this way.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "uktvā",
+   "surface_in_sandhi": "uktvā",
+   "lemma": "vac",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive in -ktvā: “having spoken/said.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hṛṣīkeśam",
+   "surface_in_sandhi": "hṛṣīkeśaṃ",
+   "lemma": "hṛṣīkeśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "hṛṣīkāṇām īśaḥ",
+    "members": [
+     "hṛṣīka",
+     "īśa"
+    ]
+   },
+   "note": "Proper name of Kṛṣṇa; the etymological compound analysis is not pressed in the translation, since no commentary is supplied here.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem hṛṣīkeśa as Pum/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "guḍākeśaḥ",
+   "surface_in_sandhi": "guḍākeśaḥ",
+   "lemma": "guḍākeśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "guḍāḥ keśāḥ yasya saḥ",
+    "members": [
+     "guḍā",
+     "keśa"
+    ]
+   },
+   "note": "Proper name/epithet of Arjuna. The supplied MW gloss is “thick-haired”; translation keeps the name.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem guḍākeśa as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "parantapaḥ",
+   "surface_in_sandhi": "parantapaḥ",
+   "lemma": "paraṃtapa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "parān tapati iti paraṃtapaḥ",
+    "members": [
+     "para",
+     "tapa"
+    ]
+   },
+   "note": "As supplied, nominative singular agreeing with guḍākeśaḥ; translated as an appositional epithet.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem paraṃtapa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negating the quoted future verb yotsye.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yotsye",
+   "surface_in_sandhi": "yotsya",
+   "lemma": "yudh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yudh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Pausal yotsye; before iti, final e appears as ya in the printed sandhi yotsya iti. First-person singular future: “I shall fight.” With na: “I shall not fight.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yudh Lrt/Uttama/Eka: pass"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "iti",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Quotation marker closing na yotsye.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "govindam",
+   "surface_in_sandhi": "govindam",
+   "lemma": "govinda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "gāḥ vindati iti govindaḥ",
+    "members": [
+     "go",
+     "vinda"
+    ]
+   },
+   "note": "Proper name of Kṛṣṇa; accusative as the person addressed with uktvā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem govinda as Pum/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "uktvā",
+   "surface_in_sandhi": "uktvā",
+   "lemma": "vac",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second absolutive in -ktvā: “having said.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tūṣṇīm",
+   "surface_in_sandhi": "tūṣṇīṃ",
+   "lemma": "tūṣṇīm",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable: “silently, in silence”; final -m is printed as anusvāra before b.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "babhūva",
+   "surface_in_sandhi": "babhūva",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect, third singular: “became.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhū Lit/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ha",
+   "surface_in_sandhi": "ha",
+   "lemma": "ha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic narrative/emphatic particle; the provided MW excerpt does not include this indeclinable sense.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The printed yotsya before iti is explained by final e of yotsye becoming ay before initial i; iti marks the preceding words as quoted speech. The verb is therefore first-person singular future from yudh, negated by na.",
+   "options_considered": [
+    "Take yotsya as the pausal verbal form as printed",
+    "Restore pausal yotsye before iti and construe it as first-person future direct speech"
+   ],
+   "chosen": "na yotsya iti is understood as sandhi for na yotsye iti, a direct quotation: “I shall not fight.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary is supplied for this unit; this decision rests on grammar and the dictionary entry for yudh."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The supplied text has parantapaḥ, and the analyzer reads it as nominative singular. In the absence of commentary, it is construed with the subject Guḍākeśaḥ rather than as a vocative address.",
+   "options_considered": [
+    "Nominative epithet of Guḍākeśaḥ/Arjuna",
+    "Vocative parantapa addressing the hearer"
+   ],
+   "chosen": "parantapaḥ is taken as nominative singular, an epithet agreeing with guḍākeśaḥ.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary is supplied for this unit; this decision follows the supplied form and grammar."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "With the absolutive of vac, the accusative names mark the person to whom speech is directed: first “having spoken thus to Hṛṣīkeśa,” then “having said ‘I shall not fight’ to Govinda.” Both names refer to Kṛṣṇa.",
+   "options_considered": [
+    "Treat the accusatives as bare objects, ‘having spoken Hṛṣīkeśa/Govinda’",
+    "Treat the accusatives as addressed persons, ‘having spoken/said to Hṛṣīkeśa/Govinda’"
+   ],
+   "chosen": "hṛṣīkeśam and govindam are accusatives of the person addressed with the two occurrences of uktvā.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary is supplied for this unit; this decision rests on syntactic construal of vac with an addressed person and quotation."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "tūṣṇīm is an indeclinable meaning “silently, in silence,” construed with babhūva from bhū; ha is an emphatic or narrative particle, lightly represented by “indeed.”",
+   "options_considered": [
+    "Take tūṣṇīm as an accusative noun object",
+    "Take tūṣṇīm as an indeclinable complement/adverb with bhū"
+   ],
+   "chosen": "tūṣṇīṃ babhūva ha means “became silent indeed.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary is supplied for this unit; this decision rests on grammar and the dictionary entries for tūṣṇīm and bhū."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The dictionary entries identify the former three as names of Kṛṣṇa or Arjuna, while paraṃtapa is a transparent descriptive adjective, “destroying foes.” Since commentary is absent, no special etymological interpretation of the names is built into the translation.",
+   "options_considered": [
+    "Etymologically translate all names and epithets",
+    "Retain established proper names and translate only the transparent descriptive epithet"
+   ],
+   "chosen": "Hṛṣīkeśa, Guḍākeśa, and Govinda are retained as proper names; parantapaḥ is translated as the descriptive epithet “foe-scorcher.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary is supplied for this unit; this decision rests on dictionary usage and context."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Sañjaya said:\nHaving spoken thus to Hṛṣīkeśa, Guḍākeśa, the foe-scorcher (parantapaḥ),\nhaving said to Govinda, “I shall not fight,”\nbecame silent indeed.",
+ "one_shot_delta": [
+  "Because the commentary is silent, the main risk is grammatical rather than commentarial: a translation could miss that printed yotsya iti represents pausal yotsye iti, “I shall not fight.”",
+  "A translation could import a vocative parantapa from another reading; the supplied unit reads parantapaḥ, so this apparatus treats it as a nominative epithet of Guḍākeśaḥ.",
+  "A translation could render hṛṣīkeśam and govindam as two separate direct objects rather than as names of Kṛṣṇa functioning as the addressee with uktvā."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [
+  "No commentary is supplied for this unit. The supplied unit reads nominative parantapaḥ; if an edition read vocative parantapa, the construal and translation of that word would change."
+ ],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4802,
+   "completion_tokens": 14104,
+   "reasoning_tokens": 11265
+  },
+  "est_cost": 0.226,
+  "reverified": true
+ },
+ "mula": "saṃjaya uvāca evam uktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ | na yotsya iti govindam uktvā tūṣṇīṃ babhūva ha",
+ "commentary_lines": []
+}

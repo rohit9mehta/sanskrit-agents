@@ -1,0 +1,452 @@
+{
+ "unit": "2.61",
+ "analysis": [
+  {
+   "surface": "tāni",
+   "surface_in_sandhi": "tāni",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object of saṃyamya; contextually the senses.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sarvāṇi",
+   "surface_in_sandhi": "sarvāṇi",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with tāni as an accusative plural object.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "saṃyamya",
+   "surface_in_sandhi": "saṃyamya",
+   "lemma": "yam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "yam",
+    "prefixes": [
+     "saṃ"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive/gerund of saṃ-√yam, glossed by Śaṅkara as vaśīkaraṇaṃ kṛtvā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yuktaḥ",
+   "surface_in_sandhi": "yukta",
+   "lemma": "yukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Participial/adjectival stem from √yuj; Śaṅkara glosses it as samāhitaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yukta Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "āsīta",
+   "surface_in_sandhi": "āsīta",
+   "lemma": "ās",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ās",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Third singular Ātmanepada optative in kartari sense: “he should sit/remain.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ās VidhiLin/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mat-paraḥ",
+   "surface_in_sandhi": "mat-paraḥ",
+   "lemma": "matpara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "ahaṃ vāsudevaḥ sarva-pratyag-ātmā paraḥ yasya saḥ",
+    "members": [
+     "mad",
+     "para"
+    ]
+   },
+   "note": "The inflected compound stem is normalized without the editorial hyphen as matpara; the underlying pronominal member is mad, surfacing as mat- before p. The bahuvrīhi relation is semantic and is retained on Śaṅkara’s line-1 evidence, even though the verifier logged this relation as unsupported.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem matpara as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vaśe",
+   "surface_in_sandhi": "vaśe",
+   "lemma": "vaśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative of state/control, with vartante supplied in the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "vaśa Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yasya",
+   "surface_in_sandhi": "yasyendriyāṇi",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-group yasyendriyāṇi; masculine because Śaṅkara supplies yati as the referent.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "indriyāṇi",
+   "surface_in_sandhi": "yasyendriyāṇi",
+   "lemma": "indriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-group yasyendriyāṇi; nominative subject of the implied vartante in Śaṅkara’s paraphrase.",
+   "verification": {
+    "status": "pass",
+    "detail": "indriya Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasya",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yasya; refers to the yati supplied by Śaṅkara.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "prajñā",
+   "surface_in_sandhi": "prajñā",
+   "lemma": "prajñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of pratiṣṭhitā.",
+   "verification": {
+    "status": "pass",
+    "detail": "prajñā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pratiṣṭhitā",
+   "surface_in_sandhi": "pratiṣṭhitā",
+   "lemma": "pratiṣṭhita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective, feminine nominative singular of the past participial stem pratiṣṭhita from prati-√sthā, agreeing with prajñā.",
+   "verification": {
+    "status": "pass",
+    "detail": "pratiṣṭhita Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "tāni sarvāṇi is taken as the accusative object of the absolutive saṃyamya, and saṃyamya is not merely “holding together” but “bringing under control.”",
+   "options_considered": [
+    "having tied them all together",
+    "having suppressed them all",
+    "having brought all those senses under control"
+   ],
+   "chosen": "“having brought all those [senses] under control”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tāni sarvāṇi saṃyamya saṃyamanaṃ vaśīkaraṇaṃ kṛtvā",
+     "translation": "“Having restrained all those: having done restraining, that is, bringing under control.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "yuktaḥ is translated according to Śaṅkara’s gloss samāhitaḥ, and āsīta is an optative injunction, not a simple past or present statement.",
+   "options_considered": [
+    "he sat yoked",
+    "he should sit physically yoked",
+    "let him remain collected"
+   ],
+   "chosen": "“let him remain/sit collected”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yuktaḥ samāhitaḥ san āsīta",
+     "translation": "“Being yukta, that is, collected/concentrated, he should sit/remain.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "mat-paraḥ is read as a bahuvrīhi: one for whom Kṛṣṇa/Vāsudeva, the inner Self of all, is para. Śaṅkara also makes the required standpoint non-difference from that Vāsudeva.",
+   "options_considered": [
+    "devoted to me in a general theistic sense",
+    "having me as a later object",
+    "one for whom Vāsudeva, the inner Self of all, is the Highest"
+   ],
+   "chosen": "“with Me as the Highest (mat-paraḥ), [knowing] ‘I am not other than Vāsudeva, the inner Self of all’”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "mat-paro 'haṃ vāsudevaḥ sarva-pratyag-ātmā paro yasya sa mat-paraḥ, nānyo 'haṃ tasmāt ity āsīta ity arthaḥ",
+     "translation": "“mat-paraḥ: he for whom I—Vāsudeva, the inner Self of all—am the Highest; the meaning is that he should abide [thinking], ‘I am not other than that.’”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "vaśe is construed as a locative state of control with indriyāṇi as the nominative subject of an implied vartante. Śaṅkara identifies the person as the yati who abides thus and adds abhyāsa-balāt as the means by which the senses remain controlled.",
+   "options_considered": [
+    "in whose desire the senses are",
+    "whose senses overpower him",
+    "whose senses remain under control"
+   ],
+   "chosen": "“whose senses remain under control, by the strength of practice”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "evam āsīnasya yater vaśe hi yasyendriyāṇi vartante abhyāsa-balāt",
+     "translation": "“For the ascetic who abides thus, whose senses remain in control by the strength of practice.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "yasya and tasya form a relative-correlative pair referring to the supplied yati; prajñā is the feminine nominative subject and pratiṣṭhitā its predicate adjective.",
+   "options_considered": [
+    "wisdom is established for that abstract condition",
+    "his wisdom has been installed by another",
+    "his wisdom is established"
+   ],
+   "chosen": "“his wisdom is established”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tasya prajñā pratiṣṭhitā",
+     "translation": "“His wisdom is established.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "hi is taken causally, making the second hemistich give the reason for the injunction in the first.",
+   "options_considered": [
+    "indeed, merely emphatic",
+    "for/because, causal"
+   ],
+   "chosen": "“for”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Having brought all those [senses] under control,\nlet him remain collected (yuktaḥ), with Me as the Highest (mat-paraḥ)—\n[knowing,] “I am not other than Vāsudeva, the inner Self of all.”\n\nFor the ascetic whose senses, through the strength of practice,\nremain under control:\nhis wisdom (prajñā) is established.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take yuktaḥ as merely “yoked” or “disciplined,” missing Śaṅkara’s precise samāhitaḥ, “collected/concentrated.”",
+  "It might translate mat-paraḥ simply as “devoted to me,” missing Śaṅkara’s bahuvrīhi explanation: Vāsudeva, the inner Self of all, is the para, and the practitioner abides in non-difference from Him.",
+  "It might miss the supplied vartante with vaśe and therefore fail to construe indriyāṇi as the subject: the senses “remain under control,” specifically through the strength of practice.",
+  "It might leave yasya/tasya vague, whereas Śaṅkara supplies the referent as the yati who abides in the manner just described."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split mat-paraḥ into mad + paraḥ; I treat mat-paraḥ as a single compound, with inflected compound stem matpara, because the verse prints the compound and Śaṅkara defines it as sa mat-paraḥ (line 1).",
+  "ByT5 lemmatized yuktaḥ under √yuj; for the required nominal analysis I give the participial/adjectival stem yukta, supported by Śaṅkara’s gloss samāhitaḥ (line 1).",
+  "ByT5 lemmatized saṃyamya as a prefixed verbal base saṃyam; I record bare root yam with prefix saṃ, following the requested root-plus-prefix convention.",
+  "ByT5 lemmatized pratiṣṭhitā as pratiṣṭhā; I analyze it as feminine nominative singular of the participial stem pratiṣṭhita, agreeing with prajñā."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14221,
+   "completion_tokens": 17930,
+   "reasoning_tokens": 12197
+  },
+  "est_cost": 0.3116,
+  "reverified": true
+ },
+ "mula": "tāni sarvāṇi saṃyamya yukta āsīta mat-paraḥ | vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā",
+ "commentary_lines": [
+  "tāni sarvāṇi saṃyamya saṃyamanaṃ vaśīkaraṇaṃ kṛtvā yuktaḥ samāhitaḥ san āsīta mat-paro 'haṃ vāsudevaḥ sarva-pratyag-ātmā paro yasya sa mat-paraḥ, nānyo 'haṃ tasmāt ity āsīta ity arthaḥ |",
+  "evam āsīnasya yater vaśe hi yasyendriyāṇi vartante abhyāsa-balāt tasya prajñā pratiṣṭhitā ||bhgs_2.61||",
+  "athedānīṃ parābhaviṣyataḥ sarvānartha-mūlam idam ucyate --"
+ ]
+}

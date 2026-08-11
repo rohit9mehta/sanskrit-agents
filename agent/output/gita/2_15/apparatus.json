@@ -1,0 +1,420 @@
+{
+ "unit": "2.15",
+ "analysis": [
+  {
+   "surface": "yam",
+   "surface_in_sandhi": "yaṃ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun; object of vyathayanti, resumed by saḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic causal particle, rendered “for.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates vyathayanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vyathayanti",
+   "surface_in_sandhi": "vyathayanty",
+   "lemma": "vyathay",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "vyathay",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Parasmaipada present, 3rd plural; recorded as the aya-present/transitive verbal base vyathay after verifier rejection of the previous √vyath analysis. Semantically, Śaṅkara glosses it with cālayanti, “shake/disturb.”",
+   "verification": {
+    "status": "fail",
+    "detail": "vyathay Lat/Prathama/Bahu: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "vyāthayante",
+     "vyāthayanti"
+    ]
+   }
+  },
+  {
+   "surface": "ete",
+   "surface_in_sandhi": "ete",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of vyathayanti; Śaṅkara identifies the referents as the previously stated śītoṣṇa and the like.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "puruṣam",
+   "surface_in_sandhi": "puruṣaṃ",
+   "lemma": "puruṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object, qualified by sama-duḥkha-sukham and dhīram.",
+   "verification": {
+    "status": "pass",
+    "detail": "puruṣa Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "puruṣarṣabha",
+   "surface_in_sandhi": "puruṣarṣabha",
+   "lemma": "puruṣarṣabha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "puruṣāṇām ṛṣabhaḥ",
+    "members": [
+     "puruṣa",
+     "ṛṣabha"
+    ]
+   },
+   "note": "Vocative address.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem puruṣarṣabha as Pum/Sambodhana/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sama-duḥkha-sukham",
+   "surface_in_sandhi": "sama-duḥkha-sukhaṃ",
+   "lemma": "sama-duḥkha-sukha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "same duḥkha-sukhe yasya saḥ",
+    "members": [
+     "sama",
+     "duḥkha",
+     "sukha"
+    ]
+   },
+   "note": "Bahuvrīhi adjective agreeing with puruṣam/dhīram; not a neuter object “equal pain-and-pleasure.” The verifier reported a tool_error for this compound inflection and does not support validating bahuvrīhi relation; retained on the explicit commentary vigraha same duḥkha-sukhe yasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sama-duḥkha-sukha as Pum/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "dhīram",
+   "surface_in_sandhi": "dhīraṃ",
+   "lemma": "dhīra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses as dhīmantaṃ, “intelligent/wise.”",
+   "verification": {
+    "status": "pass",
+    "detail": "dhīra Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "so",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun resuming yam; external sandhi saḥ + amṛtatvāya > so ’mṛtatvāya.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "amṛtatvāya",
+   "surface_in_sandhi": "'mṛtatvāya",
+   "lemma": "amṛtatva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Abstract noun in -tva; Śaṅkara glosses it as amṛta-bhāva and mokṣa.",
+   "verification": {
+    "status": "pass",
+    "detail": "amṛtatva Napumsaka/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "kalpate",
+   "surface_in_sandhi": "kalpate",
+   "lemma": "kḷp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "kḷp",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada; with dative amṛtatvāya, “is capable/fit,” per Śaṅkara’s samartho bhavati.",
+   "verification": {
+    "status": "pass",
+    "detail": "kḷp Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound qualifies the accusative puruṣam/dhīram; it is not a neuter object meaning “equal pain-and-pleasure” as a thing.",
+   "options_considered": [
+    "bahuvrīhi qualifying the person",
+    "karmadhāraya/dvandva-like description of equal pain-and-pleasure as a neuter entity"
+   ],
+   "chosen": "sama-duḥkha-sukhaṃ is a bahuvrīhi: “one for whom pain and pleasure are the same,” specifically free from elation and dejection at their occurrence.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "same duḥkha-sukhe yasya taṃ sama-duḥkha-sukhaṃ sukha-duḥkha-prāptau harṣa-viṣāda-rahitaṃ",
+     "translation": "“sama-duḥkha-sukha” means him for whom pain and pleasure are the same, free from joy and despondency when pleasure and pain are obtained."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara explicitly glosses dhīra as dhīmān, so the translation foregrounds wisdom/intelligence rather than courage alone.",
+   "options_considered": [
+    "wise/intelligent",
+    "brave/courageous",
+    "emotionally steady without reference to knowledge"
+   ],
+   "chosen": "dhīraṃ is rendered “wise,” with steadiness implied by understanding, not merely “brave.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "dhīraṃ dhīmantaṃ",
+     "translation": "“dhīra” means “possessed of understanding,” wise."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The subject is not “these people” or an unspecified set; Śaṅkara identifies it as yathoktāḥ śītoṣṇādayaḥ and glosses vyathayanti by cālayanti.",
+   "options_considered": [
+    "these = cold/heat and other dualities from the prior verse",
+    "these = nearby persons or enemies",
+    "vyathayanti = merely cause physical pain"
+   ],
+   "chosen": "ete refers to the previously mentioned cold-and-heat and the like; vyathayanti means “disturb/shake.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "na vyathayanti na cālayanti nityātma-darśanāt ete yathoktāḥ śītoṣṇādayaḥ",
+     "translation": "They do not disturb, do not shake, because of the vision of the eternal self; these are the aforementioned cold-and-heat and so on."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "kalpate is not taken as “imagines” or simply “becomes”; Śaṅkara glosses it as samartho bhavati. amṛtatva is not mere long life or divine nectar but mokṣa.",
+   "options_considered": [
+    "is fit/capable for liberation",
+    "becomes biologically immortal",
+    "is fashioned for nectar",
+    "imagines immortality"
+   ],
+   "chosen": "amṛtatvāya kalpate means “is fit/capable for immortality,” where immortality is liberation (mokṣa).",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "amṛtatvāya amṛta-bhāvāya mokṣāyety arthaḥ kalpate samartho bhavati",
+     "translation": "“For immortality” means for the state of being immortal, that is, for liberation; “kalpate” means becomes capable/fit."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The commentary is silent on this address; grammar and dictionary decide it. MW s.v. ṛṣabha, 226,3 gives “a bull” and “the best or most excellent of any kind or race,” explicitly comparing forms such as puruṣarṣabha.",
+   "options_considered": [
+    "ṣaṣṭhī-tatpuruṣa: puruṣāṇām ṛṣabhaḥ, best among men",
+    "karmadhāraya: a man who is a literal bull"
+   ],
+   "chosen": "puruṣarṣabha is a vocative tatpuruṣa, “O bull/best among men.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For the wise person, O best among men,\nwhom these [cold-and-heat and the like] do not shake,\nequal in pain and pleasure—\nhe is fit for immortality (amṛtatva), that is, liberation.",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave sama-duḥkha-sukha as a vague “having equal pain and pleasure”; Śaṅkara makes it an inner freedom from joy and despondency when pleasure and pain arise.",
+  "It might render amṛtatva as literal immortality only; Śaṅkara identifies it as mokṣa, liberation.",
+  "It might take dhīra primarily as “brave” or “stoic”; Śaṅkara glosses it as dhīmān, wise.",
+  "It might leave ete unspecified or read it as people/enemies; Śaṅkara says it is the previously mentioned cold-and-heat and the like.",
+  "It might translate kalpate as “becomes” or “is made”; Śaṅkara’s samartho bhavati supports “is fit/capable.”"
+ ],
+ "analyzer_disagreements": [
+  "sama-duḥkha-sukham: ByT5 presents the members separately with final sukham; the analysis here records the whole inflected compound stem sama-duḥkha-sukha, masculine accusative singular, because it qualifies puruṣam/dhīram and Śaṅkara supplies the bahuvrīhi vigraha same duḥkha-sukhe yasya.",
+  "amṛtatvāya: ByT5 segments amṛta + tvāya; the apparatus treats the form as the single derived abstract noun amṛtatva, neuter dative singular, supported by Śaṅkara’s amṛta-bhāvāya mokṣāya.",
+  "puruṣarṣabha: ByT5’s puruṣa + ṛṣabha segmentation is retained as compound membership, but the inflected word is recorded under the internally sandhied compound stem puruṣarṣabha."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13266,
+   "completion_tokens": 18715,
+   "reasoning_tokens": 13100
+  },
+  "est_cost": 0.3205,
+  "reverified": true
+ },
+ "mula": "yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha | sama-duḥkha-sukhaṃ dhīraṃ so 'mṛtatvāya kalpate",
+ "commentary_lines": [
+  "yaṃ hi puruṣaṃ same duḥkha-sukhe yasya taṃ sama-duḥkha-sukhaṃ sukha-duḥkha-prāptau harṣa-viṣāda-rahitaṃ dhīraṃ dhīmantaṃ na vyathayanti na cālayanti nityātma-darśanāt ete yathoktāḥ śītoṣṇādayaḥ, sa nityātma-svarūpa-darśa-niṣṭho dvandva-sahiṣṇuḥ amṛtatvāya amṛta-bhāvāya mokṣāyety arthaḥ kalpate samartho bhavati ||bhgs_2.15||",
+  "itaś ca śoka-mohau akṛtvā śītoṣṇādi-sahanaṃ yuktam, yasmāt ---"
+ ]
+}

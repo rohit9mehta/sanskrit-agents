@@ -1,0 +1,505 @@
+{
+ "unit": "2.31",
+ "analysis": [
+  {
+   "surface": "svadharmam",
+   "surface_in_sandhi": "sva-dharmam",
+   "lemma": "svadharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "svaḥ dharmaḥ",
+    "members": [
+     "sva",
+     "dharma"
+    ]
+   },
+   "note": "The compound is construed by Śaṅkara as Arjuna’s specifically kṣatriya duty, namely battle.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svadharma as Pum/Dvitiya/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "api",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "‘Even/also,’ with scope over svadharmam, as Śaṅkara repeats tam api avekṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "avekṣya",
+   "surface_in_sandhi": "vekṣya",
+   "lemma": "īkṣ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "īkṣ",
+    "prefixes": [
+     "ava"
+    ],
+    "prayoga": "Kartari",
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive in -ya: ‘having regard to, considering.’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates arhasi with the infinitive vikampitum: ‘you ought not to waver.’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vikampitum",
+   "surface_in_sandhi": "vikampitum",
+   "lemma": "kamp",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "kamp",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Infinitive in -tum: ‘to waver/tremble’; Śaṅkara glosses it as pracalitum.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "arhasi",
+   "surface_in_sandhi": "arhasi",
+   "lemma": "arh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "arh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "With infinitive, ‘be entitled/ought’; with na, ‘you ought not.’",
+   "verification": {
+    "status": "pass",
+    "detail": "arh Lat/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dharmyāt",
+   "surface_in_sandhi": "dharmyād",
+   "lemma": "dharmya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjectival ablative singular agreeing with yuddhāt; sandhi gives dharmyād dhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "dharmya Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "dhi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal: ‘for/because,’ glossed by yasmāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yuddhāt",
+   "surface_in_sandhi": "yuddhāc",
+   "lemma": "yuddha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of comparison with śreyaḥ anyat: ‘than a righteous battle.’",
+   "verification": {
+    "status": "pass",
+    "detail": "yuddha Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "śreyaḥ",
+   "surface_in_sandhi": "chreyo",
+   "lemma": "śreyas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative neuter singular, predicative/subject with anyat and na vidyate: ‘another better thing/good.’",
+   "verification": {
+    "status": "pass",
+    "detail": "śreyas Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anyat",
+   "surface_in_sandhi": "'nyat",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Modifies śreyaḥ: ‘other.’",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kṣatriyasya",
+   "surface_in_sandhi": "kṣatriyasya",
+   "lemma": "kṣatriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive of reference/possession: ‘for/of a kṣatriya.’",
+   "verification": {
+    "status": "pass",
+    "detail": "kṣatriya Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates vidyate: ‘is not found/does not exist.’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vidyate",
+   "surface_in_sandhi": "vidyate",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive/medio-passive idiom: ‘is found, exists.’",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate svadharmam not as an abstract ‘personal religion’ but as Arjuna’s own class-duty: for a kṣatriya, battle. The accusative is the object of avekṣya, ‘having regard to/considering.’",
+   "options_considered": [
+    "generic ‘one’s own religion/dharma’",
+    "Arjuna’s kṣatriya-duty, specifically battle"
+   ],
+   "chosen": "svadharma = the kṣatriya’s own duty, namely battle",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svadharmam api svo dharmaḥ kṣatriyasya yuddhaṃ tam api avekṣya",
+     "translation": "‘svadharmam api’: one’s own dharma; for a kṣatriya it is battle—considering even that."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The finite arhasi with the infinitive has normative force; the negation is not a simple prediction but ‘you ought not / it is not proper for you.’ Vikampitum is taken as ‘to waver, be shaken,’ glossed by pracalitum.",
+   "options_considered": [
+    "‘you are not able to tremble’",
+    "‘you do not deserve to tremble’",
+    "‘you ought not to waver’"
+   ],
+   "chosen": "na vikampitum arhasi = you ought not to waver",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tvaṃ na vikampituṃ pracalitum nārhasi",
+     "translation": "You ought not to waver, to be unsettled."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The reason svadharma bears on Arjuna is that it is the kṣatriya’s natural/innate dharma. This supports ‘your own duty’ rather than merely a chosen or private obligation.",
+   "options_considered": [
+    "a merely personal preference",
+    "a circumstantial political duty",
+    "an innate kṣatriya duty"
+   ],
+   "chosen": "the duty is rooted in kṣatriya nature",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kṣatriyasya svābhāvikād dharmād ātma-svābhāvyād ity abhiprāyaḥ",
+     "translation": "The purport is: because of the kṣatriya’s natural dharma, because of his own nature."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Dharmya qualifies yuddha and is not a mere label for warfare generally: this battle is ‘not departed from dharma’ because it serves dharma and the protection of subjects through conquest of the earth.",
+   "options_considered": [
+    "‘religious war’",
+    "‘lawful/just war’ in the sense explained by the commentary",
+    "any war whatsoever"
+   ],
+   "chosen": "dharmya yuddha = righteous battle, not any battle as such",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tac ca yuddhaṃ pṛthivī-jaya-dvāreṇa dharmārthaṃ prajā-rakṣaṇārthaṃ ceti dharmād anapetaṃ paraṃ dharmyam",
+     "translation": "And that battle, through the conquest of the earth, is for the sake of dharma and for the protection of subjects; thus it has not fallen away from dharma and is supremely righteous."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The second half means ‘no other better good exists for a kṣatriya than righteous battle.’ The paired ablatives dharmyāt yuddhāt supply the comparison governed by śreyaḥ/anyat, and kṣatriyasya is the genitive of the person for whom this is so.",
+   "options_considered": [
+    "‘from righteous battle no other welfare arises’",
+    "‘other than righteous battle there is no higher good for a kṣatriya’",
+    "‘because there is no battle better than a kṣatriya’"
+   ],
+   "chosen": "dharmyād yuddhāt is the ablative standard of comparison for śreyaḥ anyat",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tasmād dharmyād yuddhāc chreyo 'nyat kṣatriyasya na vidyate hi yasmāt",
+     "translation": "For, than that righteous battle, no other better thing is found for a kṣatriya."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The particle hi introduces the reason for the preceding injunction not to waver.",
+   "options_considered": [
+    "emphatic ‘indeed’ only",
+    "causal ‘for/because’"
+   ],
+   "chosen": "hi = for/because",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "hi yasmāt",
+     "translation": "hi: because/for."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "And even considering your own duty (svadharma), you ought not to waver;\nfor, for a kṣatriya, no other better good is found than a righteous battle.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render svadharma as vague ‘personal duty’; Śaṅkara identifies it as the kṣatriya’s battle-duty grounded in his nature.",
+  "It might make dharmya-yuddha mean ‘religious war’ or any war; Śaṅkara restricts it to a battle not apart from dharma, aimed at dharma and protection of subjects.",
+  "It might translate na vikampitum arhasi as ‘you cannot tremble’; the bhāṣya gives the normative sense ‘you ought not to waver.’",
+  "It might miss that hi is causal and that dharmyāt yuddhāt is the ablative standard for ‘no other better good.’"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented sva-dharmam as sva + dharmam; I analyze the printed hyphenated expression as the compound svadharmam, following Śaṅkara’s compound gloss ‘svo dharmaḥ ... tam’ (line 1).",
+  "ByT5 gives prefixed lemmas avekṣ and vikamp; the required verbal format uses bare roots with prefixes, so these are analyzed as īkṣ with prefix ava and kamp with prefix vi.",
+  "In sandhi parsing, cāvekṣya is represented as ca + avekṣya; hence the individual surface_in_sandhi values are cā and vekṣya, preserving the printed sandhi while giving pausal ca and avekṣya."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5211,
+   "completion_tokens": 5445,
+   "reasoning_tokens": 2561
+  },
+  "est_cost": 0.0973,
+  "reverified": true
+ },
+ "mula": "sva-dharmam api cāvekṣya na vikampitum arhasi | dharmyād dhi yuddhāc chreyo 'nyat kṣatriyasya na vidyate",
+ "commentary_lines": [
+  "svadharmam api svo dharmaḥ kṣatriyasya yuddhaṃ tam api avekṣya tvaṃ na vikampituṃ pracalitum nārhasi kṣatriyasya svābhāvikād dharmād ātma-svābhāvyād ity abhiprāyaḥ |",
+  "tac ca yuddhaṃ pṛthivī-jaya-dvāreṇa dharmārthaṃ prajā-rakṣaṇārthaṃ ceti dharmād anapetaṃ paraṃ dharmyam |",
+  "tasmād dharmyād yuddhāc chreyo 'nyat kṣatriyasya na vidyate hi yasmāt ||bhgs_2.31||",
+  "kutaś ca tat yuddhaṃ kartavyam iti, ucyate ---"
+ ]
+}

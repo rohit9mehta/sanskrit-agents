@@ -1,0 +1,667 @@
+{
+ "unit": "8",
+ "analysis": [
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronoun referring, per Śaṅkara, to the previously described Self: yathokta ātmā. Pausal saḥ appears as sa in sandhi before paryagāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "paryagāt",
+   "surface_in_sandhi": "paryagāc",
+   "lemma": "gā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "gā",
+    "prefixes": [
+     "pari"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lun",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Aorist 3sg of pari-√gā; final -t is sandhied to -c before ś/ch. Śaṅkara glosses it as pari samantāt agāt/gatavān and as ākāśavat vyāpī.",
+   "verification": {
+    "status": "pass",
+    "detail": "pari-gā Lun/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śukram",
+   "surface_in_sandhi": "chukram",
+   "lemma": "śukra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Formal transmitted -am is neuter nom.sg. for checkable morphology; Śaṅkara explicitly requires masculine construal with the masculine frame sa ... kaviḥ etc. Semantically: pure/luminous.",
+   "verification": {
+    "status": "pass",
+    "detail": "śukra Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "akāyam",
+   "surface_in_sandhi": "akāyam",
+   "lemma": "akāya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "na vidyate kāyaḥ yasya",
+    "members": [
+     "a",
+     "kāya"
+    ]
+   },
+   "note": "Formal neuter nom.sg.; construed by Śaṅkara as masculine predicate of ātmā. It negates the subtle body, liṅgaśarīra.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem akāya as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "avraṇam",
+   "surface_in_sandhi": "avraṇam",
+   "lemma": "avraṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "na vidyate vraṇaḥ yasya",
+    "members": [
+     "a",
+     "vraṇa"
+    ]
+   },
+   "note": "Formal neuter nom.sg.; construed as masculine predicate. Together with asnāviram, Śaṅkara says it negates the gross body.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem avraṇa as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asnāviram",
+   "surface_in_sandhi": "asnāviraṃ",
+   "lemma": "asnāvira",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "snāvāḥ/śirāḥ yasmin na vidyante",
+    "members": [
+     "a",
+     "snāvira"
+    ]
+   },
+   "note": "Formal neuter nom.sg.; construed as masculine predicate. Commentary line 5 is unproofread: śirā likely stands for expected śirāḥ, but the sense is clear: no sinews/vessels are present in it.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asnāvira as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "śuddham",
+   "surface_in_sandhi": "śuddham",
+   "lemma": "śuddha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Formal neuter nom.sg.; construed as masculine predicate. Participial adjective from √śudh; Śaṅkara takes it as free from the impurity of avidyā, thereby negating the causal body.",
+   "verification": {
+    "status": "pass",
+    "detail": "śuddha Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "apāpaviddham",
+   "surface_in_sandhi": "apāpaviddham",
+   "lemma": "apāpaviddha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na pāpena viddhaḥ",
+    "members": [
+     "a",
+     "pāpa",
+     "viddha"
+    ]
+   },
+   "note": "Formal neuter nom.sg.; construed as masculine predicate. Literally ‘not pierced by pāpa’; Śaṅkara glosses as free from pāpa such as dharma and adharma.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem apāpaviddha as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "kaviḥ",
+   "surface_in_sandhi": "kavir",
+   "lemma": "kavi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Not ‘poet’ here; Śaṅkara glosses as krāntadarśī, sarvādṛk, an all-seeing seer.",
+   "verification": {
+    "status": "pass",
+    "detail": "kavi Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "manīṣī",
+   "surface_in_sandhi": "manīṣī",
+   "lemma": "manīṣin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara interprets by nirvacana as manasa īṣitā, ‘ruler of the mind,’ hence sarvajña īśvara.",
+   "verification": {
+    "status": "pass",
+    "detail": "manīṣin Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "paribhūḥ",
+   "surface_in_sandhi": "paribhūḥ",
+   "lemma": "paribhū",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Root-noun/adjectival form from pari-√bhū; Śaṅkara takes it as ‘being above all’.",
+   "verification": {
+    "status": "pass",
+    "detail": "paribhū Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "svayambhūḥ",
+   "surface_in_sandhi": "svayambhūr",
+   "lemma": "svayambhū",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svayam eva bhavati",
+    "members": [
+     "svayam",
+     "bhū"
+    ]
+   },
+   "note": "Long-ū stem as indicated by the mūla form svayambhūḥ; Śaṅkara’s svayameva bhavati supports the sense ‘exists by himself’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svayambhū as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yāthātathyataḥ",
+   "surface_in_sandhi": "yāthātathyato",
+   "lemma": "yāthātathya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial ablative: Śaṅkara explicitly paraphrases yāthātathyataḥ by yāthātathyaṃ tasmāt. The printed spacing yāthātathyator 'thān is treated as standard yāthātathyato 'rthān.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "yāthātathya Napumsaka/Panchami/Eka: fail; -tas (tasil) adverb not derivable as subanta"
+   }
+  },
+  {
+   "surface": "arthān",
+   "surface_in_sandhi": "'rthān",
+   "lemma": "artha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of vyadadhāt; Śaṅkara restricts the sense to kartavya-padārthān, ‘matters/items to be done’.",
+   "verification": {
+    "status": "pass",
+    "detail": "artha Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vyadadhāt",
+   "surface_in_sandhi": "vyadadhāc",
+   "lemma": "dhā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dhā",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lan",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Reduplicated imperfect 3sg of vi-√dhā. Śaṅkara glosses both as vihitavān, ‘ordained,’ and yathānurūpaṃ vyabhajat, ‘apportioned suitably’. Final -t is sandhied to -c before ś/ch.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-dhā Lan/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śāśvatībhyaḥ",
+   "surface_in_sandhi": "chāśvatībhyaḥ",
+   "lemma": "śāśvatī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Caturthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine dative plural agreeing with samābhyaḥ; Śaṅkara glosses as nityābhyaḥ and construes with prajāpatibhyaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "śāśvatī Stri/Caturthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "samābhyaḥ",
+   "surface_in_sandhi": "samābhyaḥ",
+   "lemma": "samā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Caturthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative plural: ‘years’; Śaṅkara identifies them as Prajāpatis called Saṃvatsara, not merely an adverbial ‘forever’.",
+   "verification": {
+    "status": "pass",
+    "detail": "samā Stri/Caturthi/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The opening pronoun is not an unspecified ‘he’ who attains an object. Śaṅkara makes the subject the yathokta ātmā and takes paryagāt intransitively/pervasively, glossing it as ‘went all around’ and ‘pervading like space’.",
+   "options_considered": [
+    "The Self just described is the subject and pervades all around.",
+    "An unspecified person attains the bright bodiless Brahman as an object.",
+    "paryagāt means only ‘circumambulated’ or ‘approached’."
+   ],
+   "chosen": "sa = the previously taught Self; paryagāt = went all around, i.e. pervaded like space",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sa yathokta ātmā paryagāt pari samantādagādgatavānākāśavadvyāpī ityarthaḥ /",
+     "translation": "‘He, the Self as just stated, paryagāt: he went completely on all sides, went; the meaning is: pervading like space.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The six -am descriptors are not taken as a neuter accusative object of paryagāt. Śaṅkara explicitly says the words beginning with śukram must be converted to masculine, because the passage begins with masculine sa and concludes with masculine kaviḥ, manīṣī, etc.",
+   "options_considered": [
+    "Neuter accusatives as an object: ‘he attained the bright, bodiless ...’.",
+    "Predicative descriptors of ātmā, construed as masculine nominatives by Śaṅkara.",
+    "Unconnected neuter epithets of Brahman."
+   ],
+   "chosen": "śukram through apāpaviddham are predicates of the Self, with masculine construal despite transmitted -am forms",
+   "evidence": [
+    {
+     "lines": [
+      9,
+      10
+     ],
+     "quote": "śukramityādīni vacāṃsi pulliṅgatvena pariṇeyāni / sa paryagādityupakramya kavirmanīṣītyādinā pulliṅgatvenopasaṃhārāt /",
+     "translation": "‘The words beginning with śukram are to be converted to masculine gender; for, having begun with sa paryagāt, it concludes in the masculine with kaviḥ, manīṣī, and so on.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara assigns specific force to each descriptor: śukra is pure/luminous; akāya denies the subtle body; avraṇa and asnāvira deny the gross body; śuddha denies causal-body impurity from avidyā; apāpaviddha denies pāpa such as dharma and adharma.",
+   "options_considered": [
+    "General poetic adjectives only.",
+    "Technical negations of subtle, gross, and causal bodily limitation, as Śaṅkara states.",
+    "A moral description limited only to ordinary sin."
+   ],
+   "chosen": "The descriptors deny all bodily/impure limitation of the Self",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "śukraṃ śuddhaṃ jyotiṣmaddīptimānityarthaḥ /",
+     "translation": "‘śukra means pure, luminous, shining.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "akāyamaśarīro liṅgaśarīravarjita ityarthaḥ /",
+     "translation": "‘akāya means bodiless, devoid of the subtle body.’"
+    },
+    {
+     "lines": [
+      4,
+      5,
+      6
+     ],
+     "quote": "avraṇam akṣatam / asnāviraṃ snāvāḥ śirā yasminna vidyanta ityasnāviram / avraṇamasnāviramityābhyāṃ sthūlaśarīrapratiṣedhaḥ /",
+     "translation": "‘avraṇa means uninjured. asnāvira means that in which sinews/vessels are not present. By avraṇa and asnāvira the gross body is denied.’"
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "śuddhaṃ nirmalamavidyāmalarahitamiti kāraṇaśarīrapratiṣedhaḥ /",
+     "translation": "‘śuddha means stainless, free from the impurity of avidyā; this denies the causal body.’"
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "apāpaviddhaṃ dharmādharmādipāpavarjitam /",
+     "translation": "‘apāpaviddha means free from pāpa such as dharma and adharma.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary rejects a merely literary or ordinary sense. kavi is glossed as krāntadarśī and sarvādṛk, while manīṣī is parsed as manasa īṣitā and equated with sarvajña īśvara.",
+   "options_considered": [
+    "kavi = poet; manīṣī = thoughtful sage.",
+    "kavi = omnivident seer; manīṣī = ruler of mind/omniscient Lord.",
+    "Both are merely honorific synonyms without technical force."
+   ],
+   "chosen": "kaviḥ = all-seeing seer; manīṣī = ruler of mind, omniscient Lord",
+   "evidence": [
+    {
+     "lines": [
+      11
+     ],
+     "quote": "kaviḥ krāntadarśī sarvādṛk /",
+     "translation": "‘kavi means one whose seeing has gone beyond, the seer of all.’"
+    },
+    {
+     "lines": [
+      15
+     ],
+     "quote": "maniṣī manasa īṣitā sarvajña īśvara ityarthaḥ /",
+     "translation": "‘manīṣī means ruler of the mind; the meaning is the omniscient Lord.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara glosses paribhūḥ by being above all, and svayambhūḥ first as self-existent, then expands it: that over which he is and that as which he is above is all himself.",
+   "options_considered": [
+    "paribhūḥ = merely surrounding/pervading; svayambhūḥ = born by himself in a mythic sense.",
+    "paribhūḥ = superior/above all; svayambhūḥ = self-existent, all being himself, per Śaṅkara.",
+    "Both are names of a creator deity without further philosophical construal."
+   ],
+   "chosen": "paribhūḥ = above all; svayambhūḥ = self-existent, with all dependent reality being himself",
+   "evidence": [
+    {
+     "lines": [
+      16
+     ],
+     "quote": "paribhūḥ sarveṣāṃ paryupari bhavatīti paribhūḥ /",
+     "translation": "‘paribhūḥ: he is above and over all; therefore paribhūḥ.’"
+    },
+    {
+     "lines": [
+      17,
+      18
+     ],
+     "quote": "svayambhūḥ svayameva bhavatīti / yeṣāmupari bhavati yaścopari bhavati sa sarvaḥ svayameva bhavatīti svayambhūḥ /",
+     "translation": "‘svayambhūḥ: he exists by himself. Those over whom he is, and that as which he is above, all that is himself alone; hence svayambhūḥ.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The adverbial ablative yāthātathyataḥ is explained as arising from true being-as-it-is, grounded in omniscience. arthān are not arbitrary ‘objects’ but kartavya-padārthān, matters to be done, understood as means to karmic fruits. vyadadhāt is both ‘ordained’ and ‘apportioned suitably’.",
+   "options_considered": [
+    "atha + arthān: ‘then objects’.",
+    "arthān as objects in general, with vyadadhāt meaning simply ‘made’.",
+    "yāthātathyataḥ as adverbial ablative: according to reality, he ordained/apportioned duties or matters to be done."
+   ],
+   "chosen": "yāthātathyataḥ ... arthān vyadadhāt = from/according to reality he ordained and suitably apportioned the matters to be done",
+   "evidence": [
+    {
+     "lines": [
+      19
+     ],
+     "quote": "sa nityamukta īśvaro yāthātathyataḥ sarvajñatvādyathātathābhāvo yāthātathyaṃ tasmādyathābhūtakarmaphalasādhanator'thān karttavyapadārthān vyadadhādvihitavān yathānurūpaṃ vyabhajadityarthaḥ",
+     "translation": "‘He, the ever-liberated Lord: yāthātathyataḥ—because, from omniscience, there is being exactly as it is; that is yāthātathya, and from that. He vyadadhāt, ordained, the arthas, the matters to be done, as they truly are means to the fruits of action; the meaning is that he apportioned them suitably.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Although the phrase can look like an adverbial ‘for ever’, Śaṅkara construes the -bhyaḥ forms as datives and identifies the samāḥ as Prajāpatis called Saṃvatsara. The translation therefore preserves ‘Years’ and the commentarial identification.",
+   "options_considered": [
+    "An idiomatic adverbial ‘forever’.",
+    "Ablative plural ‘from eternal years’.",
+    "Dative plural: for/to the eternal Years, i.e. Prajāpatis called Saṃvatsara, as Śaṅkara states."
+   ],
+   "chosen": "śāśvatībhyaḥ samābhyaḥ = to/for the eternal Years, the Prajāpatis called Saṃvatsara",
+   "evidence": [
+    {
+     "lines": [
+      19
+     ],
+     "quote": "śāśvatībhyo nityābhyaḥ samābhyaḥ saṃvatsarākhyebhyaḥ prajāpatibhya ityarthaḥ",
+     "translation": "‘For the śāśvatīḥ, eternal, samāḥ, years: the meaning is, for the Prajāpatis called Saṃvatsara.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "He—the Self just described—has gone all around, pervading like space:\nbright-pure, bodiless, woundless, without sinews, stainless, unpierced by pāpa;\nthe all-seeing seer, ruler of mind, above all, self-existent—\nfrom reality-as-it-is he ordained, and suitably apportioned, the matters to be done,\nfor the eternal Years, the Prajāpatis called Saṃvatsara.",
+ "one_shot_delta": [
+  "A commentary-blind translation would plausibly take śukram akāyam etc. as a neuter accusative object—‘he attained the bright, bodiless one’—whereas Śaṅkara makes them predicates of the Self and explicitly requires masculine construal.",
+  "It might translate kavi as ‘poet’ and manīṣī as simply ‘wise’; Śaṅkara instead gives ‘all-seeing seer’ and ‘ruler of the mind, the omniscient Lord’.",
+  "It would likely miss the layered body-negations: akāya denies the subtle body, avraṇa/asnāvira the gross body, and śuddha the causal body’s avidyā-impurity.",
+  "It might follow the tagger’s mistaken athān and omit yāthātathyataḥ; Śaṅkara explicitly interprets yāthātathyataḥ and takes arthān as kartavya-padārthān ordained according to karmic-fruit means.",
+  "It might render śāśvatībhyaḥ samābhyaḥ merely as ‘forever’; Śaṅkara identifies them as eternal Years, the Prajāpatis called Saṃvatsara."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 analyzes śukram, akāyam, avraṇam, asnāviram, śuddham, and viddham as accusative/neuter forms. I treat the transmitted -am forms as formal neuter nominative predicates in apposition to sa/ātmā, while noting Śaṅkara’s required masculine construal: lines 9–10 say śukramityādīni vacāṃsi pulliṅgatvena pariṇeyāni.",
+  "ByT5 splits a_snāviram and a_pāpa_viddham. I analyze as single privative/compound stems asnāviram and apāpaviddham, supported by Śaṅkara’s definitions in lines 5 and 8.",
+  "ByT5 drops yāthātathyataḥ and reads athān as atha. I restore yāthātathyataḥ + arthān, because line 19 explicitly glosses yāthātathyataḥ and arthān.",
+  "ByT5 uses prefixed lemmas parigā and vidhā. Per the requested format I give bare roots gā and dhā with prefixes pari and vi; paryagāt is analyzed as luṅ/aorist, vyadadhāt as laṅ/imperfect.",
+  "ByT5 gives svayambhu as lemma; the mūla form svayambhūḥ/svayambhūr and Śaṅkara’s svayameva bhavati support the long-ū stem svayambhū.",
+  "ByT5 treats śuddham and viddham primarily as participial analyses from roots. I give the inflected nominal stems śuddha and apāpaviddha, noting their participial/compound derivation where relevant."
+ ],
+ "open_questions": [
+  "The commentary is unproofread: line 5’s śirā is probably for śirāḥ, and the mūla spacing yāthātathyator 'thān has been interpreted as the standard sandhi yāthātathyato 'rthān."
+ ],
+ "verification_summary": {
+  "pass": 16,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 16361,
+   "completion_tokens": 27018,
+   "reasoning_tokens": 16383
+  },
+  "est_cost": 0.4544,
+  "reverified": true
+ },
+ "mula": "sa paryagāc chukram akāyam avraṇam asnāviraṃ śuddham apāpaviddham | kavir manīṣī paribhūḥ svayambhūr yāthātathyator 'thān vyadadhāc chāśvatībhyaḥ samābhyaḥ",
+ "commentary_lines": [
+  "sa yathokta ātmā paryagāt pari samantādagādgatavānākāśavadvyāpī ityarthaḥ /",
+  "śukraṃ śuddhaṃ jyotiṣmaddīptimānityarthaḥ /",
+  "akāyamaśarīro liṅgaśarīravarjita ityarthaḥ /",
+  "avraṇam akṣatam /",
+  "asnāviraṃ snāvāḥ śirā yasminna vidyanta ityasnāviram /",
+  "avraṇamasnāviramityābhyāṃ sthūlaśarīrapratiṣedhaḥ /",
+  "śuddhaṃ nirmalamavidyāmalarahitamiti kāraṇaśarīrapratiṣedhaḥ /",
+  "apāpaviddhaṃ dharmādharmādipāpavarjitam /",
+  "śukramityādīni vacāṃsi pulliṅgatvena pariṇeyāni /",
+  "sa paryagādityupakramya kavirmanīṣītyādinā pulliṅgatvenopasaṃhārāt /",
+  "kaviḥ krāntadarśī sarvādṛk /",
+  "\"nānyo 'to 'sti draṣṭā\"(bṛ. u. 3 /",
+  "8 /",
+  "11) ityādiśruteḥ /",
+  "maniṣī manasa īṣitā sarvajña īśvara ityarthaḥ /",
+  "paribhūḥ sarveṣāṃ paryupari bhavatīti paribhūḥ /",
+  "svayambhūḥ svayameva bhavatīti /",
+  "yeṣāmupari bhavati yaścopari bhavati sa sarvaḥ svayameva bhavatīti svayambhūḥ /",
+  "sa nityamukta īśvaro yāthātathyataḥ sarvajñatvādyathātathābhāvo yāthātathyaṃ tasmādyathābhūtakarmaphalasādhanator'thān karttavyapadārthān vyadadhādvihitavān yathānurūpaṃ vyabhajadityarthaḥ, śāśvatībhyo nityābhyaḥ samābhyaḥ saṃvatsarākhyebhyaḥ prajāpatibhya ityarthaḥ"
+ ]
+}

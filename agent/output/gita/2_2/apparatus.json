@@ -1,0 +1,391 @@
+{
+ "unit": "2.2",
+ "analysis": [
+  {
+   "surface": "kutaḥ",
+   "surface_in_sandhi": "kutas",
+   "lemma": "kutas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative indeclinable: pausal kutaḥ; before tvā the visarga is represented as -s in sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tvā",
+   "surface_in_sandhi": "tvā",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic second-person pronoun; construed as accusative with samupasthitam, ‘come upon/approached you’. The form is not gender-distinct in use, but Pum is recorded here because the referent is Arjuna.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "kaśmalam",
+   "surface_in_sandhi": "kaśmalam",
+   "lemma": "kaśmala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular, subject of samupasthitam; semantically a mental ‘taint/dejection’ in this context.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaśmala Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "idaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular demonstrative agreeing with kaśmalam; pausal final -m appears as anusvāra before v in the printed sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "viṣame",
+   "surface_in_sandhi": "viṣame",
+   "lemma": "viṣama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantival locative singular: ‘in a difficult/critical situation’.",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣama Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "samupasthitam",
+   "surface_in_sandhi": "samupasthitam",
+   "lemma": "samupasthita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past participial adjective from √sthā with prefixes sam + upa, agreeing with idam kaśmalam; used in the intransitive/arrival sense ‘has arisen, has come upon’.",
+   "verification": {
+    "status": "pass",
+    "detail": "samupasthita Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anāryajuṣṭam",
+   "surface_in_sandhi": "anārya-juṣṭam",
+   "lemma": "anāryajuṣṭa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "anāryaiḥ juṣṭam",
+    "members": [
+     "anārya",
+     "juṣṭa"
+    ]
+   },
+   "note": "Agrees with kaśmalam. The first member anārya is privative, ‘not noble/ignoble’; the main compound is taken as ‘resorted to by ignoble persons’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anāryajuṣṭa as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asvargyam",
+   "surface_in_sandhi": "asvargyam",
+   "lemma": "asvargya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na svargyam",
+    "members": [
+     "nañ",
+     "svargya"
+    ]
+   },
+   "note": "Nañ-tatpuruṣa adjective modifying kaśmalam: ‘not leading to heaven’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asvargya as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "akīrtikaram",
+   "surface_in_sandhi": "akīrti-karam",
+   "lemma": "akīrtikara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "akīrtiṃ karotīti",
+    "members": [
+     "akīrti",
+     "kara"
+    ]
+   },
+   "note": "Adjectival compound modifying kaśmalam; kara is the final member meaning ‘causing/producing’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem akīrtikara as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "arjuna",
+   "surface_in_sandhi": "arjuna",
+   "lemma": "arjuna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative singular proper name.",
+   "verification": {
+    "status": "pass",
+    "detail": "arjuna Pum/Sambodhana/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The supplied bhāṣya is silent. Grammatically kutaḥ is an interrogative indeclinable; the dictionary supports ‘from where? whence?’ [MW s.v. kutas, 290,2]. I therefore render the opening as ‘Whence …?’ rather than as a causal ‘why’ alone.",
+   "options_considered": [
+    "‘whence/from where?’",
+    "‘why/from what cause?’",
+    "‘from whom?’"
+   ],
+   "chosen": "kutaḥ = ‘whence/from what source?’ introducing the question",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied; grammar and dictionary only."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The neuter forms kaśmalam, idam, and samupasthitam are construed as Prathama Eka. tvā is Dvitiya Eka governed by the sense of sam-upa-√sthā, for which the dictionary gives both ‘to go to, approach (acc.)’ and ‘to occur, arise, befall’ [MW s.v. samupasthā, 1169,3]. Thus the clause is not ‘you have approached this dejection’ but ‘this dejection has come upon you’.",
+   "options_considered": [
+    "kaśmalam/idam/samupasthitam as neuter nominative subject and predicate",
+    "kaśmalam as accusative object of an implied verb",
+    "tvā construed with kutaḥ as ‘from you’"
+   ],
+   "chosen": "idam kaśmalam samupasthitam as the nominative subject-predicate: ‘this taint/dejection has come upon’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied; grammar and dictionary only."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The locative singular viṣame is taken substantively, not as merely ‘on uneven ground’. The dictionary senses of viṣama include ‘uneven, rugged’ and more broadly ‘irregular, dissimilar, inconstant’ [MW s.v. viṣama, 996,3]; in this battlefield rebuke, the idiomatic force is ‘at a difficult/critical juncture’.",
+   "options_considered": [
+    "substantive locative: ‘in a crisis/critical situation’",
+    "literal locative: ‘on uneven ground’",
+    "adjectival locative modifying an understood kāla, ‘at an uneven/difficult time’"
+   ],
+   "chosen": "viṣame = ‘in a critical/difficult situation’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied; grammar and dictionary only."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The compound is read as anāryaiḥ juṣṭam, with anārya as ‘not noble’ and juṣṭa as a participial member from √juṣ. This avoids taking the initial a(n)- as negating the whole ārya-juṣṭa (‘not practised by nobles’). ārya denotes a respectable or honourable man and is opposed to an-ārya [MW s.v. ārya, 152,2].",
+   "options_considered": [
+    "anāryaiḥ juṣṭam: ‘resorted to by ignoble persons’",
+    "na āryaiḥ juṣṭam: ‘not resorted to by noble persons’",
+    "a loose adjective: ‘un-Aryan’"
+   ],
+   "chosen": "anāryajuṣṭam = ‘resorted to by the ignoble / not-noble’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied; grammar and dictionary only."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "asvargya is taken as a nañ-compound adjective qualifying kaśmalam, not as ‘heavenless’ in a locative sense. The supplied dictionary explicitly gives a-svargya as ‘not leading to heaven’ [MW s.v. asvargya, 124,1].",
+   "options_considered": [
+    "‘not leading to heaven’",
+    "‘without heaven’",
+    "‘not heavenly’"
+   ],
+   "chosen": "asvargyam = ‘not leading to heaven’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied; grammar and dictionary only."
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "The final-member adjective kara means ‘doer, maker, causer … causing, producing’ especially in compounds [MW s.v. kara, 253,1], and akīrti means ‘ill-fame, disgrace’ [MW s.v. akīrti, 2,2]. Hence akīrti-karam is causative in sense: ‘producing disgrace’, not merely ‘disgraceful’ as a static quality.",
+   "options_considered": [
+    "‘causing/bringing disgrace’",
+    "‘disgraceful’",
+    "‘making non-fame’"
+   ],
+   "chosen": "akīrtikaram = ‘bringing/causing disgrace’",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No commentary evidence supplied; grammar and dictionary only."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Whence has this taint of dejection come upon you in this crisis—\nresorted to by the ignoble, not leading to heaven,\nand bringing disgrace, O Arjuna?",
+ "one_shot_delta": [
+  "Since the supplied commentary is silent, there is no bhāṣya-specific correction to apply; the main risks are grammatical. A quick translation could take tvā with kutaḥ as ‘from you’, but tvā is accusative with samupasthitam: ‘has come upon you’.",
+  "A quick translation could read anārya-juṣṭam as ‘not practised by Āryas’; the chosen compound relation is anāryaiḥ juṣṭam, ‘resorted to by the ignoble’.",
+  "A quick translation could flatten akīrti-karam to ‘infamous’; the compound is more specifically causative, ‘bringing disgrace’."
+ ],
+ "analyzer_disagreements": [
+  "Surface normalization: ByT5 gives kutas as the token; I record pausal kutaḥ with sandhi-form kutas before tvā.",
+  "samupasthitam: ByT5 lemmatizes to the verbal base samupasthā; for the required nominal analysis I give the participial stem samupasthita, Napumsaka Prathama Eka, agreeing with idam kaśmalam.",
+  "anāryajuṣṭam: ByT5 splits an + ārya + juṣṭam; I treat the printed anārya-juṣṭam as one compound stem anāryajuṣṭa.",
+  "akīrtikaram: ByT5 splits akīrti + karam; I treat the printed akīrti-karam as one compound stem akīrtikara.",
+  "Verifier revision: tvā previously had linga null; because the schema/verifier requires linga for subanta and the referent is Arjuna, I record Pum while noting that the pronominal form itself is not gender-distinct."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11206,
+   "completion_tokens": 13207,
+   "reasoning_tokens": 7679
+  },
+  "est_cost": 0.2317,
+  "reverified": true
+ },
+ "mula": "kutas tvā kaśmalam idaṃ viṣame samupasthitam | anārya-juṣṭam asvargyam akīrti-karam arjuna",
+ "commentary_lines": []
+}

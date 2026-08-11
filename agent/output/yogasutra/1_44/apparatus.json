@@ -1,0 +1,332 @@
+{
+ "unit": "1.44",
+ "analysis": [
+  {
+   "surface": "etayā",
+   "surface_in_sandhi": "etayaiva",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular; the sandhi cluster etayaiva represents etayā + eva. Vyāsa makes the referent explicit as nirvitarkayā in line 7.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "etayaiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle, coalesced with preceding etayā in the printed sandhi cluster etayaiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "savicārā",
+   "surface_in_sandhi": "savicārā",
+   "lemma": "savicāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "vicāraḥ yasyām asti sā samāpattiḥ",
+    "members": [
+     "sa",
+     "vicāra"
+    ]
+   },
+   "note": "Technical adjective to understood samāpattiḥ; here treated as a possessive ‘with-vicāra’ compound, not as independent sa + vicārā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem savicāra as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nirvicārā",
+   "surface_in_sandhi": "nirvicārā",
+   "lemma": "nirvicāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "vicāraḥ yasyām nāsti sā samāpattiḥ",
+    "members": [
+     "nir",
+     "vicāra"
+    ]
+   },
+   "note": "Technical adjective to understood samāpattiḥ; privative possessive sense, ‘without vicāra’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirvicāra as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sūkṣmaviṣayā",
+   "surface_in_sandhi": "sūkṣmaviṣayā",
+   "lemma": "sūkṣmaviṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sūkṣmaḥ viṣayaḥ yasyāḥ sā samāpattiḥ",
+    "members": [
+     "sūkṣma",
+     "viṣaya"
+    ]
+   },
+   "note": "Externally a bahuvrīhi qualifying the understood samāpattiḥ; internally sūkṣma qualifies viṣaya. Vyāsa paraphrases with sūkṣmavastuviṣayā in line 6.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sūkṣmaviṣaya as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vyākhyātā",
+   "surface_in_sandhi": "vyākhyātā",
+   "lemma": "vyākhyāta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular past passive participle from vi-ā-√khyā, agreeing with an understood feminine singular such as samāpattiḥ/qualified sūkṣmaviṣayā; English uses a plural predicate because two forms are coordinated.",
+   "verification": {
+    "status": "pass",
+    "detail": "vyākhyāta Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The instrumental pronoun is not left as a vague ‘by this’; Vyāsa explicitly supplies nirvitarkayā, so the sūtra points back to the preceding nirvitarkā explanation/samāpatti as the model by which the present two are explained.",
+   "options_considered": [
+    "by this very nirvitarkā",
+    "by this general method",
+    "by this wording alone"
+   ],
+   "chosen": "etayā eva = ‘by this very [nirvitarkā]’",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "evam ubhayor etayaiva nirvitarkayā vikalpahānir vyākhyāteti.",
+     "translation": "Thus, for both, by this very nirvitarkā, the removal of vikalpa has been explained."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The term is a single compound adjective qualifying an understood samāpattiḥ. Vyāsa defines it not as ordinary reflection in general, but as samāpatti concerning subtle elements that have manifest dharmas delimited by place, time, cause, and experience, with an arisen-dharma-qualified subtle element standing as the object of samādhi-prajñā.",
+   "options_considered": [
+    "sa + vicārā as two words",
+    "a merely etymological ‘reflective’ state",
+    "the technical savicārā samāpatti defined by Vyāsa"
+   ],
+   "chosen": "savicārā as the technical ‘with-vicāra’ samāpatti",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "tatra bhūtasūkṣmakeṣv abhivyaktadharmakeṣu deśakālanimittānubhavāvacchinneṣu yā samāpattiḥ sā savicārety ucyate. tatrāpy ekabuddhinirgrāhyam evoditadharmaviśiṣṭaṃ bhūtasūkṣmam ālambanībhūtaṃ samādhiprajñāyām upatiṣṭhate.",
+     "translation": "There, the samāpatti in subtle elements whose dharmas are manifest and delimited by place, time, cause, and experience is called savicārā. Even there, the subtle element qualified by an arisen dharma, to be grasped by a single cognition, stands present in samādhi-prajñā as the object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The negative compound is read privatively and technically. Vyāsa defines nirvicārā through a subtler object-presentation not delimited by the mentioned dharmas, and finally through prajñā becoming as if empty of its own form and only the object.",
+   "options_considered": [
+    "not needing any consideration in a general sense",
+    "a state with no cognition at all",
+    "the technical nirvicārā samāpatti as defined by Vyāsa"
+   ],
+   "chosen": "nirvicārā as the technical ‘without-vicāra’ samāpatti",
+   "evidence": [
+    {
+     "lines": [
+      3,
+      4,
+      5
+     ],
+     "quote": "yā punaḥ sarvathā sarvataḥ śāntoditāvyapadeśyadharmānavacchinneṣu sarvadharmānupātiṣu sarvadharmātmakeṣu samāpattiḥ sā nirvicārety ucyate. evaṃsvarūpaṃ hi tadbhūtasūkṣmam etenaiva svarūpeṇālambanībhūtam eva samādhiprajñāsvarūpam uparañjayati. prajñā ca svarūpaśūnyevārthamātrā yadā bhavati tadā nirvicārety ucyate.",
+     "translation": "But the samāpatti in those [subtle elements] which are in every way and on every side not delimited by quiescent, arisen, and indeterminable dharmas, which follow all dharmas and consist in all dharmas, is called nirvicārā. For that subtle element of this nature, becoming the object in just that form, colors the very form of samādhi-prajñā. And when prajñā becomes as if empty of its own form and only the object, then it is called nirvicārā."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The compound is construed externally as a bahuvrīhi qualifying the understood samāpattiḥ: its object-field is subtle. Vyāsa explicitly contrasts the earlier savitarkā/nirvitarkā as mahadvastuviṣayā with the present savicārā/nirvicārā as sūkṣmavastuviṣayā.",
+   "options_considered": [
+    "sūkṣma and viṣayā as separate words",
+    "‘subtle topic’ in a non-technical sense",
+    "a bahuvrīhi: ‘whose object is subtle’, applying to both forms"
+   ],
+   "chosen": "sūkṣmaviṣayā = ‘having subtle objects’ and applying to both savicārā and nirvicārā",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "tatra mahadvastuviṣayā savitarkā nirvitarkā ca, sūkṣmavastuviṣayā savicārā nirvicārā ca.",
+     "translation": "There, the savitarkā and nirvitarkā have gross/large things as their object; the savicārā and nirvicārā have subtle things as their object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although the sūtra’s predicate is feminine singular, the scope is not just one item: Vyāsa says ubhayor, ‘for both’. He also clarifies that what is transferred from the nirvitarkā account is especially the removal of vikalpa.",
+   "options_considered": [
+    "only savicārā is explained",
+    "only nirvicārā is explained",
+    "both savicārā and nirvicārā are explained by extension from nirvitarkā"
+   ],
+   "chosen": "vyākhyātā carries the explanation over to both subtle-object forms, specifically regarding vikalpa-hāni",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "evam ubhayor etayaiva nirvitarkayā vikalpahānir vyākhyāteti.",
+     "translation": "Thus, for both, by this very nirvitarkā, the removal of vikalpa has been explained."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "By this very [nirvitarkā], the with-vicāra (savicārā) and the without-vicāra (nirvicārā) [samāpatti]—whose objects are subtle—have been explained.",
+ "one_shot_delta": [
+  "A commentary-blind reading could leave etayā as an unspecified ‘by this’; Vyāsa identifies it as etayaiva nirvitarkayā, ‘by this very nirvitarkā’ (line 7).",
+  "It could parse sa vicārā as two words; Vyāsa’s savicārety and savicārā show a single technical compound (lines 1, 6).",
+  "It could render savicārā/nirvicārā merely as ‘reflective/non-reflective’, missing Vyāsa’s definitions in terms of subtle elements, their dharmas, and the object-only character of prajñā (lines 1–5).",
+  "It could take sūkṣmaviṣayā as modifying only the nearer nirvicārā or as a loose ‘subtle topic’; Vyāsa applies sūkṣmavastuviṣayā to both savicārā and nirvicārā in contrast with the gross-object savitarkā/nirvitarkā (line 6).",
+  "It could suppose that the entire earlier analysis is transferred without qualification; Vyāsa specifies that the carried-over point is vikalpahāni, the removal of conceptual construction (line 7)."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented sa_sa_ + vicārā_vicāra_SNF; I analyze savicārā as one technical compound adjective. Vyāsa uses the single term in savicārety ucyate (line 1) and savicārā (line 6).",
+  "ByT5 split sūkṣma_sūkṣma_Cp + viṣayā_viṣaya_SNF; I analyze sūkṣmaviṣayā as one bahuvrīhi compound, ‘having a subtle object’, supported by Vyāsa’s sūkṣmavastuviṣayā (line 6).",
+  "ByT5’s lemma for vyākhyātā appears to be vyākhyā; I analyze the form as the feminine nominative singular kta-participle stem vyākhyāta from vi-ā-√khyā, matching the predicate sense ‘explained’ and Vyāsa’s vyākhyāteti (line 7)."
+ ],
+ "open_questions": [
+  "Line 9 in the supplied extract appears to be the following sūtra, YS 1.45 (sūkṣmaviṣayatvaṃ cāliṅgaparyavasānam), rather than Vyāsa’s comment on 1.44, so it has not been used as bhāṣya evidence here."
+ ],
+ "verification_summary": {
+  "pass": 7,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4079,
+   "completion_tokens": 14030,
+   "reasoning_tokens": 11002
+  },
+  "est_cost": 0.2227,
+  "reverified": true
+ },
+ "mula": "43 etayaiva savicārā nirvicārā ca sūkṣmaviṣayā vyākhyātā",
+ "commentary_lines": [
+  "tatra bhūtasūkṣmakeṣv abhivyaktadharmakeṣu deśakālanimittānubhavāvacchinneṣu yā samāpattiḥ sā savicārety ucyate.",
+  "tatrāpy ekabuddhinirgrāhyam evoditadharmaviśiṣṭaṃ bhūtasūkṣmam ālambanībhūtaṃ samādhiprajñāyām upatiṣṭhate.",
+  "yā punaḥ sarvathā sarvataḥ śāntoditāvyapadeśyadharmānavacchinneṣu sarvadharmānupātiṣu sarvadharmātmakeṣu samāpattiḥ sā nirvicārety ucyate.",
+  "evaṃsvarūpaṃ hi tadbhūtasūkṣmam etenaiva svarūpeṇālambanībhūtam eva samādhiprajñāsvarūpam uparañjayati.",
+  "prajñā ca svarūpaśūnyevārthamātrā yadā bhavati tadā nirvicārety ucyate.",
+  "tatra mahadvastuviṣayā savitarkā nirvitarkā ca, sūkṣmavastuviṣayā savicārā nirvicārā ca.",
+  "evam ubhayor etayaiva nirvitarkayā vikalpahānir vyākhyāteti.",
+  "1.44",
+  "sūkṣmaviṣayatvaṃ cāliṅgaparyavasānam"
+ ]
+}

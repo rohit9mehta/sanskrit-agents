@@ -1,0 +1,505 @@
+{
+ "unit": "2.47",
+ "analysis": [
+  {
+   "surface": "karmaṇi",
+   "surface_in_sandhi": "karmaṇy",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative of sphere: the domain in which adhikāra applies.",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evā",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Restrictive particle: “only/alone,” construed with karmaṇi by the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "adhikāraḥ",
+   "surface_in_sandhi": "adhikāras",
+   "lemma": "adhikāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the first clause; Śaṅkara glosses it as applying to karma alone and later supplies it elliptically with phaleṣu.",
+   "verification": {
+    "status": "pass",
+    "detail": "adhikāra Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic genitive singular: te = tava, “your.” The masculine feature is supplied from the masculine addressee Arjuna; the form itself is common across genders.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "mā",
+   "surface_in_sandhi": "mā",
+   "lemma": "mā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Prohibitive particle; here with understood astu from the commentary’s paraphrase.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "phaleṣu",
+   "surface_in_sandhi": "phaleṣu",
+   "lemma": "phala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative plural governed by the supplied adhikāraḥ/astu: “with respect to the fruits/results.”",
+   "verification": {
+    "status": "pass",
+    "detail": "phala Napumsaka/Saptami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kadācana",
+   "surface_in_sandhi": "kadācana",
+   "lemma": "kadācana",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indefinite temporal adverb: “ever, at any time”; Śaṅkara expands it as “in any condition at all.”",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "mā",
+   "surface_in_sandhi": "mā",
+   "lemma": "mā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Prohibitive particle with the augmentless aorist/injunctive bhūḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "karma-phala-hetuḥ",
+   "surface_in_sandhi": "karma-phala-hetur",
+   "lemma": "karma-phala-hetu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "karmaṇaḥ phalasya prāpter hetuḥ",
+    "members": [
+     "karman",
+     "phala",
+     "hetu"
+    ]
+   },
+   "note": "Predicate nominative with bhūḥ: “become a cause of the obtaining of action-fruit.” The verifier reported a tool error/unsupported compound relation; no grammatical change is made, since the whole inflected compound stem is karma-phala-hetu and Śaṅkara’s gloss confirms the causal relation to karma-phala-prāpti.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem karma-phala-hetu as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bhūḥ",
+   "surface_in_sandhi": "bhūr",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lun",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Augmentless aorist/injunctive form used after prohibitive mā; represented under Lun because the schema has no separate injunctive category.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "bhū Lun/Madhyama/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "mā",
+   "surface_in_sandhi": "mā",
+   "lemma": "mā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Prohibitive particle with astu.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic genitive singular: te = tava, “your.” The masculine feature is supplied from the masculine addressee Arjuna; the form itself is common across genders.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṅgaḥ",
+   "surface_in_sandhi": "saṅgo",
+   "lemma": "saṅga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of astu; glossed by Śaṅkara as prīti, “fondness/attachment.”",
+   "verification": {
+    "status": "pass",
+    "detail": "saṅga Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "astu",
+   "surface_in_sandhi": "'stv",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Third-person singular imperative: “let there be”; negated by mā.",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lot/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "akarmaṇi",
+   "surface_in_sandhi": "akarmaṇi",
+   "lemma": "akarman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na karma; akaraṇam",
+    "members": [
+     "nañ",
+     "karman"
+    ]
+   },
+   "note": "Locative singular; Śaṅkara glosses it as akaraṇe, “in non-performance/non-doing.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem akarman as Napumsaka/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first pāda is not merely a general statement that action matters; Śaṅkara explicitly construes “karmaṇy eva adhikāraḥ te” as “your adhikāra is only in action,” and adds the exclusion “not in steadfastness in knowledge.”",
+   "options_considered": [
+    "“You have authority only over action,” with eva restricting karmaṇi",
+    "“You have authority over action also,” taking eva weakly",
+    "“You have authority over action and knowledge alike”"
+   ],
+   "chosen": "adhikāra is restricted to karma, with eva excluding jñāna-niṣṭhā",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "karmaṇy evādhikāro na jñāna-niṣṭhāyāṃ te tava |",
+     "translation": "Your adhikāra is only in action, not in steadfastness in knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The enclitic te is taken as genitive singular, not dative, because the commentary twice glosses te with tava.",
+   "options_considered": [
+    "genitive: “your”",
+    "dative: “for you/to you”"
+   ],
+   "chosen": "te is genitive, “your”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "te tava",
+     "translation": "te means tava, “your.”"
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "mā te tava saṅgo 'stv akarmaṇi",
+     "translation": "Let there not be your attachment to non-action."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The second clause has an ellipsis: Śaṅkara supplies adhikāro ’stu with phaleṣu and further explains it as the absence of karma-phala-tṛṣṇā, thirst for the fruit of action, in any state whatsoever.",
+   "options_considered": [
+    "supply adhikāraḥ/astu: “let there be no entitlement over fruits”",
+    "take phaleṣu independently: “do not act among fruits”",
+    "read it only as a ban on receiving results, not on craving them"
+   ],
+   "chosen": "mā phaleṣu means ‘let there be no adhikāra over the fruits,’ i.e. no craving for action-results",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tatra ca karma kurvataḥ mā phaleṣu adhikāro 'stu, karma-phala-tṛṣṇā mā bhūt kadācana kasyāṃcid apy avasthāyām ity arthaḥ |",
+     "translation": "And there, while you perform action, let there be no adhikāra over the fruits; the meaning is: let there be no craving for the fruit of action ever, in any condition at all."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The compound is not treated merely as ‘one whose motive is fruit.’ Śaṅkara explains that if thirst for the fruit arises, one becomes the hetu of karma-phala-prāpti; action prompted by that thirst makes one the cause of the fruit of action, namely birth.",
+   "options_considered": [
+    "cause of obtaining action-fruit/rebirth",
+    "motive for performing action",
+    "agent who produces ordinary visible results only"
+   ],
+   "chosen": "karma-phala-hetuḥ is ‘cause of obtaining the fruit of action,’ especially the fruit that is birth",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yadā karma-phale tṛṣṇā te syāt tadā karma-phala-prāpter hetuḥ syāḥ, evaṃ mā karma-phala-hetuḥ bhūḥ |",
+     "translation": "When thirst for the fruit of action would be yours, then you would be the cause of obtaining the fruit of action; thus, do not become the cause of the fruit of action."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yadā hi karma-phala-tṛṣṇā-prayuktaḥ karmaṇi pravartate tadā karma-phalasyaiva janmano hetur bhavet |",
+     "translation": "For when one proceeds in action impelled by thirst for the fruit of action, then one would become the cause of birth itself, which is the fruit of action."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The last prohibition is directed against attachment to not acting. Śaṅkara glosses akarmaṇi as akaraṇe and saṅga as prīti; he frames it against the mistaken thought that if fruit is not desired, painful action should be abandoned.",
+   "options_considered": [
+    "akarmaṇi = non-performance/non-doing",
+    "akarmaṇi = wicked or inefficient action",
+    "saṅga = mere physical contact rather than attachment/fondness"
+   ],
+   "chosen": "akarmaṇi means ‘in non-performance,’ and saṅga is ‘attachment/fondness’",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "yadi karma-phalaṃ neṣyate, kiṃ karmaṇā duḥkha-rūpeṇa ? iti mā te tava saṅgo 'stv akarmaṇi akaraṇe prītir mā bhūt ||bhgs_2.47||",
+     "translation": "If the fruit of action is not desired, what is the use of action, which is of the nature of pain? Thinking thus, let there not be your attachment to non-action, to non-performance; let there be no fondness for it."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Your entitlement (adhikāra) is only with respect to action (karma), not to steadfastness in knowledge (jñāna-niṣṭhā);\nnever, in any condition, may it be with respect to the fruits.\nDo not become the cause of obtaining the fruit of action (karma-phala);\ndo not let attachment (saṅga) to non-action (akarman), to non-performance, be yours.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take “only over action” as a generic ethic of action, missing Śaṅkara’s explicit exclusion of jñāna-niṣṭhā in this context.",
+  "It might translate “do not be karma-phala-hetuḥ” as only “do not be motivated by results”; Śaṅkara instead explains becoming the cause of obtaining action-fruit, ultimately birth, through fruit-craving.",
+  "It might take akarmaṇi as ‘inaction’ in an abstract philosophical sense or as ‘bad action’; Śaṅkara glosses it concretely as akaraṇa, non-performance, and saṅga as prīti, fond attachment."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 reports te only as tvad_SG, without explicit case or gender. Śaṅkara’s te tava at lines 1 and 5 fixes the case as Ṣaṣṭhī singular; masculine is supplied contextually from Arjuna as addressee, while the form itself remains gender-common.",
+  "The verifier reported tool_error/unsupported for karma-phala-hetuḥ as a tatpuruṣa compound. This is not taken as a grammatical rejection: the whole compound stem karma-phala-hetu is required by the instructions, and Śaṅkara’s karma-phala-prāpter hetuḥ supports the tatpuruṣa vigraha."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 2,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12297,
+   "completion_tokens": 14439,
+   "reasoning_tokens": 8189
+  },
+  "est_cost": 0.2535,
+  "reverified": true
+ },
+ "mula": "karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi",
+ "commentary_lines": [
+  "karmaṇy evādhikāro na jñāna-niṣṭhāyāṃ te tava |",
+  "tatra ca karma kurvataḥ mā phaleṣu adhikāro 'stu, karma-phala-tṛṣṇā mā bhūt kadācana kasyāṃcid apy avasthāyām ity arthaḥ |",
+  "yadā karma-phale tṛṣṇā te syāt tadā karma-phala-prāpter hetuḥ syāḥ, evaṃ mā karma-phala-hetuḥ bhūḥ |",
+  "yadā hi karma-phala-tṛṣṇā-prayuktaḥ karmaṇi pravartate tadā karma-phalasyaiva janmano hetur bhavet |",
+  "yadi karma-phalaṃ neṣyate, kiṃ karmaṇā duḥkha-rūpeṇa ? iti mā te tava saṅgo 'stv akarmaṇi akaraṇe prītir mā bhūt ||bhgs_2.47||",
+  "yadi karma-phala-prayuktena na kartavyaṃ karma, kathaṃ tarhi kartavyam iti |",
+  "ucyate -"
+ ]
+}

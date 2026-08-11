@@ -1,0 +1,576 @@
+{
+ "unit": "9",
+ "analysis": [
+  {
+   "surface": "andham",
+   "surface_in_sandhi": "andhaṃ",
+   "lemma": "andha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective agreeing with tamaḥ; the commentary glosses the phrase as darkness characterized by non-seeing.",
+   "verification": {
+    "status": "pass",
+    "detail": "andha Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tamaḥ",
+   "surface_in_sandhi": "tamaḥ",
+   "lemma": "tamas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of praviśanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "tamas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "praviśanti",
+   "surface_in_sandhi": "praviśanti",
+   "lemma": "viś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "viś",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Finite verb of the first clause; supplied also for the second clause by the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-viś Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ye",
+   "surface_in_sandhi": "ye",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun, subject of upāsate/praviśanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "avidyām",
+   "surface_in_sandhi": "avidyām",
+   "lemma": "avidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara interprets this not as mere ignorance but as karma, especially Agnihotra and similar rites.",
+   "verification": {
+    "status": "pass",
+    "detail": "avidyā Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "upāsate",
+   "surface_in_sandhi": "upāsate",
+   "lemma": "ās",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ās",
+    "prefixes": [
+     "upa"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada form; here, in Śaṅkara’s explanation, to be intent upon and perform.",
+   "verification": {
+    "status": "pass",
+    "detail": "upa-ās Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tataḥ",
+   "surface_in_sandhi": "tato",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival indeclinable: ‘than/from that’ blind darkness.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhūyaḥ",
+   "surface_in_sandhi": "bhūya",
+   "lemma": "bhūyas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Comparative adjective agreeing with tamaḥ: ‘greater/more abundant’.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūyas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "iva",
+   "surface_in_sandhi": "iva",
+   "lemma": "iva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses bhūya iva as bahutaram eva, so it is translated emphatically rather than as a weakening ‘as it were’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun: ‘they/those’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tamaḥ",
+   "surface_in_sandhi": "tamo",
+   "lemma": "tamas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of the elided/supplied praviśanti in the second clause.",
+   "verification": {
+    "status": "pass",
+    "detail": "tamas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ye",
+   "surface_in_sandhi": "ya",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal ye; saṃhitā-form ya before u in the Kāṇva text.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "u",
+   "surface_in_sandhi": "u",
+   "lemma": "u",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Particle glossed by Śaṅkara as tu, marking contrast.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vidyāyām",
+   "surface_in_sandhi": "vidyāyāṃ",
+   "lemma": "vidyā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara takes vidyā here as devatā-jñāna, knowledge concerning deities, not knowledge of the supreme Self.",
+   "verification": {
+    "status": "pass",
+    "detail": "vidyā Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "ratāḥ",
+   "surface_in_sandhi": "ratāḥ",
+   "lemma": "rata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past participial adjective from √ram, agreeing with ye/te; glossed abhiratāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "rata Pum/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The phrase is not taken as a separate noun ‘the blind’ plus ‘darkness’, nor specifically as a named hell, but as a neuter accusative object: darkness whose nature is non-seeing/obscuration.",
+   "options_considered": [
+    "literal ‘blind darkness’ without explanation",
+    "the darkness of hell as a technical destination",
+    "sight-obscuring/blinding darkness"
+   ],
+   "chosen": "andhaṃ tamaḥ as ‘blind/sight-obscuring darkness’",
+   "evidence": [
+    {
+     "lines": [
+      15
+     ],
+     "quote": "tatra andhaṃ tamaḥ adarśanātmakaṃ tamaḥ praviśanti",
+     "translation": "Here, ‘blind darkness’ is darkness whose nature is non-seeing; they enter it."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "In this verse Śaṅkara does not allow avidyā to mean ordinary ignorance alone; he explicitly defines it as karma, because it is other than vidyā and opposed to it.",
+   "options_considered": [
+    "ignorance or nescience in general",
+    "spiritual ignorance/māyā in later Vedāntic abstraction",
+    "Vedic ritual action, Agnihotra and the like"
+   ],
+   "chosen": "avidyā = karma, especially Agnihotra and similar rites",
+   "evidence": [
+    {
+     "lines": [
+      16
+     ],
+     "quote": "ye 'vidyāṃ vidyāyā anyā avidyā tāṃ karma ityarthaḥ",
+     "translation": "Those who [pursue] avidyā: avidyā is what is other than vidyā; by that, karma is meant."
+    },
+    {
+     "lines": [
+      17
+     ],
+     "quote": "karmaṇo vidyāvirodhitvāt ; tāmavidyāmagnihotrādilakṣaṇāmeva kevalāmupāsate",
+     "translation": "Because karma is opposed to vidyā; that avidyā, characterized by Agnihotra and the like, alone they upāsate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Because its object is karma, Śaṅkara explains upāsate by tatparāḥ santaḥ anutiṣṭhanti: being intent upon it, they perform it. The translation therefore avoids the misleading ‘worship ignorance’.",
+   "options_considered": [
+    "worship ignorance",
+    "serve/revere in a devotional sense",
+    "be intent upon and perform ritual action"
+   ],
+   "chosen": "upāsate as ‘devote themselves to / practise’",
+   "evidence": [
+    {
+     "lines": [
+      17
+     ],
+     "quote": "tāmavidyāmagnihotrādilakṣaṇāmeva kevalāmupāsate tatparāḥ santo 'nutiṣṭhantītyabhiprāyaḥ",
+     "translation": "They upāsate that avidyā alone, characterized by Agnihotra and the like; the intention is: being intent upon it, they perform it."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The vidyā condemned here when isolated is not supreme Self-knowledge. Śaṅkara identifies it as deity-directed knowledge connected with karma and expressly excludes paramātma-jñāna.",
+   "options_considered": [
+    "knowledge in general",
+    "saving Self-knowledge / paramātma-jñāna",
+    "deity-knowledge connected with ritual"
+   ],
+   "chosen": "vidyā = devatā-jñāna, knowledge concerning deities",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "yaddaivaṃ vittaṃ devatāviṣayaṃ jñānaṃ karmasambandhitvenopanyastaṃ na paramātmajñānam",
+     "translation": "That divine wealth is knowledge whose object is deities, presented as connected with karma, not knowledge of the supreme Self."
+    },
+    {
+     "lines": [
+      18
+     ],
+     "quote": "ye u ye tu vidyāyāmeva devatājñāna eva ratāḥ abhiratāḥ",
+     "translation": "ye u: those, however, who are delighted—attached—in vidyā alone, that is, in deity-knowledge alone."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The second relative clause is contrastive: ‘those, however’. Ratāḥ is taken as ‘delighted/attached’, reinforced by Śaṅkara’s abhiratāḥ.",
+   "options_considered": [
+    "u left untranslated",
+    "u as merely emphatic",
+    "u as contrastive tu: ‘however’"
+   ],
+   "chosen": "u as contrastive tu, and ratāḥ as abhiratāḥ",
+   "evidence": [
+    {
+     "lines": [
+      18
+     ],
+     "quote": "ye u ye tu vidyāyāmeva devatājñāna eva ratāḥ abhiratāḥ",
+     "translation": "ye u means ‘those, however’; ratāḥ means ‘attached/delighted’ in deity-knowledge alone."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The ablatival tatas refers back to the blind darkness, while bhūya iva is glossed as bahutaram eva; the second clause also carries the verb praviśanti supplied in the commentary.",
+   "options_considered": [
+    "‘after that, as it were, darkness’",
+    "‘perhaps more darkness’",
+    "‘a darkness still greater than that, indeed’"
+   ],
+   "chosen": "tato bhūya iva ... tamaḥ as ‘a darkness still greater than that, indeed’",
+   "evidence": [
+    {
+     "lines": [
+      18
+     ],
+     "quote": "tatastasmādandhātmakāttamaso bhūya iva bahutarameva te tamaḥ praviśanti",
+     "translation": "From/than that blind darkness, into a still more abundant darkness indeed, they enter."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The translation’s ‘alone’ is justified by Śaṅkara’s explanation that the verse censures the separate performance of each member in order to motivate a combination of karma and deity-knowledge; it is not an absolute rejection of scripture-enjoined rites.",
+   "options_considered": [
+    "absolute condemnation of all ritual action",
+    "absolute condemnation of all knowledge",
+    "censure of practicing karma or deity-knowledge each in isolation"
+   ],
+   "chosen": "the condemnation targets isolated practice, not scripturally enjoined karma or vidyā as such",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "iha tu samuccicīṣayā avidvadādinindā kriyate",
+     "translation": "Here, however, censure of the ignorant and so on is made with the desire for combination."
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "tayorjñānakarmaṇoriha ekaikānuṣṭhānanindā samuccicīṣayā na nindāparaiva ekaikasya pṛthakphalaśravaṇāt",
+     "translation": "Here there is censure of the separate performance of each of the two, knowledge and karma, for the sake of combining them; it is not mere censure, since a separate result is heard for each."
+    },
+    {
+     "lines": [
+      14
+     ],
+     "quote": "na hi śāstravihitaṃ kiñcidakartavyatāmiyāt",
+     "translation": "For nothing enjoined by scripture can become something not to be done."
+    },
+    {
+     "lines": [
+      19
+     ],
+     "quote": "tatrāvāntaraphalabhedaṃ vidyākarmaṇoḥ samuccayakāraṇamāha",
+     "translation": "There he states the distinction of subsidiary results of vidyā and karma as the reason for their combination."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Into blind darkness enter\nthose who devote themselves to avidyā—ritual action alone.\nInto a darkness still greater than that, indeed, enter those\nwho, however, delight in vidyā—deity-knowledge alone.",
+ "one_shot_delta": [
+  "A commentary-blind translation would plausibly render avidyā simply as ‘ignorance’; Śaṅkara instead says it means karma, specifically Agnihotra and the like.",
+  "It would likely render vidyā simply as ‘knowledge’ or even saving Self-knowledge; Śaṅkara explicitly restricts it here to deity-knowledge and excludes paramātma-jñāna.",
+  "It might take the verse as a blanket denunciation of Vedic rites or knowledge; Śaṅkara says the target is isolated performance, in order to motivate combination.",
+  "It might translate iva weakly as ‘as it were’; Śaṅkara’s bahutaram eva makes the force ‘still greater indeed’.",
+  "It might miss u as contrastive ‘however’ and miss the commentary’s kevalam/eva, which motivates translating both pursuits as being undertaken ‘alone’."
+ ],
+ "analyzer_disagreements": [
+  "praviśanti: ByT5 lemmatizes the prefixed verb as praviś; per the requested analysis it is given as bare root viś with prefix pra.",
+  "upāsate: ByT5 lemmatizes as upās; per the requested analysis it is given as bare root ās with prefix upa.",
+  "bhūyaḥ: ByT5 left bhūyas essentially unfeatured; the commentary’s bahutaram eva supports taking bhūyaḥ as a neuter accusative singular comparative adjective agreeing with tamaḥ, not as an unanalyzed indeclinable.",
+  "ratāḥ: ByT5 lemmatizes to the verbal root ram; for a subanta participle the nominal stem is recorded as rata, with derivation from √ram noted.",
+  "The prompt’s final pāda is printed/run together as uvidyāyāṃ; it is analyzed as u + vidyāyām, matching the standard mūla and Śaṅkara’s line 18 split ye u ... vidyāyām."
+ ],
+ "open_questions": [
+  "The prompt prints the last pāda as ya uvidyāyāṃ; I have treated this as ya u vidyāyāṃ, in line with the standard Kāṇva wording and Śaṅkara’s ye u ... vidyāyām in line 18.",
+  "Commentary line 18 contains the apparent unproofread/corrupt sequence karma itvā; it has not been used as evidence."
+ ],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5115,
+   "completion_tokens": 11877,
+   "reasoning_tokens": 8191
+  },
+  "est_cost": 0.1935,
+  "reverified": true
+ },
+ "mula": "andhaṃ tamaḥ praviśanti ye 'vidyām upāsate | tato bhūya iva te tamo ya uvidyāyāṃ ratāḥ",
+ "commentary_lines": [
+  "kathaṃ punarevamavagabhyate na tu sarveṣām iti /",
+  "ucyate--akāminaḥ sādhyasādhanabhedopamardena 'yasmin sarvāṇi bhūtānyātmaivābhūddhijānataḥ /",
+  "tatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ ' iti yadātmaikatvavijñānam[uktam ṭatanna kenacitkarmaṇā jñānāntareṇa vā hyamūḍhaḥ samuccicīṣati /",
+  "iha tu samuccicīṣayā avidvadādinindā kriyate /",
+  "tatra ca yasya yena samuccayaḥ sambhavati nyāyataḥ śāstrato vā tadihocyate yaddaivaṃ vittaṃ devatāviṣayaṃ jñānaṃ karmasambandhitvenopanyastaṃ na paramātmajñānam /",
+  "\"vidyayā devalokaḥ\"(bṛ.u.1 /",
+  "5 /",
+  "16) iti pṛthakphalaśravaṇāt /",
+  "tayorjñānakarmaṇoriha ekaikānuṣṭhānanindā samuccicīṣayā na nindāparaiva ekaikasya pṛthakphalaśravaṇāt\"vidyayā tadārohanti\" \"vidyayā devalokaḥ\"(bṛ.u.1 /",
+  "5 /",
+  "16) \"na tatra dakṣiṇā yanti\" \"karmaṇā pitṛlokaḥ\"(bṛ.u.1 /",
+  "8 /",
+  "16) iti /",
+  "na hi śāstravihitaṃ kiñcidakartavyatāmiyāt /",
+  "tatra andhaṃ tamaḥ adarśanātmakaṃ tamaḥ praviśanti /",
+  "ke? ye 'vidyāṃ vidyāyā anyā avidyā tāṃ karma ityarthaḥ,",
+  "karmaṇo vidyāvirodhitvāt ; tāmavidyāmagnihotrādilakṣaṇāmeva kevalāmupāsate tatparāḥ santo 'nutiṣṭhantītyabhiprāyaḥ /",
+  "tatastasmādandhātmakāttamaso bhūya iva bahutarameva te tamaḥ praviśanti, ke? karma itvā ye u ye tu vidyāyāmeva devatājñāna eva ratāḥ abhiratāḥ /",
+  "tatrāvāntaraphalabhedaṃ vidyākarmaṇoḥ samuccayakāraṇamāha ; anyathā phalavadaphalavatoḥ sannihitayoraṅgāṅgitaiva syāt ityarthaḥ"
+ ]
+}

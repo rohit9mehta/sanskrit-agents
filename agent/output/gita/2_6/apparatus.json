@@ -1,0 +1,634 @@
+{
+ "unit": "2.6",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates vidmaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "caitad",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-group caitad = ca + etat.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "etat",
+   "surface_in_sandhi": "caitad",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of vidmaḥ, ‘this’; printed in the sandhi-group caitad = ca + etat, with final -t realized as -d before vidmaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vidmaḥ",
+   "surface_in_sandhi": "vidmaḥ",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Present 1st plural, ‘we know’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Uttama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "katarat",
+   "surface_in_sandhi": "kataran",
+   "lemma": "katara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative neuter, ‘which of the two’; subject/predicate term in the indirect question with garīyaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "katara Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "naḥ",
+   "surface_in_sandhi": "no",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic first-person plural pronoun naḥ, here ‘for us’. The first-person pronoun is common-gender in use; Pum is supplied for the verifier and fits the masculine referents in context.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Caturthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "garīyaḥ",
+   "surface_in_sandhi": "garīyo",
+   "lemma": "garīyas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter comparative predicate with katarat: ‘weightier/better’.",
+   "verification": {
+    "status": "pass",
+    "detail": "garīyas Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yad",
+   "lemma": "yad",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Conjunctive/conditional use in the pair yad vā ... yadi vā ..., ‘whether ... or whether’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya per MW (kosha gap; logged unsupported)"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Alternative particle, ‘or’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "jayema",
+   "surface_in_sandhi": "jayema",
+   "lemma": "ji",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ji",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Optative 1st plural, ‘we should conquer’.",
+   "verification": {
+    "status": "pass",
+    "detail": "ji VidhiLin/Uttama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yadi",
+   "surface_in_sandhi": "yadi",
+   "lemma": "yadi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Conditional/alternative particle, here ‘whether’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Alternative particle, ‘or’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "naḥ",
+   "surface_in_sandhi": "no",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic first-person plural pronoun naḥ, object of jayeyuḥ: ‘us’. The first-person pronoun is common-gender in use; Pum is supplied for the verifier and fits the masculine referents in context.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "jayeyuḥ",
+   "surface_in_sandhi": "jayeyuḥ",
+   "lemma": "ji",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ji",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Optative 3rd plural, ‘they should conquer’.",
+   "verification": {
+    "status": "pass",
+    "detail": "ji VidhiLin/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yān",
+   "surface_in_sandhi": "yān",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun, object of hatvā; correlated with te.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "eva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic: ‘very / just those’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hatvā",
+   "surface_in_sandhi": "hatvā",
+   "lemma": "han",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "han",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive in -tvā: ‘having slain’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates jijīviṣāmaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "jijīviṣāmaḥ",
+   "surface_in_sandhi": "jijīviṣāmas",
+   "lemma": "jīv",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "jīv",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Desiderative present from √jīv, stem jijīviṣa-: ‘we wish to live’.",
+   "verification": {
+    "status": "pass",
+    "detail": "jīv Lat/Uttama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun matching yān: ‘those’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "avasthitāḥ",
+   "surface_in_sandhi": "'vasthitāḥ",
+   "lemma": "avasthita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past participial nominal stem from ava + √sthā, agreeing with te and dhārtarāṣṭrāḥ; initial a is elided after te in print.",
+   "verification": {
+    "status": "pass",
+    "detail": "avasthita Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pramukhe",
+   "surface_in_sandhi": "pramukhe",
+   "lemma": "pramukha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative: ‘in front / at the front’.",
+   "verification": {
+    "status": "pass",
+    "detail": "pramukha Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "dhārtarāṣṭrāḥ",
+   "surface_in_sandhi": "dhārtarāṣṭrāḥ",
+   "lemma": "dhārtarāṣṭra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Patronymic substantive: ‘sons of Dhṛtarāṣṭra’, not analyzed here as a samāsa.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhārtarāṣṭra Pum/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "katarat and garīyaḥ are neuter singular forms forming the embedded question governed by vidmaḥ; the first naḥ/no is dative plural ‘for us’, not the negative particle no and not a genitive ‘of us’ in translation.",
+   "options_considered": [
+    "‘which of us is greater/heavier’",
+    "‘which of the two is better for us’"
+   ],
+   "chosen": "katarat no garīyaḥ = ‘which of the two is the weightier/better course for us’",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The paired vā-particles and the parallel optatives jayema/jayeyuḥ make the first yad function conjunctively with yadi, not as an ordinary relative pronoun needing its own nominal antecedent.",
+   "options_considered": [
+    "yad as neuter relative pronoun ‘what/which’",
+    "yad vā ... yadi vā as an alternative construction ‘whether ... or whether’"
+   ],
+   "chosen": "yad vā ... yadi vā introduces alternatives: ‘whether ... or whether’",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The verb ji ‘conquer’ can take an object; here naḥ supplies that object for jayeyuḥ. Taking no as indeclinable ‘not’ would leave the clause semantically and syntactically distorted after the already present yadi vā.",
+   "options_considered": [
+    "no as indeclinable ‘not’",
+    "no as enclitic naḥ, Dvitiya Bahu of mad"
+   ],
+   "chosen": "no before jayeyuḥ = naḥ, accusative plural ‘us’",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Both forms express the uncertain alternatives being weighed: ‘we should conquer’ and ‘they should conquer’. This optative force is required by the indirect deliberative question, not a simple present ‘we conquer / they conquer’.",
+   "options_considered": [
+    "present indicative conquest",
+    "deliberative/potential optative conquest"
+   ],
+   "chosen": "jayema and jayeyuḥ are optatives of √ji",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "yān is masculine accusative plural governed by hatvā, while te dhārtarāṣṭrāḥ is masculine nominative plural subject of avasthitāḥ. The construction identifies the very men whom Arjuna would not wish to live after slaying as the Dhārtarāṣṭras standing before him.",
+   "options_considered": [
+    "yān as object of jayema",
+    "yān as object of hatvā correlated with te"
+   ],
+   "chosen": "yān eva ... te is a relative-correlative construction",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "The reduplicated stem jijīviṣa- is desiderative from √jīv. Thus na jijīviṣāmaḥ is not merely ‘we do not live’ but ‘we do not desire to live’.",
+   "options_considered": [
+    "simple present ‘we live’",
+    "desiderative present ‘we wish to live’"
+   ],
+   "chosen": "jijīviṣāmaḥ means ‘we wish to live’",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J7",
+   "decision": "The nominative plural masculine agrees with te and avasthitāḥ; in this epic context it is best taken substantively as Dhṛtarāṣṭra’s sons, not merely as the adjective ‘belonging to Dhṛtarāṣṭra’.",
+   "options_considered": [
+    "adjectival ‘belonging to Dhṛtarāṣṭra’ with an unexpressed noun",
+    "substantive patronymic ‘sons of Dhṛtarāṣṭra’"
+   ],
+   "chosen": "dhārtarāṣṭrāḥ as substantive patronymic, ‘sons of Dhṛtarāṣṭra’",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Nor do we know this: which of the two is the weightier course for us—\nwhether we should conquer [them], or whether they should conquer us.\nThose very sons of Dhṛtarāṣṭra (dhārtarāṣṭrāḥ), after slaying whom we would not wish to live,\nstand arrayed at the front.",
+ "one_shot_delta": [
+  "A commentary-blind or sandhi-blind translation could take the second no as ‘not’, producing the wrong sense ‘or if they should not conquer’ instead of ‘or whether they should conquer us’.",
+  "It could miss that katarat no garīyaḥ asks which alternative is preferable for us, not which person is greater or heavier.",
+  "It could flatten the optatives jayema and jayeyuḥ into indicatives, losing Arjuna’s deliberative uncertainty.",
+  "It could translate jijīviṣāmaḥ as simple ‘we live’ rather than the desiderative ‘we wish to live’.",
+  "It could fail to link yān with te and so miss that the very people whose death would make life undesirable are the Dhārtarāṣṭras standing in front."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 marked the first no/naḥ as mad_PG; I construe it as Caturthi Bahu, ‘for us’, because it depends on garīyaḥ in katarat no garīyaḥ. In this revision I also supply Pum linga for verifier compatibility, while noting that first-person pronouns are common-gender in use.",
+  "ByT5 treated the second no as no rather than as an asmad-pronoun; I take it as naḥ, Dvitiya Bahu, the object of jayeyuḥ: ‘they should conquer us’. In this revision I also supply Pum linga for verifier compatibility, while noting that first-person pronouns are common-gender in use.",
+  "ByT5 left yat without a determinate nominal analysis; I treat yad vā as an avyaya-like conjunctive use, paired with yadi vā, ‘whether ... or whether’.",
+  "ByT5 gave jijīviṣāmaḥ with lemma jijīviṣ; under the requested root-based verbal analysis I give bare root jīv and note the desiderative stem jijīviṣa-.",
+  "ByT5 associated avasthitāḥ with avasthā; under the requested nominal-stem analysis of participles I give the stem avasthita and note derivation from ava + √sthā."
+ ],
+ "open_questions": [
+  "The supplied ‘commentary’ lines appear to reproduce Bhagavad-Gītā 2.7 rather than Śaṅkara’s bhāṣya on 2.6; they contain no gloss on the present unit. Consequently all interpretive decisions above are made from grammar and lexicon, not from usable commentary evidence in the input."
+ ],
+ "verification_summary": {
+  "pass": 23,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 17171,
+   "completion_tokens": 17347,
+   "reasoning_tokens": 9960
+  },
+  "est_cost": 0.3117,
+  "reverified": true
+ },
+ "mula": "na caitad vidmaḥ kataran no garīyo yad vā jayema yadi vā no jayeyuḥ | yān eva hatvā na jijīviṣāmas te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ",
+ "commentary_lines": [
+  "kārpaṇya-doṣopahata-svabhāvaḥ",
+  "pṛcchāmi tvāṃ dharma-saṃmūḍha-cetāḥ |",
+  "yac chreyaḥ syān niścitaṃ brūhi tan me",
+  "śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam"
+ ]
+}

@@ -1,0 +1,554 @@
+{
+ "unit": "2.72",
+ "analysis": [
+  {
+   "surface": "eṣā",
+   "surface_in_sandhi": "eṣā",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative agreeing with sthitiḥ; Śaṅkara takes it as pointing to the state just described: eṣā yathoktā.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "brāhmī",
+   "surface_in_sandhi": "brāhmī",
+   "lemma": "brāhmī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine ī-stem of brāhma; glossed by Śaṅkara as brahmaṇi bhavā, “being in Brahman.”",
+   "verification": {
+    "status": "pass",
+    "detail": "brāhmī Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sthitiḥ",
+   "surface_in_sandhi": "sthitiḥ",
+   "lemma": "sthiti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate noun with eṣā/brāhmī; Śaṅkara defines it as avasthānam, abiding.",
+   "verification": {
+    "status": "pass",
+    "detail": "sthiti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pārtha",
+   "surface_in_sandhi": "pārtha",
+   "lemma": "pārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative, confirmed by Śaṅkara’s he pārtha.",
+   "verification": {
+    "status": "pass",
+    "detail": "pārtha Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "naināṃ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negator; sandhied with enām as naināṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enām",
+   "surface_in_sandhi": "naināṃ",
+   "lemma": "enad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Anaphoric pronoun referring to sthitim, explicitly supplied by Śaṅkara; na enām prāpya is printed naināṃ prāpya. I retain enad Stri/Dvitiya/Eka despite the Vidyut rejection: the verifier appears to treat enad as an ordinary d-stem and so derives enadam, whereas enām is the standard feminine accusative singular of the anaphoric pronoun enad, and Śaṅkara confirms the syntactic value with enāṃ sthitiṃ.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "enad Stri/Dvitiya/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "prāpya",
+   "surface_in_sandhi": "prāpya",
+   "lemma": "āp",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "āp",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive of pra-√āp; Śaṅkara glosses prāpya as labdhvā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vimuhyati",
+   "surface_in_sandhi": "vimuhyati",
+   "lemma": "muh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "muh",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present 3rd singular; although English may use “is bewildered,” Śaṅkara’s na mohaṃ prāpnoti construes it actively/intransitively, “does not attain delusion.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-muh Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sthitvā",
+   "surface_in_sandhi": "sthitvāsyām",
+   "lemma": "sthā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "sthā",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive, “having stood/abided”; fused with asyām in sthitvāsyām.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asyām",
+   "surface_in_sandhi": "sthitvāsyām",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative feminine singular referring to the brāhmī sthiti; Śaṅkara: asyāṃ sthitau brāhmyām.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "anta-kāle",
+   "surface_in_sandhi": "anta-kāle",
+   "lemma": "anta-kāla",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "antasya kālaḥ",
+    "members": [
+     "anta",
+     "kāla"
+    ]
+   },
+   "note": "Locative singular; Śaṅkara glosses anta-kāle as antye vayasi, “in the final stage/time of life.” The Vidyut report logged only a compound/tool-support issue for the compound relation, so the analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anta-kāla as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "'pi",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Additive/emphatic “even”; after kāle the initial a is elided and printed with avagraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "brahma-nirvāṇam",
+   "surface_in_sandhi": "brahma-nirvāṇam",
+   "lemma": "brahma-nirvāṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "brahmaṇi nirvāṇam",
+    "members": [
+     "brahman",
+     "nirvāṇa"
+    ]
+   },
+   "note": "Object of ṛcchati; Śaṅkara glosses the compound as brahma-nirvṛtiṃ mokṣam, “Brahman-nirvṛti, liberation.” The Vidyut report logged only a compound/tool-support issue for the compound relation, so the analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem brahma-nirvāṇa as Napumsaka/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ṛcchati",
+   "surface_in_sandhi": "ṛcchati",
+   "lemma": "ṛch",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ṛch",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present 3rd singular; Śaṅkara glosses ṛcchati as gacchati, “goes/reaches.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ṛch Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "brāhmī sthitiḥ is not merely a generic “holy/scriptural state” or a state belonging to the deity Brahmā. Śaṅkara glosses brāhmī as brahmaṇi bhavā and defines the sthiti as abiding as Brahman itself after renouncing all karma; eṣā points back to the state just described.",
+   "options_considered": [
+    "a merely “holy” or “scriptural” condition",
+    "a condition belonging to Brahmā as a deity",
+    "the state in Brahman / abiding as Brahman, as previously described"
+   ],
+   "chosen": "“This is the state in Brahman (brāhmī sthitiḥ)”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "eṣā yathoktā brāhmī brahmaṇi bhavā iyaṃ sthitiḥ sarvaṃ karma saṃnyasya brahma-rūpeṇaiva avasthānam ity etat |",
+     "translation": "“This, as described, is brāhmī—being in Brahman—this state: namely, having renounced all karma, abiding only in the form of Brahman.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara explicitly supplies sthitim after enām, glosses prāpya with labdhvā, and paraphrases na vimuhyati as na mohaṃ prāpnoti. This also supports taking vimuhyati as active/intransitive rather than a passive form.",
+   "options_considered": [
+    "enām referring vaguely to doctrine or wisdom",
+    "prāpya as merely “approaching”",
+    "vimuhyati as a passive “is confounded by someone”",
+    "enām as the state, prāpya as having obtained, and vimuhyati as attaining delusion"
+   ],
+   "chosen": "enām refers to the sthiti; prāpya means “having attained/obtained”; vimuhyati means “becomes deluded,” construed as attaining delusion",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "he pārtha, naināṃ sthitiṃ prāpya labdhvā na vimuhyati na mohaṃ prāpnoti |",
+     "translation": "“O Pārtha, having attained, obtained, this state, he is not deluded; he does not attain delusion.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The locative asyām is not an abstract adverbial “therein” without antecedent; Śaṅkara makes its antecedent explicit as the brāhmī sthiti and glosses sthitvā accordingly.",
+   "options_considered": [
+    "asyām as referring to some other feminine noun",
+    "sthitvā as merely physical standing",
+    "asyām as the brāhmī sthiti, with sthitvā meaning abiding in it"
+   ],
+   "chosen": "“having abided in this [state]”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sthitvāsyāṃ sthitau brāhmyāṃ yathoktāyāṃ anta-kāle 'pi antye vayasy api brahma-nirvāṇaṃ brahma-nirvṛtiṃ mokṣam ṛcchati gacchati |",
+     "translation": "“Having stood in this state, the brāhmī one as described, even at the final time, even in the final age, he reaches—goes to—Brahman-nirvāṇa, Brahman-nirvṛti, liberation.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "anta-kāle ’pi is taken in relation to a person’s final stage/time of life, not as the end of the world or merely the close of a discourse. Śaṅkara’s antye vayasi and his a-fortiori comment about one who abides in Brahman for life establish the sense.",
+   "options_considered": [
+    "at the cosmic end-time",
+    "at the end of the teaching",
+    "even at the final stage/time of life"
+   ],
+   "chosen": "“even at life’s final time”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "anta-kāle 'pi antye vayasy api",
+     "translation": "“Even at the final time, even in the final age/stage of life.”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "kim u vaktavyaṃ brahmacaryād eva saṃnyasya yāvaj jīvaṃ yo brahmaṇy eva avatiṣṭhate sa brahma-nirvāṇam ṛcchati iti ||bhgs_2.72||",
+     "translation": "“How much more need be said of one who, having renounced from the brahmacarya stage itself, abides only in Brahman for as long as he lives: he reaches Brahman-nirvāṇa.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "brahma-nirvāṇam is not to be translated as the destruction of Brahman or as an unspecified Buddhist-style extinction. Śaṅkara glosses it as brahma-nirvṛti and mokṣa, and glosses ṛcchati as gacchati, “goes/reaches.” The locative compound relation “nirvāṇa in Brahman” is further supported by line 4’s brahmaṇy eva avatiṣṭhate.",
+   "options_considered": [
+    "extinction of Brahman",
+    "mere physical death/extinction",
+    "Brahman-nirvāṇa as liberation reached by abiding in Brahman"
+   ],
+   "chosen": "“reaches Brahman-nirvāṇa, liberation”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "brahma-nirvāṇaṃ brahma-nirvṛtiṃ mokṣam ṛcchati gacchati",
+     "translation": "“He reaches—goes to—Brahman-nirvāṇa, Brahman-nirvṛti, liberation.”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yo brahmaṇy eva avatiṣṭhate sa brahma-nirvāṇam ṛcchati",
+     "translation": "“He who abides only in Brahman reaches Brahman-nirvāṇa.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "This, O Pārtha, is the state in Brahman (brāhmī sthitiḥ):\nhaving attained this, one is not bewildered.\nHaving abided in this even at life’s final time,\none reaches Brahman-nirvāṇa (brahma-nirvāṇam), liberation.",
+ "one_shot_delta": [
+  "Without Śaṅkara, brāhmī sthitiḥ might be flattened to “holy state” or misread as a condition of Brahmā; the commentary makes it the state in Brahman, abiding as Brahman after renunciation of all karma.",
+  "A commentary-blind translation might let enām and asyām remain vague; Śaṅkara explicitly ties both pronouns to the brāhmī sthiti.",
+  "anta-kāle ’pi might be rendered as a cosmic “end-time” or simply “at death”; Śaṅkara glosses it as the final stage/time of life and adds an a-fortiori contrast with lifelong abiding in Brahman.",
+  "brahma-nirvāṇam could be rendered as bare “extinction”; Śaṅkara identifies it with brahma-nirvṛti and mokṣa, liberation."
+ ],
+ "analyzer_disagreements": [
+  "The api_seg output has brāhmā, but the unit text, local_S, and Śaṅkara line 1 read brāhmī; I analyze brāhmī as Stri Prathama Eka agreeing with sthitiḥ.",
+  "ByT5 reports brāhmī with lemma brāhma; because the requested field is the nominal stem, I give the feminine stem brāhmī, while noting it is the feminine of brāhma mf(ī)n.",
+  "ByT5 gives prāpya_prāp_Co; per the instruction to give bare roots separately from prefixes, I analyze it as pra + √āp, an absolutive/avyaya.",
+  "ByT5 gives vimuhyati_vimuh; per the instruction to give bare roots separately from prefixes, I analyze it as vi + √muh.",
+  "For anta-kāle and brahma-nirvāṇam, ByT5 marks a compound member plus final inflected member; I record each as a single inflected compound stem with samāsa details."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 19424,
+   "completion_tokens": 20491,
+   "reasoning_tokens": 13447
+  },
+  "est_cost": 0.3656,
+  "reverified": true
+ },
+ "mula": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati | sthitvāsyām anta-kāle 'pi brahma-nirvāṇam ṛcchati",
+ "commentary_lines": [
+  "eṣā yathoktā brāhmī brahmaṇi bhavā iyaṃ sthitiḥ sarvaṃ karma saṃnyasya brahma-rūpeṇaiva avasthānam ity etat |",
+  "he pārtha, naināṃ sthitiṃ prāpya labdhvā na vimuhyati na mohaṃ prāpnoti |",
+  "sthitvāsyāṃ sthitau brāhmyāṃ yathoktāyāṃ anta-kāle 'pi antye vayasy api brahma-nirvāṇaṃ brahma-nirvṛtiṃ mokṣam ṛcchati gacchati |",
+  "kim u vaktavyaṃ brahmacaryād eva saṃnyasya yāvaj jīvaṃ yo brahmaṇy eva avatiṣṭhate sa brahma-nirvāṇam ṛcchati iti ||bhgs_2.72||",
+  "iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye dvitīyo 'dhyāyaḥ ||",
+  "tṛtīyo 'dhyāyaḥ śaṅkara-bhāṣyam",
+  "śāstrasya pravṛtti-nivṛtti-viṣaya-bhūte dve buddhī bhagavatā nirdiṣṭe, sāṅkhye buddhir yoge buddhir iti ca |",
+  "tatra prajahāti yadā kāmān ity ārabhya ā adhyāya-parisamāpteḥ sāṅkhya-buddhy-āśritānāṃ saṃnyāsaṃ kartavyam uktvā teṣāṃ tan-niṣṭhatayaiva ca kṛtārthatā uktā eṣā brāhmī sthitiḥ iti |",
+  "arjunāya ca karmaṇy evādhikāras te, mā saṅgo 'stv akarmaṇi iti karma eva kartavyam uktavān yoga-buddhim āśritya, na tata eva śreyaḥ-prāptim uktavān |",
+  "tad etad ālakṣya paryākulībhūta-buddhir arjuna uvāca - kathaṃ bhaktāya śreyo 'rthine yat sākṣāt śreyaḥ-sādhanaṃ sāṅkhya-buddhi-niṣṭhāṃ śrāvayitvā māṃ karmaṇi dṛṣṭānekānartha-yukte pāramparyeṇāpi anaikāntika-śreyaḥ-prāpti-phale niyuñjyād iti yuktaḥ paryākulībhāvo 'rjunasya |",
+  "tad-anurūpa-praśnaḥ jyāyasī cet ity ādiḥ |",
+  "praśnāpākaraṇa-vākyaṃ ca bhagavatā uktaṃ yathokta-vibhāga-viṣaye śāstre |",
+  "kecit tu arjunasya praśnārtham anyathā kalpayitvā tat-pratikūlaṃ bhagavataḥ prativacanaṃ varṇayanti |",
+  "yathā ca ātmanā sambandha-granthe gītārtho nirūpitas tat-pratikūlaṃ ceha punaḥ praśna-prativacanayor arthaṃ nirūpayanti |",
+  "kathaṃ ? tatra sambandha-granthe tāvat sarveṣām āśramiṇāṃ jñāna-karmaṇoḥ samuccayo gītā-śāstre nirūpito 'rtha ity uktam |",
+  "punaḥ viśeṣitaṃ ca yāvaj-jīva-śruti-coditāni karmāṇi parityajya kevalād eva jñānān mokṣaḥ prāpyata ity etad ekāntenaiva pratiṣiddham iti |",
+  "iha tv āśrama-vikalpaṃ darśayatā yāvaj-jīva-śruti-coditānām eva karmaṇāṃ parityāga uktaḥ |",
+  "tat katham īdṛśaṃ viruddham artham arjunāya brūyād bhagavān, śrotā vā kathaṃ viruddham artham avadhārayet |",
+  "tatraitat syād gṛhasthānām eva śrauta-karma-parityāgena kevalād eva jñānān mokṣaḥ pratiṣidhyate na tv āśramāntarāṇām iti |",
+  "etad api pūrvottar-viruddham eva |",
+  "kathaṃ, sarvāśramiṇāṃ jñāna-karmaṇoḥ samuccayo gītā-śāstre niścito 'rtha iti pratijñāya iha kathaṃ tad-viruddhaṃ kevalād eva jñānān mokṣaṃ brūyād āśramāntarāṇām |",
+  "atha mataṃ śrauta-karmāpekṣayaitad-vacanaṃ kevalād eva jñānāt śrauta-karma-rahitād gṛhasthānāṃ mokṣaḥ pratiṣidhyate iti |",
+  "tatra gṛhasthānāṃ vidyamānam api smārtaṃ karmāvidyamānavad upekṣya jñānād eva kevalān na mokṣa ity ucyata iti |",
+  "etad api viruddham |",
+  "katham ? gṛhasthasyaiva smārta-karmaṇā samuccitād jñānān mokṣaḥ pratiṣidhyate na tu āśramāntarāṇām iti kathaṃ vivekibhiḥ śakyam avadhārayitum |",
+  "kiṃ ca, yadi mokṣa-sādhanatvena smārtāni karmāṇi ūrdhva-retasāṃ samuccīyante tathā gṛhasthasyāpi iṣyatāṃ smārtair eva samuccayo na śrautaiḥ |",
+  "atha śrautaiḥ smārtaiś ca gṛhasthasyaiva samuccayo mokṣāya ūrdhva-retasāṃ tu smārta-karma-mātra-samuccitāj jñānān mokṣa iti |",
+  "tatraivaṃ sati gṛhasthasyāyāsa-bāhulyaṃ śrautaṃ smārtaṃ ca bahu-duḥkha-rūpaṃ karma śirasi aropitaṃ syāt |",
+  "atha gṛhasthasyaivāyāsa-bāhulya-kāraṇān mokṣaḥ syān nāśramāntarāṇāṃ śrauta-nitya-karma-rahitatvād iti |",
+  "tad apy asat |",
+  "sarvopaniṣatsu itihāsa-purāṇa-yoga-śāstre ca jñānāṅgatvena mumukṣoḥ sarva-karma-saṃnyāsa-vidhānād āśrama-vikalpa-samuccaya-vidhānāc ca śruti-smṛtyoḥ |",
+  "siddhas tarhi sarvāśramiṇāṃ jñāna-karmaṇoḥ samuccayaḥ ? na, mumukṣoḥ sarva-karma-saṃnyāsa-vidhānāt |",
+  "vyutthāyātha bhikṣācaryaṃ caranti [bau 3.5.1], tasmāt saṃnyāsam eṣāṃ tapasām atiriktam āhuḥ [nāu 2.79], nyāsa evātyarecayet [nāu 2.78], iti |",
+  "na karmaṇā na prajayā dhanena tyāgenaike 'mṛtatvam ānaśuḥ [nāu 2.12] iti ca |",
+  "brahmacaryād eva pravrajet [jāvāu 4] ity ādyāḥ śrutayaḥ |",
+  "tyaja dharmam adharmaṃ ca ubhe satyānṛte tyaja |",
+  "ubhe satyānṛte tyaktvā yena tyajasi tat tyaja ||",
+  "saṃsāram eva niḥsāraṃ dṛṣṭvā sāra-didṛkṣayā |",
+  "pravrajanty akṛtodvāhāḥ paraṃ vairāgyam āśritāḥ ||",
+  "iti bṛhaspatir api kacaṃ prati |",
+  "karmaṇā badhyate jantur vidyayā ca vimucyate |",
+  "tasmāt karma na kurvanti yatayaḥ pāra-darśinaḥ ||",
+  "[mbh 12.241.7] iti śukānuśāsanam |",
+  "ihāpi sarva-karmāṇi manasā saṃnyasya ity ādi |",
+  "mokṣasya cākāryatvān mumukṣoḥ karmānarthakyam |",
+  "nityāni pratyavāya-parihārārtham anuṣṭheyāni iti cet, na |",
+  "asaṃnyāsi-viṣayatvāt pratyavāya-prāpteḥ |",
+  "na hi agnikāryādy-akaraṇāt saṃnyāsinaḥ pratyavāyaḥ kalpayituṃ śakyo yathā brahmacāriṇām asaṃnyāsinām api karmiṇām |",
+  "na tavan nityānāṃ karmaṇām abhāvād eva bhāva-rūpasya pratyavāyasya utpattiḥ kalpayituṃ śakyā katham asataḥ sajjāyate [chāu 6.2.2] iti asataḥ sajjanmāsambhava-śruteḥ |",
+  "yadi vihitākaraṇād asambhāvyam api pratyavāyaṃ brūyād vedas tadā anartha-karo vedaḥ apramāṇam ity uktaṃ syāt |",
+  "vihitasya karaṇākaraṇayoḥ duḥkha-mātra-phalatvāt |",
+  "tathā ca kārakaṃ śāstraṃ na jñāpakam iti anupapannārthaṃ kalpitaṃ syāt |",
+  "na caitad iṣṭam |",
+  "tasmān na saṃnyāsināṃ karmāṇi ato jñāna-karmaṇoḥ samuccayānupapattiḥ |",
+  "jyāyasī cet karmaṇas te matā buddhir iti |",
+  "arjunasya praśnānupapatteś ca |",
+  "yadi hi bhagavatā dvitīye adhyāye jñānaṃ karma ca samuccayena tvayānuṣṭheyam ity uktaṃ syāt tato 'rjunasya praśno 'nupapanno jyāyasī cet karmaṇas te matā buddhir janārdana iti |",
+  "arjunāya ced buddhi-karmaṇī tvayānuṣṭheye iti ukte yā karmaṇo jyāyasī buddhiḥ sā apy uktā eveti tat kiṃ karmaṇi ghore māṃ niyojayasi keśava iti praśno na kathaṃcana upapadyate |",
+  "na cārjunasyaiva jyāyasī buddhir nānuṣṭheyeti bhagavatoktaṃ pūrvam iti kalpayituṃ yuktam, yena jyāyasī ced iti praśnaḥ syāt |",
+  "yadi punar ekasya puruṣasya jñāna-karmaṇor virodhād yugapad anuṣṭhānaṃ na sambhavatīti bhinna-puruṣānuṣṭheyatvaṃ bhagavatā pūrvam uktaṃ syāt tato 'yaṃ praśna upapannaḥ jyāyasī ced ity ādiḥ |",
+  "avivekataḥ praśna-kalpanāyām api bhinna-puruṣānuṣṭheyatvena bhagavataḥ prativacanaṃ nopapadyate |",
+  "na cājñāna-nimittaṃ bhagavat-prativacanaṃ kalpyam |",
+  "asmāc ca bhinna-puruṣānuṣṭheyatvena jñāna-karma-niṣṭhayor bhagavataḥ prativacana-darśanāt, jñāna-karmaṇoḥ samuccayānupapattiḥ |",
+  "tasmāt kevalād eva jñānān mokṣa ity eṣo 'rtho niścito gītāsu sarvopaniṣatsu ca |",
+  "jñāna-karmaṇor ekaṃ vada niścitya iti ca eka-viṣayaiva prārthanānupapannobhayoḥ samuccaya-sambhave |",
+  "kuru karmaiva tasmāt tvam iti ca jñāna-niṣṭhā-sambhavam arjunasyāvadhāraṇena darśayiṣyati |",
+  "arjuna uvāca",
+  "jyāyasī cet karmaṇas te matā buddhir janārdana |",
+  "tat kiṃ karmaṇi ghore māṃ niyojayasi keśava"
+ ]
+}

@@ -1,0 +1,533 @@
+{
+ "unit": "2.23",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nainaṃ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates chindanti; compounded by vowel sandhi with enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "nainaṃ",
+   "lemma": "ena",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers, per Śaṅkara, to the dehin/ātman under discussion. Stem revised from the tagger’s enad to ena for derivational checkability of acc. sg. masc. enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "ena Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "chindanti",
+   "surface_in_sandhi": "chindanti",
+   "lemma": "chid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "chid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "chid Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "śastrāṇi",
+   "surface_in_sandhi": "śastrāṇi",
+   "lemma": "śastra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of chindanti; ‘weapons,’ glossed by Śaṅkara as swords etc. The commentary’s printed “asy-ādīni” appears likely to stand for “asi-ādīni.”",
+   "verification": {
+    "status": "pass",
+    "detail": "śastra Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nainaṃ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates dahati; compounded by vowel sandhi with enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "nainaṃ",
+   "lemma": "ena",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Same referent as the first enam: the self under discussion. Stem revised from the tagger’s enad to ena for derivational checkability of acc. sg. masc. enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "ena Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "dahati",
+   "surface_in_sandhi": "dahati",
+   "lemma": "dah",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dah",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "dah Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pāvakaḥ",
+   "surface_in_sandhi": "pāvakaḥ",
+   "lemma": "pāvaka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of dahati; Śaṅkara identifies it as agni, fire.",
+   "verification": {
+    "status": "pass",
+    "detail": "pāvaka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates kledayanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cainaṃ",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Connective enclitic, here compounded by vowel sandhi with enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "cainaṃ",
+   "lemma": "ena",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of kledayanti. Stem revised from the tagger’s enad to ena for derivational checkability of acc. sg. masc. enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "ena Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "kledayanti",
+   "surface_in_sandhi": "kledayanty",
+   "lemma": "klid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "klid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Causative stem kledaya-: ‘make wet, moisten.’",
+   "verification": {
+    "status": "pass",
+    "detail": "klid Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "āpaḥ",
+   "surface_in_sandhi": "āpo",
+   "lemma": "ap",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of kledayanti; classical plural ‘waters.’",
+   "verification": {
+    "status": "pass",
+    "detail": "ap Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates śoṣayati.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "śoṣayati",
+   "surface_in_sandhi": "śoṣayati",
+   "lemma": "śuṣ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "śuṣ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Causative stem śoṣaya-: ‘dry up.’",
+   "verification": {
+    "status": "pass",
+    "detail": "śuṣ Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mārutaḥ",
+   "surface_in_sandhi": "mārutaḥ",
+   "lemma": "māruta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of śoṣayati; glossed by Śaṅkara as vāyuḥ, wind.",
+   "verification": {
+    "status": "pass",
+    "detail": "māruta Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate the repeated enam as ‘this self,’ with the commentary’s dehin/ātman as the referent.",
+   "options_considered": [
+    "this physical body",
+    "this embodied one/dehin",
+    "this self/ātman"
+   ],
+   "chosen": "enam = the self/embodied self under discussion, not the physical body as a cuttable object",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "enaṃ prakṛtaṃ dehinaṃ na chindanti śastrāṇi, niravayavatvāt nāvayava-vibhāgaṃ kurvanti |",
+     "translation": "‘Weapons do not cut this embodied one under discussion; because it is without parts, they do not make a division of parts.’"
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "enaṃ tv ātmānaṃ na śoṣayati māruto 'pi ||bhgs_2.23||",
+     "translation": "‘But even wind does not dry this self.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Render the first pāda as weapons’ inability to cut the partless self, not merely a general inability to injure it.",
+   "options_considered": [
+    "śastrāṇi as ritual recitations",
+    "śastrāṇi as weapons generically",
+    "śastrāṇi as swords and similar cutting weapons"
+   ],
+   "chosen": "chindanti = divide/cut into parts; śastrāṇi = weapons such as swords",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "enaṃ prakṛtaṃ dehinaṃ na chindanti śastrāṇi, niravayavatvāt nāvayava-vibhāgaṃ kurvanti |",
+     "translation": "‘Weapons do not cut this embodied one under discussion; because it is without parts, they do not make a division of parts.’"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "śastrāṇi asy-ādīni |",
+     "translation": "‘Weapons are swords etc.’ The printed “asy-ādīni” is likely a noisy reading for “asi-ādīni.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Render pāvakaḥ as ‘fire’ and dahati as ‘burns,’ with Śaṅkara’s bhasmīkaroti specifying combustion rather than purification.",
+   "options_considered": [
+    "pāvaka as ‘purifier’ in an abstract sense",
+    "Pāvaka as a named deity only",
+    "pāvaka as fire/Agni"
+   ],
+   "chosen": "pāvakaḥ = fire; dahati = burn to ash",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tathā nainaṃ dahati pāvakaḥ, agnir api na bhasmīkaroti |",
+     "translation": "‘Likewise, fire does not burn this one; even Agni does not reduce it to ashes.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Translate waters as unable to moisten the partless self; Śaṅkara explains wetting as something water can do only to a composite object by making it moist and separating its parts.",
+   "options_considered": [
+    "kledayanti as merely ‘wet’ with no philosophical force",
+    "kledayanti as ‘dissolve/disintegrate’ by water’s action",
+    "kledayanti as ‘moisten,’ explained through wetness leading to part-separation only in composites"
+   ],
+   "chosen": "kledayanti = moisten/soak by making wet; āpaḥ = waters",
+   "evidence": [
+    {
+     "lines": [
+      4,
+      5,
+      6
+     ],
+     "quote": "tathā na cainaṃ kledayanti āpaḥ |\napāṃ hi sāvayavasya vastuna ādrībhāva-karaṇena avayava-viśleṣāpādane sāmarthyam |\ntan na niravayave ātmani saṃbhavati |",
+     "translation": "‘Likewise, waters do not moisten this one. For waters have the capacity, in the case of an object with parts, to cause separation of parts by producing wetness. That does not occur in the partless self.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Render the last pāda as wind’s inability to dry the self, not as a mythological Marut’s action; Śaṅkara glosses māruta with vāyuḥ and defines the mode as drying moisture.",
+   "options_considered": [
+    "māruta as a Marut or a proper divine name",
+    "māruta as simply ‘air/wind’",
+    "śoṣayati as ‘destroys’ without specifying drying"
+   ],
+   "chosen": "mārutaḥ = wind; śoṣayati = dry up by removing moisture",
+   "evidence": [
+    {
+     "lines": [
+      7,
+      8
+     ],
+     "quote": "tathā snehavat dravyaṃ sneha-śoṣaṇena nāśayati vāyuḥ |\nenaṃ tv ātmānaṃ na śoṣayati māruto 'pi ||bhgs_2.23||",
+     "translation": "‘Likewise, wind destroys an oily substance by drying up its moisture. But even wind does not dry this self.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Keep the repeated negation in English: ‘do not cut … does not burn … nor … do not moisten … does not dry.’",
+   "options_considered": [
+    "one negation carried loosely over the whole verse",
+    "four coordinated negative predications, one for each destructive element"
+   ],
+   "chosen": "Each na negates its own finite verb in a fourfold denial",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Weapons do not cut this self (ātman);\nfire does not burn this self.\nNor do waters moisten this self;\nwind does not dry it.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take enam as the visible body; Śaṅkara explicitly identifies it as the dehin/ātman, the self under discussion (lines 1, 8).",
+  "It might render chindanti as ordinary ‘cut’ without the philosophical point that cutting means producing a division of parts; Śaṅkara makes partlessness the reason cutting is impossible (line 1).",
+  "It might take pāvaka chiefly as ‘purifier’ or a proper name; Śaṅkara glosses it with agni and bhasmīkaroti, fire’s reducing to ashes (line 3).",
+  "It might miss the sequence of physical modes—cutting, burning, moistening, drying—as failures to affect a partless self; Śaṅkara spells out the mechanisms for water and wind in terms of part-separation and removal of moisture (lines 5–8)."
+ ],
+ "analyzer_disagreements": [
+  "enam (all three occurrences): ByT5 gives lemma enad; revised to the inflected pronominal stem ena because enad + Pum/Dvitiya/Eka was rejected by the verifier as deriving enadam. The case/gender/number are retained.",
+  "kledayanti: ByT5 effectively lemmatizes as kleday; I analyze it as a causative present from the bare verbal root klid, since the form is kledaya- + anti and Śaṅkara explains the action as ādrībhāva-karaṇa, ‘making moist’ (line 5).",
+  "śoṣayati: ByT5 effectively lemmatizes as śoṣay; I analyze it as a causative present from the bare verbal root śuṣ, since the form is śoṣaya- + ti and Śaṅkara explains it by śoṣaṇa, ‘drying’ (line 7)."
+ ],
+ "open_questions": [
+  "The commentary line “śastrāṇi asy-ādīni” is likely an unproofread form for “śastrāṇi asi-ādīni,” ‘weapons are swords etc.’; I have not normalized the quoted evidence."
+ ],
+ "verification_summary": {
+  "pass": 16,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11828,
+   "completion_tokens": 11030,
+   "reasoning_tokens": 4606
+  },
+  "est_cost": 0.2009,
+  "reverified": true
+ },
+ "mula": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ | na cainaṃ kledayanty āpo na śoṣayati mārutaḥ",
+ "commentary_lines": [
+  "enaṃ prakṛtaṃ dehinaṃ na chindanti śastrāṇi, niravayavatvāt nāvayava-vibhāgaṃ kurvanti |",
+  "śastrāṇi asy-ādīni |",
+  "tathā nainaṃ dahati pāvakaḥ, agnir api na bhasmīkaroti |",
+  "tathā na cainaṃ kledayanti āpaḥ |",
+  "apāṃ hi sāvayavasya vastuna ādrībhāva-karaṇena avayava-viśleṣāpādane sāmarthyam |",
+  "tan na niravayave ātmani saṃbhavati |",
+  "tathā snehavat dravyaṃ sneha-śoṣaṇena nāśayati vāyuḥ |",
+  "enaṃ tv ātmānaṃ na śoṣayati māruto 'pi ||bhgs_2.23||",
+  "yata evaṃ tasmāt --"
+ ]
+}

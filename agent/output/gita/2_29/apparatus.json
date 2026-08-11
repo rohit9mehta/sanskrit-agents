@@ -1,0 +1,717 @@
+{
+ "unit": "2.29",
+ "analysis": [
+  {
+   "surface": "āścaryavat",
+   "surface_in_sandhi": "āścaryavat",
+   "lemma": "āścaryavat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vati-affixal indeclinable from āścarya, glossed by the bhāṣya as āścaryam iva/tena tulyaṃ; not a possessive -vat adjective.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "paśyati",
+   "surface_in_sandhi": "paśyati",
+   "lemma": "paś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "paś",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "paś Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kaścit",
+   "surface_in_sandhi": "kaścid",
+   "lemma": "kaścit",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indefinite pronoun; final -t is voiced to -d before enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaścit Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "enam",
+   "lemma": "ena",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular, referring to ātmānam according to the commentary. Stem recorded as ena rather than enad so that the pausal form enam is directly checkable; traditionally this is the enclitic/anaphoric ena-/enad- pronoun.",
+   "verification": {
+    "status": "pass",
+    "detail": "ena Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "āścaryavat",
+   "surface_in_sandhi": "āścaryavad",
+   "lemma": "āścaryavat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Same vati-affixal indeclinable; final -t is voiced to -d before vadati.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "vadati",
+   "surface_in_sandhi": "vadati",
+   "lemma": "vad",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vad",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "vad Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathaiva",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesced with following eva in tathaiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "tathaiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesced with preceding tathā in tathaiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cānyaḥ",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesced with following anyaḥ in cānyaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anyaḥ",
+   "surface_in_sandhi": "cānyaḥ",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular: ‘another’.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "āścaryavat",
+   "surface_in_sandhi": "āścaryavac",
+   "lemma": "āścaryavat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Same vati-affixal indeclinable; final -t appears as -c before ca.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cainam",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesced with following enam in cainam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "cainam",
+   "lemma": "ena",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular, again referring to ātmānam. Stem recorded as ena rather than enad for derivational checkability of enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "ena Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "anyaḥ",
+   "surface_in_sandhi": "anyaḥ",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śṛṇoti",
+   "surface_in_sandhi": "śṛṇoti",
+   "lemma": "śru",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "śru",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "The commentary lines 3 and 5 print sṛṇoti, taken here as an unproofread form for the verse’s śṛṇoti.",
+   "verification": {
+    "status": "pass",
+    "detail": "śru Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śrutvā",
+   "surface_in_sandhi": "śrutvāpy",
+   "lemma": "śru",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "śru",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive in -tvā: ‘having heard’; in sandhi with api it appears in śrutvāpy.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "śrutvāpy",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Concessive here: ‘even’; appears as -apy before enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "enaṃ",
+   "lemma": "ena",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular; final -m is written as anusvāra before veda. Stem recorded as ena rather than enad for derivational checkability of enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "ena Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "veda",
+   "surface_in_sandhi": "veda",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Special unreduplicated perfect form veda of √vid, used with present sense: ‘knows’. The verifier’s regular liṭ generation gives forms such as viveda, but MW explicitly records pf. veda of √vid, often substituted for present vetti; I therefore retain Lit rather than changing the analysis to a form I take to be false.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "vid Lit/Prathama/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "caiva",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coalesced with following eva in caiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "caiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Strengthens the negation: ‘at all/indeed’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kaścit",
+   "surface_in_sandhi": "kaścit",
+   "lemma": "kaścit",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "With na: ‘not anyone’, ‘not one’.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaścit Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "I take āścaryavat in all three clauses as a comparison to a marvel, not as ‘wonderfully’ in a merely adverbial manner and not as a possessive ‘wonder-having’.",
+   "options_considered": [
+    "as/like a marvel",
+    "wonderfully, in an amazed way",
+    "possessed of wonder"
+   ],
+   "chosen": "āścaryavat = ‘as/like a marvel’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "āścaryavat āścaryam adṛṣṭa-pūrvam adbhutam akasmād dṛśyamānaṃ tena tulyaṃ āścaryavat āścaryam iva enam ātmānaṃ paśyati kaścit |",
+     "translation": "‘Āścaryavat’: a wonder, something never seen before, astonishing, suddenly appearing; equal to that—āścaryavat, like a wonder—someone sees this Self."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The pronoun is not left as an unspecified ‘him/this’; it is translated as ‘this Self’ on first occurrence and then ‘it’.",
+   "options_considered": [
+    "this Self (ātman)",
+    "this embodied person",
+    "this teaching in general"
+   ],
+   "chosen": "enam/enaṃ refers to the Self (ātman).",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "āścaryavat āścaryam iva enam ātmānaṃ paśyati kaścit |",
+     "translation": "Someone sees this, the Self, as like a wonder."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "śrutvā dṛṣṭvā uktvāpi enam ātmānaṃ veda na caiva kaścit |",
+     "translation": "Even after hearing, seeing, and speaking, no one knows this, the Self."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The three positive clauses distribute seeing, speaking, and hearing among different rare persons; tathā eva carries the same ‘as a marvel’ construal into the speaking clause.",
+   "options_considered": [
+    "three different persons: one sees, another speaks, another hears",
+    "one and the same person successively sees, speaks, and hears",
+    "tathā eva modifying only vadati as ‘speaks truly’"
+   ],
+   "chosen": "‘Another likewise speaks of it; another hears of it.’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "āścaryavad enaṃ vadati tathaiva cānyaḥ |",
+     "translation": "Another, just so, speaks of it as a marvel."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "āścaryavac ca enam anyaḥ sṛṇoti |",
+     "translation": "And another hears it as a marvel. The line prints sṛṇoti, evidently for the verse’s śṛṇoti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although the first construal translates kaścit/anyaḥ straightforwardly, the English ‘some rare one’ reflects Śaṅkara’s stated purport, not a mere random ‘someone’.",
+   "options_considered": [
+    "kaścit as a rare person",
+    "kaścit as any ordinary someone without emphasis",
+    "the verse mainly praising eloquence rather than stressing difficult knowledge"
+   ],
+   "chosen": "The persons are rare, and the point is the Self’s difficulty of comprehension.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "athavā yo 'yam ātmānaṃ paśyati sa āścarya-tulyaḥ, yo vadati ya ca sṛṇoti so 'neka-sahasreṣu kaścid eva bhavati |",
+     "translation": "Or: the one who sees this Self is wonder-like; the one who speaks and the one who hears is only some one among many thousands. The printed sṛṇoti is treated as a plaintext error for śṛṇoti."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "ato durbodha ātmā ity abhiprāyaḥ ||bhgs_2.29||",
+     "translation": "Therefore the purport is: the Self is hard to comprehend."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "api is not taken as a simple additive ‘also’; the final pāda says that even after the relevant acts of hearing—and, in Śaṅkara’s expansion, seeing and speaking—knowledge still does not arise.",
+   "options_considered": [
+    "even after hearing",
+    "after also hearing",
+    "having heard in addition to something else, without concessive force"
+   ],
+   "chosen": "śrutvā api is concessive: ‘even after hearing’.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "śrutvā dṛṣṭvā uktvāpi enam ātmānaṃ veda na caiva kaścit |",
+     "translation": "Even after hearing, seeing, and speaking, no one knows this Self."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The final verb is translated as knowing/understanding the Self, and the negation is taken strongly; this matches Śaṅkara’s explicit explanation that the Self is durbodha, hard to comprehend.",
+   "options_considered": [
+    "not one at all knows it",
+    "someone does know it after hearing",
+    "no one merely sees it visually"
+   ],
+   "chosen": "veda na caiva kaścit = ‘not one at all knows it’.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "enam ātmānaṃ veda na caiva kaścit |",
+     "translation": "No one at all knows this Self."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "ato durbodha ātmā ity abhiprāyaḥ ||bhgs_2.29||",
+     "translation": "Thus the intended meaning is that the Self is difficult to understand."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Morphologically veda is a special liṭ/perfect form of √vid, but in this usage it has present value; hence the translation is not ‘has known’ as a past perfect.",
+   "options_considered": [
+    "knows",
+    "has known",
+    "will know"
+   ],
+   "chosen": "veda is rendered with present sense, ‘knows’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "As a marvel some rare one beholds this Self (ātman);\nas a marvel, just so, another speaks of it.\nAs a marvel, too, another hears of it;\neven after hearing, not one at all knows it.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render āścaryavat as ‘wonderfully’ or ‘with amazement’; Śaṅkara explicitly glosses it as āścaryam iva, ‘like/as a marvel’ (line 1).",
+  "It might leave enam as a vague ‘him’ or take it as the body; Śaṅkara identifies it twice as ātmānam, the Self (lines 1 and 4).",
+  "It might miss the verse’s stress on rarity and difficulty; Śaṅkara says such a person is only ‘one among many thousands’ and concludes ato durbodha ātmā (lines 5–6).",
+  "It might take api as merely ‘also’; Śaṅkara’s śrutvā dṛṣṭvā uktvāpi ... veda na shows the concessive force, ‘even after hearing’ (line 4)."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments āścaryavat as āścarya + vat. I analyze each occurrence as one vati-affixal indeclinable, not as two words or a samāsa, because the bhāṣya glosses it as tena tulyaṃ and āścaryam iva (line 1).",
+  "ByT5 tags each enam as enad_SAM. I record the lemma/stem as ena while preserving Pum/Dvitiya/Eka, because the verifier shows that enad as a simple stem derives enadam; ena directly accounts for the checked form enam, while the notes retain the traditional ena-/enad- pronominal identification.",
+  "The initial api_seg omits the opening āścaryavat, while the source text and local_SLM include it; the analysis follows the printed unit and analyzes all three occurrences."
+ ],
+ "open_questions": [
+  "Commentary lines 3 and 5 print sṛṇoti where the verse has śṛṇoti; this apparatus treats that as an unproofread plaintext/orthographic error, not a different root."
+ ],
+ "verification_summary": {
+  "pass": 19,
+  "fail": 0,
+  "unsupported": 4,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14820,
+   "completion_tokens": 22861,
+   "reasoning_tokens": 14844
+  },
+  "est_cost": 0.3874,
+  "reverified": true
+ },
+ "mula": "āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ | āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṃ veda na caiva kaścit",
+ "commentary_lines": [
+  "āścaryavat āścaryam adṛṣṭa-pūrvam adbhutam akasmād dṛśyamānaṃ tena tulyaṃ āścaryavat āścaryam iva enam ātmānaṃ paśyati kaścit |",
+  "āścaryavad enaṃ vadati tathaiva cānyaḥ |",
+  "āścaryavac ca enam anyaḥ sṛṇoti |",
+  "śrutvā dṛṣṭvā uktvāpi enam ātmānaṃ veda na caiva kaścit |",
+  "athavā yo 'yam ātmānaṃ paśyati sa āścarya-tulyaḥ, yo vadati ya ca sṛṇoti so 'neka-sahasreṣu kaścid eva bhavati |",
+  "ato durbodha ātmā ity abhiprāyaḥ ||bhgs_2.29||",
+  "athedānīṃ prakaraṇārtham upasaṃharan brūte -"
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "unit": "1.29",
+ "analysis": [
+  {
+   "surface": "tataḥ",
+   "surface_in_sandhi": "tataḥ",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival indeclinable: “from that”; the commentary identifies the source as īśvarapraṇidhāna.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "pratyakcetanādhigamaḥ",
+   "surface_in_sandhi": "pratyakcetanādhigamo",
+   "lemma": "pratyakcetanādhigama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "pratyak-cetanāyāḥ adhigamaḥ; pratyak-cetanā = antarmukhī cetanā",
+    "members": [
+     "pratyañc",
+     "cetanā",
+     "adhigama"
+    ]
+   },
+   "note": "The compound denotes the attainment/realization of inward consciousness; Vyāsa glosses it as svarūpadarśana, “vision of one’s own nature.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem pratyakcetanādhigama as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "'py",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here “also/too,” attached in the commentary to svarūpadarśana.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "antarāyābhāvaḥ",
+   "surface_in_sandhi": "antarāyābhāvaś",
+   "lemma": "antarāyābhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "antarāyāṇām abhāvaḥ",
+    "members": [
+     "antarāya",
+     "abhāva"
+    ]
+   },
+   "note": "Absence/non-arising of the antarāyas, specified by Vyāsa as those beginning with disease.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem antarāyābhāva as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Connects the second result, the absence of obstacles.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The demonstrative ablatival indeclinable is not left as a vague “from that”; Vyāsa explicitly explains the causal source as īśvarapraṇidhāna.",
+   "options_considered": [
+    "from the immediately preceding practice in a general sense",
+    "from japa and contemplation alone",
+    "from devotion/dedication to Īśvara, as the commentary states"
+   ],
+   "chosen": "tataḥ = from īśvarapraṇidhāna, devotion/dedication to Īśvara",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ye tāvad antarāyā vyādhiprabhṛtayas te tāvad īśvarapraṇidhānān na bhavanti.",
+     "translation": "As for those obstacles beginning with disease, they do not come to be through/from īśvarapraṇidhāna."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The head adhigama is taken as attainment/realization; the object attained is pratyak-cetanā, the inward consciousness. Vyāsa’s gloss makes the experiential sense precise: svarūpadarśana, not mere intellectual knowledge or ordinary mental awareness.",
+   "options_considered": [
+    "acquisition of consciousness in general",
+    "inward mental attention",
+    "realization of the inward consciousness as one’s own puruṣa-nature"
+   ],
+   "chosen": "pratyakcetanādhigamaḥ = attainment/realization of inward consciousness, glossed as vision of one’s own nature",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "svarūpadarśanam apy asya bhavati.",
+     "translation": "There is also for him a seeing of his own nature."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yathaiveśvaraḥ puruṣaḥ śuddhaḥ prasannaḥ kevalo 'nupasargas tathāyam api buddheḥ pratisaṃvedī yaḥ puruṣa",
+     "translation": "Just as Īśvara is a puruṣa, pure, clear, isolated, untouched by adjuncts, so too is this puruṣa, the one who is aware of buddhi."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is construed as a genitive tatpuruṣa, antarāyāṇām abhāvaḥ. Vyāsa identifies the antarāyas as vyādhi-prabhṛtayaḥ and paraphrases their absence by na bhavanti, “they do not arise/come to be.”",
+   "options_considered": [
+    "absence as a metaphysical category unrelated to practice",
+    "obstacles’ absence, i.e. their non-arising",
+    "an obstacle to absence"
+   ],
+   "chosen": "antarāyābhāvaḥ = absence/non-arising of obstacles",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ye tāvad antarāyā vyādhiprabhṛtayas te tāvad īśvarapraṇidhānān na bhavanti.",
+     "translation": "As for those obstacles beginning with disease, they do not come to be through/from īśvarapraṇidhāna."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although the sūtra states pratyakcetanādhigamo 'pi first and antarāyābhāvaś ca second, Vyāsa treats the two as distinct fruits and explicitly repeats api with svarūpadarśana. Therefore the translation marks “also” with the attainment of inward consciousness and “and” with the absence of obstacles.",
+   "options_considered": [
+    "api modifies tataḥ: “from that also”",
+    "api gives a merely concessive “even”",
+    "api marks the additional fruit of self-vision, coordinated with obstacle-absence by ca"
+   ],
+   "chosen": "api has scope over the self-vision/attainment, while ca coordinates the absence of obstacles",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ye tāvad antarāyā vyādhiprabhṛtayas te tāvad īśvarapraṇidhānān na bhavanti.",
+     "translation": "The obstacles beginning with disease do not arise from īśvarapraṇidhāna."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "svarūpadarśanam apy asya bhavati.",
+     "translation": "There is also for him a seeing of his own nature."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "From that [devotion to Īśvara], there is also the attainment of inward consciousness (pratyak-cetanā)—the seeing of one’s own nature—and the absence of obstacles.",
+ "one_shot_delta": [
+  "Without Vyāsa, one might translate pratyakcetanādhigamaḥ vaguely as “attainment of consciousness” or “introspection”; the commentary narrows it to svarūpadarśana, vision of the puruṣa’s own nature.",
+  "A commentary-blind reading might leave tataḥ as referring only to the immediately preceding japa; Vyāsa frames the causal basis as īśvarapraṇidhāna.",
+  "The commentary prevents taking antarāyābhāvaḥ abstractly: it is the non-arising of the practical obstacles such as disease."
+ ],
+ "analyzer_disagreements": [
+  "No substantive disagreement with ByT5. I normalize its internal tatas to the pausal form tataḥ required for surface reporting.",
+  "ByT5 gives component-level compound tags such as adhigamaḥ_SNM and abhāvaḥ_SNM; per the requested format I give the inflected compound stems pratyakcetanādhigama and antarāyābhāva as the lemmas, while retaining the component members in samāsa analysis."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 5,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3245,
+   "completion_tokens": 7002,
+   "reasoning_tokens": 5120
+  },
+  "est_cost": 0.1148,
+  "reverified": true
+ },
+ "mula": "tataḥ pratyakcetanādhigamo 'py antarāyābhāvaś ca",
+ "commentary_lines": [
+  "ye tāvad antarāyā vyādhiprabhṛtayas te tāvad īśvarapraṇidhānān na bhavanti.",
+  "svarūpadarśanam apy asya bhavati.",
+  "yathaiveśvaraḥ puruṣaḥ śuddhaḥ prasannaḥ kevalo 'nupasargas tathāyam api buddheḥ pratisaṃvedī yaḥ puruṣa"
+ ]
+}

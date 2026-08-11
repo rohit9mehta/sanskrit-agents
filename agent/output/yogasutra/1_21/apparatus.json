@@ -1,0 +1,155 @@
+{
+ "unit": "1.21",
+ "analysis": [
+  {
+   "surface": "tīvrasaṃvegānām",
+   "surface_in_sandhi": "tīvrasaṃvegānām",
+   "lemma": "tīvra-saṃvega",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "tīvraḥ saṃvegaḥ yeṣām teṣām",
+    "members": [
+     "tīvra",
+     "saṃvega"
+    ]
+   },
+   "note": "Substantivized possessive compound: “of those whose saṃvega is intense.” The Pāṇinian verifier reports a tool_error for this compound inflection and logs bahuvrīhi as unsupported; since the form tīvrasaṃvegānām is the regular genitive plural of the masculine compound stem and the sūtra’s sense requires practitioners as possessors, I retain the analysis rather than replacing it with the non-contextual “of intense saṃvegas.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tīvra-saṃvega as Pum/Sasthi/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "āsannaḥ",
+   "surface_in_sandhi": "āsannaḥ",
+   "lemma": "āsanna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjectival past participle from ā-√sad, “come near, close at hand,” agreeing with the supplied masculine subject samādhilābhaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "āsanna Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The sūtra’s āsannaḥ, “near / close at hand,” is not left as a bare “it.” Vyāsa supplies what is close at hand: samādhilābhaḥ and samādhiphalam. The masculine singular āsannaḥ most directly agrees with samādhilābhaḥ, with the bhāṣya adding samādhi’s fruit as included in what comes about.",
+   "options_considered": [
+    "“it is near” with an unspecified antecedent",
+    "samādhi alone is near",
+    "the attainment of samādhi and samādhi’s fruit are close at hand"
+   ],
+   "chosen": "The implied subject/scope is “the attainment of samādhi and the fruit of samādhi.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samādhilābhaḥ samādhiphalaṃ ca bhavatīti.",
+     "translation": "“The attainment of samādhi and the fruit of samādhi come about.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The genitive plural is construed as referring to practitioners, not to plural abstract “intense excitements.” This is represented morphologically as a substantivized bahuvrīhi: tīvraḥ saṃvegaḥ yeṣām. The bhāṣya’s supplied result—attainment of samādhi—fits persons possessing such ardor.",
+   "options_considered": [
+    "genitive plural of a karmadhāraya, “of intense saṃvegas”",
+    "substantivized bahuvrīhi, “of those whose saṃvega is intense”"
+   ],
+   "chosen": "tīvrasaṃvegānām means “for/of those whose saṃvega is intense.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samādhilābhaḥ samādhiphalaṃ ca bhavatīti.",
+     "translation": "“The attainment of samādhi and the fruit of samādhi come about.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "MW allows both “violent agitation/excitement” and “vehemence/intensity” or “desire of emancipation” for saṃvega. Here Vyāsa connects it directly with samādhi-attainment and samādhi’s fruit, so “ardor” or “urgent impetus” is preferable to a merely psychological “agitation.”",
+   "options_considered": [
+    "violent agitation",
+    "excitement/flurry",
+    "ardor or urgent impetus toward samādhi"
+   ],
+   "chosen": "saṃvega is rendered “ardor,” i.e. urgent soteriological impetus, not mere agitation.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samādhilābhaḥ samādhiphalaṃ ca bhavatīti.",
+     "translation": "“The attainment of samādhi and the fruit of samādhi come about.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For those whose ardor (saṃvega) is intense, the attainment of meditative concentration (samādhi), together with samādhi’s fruit, is close at hand.",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave āsannaḥ as “it is near” without saying what “it” is; Vyāsa identifies the referent as samādhilābha and samādhiphala.",
+  "It might translate saṃvega as mere “agitation” or “excitement,” whereas the bhāṣya’s connection with samādhi makes soteriological ardor the better choice.",
+  "It might construe tīvrasaṃvegānām as “of intense urges” rather than “of those whose ardor is intense.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments tīvrasaṃvegānām as tīvra + saṃvegānām and effectively gives saṃvega as the inflected head; I analyze the whole as the compound stem tīvra-saṃvega, genitive plural masculine, specifically a substantivized bahuvrīhi: “those whose saṃvega is intense.” The later vidyut-prakriya report gives only tool_error/unsupported for this compound relation, not a contrary derivation, so this is retained with a note.",
+  "ByT5 gives āsannaḥ with lemma āsad. Since the form in the sūtra is a subanta participial adjective, the lemma is given as the nominal stem āsanna; its derivation from ā-√sad is noted separately."
+ ],
+ "open_questions": [
+  "Line 3, “mṛdumadhyādhimātratvāt tato 'pi viśeṣaḥ,” appears to be the following sūtra (YS 1.22), not Vyāsa’s gloss on 1.21; it has therefore not been used as primary evidence for this unit."
+ ],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 6426,
+   "completion_tokens": 8350,
+   "reasoning_tokens": 5632
+  },
+  "est_cost": 0.1445,
+  "reverified": true
+ },
+ "mula": "tīvrasaṃvegānām āsannaḥ",
+ "commentary_lines": [
+  "samādhilābhaḥ samādhiphalaṃ ca bhavatīti.",
+  "1.21",
+  "mṛdumadhyādhimātratvāt tato 'pi viśeṣaḥ"
+ ]
+}

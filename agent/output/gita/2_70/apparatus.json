@@ -1,0 +1,525 @@
+{
+ "unit": "2.70",
+ "analysis": [
+  {
+   "surface": "āpūryamāṇam",
+   "surface_in_sandhi": "āpūryamāṇam",
+   "lemma": "āpūryamāṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": "pṝ",
+    "prefixes": [
+     "ā"
+    ],
+    "prayoga": "Karmani",
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present passive participial adjective, “being filled,” agreeing with samudram; Śaṅkara supplies the agent/instrument adbhir.",
+   "verification": {
+    "status": "pass",
+    "detail": "āpūryamāṇa Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "acala-pratiṣṭham",
+   "surface_in_sandhi": "acala-pratiṣṭhaṃ",
+   "lemma": "acala-pratiṣṭha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "acalā pratiṣṭhā/avasthitiḥ yasya saḥ",
+    "members": [
+     "acala",
+     "pratiṣṭhā"
+    ]
+   },
+   "note": "Bahuvrīhi adjective qualifying samudram. The verifier reported tool_error/unsupported for the compound derivation and relation; I retain the analysis because Śaṅkara explicitly gives the bahuvrīhi vigraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem acala-pratiṣṭha as Pum/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "samudram",
+   "surface_in_sandhi": "samudram",
+   "lemma": "samudra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "samudra Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "āpaḥ",
+   "surface_in_sandhi": "āpaḥ",
+   "lemma": "ap",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Irregular plural noun: āpaḥ, “waters.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ap Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "praviśanti",
+   "surface_in_sandhi": "praviśanti",
+   "lemma": "viś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "viś",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Finite verb: “they enter.”",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-viś Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yadvat",
+   "surface_in_sandhi": "yadvat",
+   "lemma": "yadvat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative indeclinable: “as.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tadvat",
+   "surface_in_sandhi": "tadvat",
+   "lemma": "tadvat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative indeclinable: “so, in that way.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kāmāḥ",
+   "surface_in_sandhi": "kāmā",
+   "lemma": "kāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "For this occurrence Śaṅkara glosses kāmāḥ as icchā-viśeṣāḥ, particular desires, not the external objects.",
+   "verification": {
+    "status": "pass",
+    "detail": "kāma Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "yam",
+   "surface_in_sandhi": "yaṃ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of praviśanti; Śaṅkara supplies puruṣam.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "praviśanti",
+   "surface_in_sandhi": "praviśanti",
+   "lemma": "viś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "viś",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Finite verb: “they enter.”",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-viś Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sarve",
+   "surface_in_sandhi": "sarve",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with kāmāḥ: “all.”",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun referring to the person denoted by yam.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śāntim",
+   "surface_in_sandhi": "śāntim",
+   "lemma": "śānti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of āpnoti; Śaṅkara glosses it as mokṣa.",
+   "verification": {
+    "status": "pass",
+    "detail": "śānti Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "āpnoti",
+   "surface_in_sandhi": "āpnoti",
+   "lemma": "āp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "āp",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Class-5 present: “he attains/obtains.”",
+   "verification": {
+    "status": "pass",
+    "detail": "āp Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates the implied prāpnoti with kāma-kāmī, as Śaṅkara says naiva prāpnoti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kāma-kāmī",
+   "surface_in_sandhi": "kāma-kāmī",
+   "lemma": "kāma-kāmin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "kāmān kāmayituṃ śīlaṃ yasya saḥ",
+    "members": [
+     "kāma",
+     "kāmin"
+    ]
+   },
+   "note": "Śaṅkara takes kāma here as viṣayāḥ, “objects of desire”; kāma-kāmī is one whose habit is to desire them. The verifier reported tool_error/unsupported for the compound derivation and relation; I retain the analysis because the stem kāma-kāmin gives nom. sg. kāma-kāmī and Śaṅkara explicitly explains the compound relation.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kāma-kāmin as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "yadvat/tadvat is rendered as the correlative “as/so,” with samudram as the object of the first praviśanti and yam puruṣam as the object of the second.",
+   "options_considered": [
+    "Take the first praviśanti literally of waters entering the ocean and the second of desires entering a person.",
+    "Take both clauses as describing only physical inflow into the ocean.",
+    "Take yam as referring back to samudram rather than to a person."
+   ],
+   "chosen": "The first half is an ocean simile: waters enter an ocean that is being filled yet remains unmoved; the second half applies this to desires entering a person.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samudram āpaḥ sarvato gatāḥ praviśanti svātmastham avikriyam eva santaṃ yadvat, tadvat kāmāḥ ... yaṃ puruṣam --- samudram iva āpaḥ -- ... praviśanti",
+     "translation": "“As waters, come from all sides, enter the ocean, which remains established in itself and unchanged, so desires enter that person—like waters the ocean.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "I render it “fixed in unmoving stability,” qualifying samudram.",
+   "options_considered": [
+    "Bahuvrīhi: “whose stability is unmoving.”",
+    "Karmadhāraya: “the immovable and established ocean.”",
+    "Literal but misleading: “mountain-founded ocean.”"
+   ],
+   "chosen": "acala-pratiṣṭham is a bahuvrīhi: “whose stability/abiding is unmoving,” not a separate adjective plus noun and not “founded on a mountain.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "acala-pratiṣṭham acalatayā pratiṣṭhā avasthitiḥ yasya tam acala-pratiṣṭhaṃ",
+     "translation": "“acala-pratiṣṭha: that whose pratiṣṭhā, abiding/stability, is by immovability.”"
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svātmastham avikriyam eva santaṃ",
+     "translation": "“remaining in its own self, unchanged.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "I do not translate the clause as indulgence or satisfaction of desires; I render it as desires entering/dissolving without unsettling him.",
+   "options_considered": [
+    "Desires enter him by being absorbed without perturbation.",
+    "Desires enter him as temptations that overpower him.",
+    "Desires enter him because he actively pursues and enjoys them."
+   ],
+   "chosen": "The kāmāḥ that enter the person are particular desires arising even amid sense-objects; their “entering” means dissolving in the self without disturbing or enslaving him.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kāmāḥ viṣaya-saṃnidhāv api sarvataḥ icchā-viśeṣāḥ yaṃ puruṣam ... avikurvantaḥ praviśanti sarve ātmany eva pralīyante na svātma-vaśaṃ kurvanti",
+     "translation": "“The desires—particular wishes from all sides, even in the presence of sense-objects—enter that person without altering him; all dissolve in the self and do not bring him under their control.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "I translate śāntim āpnoti as “he attains peace—liberation.” The bhāṣya plaintext reads śāntir mokṣam, apparently an unproofread form for śāntiṃ/mokṣam; I cite it only for the explicit śānti = mokṣa gloss.",
+   "options_considered": [
+    "śānti as liberation, following Śaṅkara.",
+    "śānti as only ordinary calm or quietude."
+   ],
+   "chosen": "śāntim means not merely psychological calm but liberation (mokṣa) in Śaṅkara’s gloss.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sa śāntir mokṣam āpnoti",
+     "translation": "“He attains peace, i.e. liberation.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "I render na kāma-kāmī as “not the craver of objects of desire,” not as “not one who desires desires.”",
+   "options_considered": [
+    "kāma-kāmī as “one who craves objects of desire,” Śaṅkara’s interpretation.",
+    "kāma-kāmī as the awkward literal “one who desires desires.”",
+    "kāma-kāmī as simply “a sensual man,” without preserving the compound’s object relation."
+   ],
+   "chosen": "kāma-kāmī is the person who habitually desires objects of desire; he does not attain peace/liberation.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "netaraḥ kāma-kāmī, kāmyanta iti kāmāḥ viṣayāḥ tān kāmayituṃ śīlaṃ yasya saḥ kāma-kāmī, naiva prāpnotīty arthaḥ",
+     "translation": "“Not the other, the kāma-kāmī: kāmāḥ are objects, because they are desired; one whose habit is to desire them is a kāma-kāmī. The meaning is: he certainly does not attain it.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "As waters enter the ocean,\nwhich is being filled yet fixed in unmoving stability,\nso all desires enter that man, all of them—\ndissolving in himself without unsettling him.\nHe attains peace, liberation (śānti);\nnot the craver of objects of desire (kāma-kāmī).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take kāma-kāmī as “one who desires desires”; Śaṅkara instead defines the kāmāḥ here as viṣayāḥ, objects desired, and kāma-kāmī as one habitually desiring them.",
+  "It might render śānti as mere calm; Śaṅkara identifies it with mokṣa, liberation.",
+  "It might miss that the desires entering the sage do not disturb or control him; Śaṅkara says they dissolve in the self and do not make him subject to themselves.",
+  "It might flatten acala-pratiṣṭha into “immovable ocean”; Śaṅkara gives a bahuvrīhi-style analysis, “whose abiding/stability is unmoving.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives āpūryamāṇam with lemma āp; I analyze it as the present passive participle āpūryamāṇa from ā-√pṝ, because Śaṅkara glosses it āpūryamāṇam adbhir, “being filled by waters.”",
+  "ByT5 segments acala + pratiṣṭham; I treat acala-pratiṣṭham as one bahuvrīhi compound, following Śaṅkara’s vigraha acalatayā pratiṣṭhā avasthitiḥ yasya tam acala-pratiṣṭham.",
+  "ByT5 gives finite-verb lemmas as praviś; per the requested format I give the bare root viś with prefix pra.",
+  "ByT5 segments kāma + kāmī; I treat kāma-kāmī as a single compound stem kāma-kāmin and construe its first member as the object desired, following Śaṅkara’s kāmyanta iti kāmāḥ viṣayāḥ."
+ ],
+ "open_questions": [
+  "The commentary line as supplied reads “sa śāntir mokṣam āpnoti”; since the verse has śāntim and the context demands an object of āpnoti, this is probably unproofread for “sa śāntiṃ mokṣam āpnoti” or similar."
+ ],
+ "verification_summary": {
+  "pass": 16,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14179,
+   "completion_tokens": 14558,
+   "reasoning_tokens": 7679
+  },
+  "est_cost": 0.2609,
+  "reverified": true
+ },
+ "mula": "āpūryamāṇam acala-pratiṣṭhaṃ samudram āpaḥ praviśanti yadvat | tadvat kāmā yaṃ praviśanti sarve sa śāntim āpnoti na kāma-kāmī",
+ "commentary_lines": [
+  "āpūryamāṇam adbhir acala-pratiṣṭham acalatayā pratiṣṭhā avasthitiḥ yasya tam acala-pratiṣṭhaṃ samudram āpaḥ sarvato gatāḥ praviśanti svātmastham avikriyam eva santaṃ yadvat, tadvat kāmāḥ viṣaya-saṃnidhāv api sarvataḥ icchā-viśeṣāḥ yaṃ puruṣam --- samudram iva āpaḥ -- avikurvantaḥ praviśanti sarve ātmany eva pralīyante na svātma-vaśaṃ kurvanti, sa śāntir mokṣam āpnoti, netaraḥ kāma-kāmī, kāmyanta iti kāmāḥ viṣayāḥ tān kāmayituṃ śīlaṃ yasya saḥ kāma-kāmī, naiva prāpnotīty arthaḥ ||bhgs_2.70||",
+  "yasmād evaṃ tasmāt -"
+ ]
+}

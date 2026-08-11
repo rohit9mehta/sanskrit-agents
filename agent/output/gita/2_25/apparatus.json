@@ -1,0 +1,513 @@
+{
+ "unit": "2.25",
+ "analysis": [
+  {
+   "surface": "avyaktaḥ",
+   "surface_in_sandhi": "avyakto",
+   "lemma": "avyakta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective qualifying the supplied ātmā; privative a- form, not treated here as an inflected compound.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyakta Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal form ayam; subject is identified by the commentary as ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "acintyaḥ",
+   "surface_in_sandhi": "acintyo",
+   "lemma": "acintya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective qualifying ayam/ātmā; privative a- form.",
+   "verification": {
+    "status": "pass",
+    "detail": "acintya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal form ayam, again referring to ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "avikāryaḥ",
+   "surface_in_sandhi": "avikāryo",
+   "lemma": "avikārya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective qualifying ayam/ātmā; understood by the commentary through avikriyatva, absence of transformation.",
+   "verification": {
+    "status": "pass",
+    "detail": "avikārya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal form ayam, referring to ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ucyate",
+   "surface_in_sandhi": "ucyate",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present passive: “is said/called.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tasmāt",
+   "surface_in_sandhi": "tasmād",
+   "lemma": "tasmāt",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial ablative used indeclinably: “therefore.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "evam",
+   "surface_in_sandhi": "evaṃ",
+   "lemma": "evam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "“In this way”; Śaṅkara glosses it as yathokta-prakāreṇa.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "viditvā",
+   "surface_in_sandhi": "viditvai",
+   "lemma": "vid",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "ktvā-gerund/converb: “having known.” In the printed viditvainaṃ, viditvā + enam gives viditvainam by vowel sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "naṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular pronoun, the enam-form of idam; Śaṅkara glosses enam as ātmānam. In viditvainaṃ the initial e is absorbed in the preceding ai by vowel sandhi.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "idam Pum/Dvitiya/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates the infinitive construction na anuśocitum arhasi. In nānuśocitum, na + anuśocitum coalesces to nānuśocitum.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anuśocitum",
+   "surface_in_sandhi": "nuśocitum",
+   "lemma": "śuc",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "śuc",
+    "prefixes": [
+     "anu"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "tumun infinitive of anu-√śuc: “to mourn over/grieve for,” governed by arhasi. Initial a is absorbed in nānuśocitum.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "arhasi",
+   "surface_in_sandhi": "arhasi",
+   "lemma": "arh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "arh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Present active, 2nd singular; with infinitive and negation: “you ought not / are not fit to.”",
+   "verification": {
+    "status": "pass",
+    "detail": "arh Lat/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The repeated demonstrative ayam is translated as “this Self,” because Śaṅkara explicitly supplies ātmā with the predicates.",
+   "options_considered": [
+    "ayam = this body/person presently under discussion",
+    "ayam = this Self, the subject of the teaching",
+    "ayam = an unspecified masculine referent"
+   ],
+   "chosen": "ayam throughout refers to the Self (ātmā), not to the body or to an unspecified person.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avyaktaḥ sarva-karaṇāviṣayatvāt na vyajyata iti avyakto 'yam ātmā |",
+     "translation": "Because it is not an object of any instrument, it is not manifested; therefore this Self is avyakta."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "ayaṃ tv ātmā anindriya-gocaratvāt acintyaḥ |",
+     "translation": "But this Self, because it is not within the range of the senses, is acintya."
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "avikriyatvāt avikāryo 'yam ātmā ucyate |",
+     "translation": "Because of being without modification, this Self is called avikārya."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The word is not taken as the Sāṃkhya technical noun ‘the Unmanifest’ or as merely ‘undeveloped’; Śaṅkara derives the sense from na vyajyate and sarva-karaṇāviṣayatva.",
+   "options_considered": [
+    "unmanifest as primordial matter/prakṛti",
+    "undeveloped",
+    "imperceptible/not manifest to any instrument"
+   ],
+   "chosen": "avyakta is “unmanifest/imperceptible,” in the sense of not being objectified by any instrument of cognition.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avyaktaḥ sarva-karaṇāviṣayatvāt na vyajyata iti avyakto 'yam ātmā |",
+     "translation": "Avyakta: because it is not an object of any instrument; it is not manifested, hence this Self is avyakta."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The translation avoids “not to be thought about” as a prescription; Śaṅkara presents an epistemic reason for its being beyond thought.",
+   "options_considered": [
+    "not to be thought about",
+    "unimaginable in a loose sense",
+    "inconceivable because not sense-accessible"
+   ],
+   "chosen": "acintya is “inconceivable/beyond thought,” because thought has sense-objects as its field and the Self is not a sense-object.",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3,
+      4
+     ],
+     "quote": "ataeva acintyo 'yam | yad dhi indriya-gocaras tac cintā-viṣayatvam āpadyate | ayaṃ tv ātmā anindriya-gocaratvāt acintyaḥ |",
+     "translation": "Therefore this is acintya. Whatever is within the range of the senses becomes an object of thought; but this Self, because it is not within the range of the senses, is acintya."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary ties avikārya to absence of vikāra, contrasting the Self with milk transformed into curd and then explaining it by niravayavatva and avikriyatva.",
+   "options_considered": [
+    "invariable as a generic adjective",
+    "not to be altered as a gerundive prohibition",
+    "unmodifiable because not subject to transformation"
+   ],
+   "chosen": "avikārya is “unmodifiable/unchangeable,” specifically because the Self is avikriya, not subject to transformation and without parts.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "ataeva avikāryaḥ, yathā kṣīraṃ dadhyātañcanādinā vikāri na tathā ayam ātmā |",
+     "translation": "Therefore it is avikārya: as milk is transformed by curdling agents, this Self is not so."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "niravayavatvāc cāvikriyaḥ |",
+     "translation": "And because it is without parts, it is without modification."
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "avikriyatvāt avikāryo 'yam ātmā ucyate |",
+     "translation": "Because of being without modification, this Self is called avikārya."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The commentary fixes both the scope of evam and the referent of enam, and it construes the result as the impropriety of grieving over agency and slaughter.",
+   "options_considered": [
+    "evam as an expletive",
+    "enam as a vague ‘him/this one’",
+    "evam = in the manner just taught; enam = this Self"
+   ],
+   "chosen": "tasmāt evaṃ viditvā enam means “therefore, having known this Self in this way,” with evam = yathokta-prakāreṇa and enam = ātmānam.",
+   "evidence": [
+    {
+     "lines": [
+      9
+     ],
+     "quote": "tasmāt evaṃ yathokta-prakāreṇa enam ātmānaṃ viditvā tvaṃ na anuśocitum arhasi hantāham eṣām, mayaite hanyanta iti ||bhgs_2.25||",
+     "translation": "Therefore, having known this Self in this way, in the manner stated, you ought not to grieve, thinking ‘I am their slayer; by me these are slain.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "With an infinitive, arhasi has the modal sense of fitness/obligation; Śaṅkara repeats the construction directly with tvaṃ and explains the false basis of grief.",
+   "options_considered": [
+    "you cannot grieve",
+    "you do not deserve grief as an object",
+    "you ought not / are not fit to grieve"
+   ],
+   "chosen": "na anuśocitum arhasi is rendered “you ought not to grieve,” not merely “you cannot grieve.”",
+   "evidence": [
+    {
+     "lines": [
+      9
+     ],
+     "quote": "tvaṃ na anuśocitum arhasi hantāham eṣām, mayaite hanyanta iti",
+     "translation": "You ought not to grieve, thinking ‘I am their slayer; by me these are slain.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "This Self is unmanifest (avyakta); this Self is inconceivable (acintya); this Self is said to be unmodifiable (avikārya). Therefore, having known this Self in this way, you ought not to grieve.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take avyakta as a generic metaphysical ‘Unmanifest’ or prakṛti; Śaṅkara instead makes it the Self’s non-objectifiability by all instruments of cognition.",
+  "It might translate acintya simply as “unthinkable” without the reason that thought depends on sense-range, from which the Self is excluded.",
+  "It might render avikārya as only “invariable” or as a passive gerundive “not to be changed”; Śaṅkara glosses it through avikriyatva, niravayavatva, and the contrast with milk becoming curd.",
+  "It might leave enam as a vague “him/this”; Śaṅkara identifies it as ātmānam and ties the prohibition of grief to the mistaken thought “I am the slayer; these are slain by me.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives enam as enad_SAM; vidyut-prakriya rejects enad Pum/Dvitiya/Eka for enam, deriving enadam instead, so the lemma/stem is corrected to idam while keeping Pum/Dvitiya/Eka.",
+  "ByT5 gives anuśocitum as anuśuc_In; per the requested format this is normalized to bare root śuc with prefix anu and analyzed as an avyaya infinitive, not a finite verb.",
+  "ByT5 leaves tasmāt without explicit morphology; it is analyzed here as an indeclinable adverbial ablative, “therefore,” in accordance with its use and Śaṅkara’s tasmāt evaṃ gloss.",
+  "For surface_in_sandhi, fused vowel-sandhi strings are split into their printed substrings: viditvā/enam appears as viditvai/naṃ, and na/anuśocitum as nā/nuśocitum; the pausal surfaces give the actual lexical forms."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 2,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12180,
+   "completion_tokens": 14095,
+   "reasoning_tokens": 7558
+  },
+  "est_cost": 0.248,
+  "reverified": true
+ },
+ "mula": "avyakto 'yam acintyo 'yam avikāryo 'yam ucyate | tasmād evaṃ viditvainaṃ nānuśocitum arhasi",
+ "commentary_lines": [
+  "avyaktaḥ sarva-karaṇāviṣayatvāt na vyajyata iti avyakto 'yam ātmā |",
+  "ataeva acintyo 'yam |",
+  "yad dhi indriya-gocaras tac cintā-viṣayatvam āpadyate |",
+  "ayaṃ tv ātmā anindriya-gocaratvāt acintyaḥ |",
+  "ataeva avikāryaḥ, yathā kṣīraṃ dadhyātañcanādinā vikāri na tathā ayam ātmā |",
+  "niravayavatvāc cāvikriyaḥ |",
+  "na hi niravayavaṃ kiṃcit vikriyātmakaṃ dṛṣṭām |",
+  "avikriyatvāt avikāryo 'yam ātmā ucyate |",
+  "tasmāt evaṃ yathokta-prakāreṇa enam ātmānaṃ viditvā tvaṃ na anuśocitum arhasi hantāham eṣām, mayaite hanyanta iti ||bhgs_2.25||",
+  "ātmano 'nityatvam abhyupagamya idam ucyate ---"
+ ]
+}

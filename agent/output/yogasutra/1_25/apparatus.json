@@ -1,0 +1,220 @@
+{
+ "unit": "1.25",
+ "analysis": [
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatra",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative adverb used pronominally: “there/in that one,” i.e. in the puruṣa-viśeṣa under discussion.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "niratiśayam",
+   "surface_in_sandhi": "niratiśayaṃ",
+   "lemma": "niratiśaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective agreeing with sarvajñabījam; the form is also formally accusative singular, but the sūtra is read as a nominal sentence.",
+   "verification": {
+    "status": "pass",
+    "detail": "niratiśaya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvajñabījam",
+   "surface_in_sandhi": "sarvajñabījam",
+   "lemma": "sarvajñabīja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sarvajñatvasya bījam",
+    "members": [
+     "sarvajña",
+     "bīja"
+    ]
+   },
+   "note": "Subject of the elliptical nominal sentence; Vyāsa explains the ‘seed’ as graded apprehension/knowledge that culminates in omniscience.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvajñabīja as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The adverb is not translated as a vague spatial ‘there’ only; Vyāsa’s yatra … sa construction makes it a locative of the possessor/locus, and line 4 identifies that possessor as the puruṣa-viśeṣa.",
+   "options_considered": [
+    "mere spatial ‘there’",
+    "‘in that topic/respect’",
+    "‘in him/in that puruṣa-viśeṣa’"
+   ],
+   "chosen": "tatra = ‘there/in him,’ the locus being the special puruṣa in whom the unsurpassed knowledge-seed is found.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yad idam atītānāgatapratyutpannapratyekasamuccayātīndriyagrahaṇam alpaṃ bahv iti sarvajñabījam etad vivardhamānaṃ yatra niratiśayaṃ sa sarvajñaḥ.",
+     "translation": "This apprehension of past, future, and present, individually and collectively, and of supersensible things, whether small or great, is the seed of omniscience; where this, increasing, is unsurpassed, he is omniscient."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "sa ca puruṣaviśeṣa iti.",
+     "translation": "And he is the special puruṣa."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is not a karmadhāraya ‘omniscient seed’ nor a literal seed belonging to an omniscient person. Vyāsa defines it as a kind of grahaṇa and then equates its culmination with jñāna reaching its limit.",
+   "options_considered": [
+    "karmadhāraya: ‘an omniscient seed’",
+    "ṣaṣṭhī-tatpuruṣa: ‘seed of omniscience’",
+    "literal biological/plant seed"
+   ],
+   "chosen": "sarvajñabījam = ‘the seed/germ of omniscience,’ a ṣaṣṭhī-tatpuruṣa in sense.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yad idam atītānāgatapratyutpannapratyekasamuccayātīndriyagrahaṇam alpaṃ bahv iti sarvajñabījam",
+     "translation": "This apprehension of past, future, and present, individually and collectively, and of supersensible things, whether small or great, is the seed of omniscience."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yatra kāṣṭhāprāptir jñānasya sa sarvajñaḥ.",
+     "translation": "Where knowledge has reached its limit, he is omniscient."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The commentary construes niratiśaya as the culmination of an increasing, gradated knowledge-seed, expressed by kāṣṭhāprāpti, not merely as an adverb ‘exceedingly.’",
+   "options_considered": [
+    "adverbial ‘exceedingly’",
+    "comparative ‘more excellent’ without finality",
+    "‘unsurpassed/at the limit’"
+   ],
+   "chosen": "niratiśayam = ‘unsurpassed, at the highest limit,’ qualifying sarvajñabījam.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "etad vivardhamānaṃ yatra niratiśayaṃ sa sarvajñaḥ.",
+     "translation": "Where this, increasing, is unsurpassed, he is omniscient."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "asti kāṣṭhāprāptiḥ sarvajñabījasya sātiśayatvāt parimāṇavad iti.",
+     "translation": "There is an attainment of the limit for the seed of omniscience, because it has gradation, like a quantity."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yatra kāṣṭhāprāptir jñānasya sa sarvajñaḥ.",
+     "translation": "Where knowledge has reached its limit, he is omniscient."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Because the neuter nominative and accusative singular forms coincide, grammar must decide the construal. With no transitive verb present, the natural reading is subject plus predicate adjective with an understood ‘is.’",
+   "options_considered": [
+    "accusative object construction",
+    "nominative subject-predicate construction"
+   ],
+   "chosen": "niratiśayam and sarvajñabījam are nominative neuter singular in an elliptical nominal sentence: ‘the seed … is unsurpassed.’",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "There, in him, the seed of omniscience (sarvajñabīja) is unsurpassed (niratiśaya).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might leave tatra as a vague ‘there’; Vyāsa’s yatra … sa and puruṣaviśeṣa make it ‘in him/in that special puruṣa.’",
+  "It might take sarvajñabījam literally or as ‘omniscient seed’; Vyāsa defines it as graded apprehension/knowledge that can culminate in omniscience.",
+  "It might render niratiśayam merely as ‘exceedingly’; Vyāsa’s kāṣṭhāprāpti explains it as unsurpassed, the upper limit of that knowledge."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 presents sarvajña_Cp + bījam as a compound pre-member plus head; I record the printed compound as one inflected subanta, sarvajñabījam, with the whole compound stem sarvajñabīja, as required for compound-word analysis."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2798,
+   "completion_tokens": 7429,
+   "reasoning_tokens": 5762
+  },
+  "est_cost": 0.1198,
+  "reverified": true
+ },
+ "mula": "tatra niratiśayaṃ sarvajñabījam",
+ "commentary_lines": [
+  "yad idam atītānāgatapratyutpannapratyekasamuccayātīndriyagrahaṇam alpaṃ bahv iti sarvajñabījam etad vivardhamānaṃ yatra niratiśayaṃ sa sarvajñaḥ.",
+  "asti kāṣṭhāprāptiḥ sarvajñabījasya sātiśayatvāt parimāṇavad iti.",
+  "yatra kāṣṭhāprāptir jñānasya sa sarvajñaḥ.",
+  "sa ca puruṣaviśeṣa iti.",
+  "sāmānyamātropasaṃhāre ca kṛtopakṣayam anumānaṃ na viśeṣapratipattau samartham iti.",
+  "tasya saṃjñādiviśeṣapratipattir āgamataḥ paryanveṣyā.",
+  "tasyātmānugrahābhāve 'pi bhūtānugrahaḥ prayojanam.",
+  "jñānadharmopadeśena kalpapralayamahāpralayeṣu saṃsāriṇaḥ puruṣān uddhariṣyāmīti.",
+  "tathā coktam"
+ ]
+}

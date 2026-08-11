@@ -1,0 +1,425 @@
+{
+ "unit": "2.3",
+ "analysis": [
+  {
+   "surface": "klaibyam",
+   "surface_in_sandhi": "klaibyaṃ",
+   "lemma": "klaibya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative of the state/goal with √gam in the prohibition: “do not lapse into cowardice/unmanliness.”",
+   "verification": {
+    "status": "pass",
+    "detail": "klaibya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "mā",
+   "surface_in_sandhi": "mā",
+   "lemma": "mā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Prohibitive particle used with the augmentless aorist gamaḥ; not the nominal mā in the supplied MW excerpt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sma",
+   "surface_in_sandhi": "sma",
+   "lemma": "sma",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Particle accompanying mā; here part of the prohibition rather than an independently stressed adverb in translation.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "gamaḥ",
+   "surface_in_sandhi": "gamaḥ",
+   "lemma": "gam",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "gam",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lun",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Augmentless prohibitive aorist/injunctive after mā sma; the schema records the underlying lakāra as Lun.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "gam Lun/Madhyama/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "pārtha",
+   "surface_in_sandhi": "pārtha",
+   "lemma": "pārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative masculine singular address.",
+   "verification": {
+    "status": "pass",
+    "detail": "pārtha Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "naitat",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed fused with etat as naitat by a+e → ai.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "etat",
+   "surface_in_sandhi": "naitat",
+   "lemma": "etad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal subject of upapadyate; printed fused with preceding na as naitat.",
+   "verification": {
+    "status": "pass",
+    "detail": "etad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tvayi",
+   "surface_in_sandhi": "tvayy",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular second-person pronoun referring to the masculine addressee Arjuna; the form tvayi is not gender-distinct in ordinary usage, but Pum is supplied for the required/verifier-compatible nominal feature set. Before upapadyate it is printed tvayy by sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "upapadyate",
+   "surface_in_sandhi": "upapadyate",
+   "lemma": "pad",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "pad",
+    "prefixes": [
+     "upa"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada/intransitive kartari sense: “befits, is appropriate”; not a passive here.",
+   "verification": {
+    "status": "pass",
+    "detail": "upa-pad Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kṣudram",
+   "surface_in_sandhi": "kṣudraṃ",
+   "lemma": "kṣudra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjective qualifying hṛdaya-daurbalyam.",
+   "verification": {
+    "status": "pass",
+    "detail": "kṣudra Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "hṛdaya-daurbalyam",
+   "surface_in_sandhi": "hṛdaya-daurbalyaṃ",
+   "lemma": "hṛdaya-daurbalya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "hṛdayasya daurbalyam",
+    "members": [
+     "hṛdaya",
+     "daurbalya"
+    ]
+   },
+   "note": "Object of the absolutive tyaktvā. The verifier report gives a tool_error for the whole compound stem and logs the tatpuruṣa relation as unsupported; the analysis is retained as a standard grammatical ṣaṣṭhī-tatpuruṣa, not altered merely for a tool limitation.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem hṛdaya-daurbalya as Napumsaka/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tyaktvā",
+   "surface_in_sandhi": "tyaktvottiṣṭha",
+   "lemma": "tyaj",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive of √tyaj, “having abandoned/casting off”; printed fused with uttiṣṭha as tyaktvottiṣṭha by ā+u → o.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "uttiṣṭha",
+   "surface_in_sandhi": "tyaktvottiṣṭha",
+   "lemma": "sthā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "sthā",
+    "prefixes": [
+     "ud"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Second singular imperative, “stand up/arise”; the upasarga ud appears in the surface stem as uttiṣṭh-. Printed fused with tyaktvā as tyaktvottiṣṭha.",
+   "verification": {
+    "status": "pass",
+    "detail": "ud-sthā Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "paraṃtapa",
+   "surface_in_sandhi": "paraṃtapa",
+   "lemma": "paraṃtapa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "parān tapati iti",
+    "members": [
+     "para",
+     "tapa"
+    ]
+   },
+   "note": "Vocative masculine singular epithet; lexicalized compound meaning “destroyer/scorcher of foes.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem paraṃtapa as Pum/Sambodhana/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The commentary is absent for this unit, so the construal rests on grammar and dictionary. mā sma forms a prohibition with the augmentless aorist gamaḥ, and klaibyam is taken as an accusative state/goal with √gam. MW s.v. klaibya, 324,1 gives “unmanliness, weakness, timidity, cowardice,” so “cowardice/unmanliness” is preferable to a narrowly physical “impotence.”",
+   "options_considered": [
+    "Spatial: “do not go to impotence.”",
+    "State/attainment: “do not lapse into cowardice/unmanliness.”"
+   ],
+   "chosen": "“Do not lapse into cowardice/unmanliness” for klaibyaṃ mā sma gamaḥ.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "etat is neuter nominative singular, the subject of upapadyate; tvayi is locative singular, “in/with regard to you.” MW s.v. upapad, 201,3 gives senses including “to reach, obtain,” “to enter into any state,” and “to take place”; with a locative subject-construal the idiomatic English is “befit” or “be appropriate to,” not “you do not obtain this.”",
+   "options_considered": [
+    "Accusative object: “you do not obtain this.”",
+    "Nominative subject with locative: “this does not befit you.”"
+   ],
+   "chosen": "naitat tvayy upapadyate = “this does not befit you.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "hṛdaya-daurbalya is analyzed as a ṣaṣṭhī-tatpuruṣa, hṛdayasya daurbalyam, “weakness of the heart/mind.” MW s.v. hṛdaya, 1302,3 includes “heart” and “mind”; MW s.v. daurbalya, 499,2 gives “weakness”; MW s.v. kṣudra, 330,2 includes “mean, low, vile” as well as “small.” In context, kṣudram qualifies the accusative compound and is rendered “petty.”",
+   "options_considered": [
+    "Treat kṣudram as qualifying klaibyam in the first pāda.",
+    "Treat kṣudram as qualifying hṛdaya-daurbalyam, the object of tyaktvā."
+   ],
+   "chosen": "kṣudraṃ hṛdaya-daurbalyaṃ as “petty weakness of heart.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "tyaktvā is an absolutive of √tyaj, so it gives prior or attendant action relative to the imperative uttiṣṭha. MW s.v. tyaj, 456,3 gives “leave, abandon, quit,” and MW s.v. utthā, 179,3 gives “stand up, rise.” The printed tyaktvottiṣṭha is sandhi of tyaktvā + uttiṣṭha, not one finite verbal form.",
+   "options_considered": [
+    "Read tyaktvottiṣṭha as a single unsegmented verb.",
+    "Segment tyaktvā + uttiṣṭha: “having cast off, stand up.”"
+   ],
+   "chosen": "tyaktvā uttiṣṭha = “having cast off, stand up.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "Both forms are vocative masculine singular addresses. paraṃtapa is not a separate predicate or command; MW s.v. paraṃtapa, 586,3 gives “destroying foes,” so it is translated as the epithet “O scorcher/destroyer of foes.”",
+   "options_considered": [
+    "Take paraṃtapa predicatively: “you burn the enemies.”",
+    "Take paraṃtapa as a vocative epithet: “O scorcher of foes.”"
+   ],
+   "chosen": "pārtha and paraṃtapa as vocative epithets.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Do not lapse into cowardice (klaibya), O Pārtha;\nthis does not befit you.\nHaving cast off petty weakness of heart (hṛdaya-daurbalya),\nstand up, O scorcher of foes (paraṃtapa).",
+ "one_shot_delta": [
+  "The bhāṣya is silent here, so there is no commentary-controlled semantic correction; the main risks are grammatical rather than exegetical.",
+  "A quick translation might treat mā sma gamaḥ as an ordinary “you go” form; it is a prohibition with an augmentless aorist/injunctive: “do not lapse.”",
+  "naitat must be segmented as na etat, with etat as the subject and tvayi as locative; otherwise one might mistranslate it as “you do not obtain this.”",
+  "tyaktvottiṣṭha is tyaktvā + uttiṣṭha by sandhi, preserving the absolutive-plus-imperative structure: “having cast off, stand up.”"
+ ],
+ "analyzer_disagreements": [
+  "gamaḥ: ByT5 gives gam_SPs2 without an explicit lakāra; I specify it as an augmentless prohibitive Lūṅ form after mā sma.",
+  "etat: ByT5’s SNNe tag does not disambiguate nominative from accusative; I take etat as Prathama Eka because it is the subject of upapadyate.",
+  "upapadyate: ByT5 lemmatizes as upapad; in the required format this is split into bare root pad with prefix upa.",
+  "hṛdaya-daurbalyam: ByT5 marks hṛdaya as a compound member and daurbalyam as the inflected head; per instructions the inflected compound is analyzed with the whole stem hṛdaya-daurbalya. The later verifier’s tool_error/unsupported-compound note is treated as a tool limitation, so the compound analysis is retained.",
+  "uttiṣṭha: ByT5 lemmatizes as utthā; per the supplied MW entry and the required prefix/root format, I analyze it as root sthā with prefix ud and lakāra Lot.",
+  "tvayi: revised after verifier report to include linga=Pum, since the pronoun refers to the masculine addressee Arjuna and the verifier requires a full nominal feature set."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12456,
+   "completion_tokens": 18652,
+   "reasoning_tokens": 12682
+  },
+  "est_cost": 0.3171,
+  "reverified": true
+ },
+ "mula": "klaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate | kṣudraṃ hṛdaya-daurbalyaṃ tyaktvottiṣṭha paraṃtapa",
+ "commentary_lines": []
+}

@@ -1,0 +1,231 @@
+{
+ "unit": "1.11",
+ "analysis": [
+  {
+   "surface": "anubhūtaviṣayāsaṃpramoṣaḥ",
+   "surface_in_sandhi": "anubhūtaviṣayāsaṃpramoṣaḥ",
+   "lemma": "anubhūtaviṣayāsaṃpramoṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "anubhūtaḥ viṣayaḥ, tasya asaṃpramoṣaḥ",
+    "members": [
+     "anubhūta",
+     "viṣaya",
+     "asaṃpramoṣa"
+    ]
+   },
+   "note": "The initial member anubhūta is a past participial stem from anu-√bhū, here taken as ‘experienced’ in light of the bhāṣya and MW s.v. anubhū, 36,2.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anubhūtaviṣayāsaṃpramoṣa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "smṛtiḥ",
+   "surface_in_sandhi": "smṛtiḥ",
+   "lemma": "smṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative singular feminine, used as the definiendum in the sūtra.",
+   "verification": {
+    "status": "pass",
+    "detail": "smṛti Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound anubhūtaviṣayāsaṃpramoṣaḥ is not taken as an adjective agreeing with smṛtiḥ, nor as merely ‘non-loss of the previous cognition’; the bhāṣya explicitly frames the issue as whether memory concerns the cognition or the object, and then gives priority to the object-form in memory.",
+   "options_considered": [
+    "ṣaṣṭhī-tatpuruṣa: anubhūtaḥ viṣayaḥ, tasya asaṃpramoṣaḥ — ‘non-loss of an experienced object’",
+    "adjectival/bahuvrīhi construal: ‘memory whose experienced object is not lost’",
+    "‘non-loss of the prior cognition itself’ rather than of the object-form"
+   ],
+   "chosen": "A ṣaṣṭhī-tatpuruṣa headed by asaṃpramoṣa: ‘non-loss of an experienced object,’ with anubhūtaviṣaya as an internal karmadhāraya (‘experienced object’).",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kiṃ pratyayasya cittaṃ smaraty āhosvid viṣayasyeti.",
+     "translation": "Does the mind remember the cognition, or rather the object?"
+    },
+    {
+     "lines": [
+      4,
+      5
+     ],
+     "quote": "tatra grahaṇākārapūrvā buddhiḥ. grāhyākārapūrvā smṛtiḥ.",
+     "translation": "There, cognition has the form of apprehension as prior/primary; memory has the form of the grasped object as prior/primary."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The choice of ‘experienced’ for anubhūta is supported both by MW s.v. anubhū, 36,2 (‘to experience’) and by the bhāṣya’s account: a prior pratyaya produces a like saṃskāra, which later generates memory.",
+   "options_considered": [
+    "‘experienced’ as prior cognitive occurrence",
+    "‘experienced’ as presently perceived",
+    "‘viṣaya’ as a general sphere or domain without reference to prior cognition"
+   ],
+   "chosen": "‘Experienced’ means previously undergone in a cognition, leaving a saṃskāra from which memory arises.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "grāhyoparaktaḥ pratyayo grāhyagrahaṇobhayākāranirbhāsas tajjātīyakaṃ saṃskāram ārabhate.",
+     "translation": "A cognition colored by the grasped object, appearing in the form of both the grasped and the grasping, initiates a saṃskāra of the same kind."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tadākārām eva grāhyagrahaṇobhayātmikāṃ smṛtiṃ janayati.",
+     "translation": "It generates memory of that very form, having the nature of both the grasped and the grasping."
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "sarvāḥ smṛtayaḥ pramāṇaviparyayavikalpanidrāsmṛtīnām anubhavāt prabhavanti.",
+     "translation": "All memories arise from the experience of the vṛttis: right cognition, error, construction, sleep, and memory."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "MW s.v. asaṃpramoṣa, 119,2 gives ‘not letting drop (as from memory).’ Vyāsa’s statement that memory is generated ‘of that very form’ supports taking the term as retention/non-loss of the experienced form.",
+   "options_considered": [
+    "‘non-loss,’ retention of the experienced object-form",
+    "literal ‘not stealing away’",
+    "‘absence of delusion/confusion’"
+   ],
+   "chosen": "asaṃpramoṣa is rendered ‘non-loss’ or ‘retention,’ not literal ‘non-theft’ and not simply ‘absence of confusion.’",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tadākārām eva grāhyagrahaṇobhayātmikāṃ smṛtiṃ janayati.",
+     "translation": "It generates memory of that very form, having the nature of both the grasped and the grasping."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya treats smṛti as a citta-vṛtti arising from saṃskāra and classifies memories by their remembered content. This agrees with MW s.v. smṛti, 1272,2: ‘remembrance, reminiscence, calling to mind.’",
+   "options_considered": [
+    "smṛti as a citta-vṛtti, memory/remembrance",
+    "Smṛti as sacred/legal tradition",
+    "mere storage without occurrent recollection"
+   ],
+   "chosen": "smṛti is the mental vṛtti ‘memory/remembrance,’ not scriptural tradition or a text of remembered law.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tadākārām eva grāhyagrahaṇobhayātmikāṃ smṛtiṃ janayati.",
+     "translation": "It generates memory of that very form, having the nature of both the grasped and the grasping."
+    },
+    {
+     "lines": [
+      6,
+      7,
+      8
+     ],
+     "quote": "sā ca dvayī --- bhāvitasmartavyā cābhāvitasmartavyā ca. svapne bhāvitasmartavyā. jāgratsamaye tv abhāvitasmartavyeti.",
+     "translation": "And it is twofold: with imagined remembered content and with non-imagined remembered content. In dream it has imagined remembered content; in waking time, non-imagined remembered content."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Grammatically, the masculine nominative asaṃpramoṣaḥ is the predicative definiens of feminine nominative smṛtiḥ, not an agreeing adjective. The commentary does not explicitly gloss this syntactic point, so the decision rests on grammar.",
+   "options_considered": [
+    "Predicative equation: asaṃpramoṣaḥ = smṛtiḥ",
+    "Adjectival construal requiring feminine agreement: asaṃpramoṣā smṛtiḥ"
+   ],
+   "chosen": "A nominative predicative definition: ‘Memory is non-loss …’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Memory (smṛti) is the non-loss (asaṃpramoṣa) of an experienced object (anubhūta-viṣaya).",
+ "one_shot_delta": [
+  "Without the bhāṣya, one might translate the compound as if memory simply retained the previous cognition; Vyāsa instead gives priority to the grasped object-form while still acknowledging both object and apprehension aspects.",
+  "A commentary-blind rendering might take asaṃpramoṣa too literally as ‘non-theft’; here it functions as non-loss/retention of the experienced form.",
+  "One might also mistake smṛti for textual/traditional ‘Smṛti’; the bhāṣya treats it as a citta-vṛtti generated from saṃskāra."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [
+  "Line 3 contains the apparently noisy form svavyañjakāñjanas; the apparatus relies only on the clear portion of that line, quoted above."
+ ],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3011,
+   "completion_tokens": 8066,
+   "reasoning_tokens": 6144
+  },
+  "est_cost": 0.13,
+  "reverified": true
+ },
+ "mula": "10 anubhūtaviṣayāsaṃpramoṣaḥ smṛtiḥ",
+ "commentary_lines": [
+  "kiṃ pratyayasya cittaṃ smaraty āhosvid viṣayasyeti.",
+  "grāhyoparaktaḥ pratyayo grāhyagrahaṇobhayākāranirbhāsas tajjātīyakaṃ saṃskāram ārabhate.",
+  "sa saṃskāraḥ svavyañjakāñjanas tadākārām eva grāhyagrahaṇobhayātmikāṃ smṛtiṃ janayati.",
+  "tatra grahaṇākārapūrvā buddhiḥ.",
+  "grāhyākārapūrvā smṛtiḥ.",
+  "sā ca dvayī --- bhāvitasmartavyā cābhāvitasmartavyā ca.",
+  "svapne bhāvitasmartavyā.",
+  "jāgratsamaye tv abhāvitasmartavyeti.",
+  "sarvāḥ smṛtayaḥ pramāṇaviparyayavikalpanidrāsmṛtīnām anubhavāt prabhavanti.",
+  "sarvāś caitā vṛttayaḥ sukhaduḥkhamohātmikāḥ.",
+  "sukhaduḥkhamohāś ca kleśeṣu vyākhyeyāḥ.",
+  "sukhānuśayī rāgaḥ.",
+  "duḥkhānuśayī dveṣaḥ.",
+  "mohaḥ punar avidyeti.",
+  "etāḥ sarvā vṛttayo niroddhavyāḥ.",
+  "āsāṃ nirodhe saṃprajñāto vā samādhir bhavaty asaṃprajñāto veti.",
+  "1.11",
+  "athāsāṃ nirodhe ka upāya iti"
+ ]
+}

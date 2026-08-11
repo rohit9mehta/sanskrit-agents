@@ -1,0 +1,564 @@
+{
+ "unit": "17",
+ "analysis": [
+  {
+   "surface": "vāyuḥ",
+   "surface_in_sandhi": "vāyur",
+   "lemma": "vāyu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses vāyuḥ as prāṇa, the breath of the dying speaker.",
+   "verification": {
+    "status": "pass",
+    "detail": "vāyu Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anilam",
+   "surface_in_sandhi": "anilam",
+   "lemma": "anila",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of the supplied pratipadyatām; in the bhāṣya this is the adhidaivata/sūtrātman, not merely ordinary air.",
+   "verification": {
+    "status": "pass",
+    "detail": "anila Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "amṛtam",
+   "surface_in_sandhi": "amṛtam",
+   "lemma": "amṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular adjective agreeing with anilam.",
+   "verification": {
+    "status": "pass",
+    "detail": "amṛta Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "athe",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "In sandhi with following idam: atha + idam → athedaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "daṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial i is absorbed in athedaṃ; nominative with śarīram as subject of supplied bhūyāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhasmāntam",
+   "surface_in_sandhi": "bhasmāntaṃ",
+   "lemma": "bhasmānta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "bhasma antaḥ yasya tat śarīram",
+    "members": [
+     "bhasman",
+     "anta"
+    ]
+   },
+   "note": "Predicate nominative with śarīram: ‘ending in ashes’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem bhasmānta as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "śarīram",
+   "surface_in_sandhi": "śarīram",
+   "lemma": "śarīra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the supplied optative bhūyāt in the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "śarīra Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "oṃ",
+   "surface_in_sandhi": "oṃ",
+   "lemma": "oṃ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The bhāṣya takes oṃ as the symbol through which Brahman called Agni is invoked.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "krato",
+   "surface_in_sandhi": "krato",
+   "lemma": "kratu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative; glossed by Śaṅkara as saṅkalpātmaka and identified in explanation with Agni.",
+   "verification": {
+    "status": "pass",
+    "detail": "kratu Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "smara",
+   "surface_in_sandhi": "smara",
+   "lemma": "smṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "smṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Second-person singular imperative addressed to kratu/Agni.",
+   "verification": {
+    "status": "pass",
+    "detail": "smṛ Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kṛtam",
+   "surface_in_sandhi": "kṛtaṃ",
+   "lemma": "kṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial stem from √kṛ, used substantively as the object of smara: ‘what has been done’.",
+   "verification": {
+    "status": "pass",
+    "detail": "kṛta Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "smara",
+   "surface_in_sandhi": "smara",
+   "lemma": "smṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "smṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Second-person singular imperative; the object is kṛtam.",
+   "verification": {
+    "status": "pass",
+    "detail": "smṛ Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "krato",
+   "surface_in_sandhi": "krato",
+   "lemma": "kratu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Repeated vocative; the bhāṣya says the repetition is for ādara, reverent insistence.",
+   "verification": {
+    "status": "pass",
+    "detail": "kratu Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "smara",
+   "surface_in_sandhi": "smara",
+   "lemma": "smṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "smṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Repeated imperative for emphasis/reverence.",
+   "verification": {
+    "status": "pass",
+    "detail": "smṛ Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kṛtam",
+   "surface_in_sandhi": "kṛtaṃ",
+   "lemma": "kṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Repeated object of smara; the bhāṣya glosses it as karma performed by the speaker.",
+   "verification": {
+    "status": "pass",
+    "detail": "kṛta Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "smara",
+   "surface_in_sandhi": "smara",
+   "lemma": "smṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "smṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Fourth occurrence of the second-person singular imperative.",
+   "verification": {
+    "status": "pass",
+    "detail": "smṛ Lot/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The opening is not a bare juxtaposition ‘wind, air, immortal’; it is an elliptical wish at death. I translate it as the dying speaker’s breath attaining the immortal Anila after giving up its individual limitation.",
+   "options_considered": [
+    "ordinary wind goes to ordinary air",
+    "the wind-god reaches another deity without reference to the dying person",
+    "the dying speaker’s prāṇa attains the immortal Anila/sūtrātman"
+   ],
+   "chosen": "vāyuḥ is the speaker’s prāṇa; anilam amṛtam is the immortal cosmic Air/sūtrātman; an optative sense ‘may attain’ is supplied.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "athedānīṃ mama mariṣyato vāyuḥ prāṇo 'dhyātmaparicchedaṃ hitvādhidaivatātmānaṃ sarvātmakamanilamamṛtaṃ sūtrātmānaṃ pratipadyatāmiti vākyaśeṣaḥ /",
+     "translation": "‘Now, of me as I am dying, vāyu—the breath—having abandoned its individual limitation, may attain the immortal Anila, the adhidaivata self, the all-self, the sūtrātman’: this is the completion of the sentence."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "I include this in brackets in the translation because the commentator explicitly says it is to be understood, while distinguishing it from the gross body that becomes ash.",
+   "options_considered": [
+    "do not translate any implicit subtle-body departure",
+    "identify idaṃ śarīram only with the subtle body",
+    "understand a separate implicit liṅga-departure clause, then the gross body’s becoming ash"
+   ],
+   "chosen": "An implicit clause is understood: the subtle body (liṅga), shaped by knowledge and action, departs.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "liṅgaṃ cedaṃ jñānakarmasaṃskṛtamutkrāmatviti draṣṭavyam, mārgayācanasāmarthyāt /",
+     "translation": "And this subtle body, conditioned by knowledge and action, should be understood as departing, because of the force of the request for a path."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "athedaṃ śarīramagnau hutaṃ bhasmāntaṃ bhūyāt /",
+     "translation": "Then may this body, offered in the fire, come to have ashes as its end."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "bhasmāntam is construed as a bahuvrīhi predicate adjective, not as an accusative object or a mere appositional noun.",
+   "options_considered": [
+    "‘this ash-ended body’ as an accusative phrase",
+    "‘this body is ashes’ without supplied verb",
+    "‘may this body, offered into fire, end in ashes’"
+   ],
+   "chosen": "idaṃ bhasmāntaṃ śarīram is a nominative optative sentence: ‘may this body become ash-ending’.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "athedaṃ śarīramagnau hutaṃ bhasmāntaṃ bhūyāt /",
+     "translation": "Then may this body, offered in the fire, come to have ashes as its end."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "I leave Om as Om in the translation but gloss it as the symbol of Brahman called Agni, since the bhāṣya does not treat it as a mere exclamation.",
+   "options_considered": [
+    "a meaningless or merely auspicious particle",
+    "the sacred syllable without further reference",
+    "the oṃ-symbol of Brahman called Agni"
+   ],
+   "chosen": "oṃ invokes Brahman called Agni through the oṃ-symbol.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "om iti yathopāsanam oṃpratīkātmakatvātsatyātmakamagnyākhyaṃ brahmābhedenocyate /",
+     "translation": "‘Om’—according to the meditation, because it has oṃ as its symbol, truth-natured Brahman called Agni is spoken of as non-different [from it]."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The translation ‘O Agni-as-Resolve (kratu)’ follows Śaṅkara’s saṅkalpātmaka gloss and his explicit agne in explaining kṛtaṃ smara.",
+   "options_considered": [
+    "O sacrifice",
+    "O intellect/mind without Agni-reference",
+    "O Agni as resolve/will"
+   ],
+   "chosen": "krato is a vocative to Agni as resolve/will, not ‘sacrifice’.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "he krato! saṅkalpātmaka! smara yanmama smartavyaṃ tasya kālo 'yaṃ pratyupasthito 'taḥ smara /",
+     "translation": "O kratu! O one whose nature is resolve! Remember what is to be remembered for me; the time for it has now arrived, therefore remember."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "etāvantaṃ kālaṃ bhāvitaṃ kṛtamagne smara yanmayā bālyaprabhṛtyanuṣṭhitaṃ karma tacca smara /",
+     "translation": "Remember, O Agni, what has been done and cultivated for all this time—the action performed by me from childhood onward; remember that too."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "I translate kṛtaṃ smara as ‘remember what has been done’, with kṛtam as a substantive neuter accusative object of smara.",
+   "options_considered": [
+    "kṛtam as a finite verb",
+    "kṛtam as a vague adjective ‘made’ without object force",
+    "kṛtam as the performed karma to be remembered by Agni"
+   ],
+   "chosen": "kṛtam means the action/deed performed by the speaker, especially from childhood onward.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "etāvantaṃ kālaṃ bhāvitaṃ kṛtamagne smara yanmayā bālyaprabhṛtyanuṣṭhitaṃ karma tacca smara /",
+     "translation": "Remember, O Agni, what has been done and cultivated for all this time—the action performed by me from childhood onward; remember that too."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "I do not collapse the repeated words into a single command, because the bhāṣya states that the repetition is for ādara.",
+   "options_considered": [
+    "treat the repetition as accidental",
+    "translate only one occurrence",
+    "preserve the repetition as deliberate reverent insistence"
+   ],
+   "chosen": "The repetition krato smara kṛtaṃ smara is retained as reverent insistence.",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "krato smara kṛtaṃ smareti punarvacanamādarārtham",
+     "translation": "The repetition ‘O kratu, remember; remember what has been done’ is for the sake of reverence/earnest regard."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "May my breath (vāyu), as I am dying, leaving its individual limitation, attain the immortal cosmic Air (anila); [may this subtle body (liṅga), shaped by knowledge and action, depart.] Then may this body, consigned to fire, end in ashes. Om—the symbol of Brahman called Agni. O Agni-as-Resolve (kratu), remember; remember what has been done. O Agni-as-Resolve, remember; remember what has been done.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render vāyu and anila as two ordinary ‘winds’, missing Śaṅkara’s prāṇa → immortal sūtrātman/adhidaivata construal at the moment of death.",
+  "It might omit the implicit departure of the subtle body (liṅga), which Śaṅkara says must be understood because the next mantra asks for a path.",
+  "It might take idaṃ bhasmāntaṃ śarīram as an accusative phrase; the bhāṣya supplies bhūyāt and makes it ‘may this body end in ashes’.",
+  "It might translate kratu as ‘sacrifice’ or generic ‘mind’; Śaṅkara glosses it as saṅkalpātmaka and explains the addressee as Agni.",
+  "It might smooth away the repeated smara phrases, while the bhāṣya explicitly says the repetition is for ādara, reverent emphasis."
+ ],
+ "analyzer_disagreements": [
+  "amṛtam: ByT5 tagged it as neuter accusative; I analyze it as masculine accusative singular, agreeing with masculine anilam, because Śaṅkara construes anilam amṛtam as a single accusative object (line 1).",
+  "idam, bhasmāntam, and śarīram: ByT5 tagged the forms as neuter accusative; I analyze them as neuter nominative singular, since Śaṅkara supplies bhūyāt and makes idaṃ śarīram the subject and bhasmāntam the predicate (line 3).",
+  "bhasmāntam: ByT5 split bhasma + antam; I analyze the whole inflected form as the bahuvrīhi compound stem bhasmānta, ‘having ashes as its end’, predicated of śarīram (line 3).",
+  "kṛtam, both occurrences: ByT5 lemmatizes to the verbal root kṛ/participle; I record the nominal participial stem kṛta as a neuter accusative singular substantive, because Śaṅkara glosses it with anuṣṭhitaṃ karma, the action performed (line 6)."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4775,
+   "completion_tokens": 14076,
+   "reasoning_tokens": 10230
+  },
+  "est_cost": 0.2255,
+  "reverified": true
+ },
+ "mula": "vāyur anilam amṛtam athedaṃ bhasmāntaṃ śarīram | oṃ krato smara kṛtaṃ smara krato smara kṛtaṃ smara",
+ "commentary_lines": [
+  "athedānīṃ mama mariṣyato vāyuḥ prāṇo 'dhyātmaparicchedaṃ hitvādhidaivatātmānaṃ sarvātmakamanilamamṛtaṃ sūtrātmānaṃ pratipadyatāmiti vākyaśeṣaḥ /",
+  "liṅgaṃ cedaṃ jñānakarmasaṃskṛtamutkrāmatviti draṣṭavyam, mārgayācanasāmarthyāt /",
+  "athedaṃ śarīramagnau hutaṃ bhasmāntaṃ bhūyāt /",
+  "om iti yathopāsanam oṃpratīkātmakatvātsatyātmakamagnyākhyaṃ brahmābhedenocyate /",
+  "he krato! saṅkalpātmaka! smara yanmama smartavyaṃ tasya kālo 'yaṃ pratyupasthito 'taḥ smara /",
+  "etāvantaṃ kālaṃ bhāvitaṃ kṛtamagne smara yanmayā bālyaprabhṛtyanuṣṭhitaṃ karma tacca smara /",
+  "krato smara kṛtaṃ smareti punarvacanamādarārtham"
+ ]
+}

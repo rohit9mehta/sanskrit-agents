@@ -1,0 +1,624 @@
+{
+ "unit": "2.5",
+ "analysis": [
+  {
+   "surface": "gurūn",
+   "surface_in_sandhi": "gurūn",
+   "lemma": "guru",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of the negative absolutive ahatvā.",
+   "verification": {
+    "status": "pass",
+    "detail": "guru Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ahatvā",
+   "surface_in_sandhi": "ahatvā",
+   "lemma": "han",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "han",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negative absolutive: a- + hatvā, “without/not having killed”; the initial a is not the vocative particle.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic causal particle, “for/indeed.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "mahānubhāvān",
+   "surface_in_sandhi": "mahānubhāvāñ",
+   "lemma": "mahānubhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "mahān anubhāvo yeṣāṃ te",
+    "members": [
+     "mahat",
+     "anubhāva"
+    ]
+   },
+   "note": "Accusative plural adjective/apposition qualifying gurūn.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mahānubhāva as Pum/Dvitiya/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "śreyaḥ",
+   "surface_in_sandhi": "śreyo",
+   "lemma": "śreyas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular predicate adjective: “better/preferable.”",
+   "verification": {
+    "status": "pass",
+    "detail": "śreyas Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhoktum",
+   "surface_in_sandhi": "bhoktuṃ",
+   "lemma": "bhuj",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "bhuj",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Infinitive in -tum, here “to eat/enjoy.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhaikṣyam",
+   "surface_in_sandhi": "bhaikṣyam",
+   "lemma": "bhaikṣya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of bhoktum: “begged food/alms.” MW notes bhaikṣya as a variant/wrong reading for bhaikṣa, but the transmitted unit has bhaikṣyam.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhaikṣya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "apīha",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Scopes naturally over bhaikṣyam: “even alms.” Printed together with iha as apīha.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "iha",
+   "surface_in_sandhi": "apīha",
+   "lemma": "iha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "“Here, in this world”; printed with preceding api as apīha.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "loke",
+   "surface_in_sandhi": "loke",
+   "lemma": "loka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: “in the world.”",
+   "verification": {
+    "status": "pass",
+    "detail": "loka Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "hatvā",
+   "surface_in_sandhi": "hatvārtha-kāmāṃs",
+   "lemma": "han",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "han",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive: “having killed”; printed in vowel sandhi with following artha-kāmān as hatvārtha-kāmāṃs.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "artha-kāmān",
+   "surface_in_sandhi": "hatvārtha-kāmāṃs",
+   "lemma": "artha-kāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "arthaḥ kāmo yeṣāṃ te",
+    "members": [
+     "artha",
+     "kāma"
+    ]
+   },
+   "note": "Accusative plural adjective qualifying gurūn; printed in sandhi after hatvā and before tu as hatvārtha-kāmāṃs tu. Verifier note: vidyut-prakriya returned a tool_error for the compound-stem inflection and logged bahuvrīhi as unsupported; since no alternate derivation was supplied and the printed form is the regular masculine accusative plural of the compound stem artha-kāma, I retain the analysis rather than changing it to a false uncompounded form.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem artha-kāma as Pum/Dvitiya/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tu",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adversative particle: “but.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "gurūn",
+   "surface_in_sandhi": "gurūn",
+   "lemma": "guru",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of hatvā; also the persons whose killing would taint the enjoyments.",
+   "verification": {
+    "status": "pass",
+    "detail": "guru Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "iha",
+   "surface_in_sandhi": "ihaiva",
+   "lemma": "iha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "“Here”; printed together with eva as ihaiva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "ihaiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle: “itself/just/very”; with iha, “right here, in this very world/life.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhuñjīya",
+   "surface_in_sandhi": "bhuñjīya",
+   "lemma": "bhuj",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhuj",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "First-person singular optative middle in sense, rendered “I would enjoy/eat”; schema records prayoga rather than pada.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhuj VidhiLin/Uttama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhogān",
+   "surface_in_sandhi": "bhogān",
+   "lemma": "bhoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of bhuñjīya: “enjoyments/pleasures.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhoga Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "rudhira-pradigdhān",
+   "surface_in_sandhi": "rudhira-pradigdhān",
+   "lemma": "rudhira-pradigdha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "rudhireṇa pradigdhāḥ",
+    "members": [
+     "rudhira",
+     "pradigdha"
+    ]
+   },
+   "note": "Accusative plural adjective qualifying bhogān; pradigdha is the past passive participle of pra-√dih, “smeared over/besmeared.” Verifier note: vidyut-prakriya returned a tool_error for the compound-stem inflection and logged tatpuruṣa as unsupported; since no alternate derivation was supplied and rudhira-pradigdhān is the regular masculine accusative plural of the compound stem rudhira-pradigdha, I retain the analysis.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem rudhira-pradigdha as Pum/Dvitiya/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The a is construed as the negative prefix attached to the absolutive hatvā from √han, not as a separate vocative particle. This is required by the contrast with the second half’s positive hatvā, “having killed.” Commentary is unavailable, so the decision rests on grammar and the MW entries for a and √han.",
+   "options_considered": [
+    "negative absolutive a-hatvā, “not having killed / without killing”",
+    "separate vocative particle a plus hatvā, “O..., having killed”"
+   ],
+   "chosen": "ahatvā = “without/not having killed”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is taken as a bahuvrīhi: mahān anubhāvo yeṣām, “those whose dignity/authority is great.” MW gives mahat as “great” and anubhāva as “dignity, authority, consequence.” Commentary is unavailable.",
+   "options_considered": [
+    "bahuvrīhi adjective, “of great dignity/authority”",
+    "literal endocentric phrase, “great experiences/indications”"
+   ],
+   "chosen": "mahānubhāvān qualifies gurūn as “of great dignity/nobility”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "śreyaḥ is construed as neuter nominative singular with an implied asti and the infinitive bhoktum: “it is better to eat.” It is not the object of bhoktum; bhaikṣyam fills that object role. Commentary is unavailable; MW s.v. śreyas supports “better, preferable.”",
+   "options_considered": [
+    "predicate adjective: “it is better/preferable to eat...”",
+    "direct object: “to eat the better thing...”"
+   ],
+   "chosen": "śreyaḥ is a neuter predicate, “better/preferable”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "api most naturally scopes over the immediately preceding object bhaikṣyam, so the half-verse says that even alms are preferable to killing the teachers. Commentary is unavailable; the decision rests on word order and syntax.",
+   "options_considered": [
+    "api with bhaikṣyam: “even alms/begged food”",
+    "api with the whole clause: “also, here in the world...”"
+   ],
+   "chosen": "bhaikṣyam api = “even begged food/alms”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The compound is taken adjectivally with kāma in its common final-member sense “desirous of”: arthaḥ kāmo yeṣām. It qualifies gurūn. It is not taken as a separate object “wealth and pleasures,” since its accusative masculine plural agreement and position fit gurūn. Commentary is unavailable; MW s.v. artha gives “advantage/use/aim,” and MW s.v. kāma gives “wish, desire” and supports desire-construals. The verifier’s report did not derive an alternative form, but only gave a tool_error/unsupported-compound notice, so this grammatical decision is retained.",
+   "options_considered": [
+    "compound adjective qualifying gurūn, “desiring gain/wealth”",
+    "dvandva-like “wealth and pleasures” as an object of killing or enjoying",
+    "technical puruṣārtha pair “artha and kāma”"
+   ],
+   "chosen": "artha-kāmān = “desiring gain/wealth”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "eva strengthens iha, so the second half contrasts immediate worldly enjoyment with the prior alternative of alms in this world. Commentary is unavailable; MW s.v. eva supports emphatic “just, very, only,” and MW s.v. iha gives “here; in this world.”",
+   "options_considered": [
+    "eva strengthening iha: “right here, in this very world/life”",
+    "eva limiting the object bhogān: “only the enjoyments”"
+   ],
+   "chosen": "ihaiva = “right here / in this very world or life”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J7",
+   "decision": "The finite verb is VidhiLiṅ, first singular, with Arjuna as subject and bhogān as object. The optative is translated “I would enjoy,” expressing the unacceptable consequence of killing the teachers. Commentary is unavailable; the decision rests on verbal morphology.",
+   "options_considered": [
+    "first-person optative: “I would/should enjoy”",
+    "imperative or impersonal form",
+    "passive/bhāva construction"
+   ],
+   "chosen": "bhuñjīya = first-person optative, “I would enjoy”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J8",
+   "decision": "The compound is an instrumental tatpuruṣa: rudhireṇa pradigdhāḥ, “smeared with blood,” qualifying bhogān. It is not merely “blood-red.” Commentary is unavailable; MW s.v. rudhira includes “blood/bloody,” and MW s.v. pra-√dih gives “to smear over, besmear.” The verifier’s report did not derive an alternative form, but only gave a tool_error/unsupported-compound notice, so this grammatical decision is retained.",
+   "options_considered": [
+    "instrumental tatpuruṣa, “smeared with blood”",
+    "karmadhāraya/adjectival “blood-red”",
+    "two separate words, “blood; smeared”"
+   ],
+   "chosen": "rudhira-pradigdhān = “smeared with blood”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For, without killing the teachers, men of great dignity,\nit is better to eat even alms here in this world.\nBut, having killed the teachers who desire gain,\nI would enjoy, right here, pleasures smeared with blood.",
+ "one_shot_delta": [
+  "No Śaṅkara-bhāṣya line is supplied for this unit, so there is no commentary-specific semantic correction to import.",
+  "A mechanically segmented translation could split a + hatvā and produce “having killed” in the first half, missing the essential contrast: ahatvā means “without killing.”",
+  "A commentary-blind or morphology-light rendering could take artha-kāmān as “wealth and pleasures” rather than as an adjective of gurūn, “desiring gain/wealth.”",
+  "It could also miss that śreyaḥ is the predicate “better,” with bhaikṣyam as the object of bhoktum: “it is better to eat even alms.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented gurūn_a_hatvā; I take ahatvā as one negative absolutive, a- + hatvā, because the syntax requires “without killing the teachers,” not a separate vocative particle a plus “having killed.”",
+  "ByT5 split mahā_anubhāvān; I analyze the printed mahānubhāvān as one compound stem mahānubhāva, accusative masculine plural, qualifying gurūn.",
+  "ByT5 split artha_kāmān; I analyze artha-kāmān as one compound adjective qualifying gurūn, “desiring gain/wealth.”",
+  "ByT5 split rudhira_pradigdhān; I analyze rudhira-pradigdhān as one compound adjective qualifying bhogān, “smeared with blood.”",
+  "ByT5 tagged bhuñjīya as SPr1O; I normalize the form as VidhiLin, Kartari, Uttama Eka: “I would/should enjoy.”"
+ ],
+ "open_questions": [
+  "The commentary is explicitly silent for this unit; nuances such as whether artha means specifically “wealth” or more broadly “gain/advantage” cannot be fixed from commentary evidence here.",
+  "The Pāṇinian verifier reported tool_error/unsupported-compound notices for artha-kāmān and rudhira-pradigdhān, but supplied no successful contrary derivation; therefore the compound stems, cases, numbers, and relations are retained with notes."
+ ],
+ "verification_summary": {
+  "pass": 18,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15336,
+   "completion_tokens": 19488,
+   "reasoning_tokens": 11739
+  },
+  "est_cost": 0.3383,
+  "reverified": true
+ },
+ "mula": "gurūn ahatvā hi mahānubhāvāñ śreyo bhoktuṃ bhaikṣyam apīha loke | hatvārtha-kāmāṃs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān",
+ "commentary_lines": []
+}
