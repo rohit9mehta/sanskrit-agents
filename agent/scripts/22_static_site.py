@@ -20,8 +20,8 @@ import sys
 
 from shastrartha.ask import ask
 from shastrartha.texts import PROJECT_ROOT
-from shastrartha.webui import (CANNED_QUESTIONS, apparatus_body, md_lite,
-                               page, shelf_html)
+from shastrartha.webui import (CANNED_QUESTIONS, apparatus_body, chips_html,
+                               md_lite, page, shelf_html)
 
 DOCS = PROJECT_ROOT / "docs"
 
@@ -56,9 +56,7 @@ def main() -> int:
         }
         print(("canned" if res.get("llm") else "refusal"), "|", q)
 
-    chips = "\n".join(
-        f"<a href=\"#\" onclick=\"return show({json.dumps(q)})\">{label}</a>"
-        for q, label in CANNED_QUESTIONS)
+    chips = chips_html("show")
     body = """
 <div class="searchrow">
   <input type="text" id="q" placeholder="Pick a question below, or type to search them"

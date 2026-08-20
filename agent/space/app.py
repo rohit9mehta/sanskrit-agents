@@ -28,7 +28,7 @@ sys.path.insert(0, str(Path(__file__).parent / "agent" / "src"))
 
 from shastrartha.ask import ask  # noqa: E402
 from shastrartha.llm import estimated_cost  # noqa: E402
-from shastrartha.webui import (CANNED_QUESTIONS, apparatus_body, md_lite,  # noqa: E402
+from shastrartha.webui import (apparatus_body, chips_html, md_lite,  # noqa: E402
                                page, shelf_html)
 
 CANNED = json.loads((Path(__file__).parent / "canned.json").read_text(encoding="utf-8"))
@@ -102,9 +102,7 @@ def _unit_href(slug: str, unit: str) -> str:
     return f"/unit/{slug}/{unit}"
 
 
-CHIPS = "\n".join(
-    f"<a href=\"#\" onclick=\"return pre({json.dumps(q)})\">{label}</a>"
-    for q, label in CANNED_QUESTIONS)
+CHIPS = chips_html("pre")
 
 HOME_BODY = """
 <div class="searchrow">

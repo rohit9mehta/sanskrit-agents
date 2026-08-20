@@ -88,6 +88,16 @@ CANNED_QUESTIONS = [
 ]
 
 
+def chips_html(js_fn: str) -> str:
+    """Question chips whose onclick survives HTML attribute quoting
+    (questions contain both quote kinds; escape the JSON for the attr)."""
+    out = []
+    for q, label in CANNED_QUESTIONS:
+        call = html.escape(f"return {js_fn}({json.dumps(q)})", quote=True)
+        out.append(f'<a href="#" onclick="{call}">{html.escape(label)}</a>')
+    return "\n".join(out)
+
+
 def page(body: str, home_href: str = "/") -> str:
     return f"""<!doctype html><html><head><meta charset="utf-8">
 <title>{TITLE}</title>

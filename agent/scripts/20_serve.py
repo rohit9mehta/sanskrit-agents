@@ -14,17 +14,15 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import parse_qs, unquote, urlparse
 
 from shastrartha.ask import ask, build_index
-from shastrartha.webui import (CANNED_QUESTIONS, apparatus_body, md_lite,
-                               page, shelf_html)
+from shastrartha.webui import (apparatus_body, chips_html, md_lite, page,
+                               shelf_html)
 
 
 def _unit_href(slug: str, unit: str) -> str:
     return f"/unit/{slug}/{unit}"
 
 
-CHIPS = "\n".join(
-    f"<a href=\"#\" onclick=\"return pre({json.dumps(q)})\">{label}</a>"
-    for q, label in CANNED_QUESTIONS)
+CHIPS = chips_html("pre")
 
 HOME_BODY = """
 <div class="searchrow">
