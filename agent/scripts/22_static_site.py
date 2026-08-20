@@ -65,10 +65,12 @@ def main() -> int:
 </div>
 <div class="samples">""" + chips + """</div>
 <div id="out"></div>
-<div class="note" style="margin-top:1rem">This public demo answers the curated
-questions above, pre-computed through the full pipeline. Free-form questions run
-in the local/live deployment, where the language model composes from the same
-cited library at question time (github.com/rohit9mehta/sanskrit-agents).</div>
+<div class="note" style="margin-top:1rem">This page answers the curated
+questions above, pre-computed through the full pipeline. To ask anything in your
+own words, use the live version at
+<a class="cite" href="https://shastrartha.onrender.com">shastrartha.onrender.com</a>
+(rate-limited; may take a minute to wake). Source:
+github.com/rohit9mehta/sanskrit-agents</div>
 {shelf}
 <script>
 var A = """ + json.dumps(answers, ensure_ascii=False) + """;
@@ -95,10 +97,10 @@ function free() {
   });
   if (best && bestScore >= 2) { document.getElementById('q').value = best; render(best); }
   else {
-    document.getElementById('out').innerHTML = '<div class="answer">This public page ' +
-    'answers the curated questions above. For free-form questions, run the live ' +
-    'server (see the note below) — it composes answers from the same cited library ' +
-    'and refuses anything outside it.</div>';
+    document.getElementById('out').innerHTML = '<div class="answer">This page only ' +
+    'answers the curated questions above. For your own questions, use the live version: ' +
+    '<a class="cite" href="https://shastrartha.onrender.com">shastrartha.onrender.com</a> ' +
+    '(it composes answers from the same cited library and refuses anything outside it).</div>';
   }
 }
 </script>"""
