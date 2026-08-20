@@ -1,0 +1,341 @@
+{
+ "unit": "2.56",
+ "analysis": [
+  {
+   "surface": "duḥkheṣu",
+   "surface_in_sandhi": "duḥkheṣv",
+   "lemma": "duḥkha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative plural construed with the commentary's prāpteṣu: 'when sufferings arise/are encountered.'",
+   "verification": {
+    "status": "pass",
+    "detail": "duḥkha Napumsaka/Saptami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "anudvigna-manāḥ",
+   "surface_in_sandhi": "anudvigna-manāḥ",
+   "lemma": "anudvigna-manas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "na udvignaṃ manaḥ yasya saḥ",
+    "members": [
+     "anudvigna",
+     "manas"
+    ]
+   },
+   "note": "Masculine nominative singular bahuvrīhi: the person whose mind is not disturbed. Vidyut-prakriyā reported tool_error/unsupported for this compound claim; retained as a standard -manas bahuvrīhi, directly supported by Śaṅkara's yasya-vigraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anudvigna-manas as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sukheṣu",
+   "surface_in_sandhi": "sukheṣu",
+   "lemma": "sukha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative plural parallel to duḥkheṣu, construed with the commentary's prāpteṣu.",
+   "verification": {
+    "status": "pass",
+    "detail": "sukha Napumsaka/Saptami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vigata-spṛhaḥ",
+   "surface_in_sandhi": "vigata-spṛhaḥ",
+   "lemma": "vigata-spṛha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "vigatā spṛhā yasya saḥ",
+    "members": [
+     "vigata",
+     "spṛhā"
+    ]
+   },
+   "note": "Masculine nominative singular bahuvrīhi. The compound stem is vigata-spṛha, while the commentary's vigraha uses the feminine noun spṛhā. Vidyut-prakriyā reported tool_error/unsupported for this compound claim; retained because the surface vigata-spṛhaḥ is the regular masculine nominative singular a-stem form and Śaṅkara explicitly gives a yasya-vigraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vigata-spṛha as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vīta-rāga-bhaya-krodhaḥ",
+   "surface_in_sandhi": "vīta-rāga-bhaya-krodhaḥ",
+   "lemma": "vīta-rāga-bhaya-krodha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "rāgaś ca bhayaṃ ca krodhaś ca vītāḥ/vigatāḥ yasmāt saḥ",
+    "members": [
+     "vīta",
+     "rāga",
+     "bhaya",
+     "krodha"
+    ]
+   },
+   "note": "Masculine nominative singular bahuvrīhi, with rāga, bhaya, and krodha enumerated separately in the commentary. The plaintext commentary line appears to have missing visargas/plural endings, but its yasmāt gloss is clear. Vidyut-prakriyā reported tool_error/unsupported for this compound claim; retained because the form is a regular masculine nominative singular a-stem compound and the bahuvrīhi relation is the commentary's own yasmāt analysis.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vīta-rāga-bhaya-krodha as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sthita-dhīḥ",
+   "surface_in_sandhi": "sthita-dhīr",
+   "lemma": "sthita-dhī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sthitā dhīḥ yasya saḥ",
+    "members": [
+     "sthita",
+     "dhī"
+    ]
+   },
+   "note": "Masculine nominative singular bahuvrīhi; Śaṅkara glosses it by sthita-prajñaḥ. Vidyut-prakriyā reported tool_error/unsupported for this compound claim; retained because the printed surface sthita-dhīḥ is the expected nominative singular form and the semantic analysis follows Śaṅkara's gloss.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sthita-dhī as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "muniḥ",
+   "surface_in_sandhi": "munir",
+   "lemma": "muni",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses muniḥ as saṃnyāsī, so the translation marks the renunciate sense rather than only 'silent sage.'",
+   "verification": {
+    "status": "pass",
+    "detail": "muni Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ucyate",
+   "surface_in_sandhi": "ucyate",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present passive, third singular: 'is called/is said.'",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The locative duḥkheṣu is not merely an abstract setting; Śaṅkara supplies prāpteṣu and duḥkha-prāptau, so the sense is 'when sufferings are encountered.' The compound anudvigna-manāḥ is a bahuvrīhi: the mind of this person is not udvigna, glossed as not prakṣubhita, 'not disturbed/shaken.'",
+   "options_considered": [
+    "'in/by sufferings' with a vague adjective 'undisturbed'",
+    "'when sufferings arise, one whose mind is not shaken'"
+   ],
+   "chosen": "duḥkheṣu ... anudvigna-manāḥ = 'in sufferings, when they arise, one whose mind is unagitated.'",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "duḥkheṣv ādhyātmikādiṣu prāpteṣu na udvignaṃ na prakṣubhitaṃ duḥkha-prāptau mano yasya so 'yam anudvigna-manāḥ |",
+     "translation": "In sufferings such as the bodily/inner and the like, when they have arrived: the mind of whom is not agitated, not disturbed at the arrival of sorrow—this one is anudvigna-manāḥ."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara again supplies prāpteṣu for the locative and explicitly glosses spṛhā as tṛṣṇā, 'craving/thirst.' The fire simile rules out taking the phrase as mere indifference of mood: the point is that pleasures do not cause craving to grow.",
+   "options_considered": [
+    "spṛhā as a neutral wish or pleasure",
+    "spṛhā as tṛṣṇā, craving, absent even when pleasures arrive"
+   ],
+   "chosen": "sukheṣu vigata-spṛhaḥ = 'in pleasures, when they arise, one whose craving has gone.'",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tathā sukheṣu prāpteṣu vigatā spṛhā tṛṣṇā yasya, na agnir iva indhanādy-ādhāne sukhāny anu vivardhate sa vigata-spṛhaḥ |",
+     "translation": "Likewise, when pleasures have arrived, he whose spṛhā—craving—has gone; he does not grow along with pleasures like fire when fuel and the like are put on: he is vigata-spṛhaḥ."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is construed as a bahuvrīhi with three separate factors—rāga, bhaya, and krodha—gone from the person, not as a chain such as 'anger caused by fear and attachment.' The cited plaintext appears unproofread: rāga/krodha lack expected visarga and vītā/vigatā likely stand for plural vītāḥ/vigatāḥ, but the yasmāt gloss makes the relation clear.",
+   "options_considered": [
+    "a determinative chain joining rāga, bhaya, and krodha causally",
+    "a bahuvrīhi: one from whom attachment, fear, and anger have departed"
+   ],
+   "chosen": "vīta-rāga-bhaya-krodhaḥ = 'from whom attachment, fear, and anger have gone.'",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "vīta-rāga-bhaya-krodhaḥ rāga ca bhayaṃ ca krodha ca vītā vigatā yasmāt sa vīta-rāga-bhaya-krodhaḥ |",
+     "translation": "Vīta-rāga-bhaya-krodhaḥ: attachment and fear and anger have gone, have departed, from whom—he is vīta-rāga-bhaya-krodhaḥ."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara identifies sthita-dhīḥ with sthita-prajñaḥ and glosses muniḥ as saṃnyāsī. Therefore muni is not translated merely as 'silent one' or generic inspired seer; in this bhāṣya it has the renunciate sense, and sthita-dhī is the same technical condition as stable wisdom/understanding.",
+   "options_considered": [
+    "muni as simply 'silent sage' or 'seer'",
+    "muni as saṃnyāsī, a renunciate, per Śaṅkara",
+    "sthita-dhī as a loose adjective 'calm-minded'",
+    "sthita-dhī as equivalent to sthita-prajña, 'one of steady wisdom'"
+   ],
+   "chosen": "sthita-dhīḥ muniḥ = 'a sage/renunciate of steady wisdom.'",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "sthita-dhīḥ sthita-prajño muniḥ saṃnyāsī tadā ucyate ||bhgs_2.56||",
+     "translation": "Sthita-dhīḥ means sthita-prajñaḥ; muniḥ means saṃnyāsī; then he is so called."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The form ucyate is present passive third singular from √vac; the nominatives describe the designation applied to the person meeting the stated conditions.",
+   "options_considered": [
+    "active 'he says'",
+    "passive 'he is called/is said to be'"
+   ],
+   "chosen": "ucyate = 'is called/is said to be.'",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "When sufferings arise, his mind unagitated;\nwhen pleasures arise, his craving gone;\nwith attachment, fear, and anger gone from him—\nhe is then called a sage-renunciate (muni), one of steady wisdom (sthita-dhī).",
+ "one_shot_delta": [
+  "Without the commentary one might render muni as a generic 'silent sage'; Śaṅkara specifically glosses it as saṃnyāsī, so the renunciate sense should be heard.",
+  "A commentary-blind reading might take spṛhā as ordinary desire or pleasure; Śaṅkara glosses it as tṛṣṇā, craving, and stresses that pleasures do not make it increase.",
+  "The compound vīta-rāga-bhaya-krodhaḥ could be flattened ambiguously; Śaṅkara's yasmāt gloss shows a bahuvrīhi: attachment, fear, and anger have departed from him.",
+  "The locatives duḥkheṣu and sukheṣu could be translated statically as 'in sorrow/in happiness'; Śaṅkara's repeated prāpteṣu makes the sense conditional: when sufferings or pleasures arise."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 output lists the components of anudvigna-manāḥ, vigata-spṛhaḥ, vīta-rāga-bhaya-krodhaḥ, and sthita-dhīḥ separately; here each printed hyphenated expression is analyzed as a single inflected subanta compound, supported by Śaṅkara's yasya/yasmāt bahuvrīhi glosses and his sthita-prajñaḥ gloss.",
+  "ByT5's participial analyses for vigata, vīta, and sthita are retained as member semantics only; they are not treated as separate words in the verse's pada-analysis."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 8,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13361,
+   "completion_tokens": 14350,
+   "reasoning_tokens": 8702
+  },
+  "est_cost": 0.2553,
+  "reverified": true
+ },
+ "mula": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ | vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate",
+ "commentary_lines": [
+  "duḥkheṣv ādhyātmikādiṣu prāpteṣu na udvignaṃ na prakṣubhitaṃ duḥkha-prāptau mano yasya so 'yam anudvigna-manāḥ |",
+  "tathā sukheṣu prāpteṣu vigatā spṛhā tṛṣṇā yasya, na agnir iva indhanādy-ādhāne sukhāny anu vivardhate sa vigata-spṛhaḥ |",
+  "vīta-rāga-bhaya-krodhaḥ rāga ca bhayaṃ ca krodha ca vītā vigatā yasmāt sa vīta-rāga-bhaya-krodhaḥ |",
+  "sthita-dhīḥ sthita-prajño muniḥ saṃnyāsī tadā ucyate ||bhgs_2.56||",
+  "kiṃ ca--"
+ ]
+}

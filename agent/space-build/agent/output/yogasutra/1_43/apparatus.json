@@ -1,0 +1,310 @@
+{
+ "unit": "1.43",
+ "analysis": [
+  {
+   "surface": "smṛtipariśuddhau",
+   "surface_in_sandhi": "smṛtipariśuddhau",
+   "lemma": "smṛtipariśuddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "smṛteḥ pariśuddhiḥ",
+    "members": [
+     "smṛti",
+     "pariśuddhi"
+    ]
+   },
+   "note": "Locative singular compound: ‘upon/when there is purification of memory’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem smṛtipariśuddhi as Stri/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "svarūpaśūnyā",
+   "surface_in_sandhi": "svarūpaśūnye-",
+   "lemma": "svarūpaśūnya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svena, prajñāsvarūpeṇa grahaṇātmakena, śūnyā iva",
+    "members": [
+     "sva",
+     "rūpa",
+     "śūnya"
+    ]
+   },
+   "note": "Nominative feminine singular agreeing with the understood samāpatti/prajñā; the bhāṣya identifies the ‘own form’ as the cognition’s own grasping-form.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svarūpaśūnya as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "iva",
+   "surface_in_sandhi": "-evā-",
+   "lemma": "iva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi in svarūpaśūnyā iva artha- prints as svarūpaśūnyevārtha-; the sandhied contribution of iva is represented approximately here.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "arthamātranirbhāsā",
+   "surface_in_sandhi": "-rthamātranirbhāsā",
+   "lemma": "arthamātranirbhāsa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "arthamātram eva nirbhāso yasyāḥ sā",
+    "members": [
+     "artha",
+     "mātra",
+     "nirbhāsa"
+    ]
+   },
+   "note": "Nominative feminine singular agreeing with the understood samāpatti/prajñā; interpreted through the bhāṣya’s padārthamātrasvarūpā and grāhyasvarūpāpannā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem arthamātranirbhāsa as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nirvitarkā",
+   "surface_in_sandhi": "nirvitarkā",
+   "lemma": "nirvitarka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "nirgato vitarko yasyāḥ sā",
+    "members": [
+     "nir",
+     "vitarka"
+    ]
+   },
+   "note": "Technical adjective of samāpatti; retained as nirvitarkā/‘without vitarka’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirvitarka as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "smṛtipariśuddhau is not an attributive ‘purified memory’ but a locative setting for the arising of this samāpatti: when that purification is present, the prajñā is called nirvitarkā.",
+   "options_considered": [
+    "‘purified memory’ as a simple adjectival attribute",
+    "a locative condition: ‘upon/when there is purification of memory’"
+   ],
+   "chosen": "‘Upon/when memory is purified’ as a locative condition.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yā śabdasaṃketaśrutānumānajñānavikalpasmṛtipariśuddhau grāhyasvarūpa.uparaktā prajñā svam iva prajñāsvarūpaṃ grahaṇātmakaṃ tyaktvā padārthamātrasvarūpā grāhyasvarūpāpanneva bhavati sā tadā nirvitarkā samāpattiḥ.",
+     "translation": "That cognition which, when memory involving verbal convention, testimony, inference, and conceptualized knowledge has been purified, is colored by the form of the graspable object, as it were abandoning its own cognitive form whose nature is grasping, and becomes of the mere object’s form, as though having taken on the graspable object’s form—that then is nirvitarkā samāpatti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The sūtra’s subject is supplied from the prior sūtra and made explicit by Vyāsa: the prajñā in such concentration is ‘then nirvitarkā samāpatti’. Hence svarūpaśūnyā, arthamātranirbhāsā, and nirvitarkā are nominative feminine singular predicates of that understood samāpatti/prajñā.",
+   "options_considered": [
+    "Take nirvitarkā as an independent feminine substantive with no supplied subject",
+    "Take the adjectives as qualifying smṛti or another nearby noun",
+    "Take them as predicates of the understood samāpatti/prajñā"
+   ],
+   "chosen": "The feminine nominatives describe an understood samāpatti, mediated by prajñā.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yā śabdasaṃketaśrutānumānajñānavikalpasmṛtipariśuddhau grāhyasvarūpa.uparaktā prajñā svam iva prajñāsvarūpaṃ grahaṇātmakaṃ tyaktvā padārthamātrasvarūpā grāhyasvarūpāpanneva bhavati sā tadā nirvitarkā samāpattiḥ.",
+     "translation": "That cognition ... becomes of the mere object’s form ... that then is nirvitarkā samāpatti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Vyāsa’s gloss makes sva-rūpa the prajñā-svarūpa, specifically grahaṇātmaka, ‘whose nature is apprehension/grasping’; and he preserves the force of iva by saying svam iva ... tyaktvā and grāhyasvarūpāpannā iva. The translation therefore says ‘as if devoid of its own form,’ not simply ‘empty of essence’.",
+   "options_considered": [
+    "‘void of its own essence’ in a strong metaphysical sense",
+    "‘empty of the object’s form’",
+    "‘as if devoid of the cognition’s own grasping-form’"
+   ],
+   "chosen": "‘As if devoid of its own form’ means as if lacking the cognition’s own grasping-form, not ontological non-existence.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svam iva prajñāsvarūpaṃ grahaṇātmakaṃ tyaktvā padārthamātrasvarūpā grāhyasvarūpāpanneva bhavati",
+     "translation": "as it were abandoning its own form, the form of cognition, whose nature is grasping, it becomes of the mere object’s form, as though having taken on the graspable object’s form"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya glosses the state as padārthamātrasvarūpā and grāhyasvarūpāpannā, and later says the avayavī becomes the viṣayin of nirvitarkā samāpatti. Thus ‘object alone’ is the safest translation.",
+   "options_considered": [
+    "artha as aim or purpose",
+    "artha as merely the linguistic meaning of a word",
+    "artha as the graspable object alone"
+   ],
+   "chosen": "artha in arthamātranirbhāsā is the graspable object/padārtha, not ‘purpose’ or merely verbal ‘meaning’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "padārthamātrasvarūpā grāhyasvarūpāpanneva bhavati",
+     "translation": "it becomes of the mere object’s form, as though having taken on the form of the graspable object"
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "tasmād asty avayavī yo mahattvādivyavahārāpannaḥ samāpatter nirvitarkāyā viṣayī bhavati.",
+     "translation": "Therefore there is a whole, an avayavī, which is the basis of practical dealings such as largeness and becomes the object of nirvitarkā samāpatti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Rather than using MW’s general ‘unreflecting/inconsiderate’, the bhāṣya explicitly identifies the described state as nirvitarkā samāpatti. The translation therefore preserves the technical term and gives only the literal orientation ‘without vitarka’.",
+   "options_considered": [
+    "ordinary adjective: ‘unreflecting’ or ‘inconsiderate’",
+    "technical yogic predicate: ‘nirvitarkā, without vitarka’"
+   ],
+   "chosen": "nirvitarkā is a technical name of the samāpatti, rendered ‘without vitarka’ and retained in Sanskrit.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sā tadā nirvitarkā samāpattiḥ.",
+     "translation": "that then is nirvitarkā samāpatti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The external sandhi is grammatical: final ā of śūnyā with initial i of iva gives e, and final a of iva with initial a of artha gives ā, producing śūnyevārtha-.",
+   "options_considered": [
+    "Treat śūnyevārtha- as containing a different lexical item",
+    "Resolve it as śūnyā + iva + artha- by regular external sandhi"
+   ],
+   "chosen": "The printed sequence resolves as svarūpaśūnyā iva arthamātranirbhāsā.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Upon the purification of memory, [the samāpatti], as if devoid of its own form, shining forth as the object alone, is nirvitarkā (without vitarka).",
+ "one_shot_delta": [
+  "A commentary-blind translation might make svarūpaśūnyā sound like an absolute denial of essence; Vyāsa makes it ‘as if’ the cognition has abandoned its own grasping-form.",
+  "It might translate artha as ‘meaning’ because of the preceding discussion of word and object; Vyāsa’s padārtha/grāhya gloss and the avayavī discussion point to ‘object’.",
+  "It might miss the supplied subject: the sūtra predicates these feminine adjectives of samāpatti, explicitly supplied by Vyāsa as nirvitarkā samāpattiḥ.",
+  "It might flatten smṛtipariśuddhi to ordinary memory improvement; the bhāṣya links it to purification from verbal, conventional, testimonial, inferential, and conceptual-memory admixture."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives compound-member segmentation such as smṛti + pariśuddhau, sva + rūpa + śūnyā, and artha + mātra + nirbhāsā; I treat these as single inflected compound words while preserving those members in the samāsa analyses.",
+  "ByT5 tags śūnyā, nirbhāsā, and nirvitarkā only as feminine nominal forms; I specify nominative singular agreement with the understood samāpatti/prajñā on the basis of the bhāṣya, line 1."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 5,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4106,
+   "completion_tokens": 11859,
+   "reasoning_tokens": 9214
+  },
+  "est_cost": 0.1902,
+  "reverified": true
+ },
+ "mula": "smṛtipariśuddhau svarūpaśūnyevārthamātranirbhāsā nirvitarkā",
+ "commentary_lines": [
+  "yā śabdasaṃketaśrutānumānajñānavikalpasmṛtipariśuddhau grāhyasvarūpa.uparaktā prajñā svam iva prajñāsvarūpaṃ grahaṇātmakaṃ tyaktvā padārthamātrasvarūpā grāhyasvarūpāpanneva bhavati sā tadā nirvitarkā samāpattiḥ.",
+  "tathā ca vyākyātaṃ tasyā ekabuddhyupakramo hy arthātmāṇupracayaviśeṣātmā gavādir ghaṭādir vā lokaḥ.",
+  "sa ca saṃsthānaviśeṣo bhūtasūkṣmāṇāṃ sādhāraṇo dharma ātmabhūtaḥ phalena vyaktenānumitaḥ svavyañjakāñjanaḥ prādurbhavati.",
+  "dharmāntarasya kapālāder udaye ca tirobhavati.",
+  "sa eṣa dharmo 'vayavīty ucyate.",
+  "yo 'sāv ekaś ca mahāṃś cāṇīṃyaś ca sparśavāṃś ca kriyādharmakaś cānityaś ca tenāvayavinā vyavahārāḥ kriyante.",
+  "yasya punar avastukaḥ sa pracayaviśeṣaḥ.",
+  "sūkṣmaṃ ca kāraṇam anupalabhyam avikalpasya tasyāvayavyabhāvād atadrūpapratiṣṭhaṃ mithyājñānam iti prāyeṇa sarvam eva prāptaṃ mithyājñānam iti.",
+  "tadā ca samyagjñānam api kiṃ syād viṣayābhāvāt.",
+  "yad yad upalabhyate tat tad avayavitvenāmnātam.",
+  "tasmād asty avayavī yo mahattvādivyavahārāpannaḥ samāpatter nirvitarkāyā viṣayī bhavati.",
+  "1.43",
+  "etayaiva savicārā nirvicārā ca sūkṣmaviṣayā vyākhyātā"
+ ]
+}

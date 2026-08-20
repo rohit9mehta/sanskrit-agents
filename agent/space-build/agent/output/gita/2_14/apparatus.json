@@ -1,0 +1,387 @@
+{
+ "unit": "2.14",
+ "analysis": [
+  {
+   "surface": "mātrāsparśāḥ",
+   "surface_in_sandhi": "mātrā-sparśās",
+   "lemma": "mātrāsparśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "mātrāṇāṃ sparśāḥ",
+    "members": [
+     "mātrā",
+     "sparśa"
+    ]
+   },
+   "note": "Editorial hyphen removed in the normalized pausal surface and compound stem. The ṣaṣṭhī-tatpuruṣa analysis is retained despite the verifier’s unsupported-relation log, because Śaṅkara explicitly glosses mātrāṇāṃ sparśāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mātrāsparśa as Pum/Prathama/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tu",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kaunteya",
+   "surface_in_sandhi": "kaunteya",
+   "lemma": "kaunteya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative: ‘son of Kuntī.’",
+   "verification": {
+    "status": "pass",
+    "detail": "kaunteya Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "śītoṣṇasukhaduḥkhadāḥ",
+   "surface_in_sandhi": "śītoṣṇa-sukha-duḥkhadāḥ",
+   "lemma": "śītoṣṇasukhaduḥkhada",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "śītam uṣṇaṃ sukhaṃ duḥkhaṃ ca dadati ye",
+    "members": [
+     "śīta",
+     "uṣṇa",
+     "sukha",
+     "duḥkha",
+     "da"
+    ]
+   },
+   "note": "Editorial hyphens removed in the normalized pausal surface and compound stem. The tatpuruṣa analysis is retained despite the verifier’s unsupported-relation log: the compound means ‘giving cold, heat, pleasure, and pain,’ with the object group governed by final -da.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem śītoṣṇasukhaduḥkhada as Pum/Prathama/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "āgamāpāyinaḥ",
+   "surface_in_sandhi": "āgamāpāyino",
+   "lemma": "āgamāpāyin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "āgama-apāya-śīlaṃ yeṣām",
+    "members": [
+     "āgama",
+     "apāya"
+    ]
+   },
+   "note": "Śaṅkara glosses this as āgamāpāyaśīlāḥ, ‘having the nature of coming and passing away.’",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem āgamāpāyin as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anityāḥ",
+   "surface_in_sandhi": "'nityās",
+   "lemma": "anitya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after āgamāpāyino; final visarga appears as s before tāṃs.",
+   "verification": {
+    "status": "pass",
+    "detail": "anitya Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tān",
+   "surface_in_sandhi": "tāṃs",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative plural object of titikṣasva; Śaṅkara construes it as ‘those such as cold and heat.’",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "titikṣasva",
+   "surface_in_sandhi": "titikṣasva",
+   "lemma": "tij",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "tij",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Desiderative Ātmanepada imperative from the stem titikṣa-, glossed by Śaṅkara as prasahasva, ‘bear/endure.’",
+   "verification": {
+    "status": "pass",
+    "detail": "tij Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhārata",
+   "surface_in_sandhi": "bhārata",
+   "lemma": "bhārata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative: ‘descendant of Bharata.’",
+   "verification": {
+    "status": "pass",
+    "detail": "bhārata Pum/Sambodhana/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "I translate mātrā-sparśāḥ as ‘contacts of the senses,’ taking mātrā as the sense organs and sparśa as their contact with sound and the other objects. Śaṅkara offers an alternative with athavā—‘mātrāḥ and sparśāḥ’ as senses and objects—but the primary gloss is the genitive tatpuruṣa mātrāṇāṃ sparśāḥ.",
+   "options_considered": [
+    "‘contacts of measures/quantities’",
+    "‘contacts of the senses’",
+    "dvandva: ‘the senses and the objects’"
+   ],
+   "chosen": "mātrā-sparśāḥ = contacts of the senses",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "mātrā ābhiḥ mīyante śabdādaya iti śrotrādīni indriyāṇi |\nmātrāṇāṃ sparśāḥ śabdādibhiḥ saṃyogāḥ |",
+     "translation": "‘Mātrās’ are the sense organs such as hearing, because sound and the rest are measured by them. ‘Contacts of the mātrās’ are conjunctions with sound and the like."
+    },
+    {
+     "lines": [
+      4,
+      5
+     ],
+     "quote": "athavā spṛśyanta iti sparśā viṣayāḥ śabdādayaḥ |\nmātrāś ca sparśāś ca śītoṣṇa-sukha-duḥkha-dāḥ |",
+     "translation": "Alternatively, ‘sparśas’ are objects such as sound, because they are touched; thus the mātrās and the sparśas give cold, heat, pleasure, and pain."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is not merely a list of qualities but an adjective meaning that the sense-contacts produce or bestow these experiences. Śaṅkara also explains why cold/heat are named separately from pleasure/pain: cold and heat may sometimes be pleasant and sometimes painful, whereas pleasure and pain as such have fixed forms.",
+   "options_considered": [
+    "‘cold-hot-pleasant-painful contacts’ as descriptive qualities",
+    "‘contacts that give cold and heat, pleasure and pain’"
+   ],
+   "chosen": "śītoṣṇa-sukha-duḥkha-dāḥ = giving cold and heat, pleasure and pain",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "te śītoṣṇasukha-duḥkha-dāḥ śītam uṣṇaṃ sukhaṃ duḥkhaṃ ca prayacchantīti |",
+     "translation": "They are ‘givers of cold, heat, pleasure, and pain’: that is, they grant cold, heat, pleasure, and pain."
+    },
+    {
+     "lines": [
+      6,
+      7,
+      8,
+      9
+     ],
+     "quote": "śītaṃ kadācit sukhaṃ kadācit duḥkham |\ntathā uṣṇam api aniyata-svarūpam |\nsukha-duḥkhe punaḥ niyata-rūpe yato na vyabhicarataḥ |\natas tābhyāṃ pṛthak śītoṣṇayoḥ grahaṇam |",
+     "translation": "Cold is sometimes pleasure and sometimes pain; likewise heat too has no fixed form. Pleasure and pain, however, have fixed forms, since they do not deviate. Therefore cold and heat are mentioned separately from those two."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "I render āgamāpāyinaḥ as ‘coming and passing away’ rather than as a vague ‘arriving/departing’; Śaṅkara explicitly glosses it as āgamāpāyaśīlāḥ and states the causal point that because these are of such a nature, they are impermanent.",
+   "options_considered": [
+    "‘coming and going’ as a loose idiom",
+    "‘of a coming-and-passing-away nature, and therefore impermanent’"
+   ],
+   "chosen": "āgamāpāyinaḥ anityāḥ = of coming-and-going nature, hence impermanent",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "yasmāt te mātrā-sparśādayaḥ āgamāpāyinaḥ āgamāpāyaśīlāḥ tasmāt anityāḥ |",
+     "translation": "Because these sense-contacts and the like are āgamāpāyinaḥ, having the nature of coming and passing away, therefore they are impermanent."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The accusative tān is construed with titikṣasva as the things to be endured, specified by Śaṅkara as śītoṣṇādīn, ‘cold and heat and the rest.’ Titikṣasva is glossed prasahasva, ‘bear/endure,’ with the practical sense of not producing elation or dejection toward them.",
+   "options_considered": [
+    "‘desire to endure them’ literally from the desiderative form",
+    "‘endure/bear them’",
+    "taking tān as only the abstract sense-contacts, without Śaṅkara’s śītoṣṇādīn specification"
+   ],
+   "chosen": "tān titikṣasva = endure those, such as cold and heat",
+   "evidence": [
+    {
+     "lines": [
+      11,
+      12
+     ],
+     "quote": "ataḥ tān śītoṣṇādīn titikṣasva prasahasva |\nteṣu harṣaṃ viṣādaṃ vā mā kārṣīḥ ity arthaḥ ||bhgs_2.14||",
+     "translation": "Therefore endure—bear—those such as cold and heat. The meaning is: do not create elation or dejection with regard to them."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The commentary does not gloss tu; I render it as a light contrastive ‘but,’ fitting its normal discourse use here.",
+   "options_considered": [
+    "leave tu untranslated",
+    "render tu as ‘but/now’"
+   ],
+   "chosen": "tu = But",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "But the contacts of the senses (mātrā-sparśāḥ), O son of Kuntī,\ngive cold and heat, pleasure and pain;\ncoming and passing away, they are impermanent—\nendure them, O descendant of Bharata.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take mātrā in its common sense ‘measure’ and miss Śaṅkara’s identification of mātrās with the sense organs.",
+  "It might miss Śaṅkara’s alternative analysis of mātrā-sparśāḥ as ‘senses and objects,’ even though the primary translation follows ‘contacts of the senses.’",
+  "It might flatten śītoṣṇa-sukha-duḥkha-dāḥ into ‘cold-hot pleasant-painful’ rather than Śaṅkara’s ‘giving cold, heat, pleasure, and pain.’",
+  "It might translate titikṣasva too literally as ‘desire to endure’; Śaṅkara’s gloss prasahasva supports the idiomatic imperative ‘endure/bear.’",
+  "It might not see that Śaṅkara construes the intended discipline as not making harṣa or viṣāda—elation or dejection—toward these experiences."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives the local surface tān, but the printed verse has the sandhi form tāṃs; the pausal form is tān.",
+  "ByT5 gives titikṣ as the verbal lemma; because the requested format asks for the bare root, I record root/lemma as tij and note the desiderative stem titikṣa-.",
+  "ByT5 segments āgamāpāyinaḥ as āgama + apāyin; following Śaṅkara’s gloss āgamāpāyaśīlāḥ at line 10, I analyze the sense as possessive, ‘having coming-and-passing-away as its nature.’",
+  "The normalized compound stems/surfaces remove editorial hyphens: mātrā-sparśāḥ → mātrāsparśāḥ with lemma mātrāsparśa, and śītoṣṇa-sukha-duḥkhadāḥ → śītoṣṇasukhaduḥkhadāḥ with lemma śītoṣṇasukhaduḥkhada."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 9,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12754,
+   "completion_tokens": 17116,
+   "reasoning_tokens": 11262
+  },
+  "est_cost": 0.295,
+  "reverified": true
+ },
+ "mula": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkhadāḥ | āgamāpāyino 'nityās tāṃs titikṣasva bhārata",
+ "commentary_lines": [
+  "mātrā ābhiḥ mīyante śabdādaya iti śrotrādīni indriyāṇi |",
+  "mātrāṇāṃ sparśāḥ śabdādibhiḥ saṃyogāḥ |",
+  "te śītoṣṇasukha-duḥkha-dāḥ śītam uṣṇaṃ sukhaṃ duḥkhaṃ ca prayacchantīti |",
+  "athavā spṛśyanta iti sparśā viṣayāḥ śabdādayaḥ |",
+  "mātrāś ca sparśāś ca śītoṣṇa-sukha-duḥkha-dāḥ |",
+  "śītaṃ kadācit sukhaṃ kadācit duḥkham |",
+  "tathā uṣṇam api aniyata-svarūpam |",
+  "sukha-duḥkhe punaḥ niyata-rūpe yato na vyabhicarataḥ |",
+  "atas tābhyāṃ pṛthak śītoṣṇayoḥ grahaṇam |",
+  "yasmāt te mātrā-sparśādayaḥ āgamāpāyinaḥ āgamāpāyaśīlāḥ tasmāt anityāḥ |",
+  "ataḥ tān śītoṣṇādīn titikṣasva prasahasva |",
+  "teṣu harṣaṃ viṣādaṃ vā mā kārṣīḥ ity arthaḥ ||bhgs_2.14||"
+ ]
+}

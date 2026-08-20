@@ -1,0 +1,219 @@
+{
+ "unit": "1.8",
+ "analysis": [
+  {
+   "surface": "viparyayaḥ",
+   "surface_in_sandhi": "viparyayo",
+   "lemma": "viparyaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the definition; the printed -o is visarga sandhi before m-.",
+   "verification": {
+    "status": "pass",
+    "detail": "viparyaya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mithyājñānam",
+   "surface_in_sandhi": "mithyājñānam",
+   "lemma": "mithyājñāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "mithyābhūtaṃ jñānam",
+    "members": [
+     "mithyā",
+     "jñāna"
+    ]
+   },
+   "note": "Predicate nominative: ‘false cognition’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mithyājñāna as Napumsaka/Prathama/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "atadrūpapratiṣṭham",
+   "surface_in_sandhi": "atadrūpapratiṣṭham",
+   "lemma": "atadrūpapratiṣṭha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na tad-rūpe pratiṣṭham",
+    "members": [
+     "a",
+     "tad",
+     "rūpa",
+     "pratiṣṭha"
+    ]
+   },
+   "note": "Neuter nominative singular adjective qualifying mithyājñānam; nañ is internal to the compound.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem atadrūpapratiṣṭha as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The bhāṣya explicitly asks why this is not pramāṇa and answers that it is sublated by pramāṇa; hence viparyaya is translated as an epistemic error rather than merely as ‘reversal’ or ‘inversion’.",
+   "options_considered": [
+    "neutral ‘reversal/inversion’",
+    "a kind of pramāṇa",
+    "epistemic error / false cognition"
+   ],
+   "chosen": "‘Misapprehension/error (viparyaya) is false cognition,’ not a variety of valid cognition.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "quote": "sa kasmān na pramāṇam. yataḥ pramāṇena bādhyate. bhūtārthaviṣayatvāt pramāṇasya. tatra pramāṇena bādhanam apramāṇasya dṛṣṭam.",
+     "translation": "Why is it not a means of valid cognition? Because it is sublated by a valid cognition. For pramāṇa has as its object an actual thing. In such a case, the sublation of a non-pramāṇa by a pramāṇa is observed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The commentary’s contrast is between cognition whose object is actual (bhūtārtha, sadviṣaya) and erroneous cognition sublated by it. Thus ‘that form’ is the object’s actual form, illustrated by the one moon; the erroneous two-moon cognition is not grounded in that form.",
+   "options_considered": [
+    "‘established in a separate non-real form’",
+    "‘objectless’",
+    "‘not founded in the object’s actual form’"
+   ],
+   "chosen": "atadrūpapratiṣṭham = ‘not established/founded in that actual form’.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "bhūtārthaviṣayatvāt pramāṇasya.",
+     "translation": "Because pramāṇa has as its object an actual thing."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tadyathā dvicandradarśanaṃ sadviṣayeṇaikacandradarśanena bādhyata iti.",
+     "translation": "For example, the seeing of two moons is sublated by the seeing of one moon, whose object is real."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound agrees with mithyājñānam in gender, case, and number, while viparyayaḥ is the masculine nominative subject of the definition.",
+   "options_considered": [
+    "atadrūpapratiṣṭham as an accusative object",
+    "atadrūpapratiṣṭham as an independent feminine noun-form",
+    "atadrūpapratiṣṭham as a neuter nominative adjective to mithyājñānam"
+   ],
+   "chosen": "atadrūpapratiṣṭham qualifies mithyājñānam as a neuter nominative singular adjective.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya identifies this very cognition with fivefold avidyā and then with the kleśas under their names; this supports retaining a technical English term such as ‘misapprehension’ rather than a merely mechanical ‘inversion’.",
+   "options_considered": [
+    "a merely physical or spatial reversal",
+    "a non-technical ‘mistake’ only",
+    "Yoga’s technical misapprehension connected with avidyā"
+   ],
+   "chosen": "The technical background of viparyaya is avidyā, a kleśa-complex.",
+   "evidence": [
+    {
+     "lines": [
+      6,
+      7,
+      8,
+      9
+     ],
+     "quote": "seyaṃ pañcaparvā bhavaty avidyā. avidyāsmitārāgadveṣābhiniveśāḥ kleśā iti. eta eva svasaṃjñābhis tamo moho mahāmohas tāmisro 'ndhatāmisra iti. ete cittamalaprasaṅgenābhidhāsyante.",
+     "translation": "This becomes five-branched avidyā. Avidyā, egoity, attachment, aversion, and clinging-to-life are the afflictions. These same, by their own names, are darkness, delusion, great delusion, gloom, and blind gloom. They will be explained in connection with the impurities of the mind."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Misapprehension (viparyaya) is false cognition (mithyājñāna), not founded in that [actual] form.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take viparyaya as simple ‘reversal’ or ‘inversion’; Vyāsa treats it as apramāṇa, cognition cancelled by pramāṇa.",
+  "It might read atadrūpapratiṣṭham as ‘objectless’; the bhāṣya instead gives an erroneous object-form, the seeing of two moons, sublated by the real one-moon cognition.",
+  "It might parse the initial a- as a separate indeclinable or as negating only tad; here it is best taken as nañ within the compound: ‘not established in that actual form’.",
+  "It might miss the technical link to avidyā and the kleśas stated immediately in the bhāṣya."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments a as if separately in a_tad_rūpa_pratiṣṭham; I take it as the nañ/privative element inside the compound atadrūpapratiṣṭha, so there is no separate avyaya word in the analysis.",
+  "ByT5 gives the final lemma as pratiṣṭhā; the inflected sūtra-word is the whole compound stem atadrūpapratiṣṭha, neuter nominative singular, agreeing with mithyājñānam, not an inflection of the feminine noun pratiṣṭhā."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3247,
+   "completion_tokens": 8394,
+   "reasoning_tokens": 6653
+  },
+  "est_cost": 0.1357,
+  "reverified": true
+ },
+ "mula": "7 viparyayo mithyājñānam atadrūpapratiṣṭham",
+ "commentary_lines": [
+  "sa kasmān na pramāṇam.",
+  "yataḥ pramāṇena bādhyate.",
+  "bhūtārthaviṣayatvāt pramāṇasya.",
+  "tatra pramāṇena bādhanam apramāṇasya dṛṣṭam.",
+  "tadyathā dvicandradarśanaṃ sadviṣayeṇaikacandradarśanena bādhyata iti.",
+  "seyaṃ pañcaparvā bhavaty avidyā.",
+  "avidyāsmitārāgadveṣābhiniveśāḥ kleśā iti.",
+  "eta eva svasaṃjñābhis tamo moho mahāmohas tāmisro 'ndhatāmisra iti.",
+  "ete cittamalaprasaṅgenābhidhāsyante.",
+  "1.8",
+  "śabdajñānānupātī vastuśūnyo vikalpaḥ"
+ ]
+}

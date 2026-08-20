@@ -1,0 +1,488 @@
+{
+ "unit": "2.40",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "ne-",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First negation; printed in the sandhi cluster nehābhikrama- from na+iha+abhikrama-.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "iha",
+   "surface_in_sandhi": "nehā-",
+   "lemma": "iha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara construes this as ‘in the path to liberation, in karma-yoga,’ not merely ‘in this world.’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "abhikrama-nāśaḥ",
+   "surface_in_sandhi": "ābhikrama-nāśo",
+   "lemma": "abhikrama-nāśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "abhikramasya, prārambhasya, nāśaḥ",
+    "members": [
+     "abhikrama",
+     "nāśa"
+    ]
+   },
+   "note": "Initial a is coalesced with final -a of iha in the printed cluster; final -aḥ appears as -o before asti. Vidyut-prakriya reported a tool_error for deriving the compound stem abhikrama-nāśa and logged tatpuruṣa as unsupported, but the analysis is retained because Śaṅkara explicitly parses it as tasya nāśaḥ, ‘the destruction of that [abhikrama],’ after defining abhikrama as prārambha.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem abhikrama-nāśa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asti",
+   "surface_in_sandhi": "'sti",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Existential: ‘there is/exists.’",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pratyavāyaḥ",
+   "surface_in_sandhi": "pratyavāyo",
+   "lemma": "pratyavāya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of vidyate; rendered as an adverse consequence on Śaṅkara’s comparison with medical treatment.",
+   "verification": {
+    "status": "pass",
+    "detail": "pratyavāya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second negation; negates vidyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vidyate",
+   "surface_in_sandhi": "vidyate",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive form used existentially: ‘is found/occurs’; Śaṅkara glosses vidyate as bhavati.",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "su",
+   "surface_in_sandhi": "sv-",
+   "lemma": "su",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial/intensifying element; ByT5 segmentation su+alpam retained for printed svalpam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "alpam",
+   "surface_in_sandhi": "svalpam",
+   "lemma": "alpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative subject of trāyate, with anuṣṭhitam supplied by the commentary: ‘even a little, when practiced.’",
+   "verification": {
+    "status": "pass",
+    "detail": "alpa Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "apy",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Even/emphatic particle with svalpam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asya",
+   "surface_in_sandhi": "asya",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with dharmasya: ‘of this dharma.’",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "dharmasya",
+   "surface_in_sandhi": "dharmasya",
+   "lemma": "dharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses this as yoga-dharma.",
+   "verification": {
+    "status": "pass",
+    "detail": "dharma Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "trāyate",
+   "surface_in_sandhi": "trāyate",
+   "lemma": "trā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "trā",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada form with active sense; Śaṅkara glosses trāyate as rakṣati.",
+   "verification": {
+    "status": "pass",
+    "detail": "trā Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mahataḥ",
+   "surface_in_sandhi": "mahato",
+   "lemma": "mahat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative singular agreeing with bhayāt; visarga becomes -o before bh-.",
+   "verification": {
+    "status": "pass",
+    "detail": "mahat Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhayāt",
+   "surface_in_sandhi": "bhayāt",
+   "lemma": "bhaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of the danger from which one is protected; Śaṅkara identifies it as saṃsāra-bhaya.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhaya Napumsaka/Panchami/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The locative/adverbial scope of iha is not ‘in this world’ in general but the presently taught karma-yoga as a mokṣa-path.",
+   "options_considered": [
+    "iha = here/in this place in a general spatial sense",
+    "iha = in this world",
+    "iha = in the mokṣa-path, karma-yoga"
+   ],
+   "chosen": "iha = ‘here’ in the path to liberation, specifically in karma-yoga",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "neha mokṣa-mārge karma-yoge",
+     "translation": "‘Here’ means ‘on the path to liberation, in karma-yoga.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The compound is taken as a ṣaṣṭhī-tatpuruṣa: ‘destruction/loss of the abhikrama,’ where abhikrama is glossed as prārambha, a beginning or undertaking. The point is that in yoga the initiated effort is not fruitlessly lost as in ordinary ventures such as agriculture.",
+   "options_considered": [
+    "abhikrama = approach/attack in a dictionary sense",
+    "abhikrama-nāśaḥ = loss of effort in a vague sense",
+    "abhikrama-nāśaḥ = loss of the undertaking/beginning, as Śaṅkara defines"
+   ],
+   "chosen": "abhikrama-nāśaḥ = loss/destruction of the undertaking or beginning",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "abhikrama-nāśo 'bhikramaṇam abhikramaḥ prārambhas tasya nāśo nāsti yathā kṛṣyādeḥ",
+     "translation": "Abhikrama is the act of beginning, a commencement; there is no destruction of that, unlike agriculture and the like."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yoga-viṣaye prārambhasya na anaikāntika-phalatvam ity arthaḥ",
+     "translation": "The meaning is: with respect to yoga, the beginning does not have uncertain fruit."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The term is not merely ‘diminution’ or ‘annoyance’; Śaṅkara’s comparison with medical treatment points to a harmful adverse result, which is denied in karma-yoga.",
+   "options_considered": [
+    "pratyavāyaḥ = diminution/decrease",
+    "pratyavāyaḥ = generic annoyance",
+    "pratyavāyaḥ = adverse or harmful consequence, as in a failed therapy"
+   ],
+   "chosen": "pratyavāyaḥ = adverse consequence or harmful reverse result",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "kiṃ ca nāpi cikitsāvat pratyavāyo vidyate bhavati",
+     "translation": "Moreover, nor is there an adverse consequence, as in medical treatment; it does not exist/occur."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara identifies dharmasya as yoga-dharmasya and supplies anuṣṭhitam, so the subject of trāyate is not an abstract ‘smallness’ but even a slight practiced portion of this discipline.",
+   "options_considered": [
+    "svalpam = a small thing without specifying practice",
+    "asya dharmasya = of this religion/law in general",
+    "svalpam api asya dharmasya = even a little of this yoga-dharma, practiced"
+   ],
+   "chosen": "svalpam api asya dharmasya = even a little of this yoga-dharma, when practiced",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "kiṃ tu svalpam api asya dharmasya yoga-dharmasya anuṣṭhitaṃ trāyate",
+     "translation": "But even a little of this dharma, the dharma of yoga, when practiced, protects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The verb trāyate is glossed by rakṣati, ‘protects,’ and mahad bhayam is specified as saṃsāra-bhaya characterized by birth, death, and so on.",
+   "options_considered": [
+    "trāyate = crosses over, without specifying protection",
+    "mahato bhayāt = from a great fear left vague",
+    "mahato bhayāt = from the great fear of saṃsāra, birth-and-death"
+   ],
+   "chosen": "trāyate mahato bhayāt = protects from the great fear of saṃsāra",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "trāyate rakṣati mahataḥ bhayāt saṃsāra-bhayāt janma-maraṇādi-lakṣaṇāt",
+     "translation": "Trāyate means ‘protects’; from the great fear, from the fear of saṃsāra, characterized by birth, death, and the like."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Here, on the path to liberation (mokṣa-mārga), in karma-yoga,\nthere is no loss of an undertaking (abhikrama);\nno adverse consequence (pratyavāya) is found.\nEven a little of this discipline (dharma), when practiced,\nprotects one from the great fear of saṃsāra.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take iha as ‘in this world’ rather than ‘in karma-yoga on the path to liberation.’",
+  "It might translate abhikrama by a dictionary sense such as ‘approach’ or ‘attack,’ missing Śaṅkara’s prārambha, ‘undertaking/beginning,’ and the denial of uncertain fruit.",
+  "It might make pratyavāya a vague ‘loss’ or ‘annoyance,’ rather than the harmful adverse consequence illustrated by medical treatment.",
+  "It might omit the implied anuṣṭhitam, ‘when practiced,’ and fail to identify ‘this dharma’ as yoga-dharma.",
+  "It might leave ‘the great fear’ unspecified, whereas Śaṅkara identifies it as the fear of saṃsāra marked by birth and death."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13589,
+   "completion_tokens": 17669,
+   "reasoning_tokens": 11774
+  },
+  "est_cost": 0.3058,
+  "reverified": true
+ },
+ "mula": "nehābhikrama-nāśo 'sti pratyavāyo na vidyate | svalpam apy asya dharmasya trāyate mahato bhayāt",
+ "commentary_lines": [
+  "neha mokṣa-mārge karma-yoge abhikrama-nāśo 'bhikramaṇam abhikramaḥ prārambhas tasya nāśo nāsti yathā kṛṣyādeḥ |",
+  "yoga-viṣaye prārambhasya na anaikāntika-phalatvam ity arthaḥ |",
+  "kiṃ ca nāpi cikitsāvat pratyavāyo vidyate bhavati |",
+  "kiṃ tu svalpam api asya dharmasya yoga-dharmasya anuṣṭhitaṃ trāyate rakṣati mahataḥ bhayāt saṃsāra-bhayāt janma-maraṇādi-lakṣaṇāt ||bhgs_2.40||",
+  "yeyaṃ sāṃkhye buddhir uktā yoge ca, vakṣyamāṇa-lakṣaṇā sā -"
+ ]
+}

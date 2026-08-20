@@ -1,0 +1,579 @@
+{
+ "unit": "2.24",
+ "analysis": [
+  {
+   "surface": "acchedyaḥ",
+   "surface_in_sandhi": "acchedyo",
+   "lemma": "acchedya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na chedyaḥ",
+    "members": [
+     "nañ",
+     "chedya"
+    ]
+   },
+   "note": "Nañ-tatpuruṣa/kṛtya adjective agreeing with the understood ātmā: “not to be cut.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem acchedya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Deictic pronoun; the bhāṣya identifies the referent as ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "adāhyaḥ",
+   "surface_in_sandhi": "adāhyo",
+   "lemma": "adāhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na dāhyaḥ",
+    "members": [
+     "nañ",
+     "dāhya"
+    ]
+   },
+   "note": "Nañ-tatpuruṣa/kṛtya adjective agreeing with ātmā: “not to be burned.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem adāhya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Deictic pronoun referring to ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "akledyaḥ",
+   "surface_in_sandhi": "akledyo",
+   "lemma": "akledya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na kledyaḥ",
+    "members": [
+     "nañ",
+     "kledya"
+    ]
+   },
+   "note": "Nañ-tatpuruṣa/kṛtya adjective agreeing with ātmā: “not to be moistened/wetted.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem akledya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "aśoṣyaḥ",
+   "surface_in_sandhi": "'śoṣya",
+   "lemma": "aśoṣya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na śoṣyaḥ",
+    "members": [
+     "nañ",
+     "śoṣya"
+    ]
+   },
+   "note": "Nañ-tatpuruṣa/kṛtya adjective agreeing with ātmā: “not to be dried.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem aśoṣya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "eva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle, taken with aśoṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic connective particle.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "nityaḥ",
+   "surface_in_sandhi": "nityaḥ",
+   "lemma": "nitya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective of ātmā: eternal.",
+   "verification": {
+    "status": "pass",
+    "detail": "nitya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvagataḥ",
+   "surface_in_sandhi": "sarva-gataḥ",
+   "lemma": "sarvagata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sarvaṃ gataḥ",
+    "members": [
+     "sarva",
+     "gata"
+    ]
+   },
+   "note": "Compound predicate of ātmā; translated as “all-pervading,” not as a motion-event. Lemma is normalized without the editorial hyphen as sarvagata for derivability; the tatpuruṣa analysis is retained even if the verifier logs the relation as unsupported.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvagata as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sthāṇuḥ",
+   "surface_in_sandhi": "sthāṇur",
+   "lemma": "sthāṇu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here adjectival; Śaṅkara glosses it as sthira, “stable.”",
+   "verification": {
+    "status": "pass",
+    "detail": "sthāṇu Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "acalaḥ",
+   "surface_in_sandhi": "acalo",
+   "lemma": "acala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na calaḥ",
+    "members": [
+     "nañ",
+     "cala"
+    ]
+   },
+   "note": "Nañ-tatpuruṣa adjective agreeing with ātmā: “not moving, immovable.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem acala as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Deictic pronoun referring to ātmā; sandhi before sanātanaḥ gives printed -ṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sanātanaḥ",
+   "surface_in_sandhi": "sanātanaḥ",
+   "lemma": "sanātana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective of ātmā; interpreted by Śaṅkara as ancient/enduring and unproduced from any cause.",
+   "verification": {
+    "status": "pass",
+    "detail": "sanātana Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The repeated masculine nominative predicates and pronouns are taken as predications of the ātmā, not of a body or another unspecified object. Śaṅkara explicitly supplies ātmā as the referent.",
+   "options_considered": [
+    "ayam as a merely unspecified deictic, “this thing”",
+    "ayam as the embodied physical person/body",
+    "ayam as the ātman continuing from the preceding discussion"
+   ],
+   "chosen": "ayam / this = the Self, ātmā",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "enam ātmānaṃ",
+     "translation": "this ātman"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "acalo 'yam ātmā",
+     "translation": "this ātman is immovable"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The forms are read passively as impossibility predicates, not as active qualities. Śaṅkara frames the point as the incapacity of destructive agents to destroy the ātmā.",
+   "options_considered": [
+    "active/descriptive meanings such as “not drying”",
+    "material-property language about a physical substance",
+    "passive impossibility: “not to be cut/burned/wetted/dried”"
+   ],
+   "chosen": "The negative gerundives mean that the Self cannot be cut, burned, moistened, or dried.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "enam ātmānaṃ nāśayituṃ notsahante",
+     "translation": "they are not able to destroy this ātman"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The sequence is not read as literal travel everywhere. Śaṅkara makes all-pervasion follow from eternality: because it is eternal, it is sarvagata.",
+   "options_considered": [
+    "sarva-gata as “gone everywhere” through motion",
+    "sarva-gata as all-pervading/omnipresent predication of the eternal ātman"
+   ],
+   "chosen": "nityaḥ = eternal; sarva-gataḥ = all-pervading",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tasmāt nityaḥ |",
+     "translation": "therefore it is eternal"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "nityatvāt sarvagataḥ |",
+     "translation": "because it is eternal, it is all-pervading"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although sthāṇu can denote a stump, post, or pillar, Śaṅkara glosses the intended sense as sthira, “stable/firm.” The translation therefore avoids a literal noun such as “post.”",
+   "options_considered": [
+    "sthāṇuḥ as the noun “post/stump/pillar”",
+    "sthāṇuḥ as an adjective, “stable, firm”"
+   ],
+   "chosen": "sthāṇuḥ = stable/firm",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sarva-gatatvāt sthāṇur iva, sthira ity etat |",
+     "translation": "because it is all-pervading, like a sthāṇu; that is, stable"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The word is taken as a predicate of the ātmā following from stability, not as the noun “mountain.”",
+   "options_considered": [
+    "acalaḥ as the noun “mountain”",
+    "acalaḥ as the adjective “immovable, unmoving”"
+   ],
+   "chosen": "acalaḥ = immovable/unmoving",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "sthiratvāt acalo 'yam ātmā |",
+     "translation": "because of stability, this ātman is immovable"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara glosses sanātana as cirantana and denies origination from any cause. Hence the translation uses “primordial” rather than merely “old.” The supplied line’s final abhinava ity arthaḥ is understood under the preceding negation, not as an assertion that the Self is “new.”",
+   "options_considered": [
+    "sanātana as merely “old/ancient”",
+    "sanātana as “everlasting” without reference to non-origination",
+    "sanātana as primordial/beginningless, unproduced from any cause"
+   ],
+   "chosen": "sanātanaḥ = primordial/beginningless, not newly produced",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "ataḥ sanātanaś cirantanaḥ, na kāraṇāt kutaścin niṣpannaḥ",
+     "translation": "therefore sanātana means ancient/enduring, not produced from any cause whatsoever"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The verse’s apparent repetition is not flattened away as careless redundancy. Śaṅkara says some repetition is verbal and some semantic, because the ātman is difficult to understand and is being taught again in different words.",
+   "options_considered": [
+    "compressing the verse into a single generic “it is indestructible”",
+    "treating the repetitions as accidental redundancy",
+    "preserving the pedagogical series of restatements"
+   ],
+   "chosen": "The repeated predicates are intentional restatement of the ātman’s eternality and changelessness.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "ātmanaḥ nityatvam avikriyatvaṃ coktam",
+     "translation": "the eternality and changelessness of the ātman have been stated"
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "kiṃcic chabdataḥ punaruktam, kiṃcid arthataḥ iti |",
+     "translation": "some is repeated verbally, some in meaning"
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "durbodhatvāt ātma-vastunaḥ punaḥ punaḥ prasaṅgam āpādya śabdāntareṇa tad eva vastu nirūpayati bhagavān vāsudevaḥ",
+     "translation": "because the reality that is the ātman is hard to understand, Bhagavān Vāsudeva repeatedly brings that very reality into discussion and expounds it in other words"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "The commentary is silent on a special restrictive scope for eva. On grammar and MW s.v. eva, 232,2, I take it as an emphatic particle strengthening aśoṣya, with ca as the connective “and.”",
+   "options_considered": [
+    "exclusive “only” with aśoṣya",
+    "emphatic “indeed” with connective ca"
+   ],
+   "chosen": "eva ca = “and indeed”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "This Self (ātman) cannot be cut; this Self cannot be burned; it cannot be moistened, and indeed cannot be dried. Eternal (nitya), all-pervading (sarvagata), stable (sthāṇu), immovable (acala)—this Self is primordial (sanātana).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render sthāṇuḥ literally as “a post/stump”; Śaṅkara’s sthira gloss makes “stable/firm” the intended sense.",
+  "It might take sarva-gataḥ as motion-language, “gone everywhere”; Śaṅkara’s nityatvāt sarvagataḥ points to all-pervasion of the eternal Self.",
+  "It might translate sanātanaḥ simply as “old” or repeat “eternal”; Śaṅkara adds that the Self is not produced from any cause, so “primordial/beginningless” is intended.",
+  "It might flatten the verse as redundant. Śaṅkara says the repetitions are deliberate restatements of the hard-to-grasp ātman in other words."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 represented sarva_gataḥ as sarva_Cp + gataḥ_gam_SNPaM; for this apparatus I analyze the printed hyphenated word as one inflected tatpuruṣa compound stem sarvagata, Pum Prathama Eka. The verifier’s unsupported relation log is treated as a limitation rather than a reason to abandon the compound analysis.",
+  "ByT5 gave the privative forms only as unanalyzed adjectival stems; I retain its case/number/gender but add traditional nañ-tatpuruṣa vigrahas for acchedya, adāhya, akledya, aśoṣya, and acala."
+ ],
+ "open_questions": [
+  "Line 1 in the supplied plaintext reads asyādīni, which looks corrupt or typo-like in context; the interpretation above does not depend on that token.",
+  "Line 5’s abhinava ity arthaḥ is printed without an explicit second na; I understand it elliptically under the preceding negation as “not new/newly produced,” consistent with sanātanaś cirantanaḥ."
+ ],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12713,
+   "completion_tokens": 22864,
+   "reasoning_tokens": 15836
+  },
+  "est_cost": 0.3811,
+  "reverified": true
+ },
+ "mula": "acchedyo 'yam adāhyo 'yam akledyo 'śoṣya eva ca | nityaḥ sarva-gataḥ sthāṇur acalo 'yaṃ sanātanaḥ",
+ "commentary_lines": [
+  "yasmāt anyonya-nāśa-hetu-bhūtāni enam ātmānaṃ nāśayituṃ notsahante asyādīni tasmāt nityaḥ |",
+  "nityatvāt sarvagataḥ |",
+  "sarva-gatatvāt sthāṇur iva, sthira ity etat |",
+  "sthiratvāt acalo 'yam ātmā |",
+  "ataḥ sanātanaś cirantanaḥ, na kāraṇāt kutaścin niṣpannaḥ, abhinava ity arthaḥ |",
+  "naiteṣāṃ lokānāṃ paunaruktyaṃ codanīyam, yataḥ ekenaiva lokān ātmanaḥ nityatvam avikriyatvaṃ coktam na jāyate mriyate vā ity ādinā |",
+  "tatra yad eva ātma-viṣayaṃ kiṃcid ucyate, tad etasmāt lokārthān nātiricyate |",
+  "kiṃcic chabdataḥ punaruktam, kiṃcid arthataḥ iti |",
+  "durbodhatvāt ātma-vastunaḥ punaḥ punaḥ prasaṅgam āpādya śabdāntareṇa tad eva vastu nirūpayati bhagavān vāsudevaḥ kathaṃ nu nāma saṃsāriṇām asaṃsāritva-buddhi-gocaratām āpannaṃ sat avyaktaṃ tattvaṃ saṃsāra-nivṛttaye syāt iti ||bhgs_2.24||"
+ ]
+}

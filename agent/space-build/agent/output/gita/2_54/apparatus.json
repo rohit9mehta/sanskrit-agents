@@ -1,0 +1,529 @@
+{
+ "unit": "2.54",
+ "analysis": [
+  {
+   "surface": "arjunaḥ",
+   "surface_in_sandhi": "arjuna",
+   "lemma": "arjuna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Final visarga is elided before uvāca in the printed sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "arjuna Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "uvāca",
+   "surface_in_sandhi": "uvāca",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect used narratively: “said.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lit/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sthita-prajñasya",
+   "surface_in_sandhi": "sthita-prajñasya",
+   "lemma": "sthita-prajña",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sthitā prajñā yasya saḥ",
+    "members": [
+     "sthita",
+     "prajñā"
+    ]
+   },
+   "note": "Śaṅkara explicitly analyses this as a bahuvrīhi: prajñā yasya saḥ. The verifier reported tool_error/unsupported for this compound derivation; retained because the commentary gives the analysis directly.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sthita-prajña as Pum/Sasthi/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "kā",
+   "surface_in_sandhi": "kā",
+   "lemma": "ka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative pronoun agreeing with bhāṣā.",
+   "verification": {
+    "status": "pass",
+    "detail": "ka Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhāṣā",
+   "surface_in_sandhi": "bhāṣā",
+   "lemma": "bhāṣā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: here “defining description/expression,” not merely “language.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhāṣā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "samādhi-sthasya",
+   "surface_in_sandhi": "samādhi-sthasya",
+   "lemma": "samādhi-stha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "samādhau sthitaḥ",
+    "members": [
+     "samādhi",
+     "stha"
+    ]
+   },
+   "note": "Locative tatpuruṣa per the gloss samādhau sthitasya. The verifier reported tool_error/unsupported for this compound derivation; retained because the commentary gives the analysis directly.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem samādhi-stha as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "keśava",
+   "surface_in_sandhi": "keśava",
+   "lemma": "keśava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative address to Kṛṣṇa.",
+   "verification": {
+    "status": "pass",
+    "detail": "keśava Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "sthita-dhīḥ",
+   "surface_in_sandhi": "sthita-dhīḥ",
+   "lemma": "sthita-dhī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sthitā dhīḥ yasya saḥ",
+    "members": [
+     "sthita",
+     "dhī"
+    ]
+   },
+   "note": "Śaṅkara equates this with sthita-prajñaḥ; it is the masculine subject of prabhāṣeta, āsīta, and vrajeta. The verifier reported tool_error/unsupported for this compound derivation; retained because the commentary gives the analysis directly.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sthita-dhī as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "kim",
+   "surface_in_sandhi": "kiṃ",
+   "lemma": "kim",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative object of prabhāṣeta: “what.” The verifier’s rejection of stem ka is addressed by recording the pronominal stem here as kim.",
+   "verification": {
+    "status": "pass",
+    "detail": "kim Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "prabhāṣeta",
+   "surface_in_sandhi": "prabhāṣeta",
+   "lemma": "bhāṣ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhāṣ",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada optative form; root and prefix are separated here as required.",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-bhāṣ VidhiLin/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kim",
+   "surface_in_sandhi": "kim",
+   "lemma": "kim",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial interrogative “how,” because Śaṅkara glosses the sitting/walking question with katham.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "āsīta",
+   "surface_in_sandhi": "āsīta",
+   "lemma": "ās",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ās",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Optative: “would sit/abide.”",
+   "verification": {
+    "status": "pass",
+    "detail": "ās VidhiLin/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vrajeta",
+   "surface_in_sandhi": "vrajeta",
+   "lemma": "vraj",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vraj",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Optative: “would walk/go.” The verifier derived the regular Parasmaipada form vrajet but not vrajeta; this analysis is retained as an Ātmanepada epic/metri-causa form of √vraj, consistent with the supplied MW entry noting “mc. also ˚te.”",
+   "verification": {
+    "status": "fail",
+    "detail": "vraj VidhiLin/Prathama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "vrajed",
+     "vrajet",
+     "vrājayed",
+     "vrājayet",
+     "vrājayeta"
+    ]
+   }
+  },
+  {
+   "surface": "kim",
+   "surface_in_sandhi": "kim",
+   "lemma": "kim",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial interrogative “how” with vrajeta.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "sthita-prajña is not translated as an abstract “steady wisdom,” but as a person whose prajñā is firmly established, with Śaṅkara specifying that prajñā as the cognition “I am the supreme Brahman.”",
+   "options_considered": [
+    "karmadhāraya/abstract: “steady wisdom”",
+    "bahuvrīhi/personal: “one whose wisdom is steady”"
+   ],
+   "chosen": "bahuvrīhi: “one whose wisdom is established.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sthitā pratiṣṭhitā aham asmi paraṃ brahma iti prajñā yasya saḥ sthita-prajñas tasya sthita-prajñasya",
+     "translation": "“He whose wisdom—‘I am the supreme Brahman’—is steady, established: he is a sthita-prajña; of that sthita-prajña …”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "bhāṣā is taken as the verbal description or defining characteristic by which such a person is spoken of, not merely as “language.”",
+   "options_considered": [
+    "“language/speech” in a general sense",
+    "“description/definition/characteristic”"
+   ],
+   "chosen": "“defining description/expression” for bhāṣā.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kā bhāṣā kiṃ bhāṣaṇaṃ vacanaṃ katham asau parair bhāṣyate",
+     "translation": "“What is his bhāṣā? What speaking, what utterance? How is he spoken of by others?”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "sthita-prajñasya lakṣaṇam",
+     "translation": "“the characteristic of the sthita-prajña.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "samādhi-sthasya is construed as samādhau sthitasya, with samādhi as the locus in which the person is established.",
+   "options_considered": [
+    "karmadhāraya: “samādhi-like established one”",
+    "locative tatpuruṣa: “established in samādhi”"
+   ],
+   "chosen": "locative tatpuruṣa: “one established in samādhi.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samādhi-sthasya samādhau sthitasya he keśava",
+     "translation": "“O Keśava, of one established in samādhi—standing in samādhi.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The second half continues to ask about the same realized person; sthita-dhīḥ is not a separate abstract “fixed thought.”",
+   "options_considered": [
+    "abstract nominative: “fixed intelligence”",
+    "personal bahuvrīhi: “the steady-minded one”"
+   ],
+   "chosen": "sthita-dhīḥ is the same person as the sthita-prajñaḥ, a masculine nominative bahuvrīhi.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sthita-dhīḥ sthita-prajñaḥ svayaṃ vā kiṃ prabhāṣeta",
+     "translation": "“sthita-dhīḥ means sthita-prajñaḥ; or, what would he himself say?”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The prabhāṣeta question is taken as concerning the sthita-prajña’s own utterance, contrasted with how he is spoken of by others in the bhāṣā question.",
+   "options_considered": [
+    "the same as bhāṣā: how others describe him",
+    "his own speech: what he would himself say"
+   ],
+   "chosen": "“What would he himself say?”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "katham asau parair bhāṣyate",
+     "translation": "“how is he spoken of by others?”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "svayaṃ vā kiṃ prabhāṣeta",
+     "translation": "“or what would he himself say?”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "For āsīta and vrajeta, kim is not taken as an object but as asking the manner or character of the person’s sitting and walking.",
+   "options_considered": [
+    "object-question: “what would he sit/go?”",
+    "manner-question: “how would he sit/walk?”"
+   ],
+   "chosen": "“How would he sit? How would he walk?”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "kim āsīta vrajeta kim āsanaṃ vrajanaṃ vā tasya katham ity arthaḥ",
+     "translation": "“‘How would he sit? How would he walk?’ The meaning is: what is his sitting or walking like?”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "prabhāṣeta, āsīta, and vrajeta are parsed as third singular VidhiLiṅ forms and rendered with English “would,” rather than as plain present indicatives.",
+   "options_considered": [
+    "present-indicative rendering: “does speak/sit/walk”",
+    "optative/potential rendering: “would speak/sit/walk”"
+   ],
+   "chosen": "optative/potential: “would.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Arjuna said:\nO Keśava, what is the defining description (bhāṣā) of one whose wisdom is established (sthita-prajña),\nof one abiding in samādhi (samādhi-stha)?\nWhat would the steady-minded one (sthita-dhī) himself say?\nHow would he sit? How would he walk?",
+ "one_shot_delta": [
+  "A commentary-blind translation might render bhāṣā simply as “language” or “speech,” missing Śaṅkara’s sense: a defining description and how the person is spoken of by others.",
+  "It might treat sthita-prajña and sthita-dhī as separate phrases or abstractions, whereas Śaṅkara reads both as personal bahuvrīhis and explicitly equates sthita-dhīḥ with sthita-prajñaḥ.",
+  "It might translate all three kim forms uniformly as “what” or uniformly as “how”; Śaṅkara distinguishes the person’s own utterance (“what would he say?”) from the manner/nature of sitting and walking (“how?”).",
+  "It might miss that Arjuna is asking for the lakṣaṇa, the recognizable characteristic, of the sthita-prajña."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 splits sthita-prajñasya into sthita + prajñasya; Śaṅkara’s line 1 requires the compound stem sthita-prajña-, a masculine genitive singular bahuvrīhi.",
+  "ByT5 splits samādhi-sthasya into samādhi + sthasya; Śaṅkara’s line 1 gloss samādhau sthitasya supports a locative tatpuruṣa compound samādhi-stha-, masculine genitive singular.",
+  "ByT5 splits sthita-dhīḥ into sthita + dhīḥ; Śaṅkara’s line 2 equates it with sthita-prajñaḥ, so it is analysed as a masculine nominative singular bahuvrīhi compound.",
+  "For the first kim, ByT5’s analysis as a neuter accusative singular interrogative is retained in function, but the lemma/stem is revised from ka to kim after the verifier showed that ka gives kam, not kim.",
+  "ByT5 tags all three instances of kim as neuter subantas; the two associated with āsīta and vrajeta are taken as adverbial avyayas, because Śaṅkara glosses the question about sitting and walking with katham at line 3.",
+  "For prabhāṣeta, ByT5 gives the prefixed lemma prabhāṣ; here the bare root is recorded as bhāṣ with prefix pra, per the required format."
+ ],
+ "open_questions": [
+  "Line 4 appears to contain plaintext noise in “anena lokena pṛcchayate,” likely for “anena ślokena pṛcchyate/pṛcchate”; the apparatus therefore cites only the secure phrase “sthita-prajñasya lakṣaṇam” from that line."
+ ],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13700,
+   "completion_tokens": 18430,
+   "reasoning_tokens": 11777
+  },
+  "est_cost": 0.3175,
+  "reverified": true
+ },
+ "mula": "arjuna uvāca sthita-prajñasya kā bhāṣā samādhi-sthasya keśava | sthita-dhīḥ kiṃ prabhāṣeta kim āsīta vrajeta kim",
+ "commentary_lines": [
+  "sthitā pratiṣṭhitā aham asmi paraṃ brahma iti prajñā yasya saḥ sthita-prajñas tasya sthita-prajñasya kā bhāṣā kiṃ bhāṣaṇaṃ vacanaṃ katham asau parair bhāṣyate samādhi-sthasya samādhau sthitasya he keśava |",
+  "sthita-dhīḥ sthita-prajñaḥ svayaṃ vā kiṃ prabhāṣeta |",
+  "kim āsīta vrajeta kim āsanaṃ vrajanaṃ vā tasya katham ity arthaḥ |",
+  "sthita-prajñasya lakṣaṇam anena lokena pṛcchayate ||bhgs_2.54||"
+ ]
+}

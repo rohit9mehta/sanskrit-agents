@@ -1,0 +1,237 @@
+{
+ "unit": "1.32",
+ "analysis": [
+  {
+   "surface": "tatpratiṣedhārtham",
+   "surface_in_sandhi": "tatpratiṣedhārtham",
+   "lemma": "tatpratiṣedhārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tasya vikṣepasya pratiṣedhasya arthaḥ; acc. artham = vikṣepapratiṣedhāya",
+    "members": [
+     "tad",
+     "pratiṣedha",
+     "artha"
+    ]
+   },
+   "note": "Adverbial accusative in -artham, ‘for the sake/purpose of’; the initial pronoun-stem tad surfaces as tat before p within the compound. Vyāsa glosses the referent as vikṣepa.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tatpratiṣedhārtha as Pum/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ekatattvābhyāsaḥ",
+   "surface_in_sandhi": "ekatattvābhyāsaḥ",
+   "lemma": "ekatattvābhyāsa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "ekasya tattvasya abhyāsaḥ; bhāṣye: ekatattvāvalambanaṃ cittam abhyaset",
+    "members": [
+     "eka",
+     "tattva",
+     "abhyāsa"
+    ]
+   },
+   "note": "Overall a tatpuruṣa, ‘practice/cultivation of a single tattva’; the subcompound eka-tattva is internally karmadhāraya, ‘a single tattva.’ Vyāsa construes this as cultivating the mind with one tattva as its support.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ekatattvābhyāsa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Referent and sense of tat-pratiṣedha",
+   "options_considered": [
+    "prevention of the immediately preceding distraction/disturbance (vikṣepa)",
+    "prohibition or denial of ‘that’ as a proposition",
+    "prevention of every preceding item without the bhāṣya’s narrowing gloss"
+   ],
+   "chosen": "tat in tatpratiṣedha refers to vikṣepa, and pratiṣedha is prevention/warding-off rather than logical denial or mere prohibition.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vikṣepapratiṣedhārtham ekatattvāvalambanaṃ cittam abhyaset.",
+     "translation": "For the prevention of distraction, one should cultivate the mind resting on a single tattva."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Syntactic force of -artham",
+   "options_considered": [
+    "adverbial accusative of purpose, ‘for the sake of ...’",
+    "predicate adjective, ‘having that prevention as its aim’",
+    "an indeclinable whose relation to the practice is left unspecified"
+   ],
+   "chosen": "tatpratiṣedhārtham is an adverbial purpose accusative: ‘for the sake of preventing that [distraction].’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vikṣepapratiṣedhārtham ekatattvāvalambanaṃ cittam abhyaset.",
+     "translation": "For the prevention of distraction, one should cultivate the mind resting on a single tattva."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Meaning and scope of eka-tattva",
+   "options_considered": [
+    "the metaphysical One or one ultimate Reality",
+    "a single tattva/object as meditative support",
+    "the mere fact that each cognition has only one object"
+   ],
+   "chosen": "eka-tattva means a single principle/object serving as the mind’s support, not ‘the One Reality’ as a monistic doctrine.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vikṣepapratiṣedhārtham ekatattvāvalambanaṃ cittam abhyaset.",
+     "translation": "One should cultivate the mind resting on a single tattva for the prevention of distraction."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yadi punar idaṃ sarvataḥ pratyāhṛtyaikasminn arthe samādhīyate tadā bhavaty ekāgram ity ato na pratyarthaniyatam.",
+     "translation": "But if this [mind], withdrawn from all sides, is concentrated on one object, then it becomes one-pointed; therefore it is not fixed object-by-object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Force of abhyāsaḥ",
+   "options_considered": [
+    "a bare abstract noun, ‘repetition/practice,’ with no prescriptive force",
+    "the grammatical technical sense ‘reduplicative syllable’",
+    "a prescriptive yogic cultivation of the mind"
+   ],
+   "chosen": "abhyāsaḥ is a practical prescription: one should cultivate/practice the citta in this one-object support.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vikṣepapratiṣedhārtham ekatattvāvalambanaṃ cittam abhyaset.",
+     "translation": "For the prevention of distraction, one should cultivate the mind resting on a single tattva."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Commentarial background for ‘one-pointed’ practice",
+   "options_considered": [
+    "each momentary cognition is already ekāgra, so no special practice is needed",
+    "a stream of similar cognitions alone accounts for ekāgratā",
+    "one enduring citta is cultivated toward one-object support"
+   ],
+   "chosen": "The practice presupposes one enduring mind that can be distracted or made one-pointed; it is not the automatic one-pointedness of momentary object-specific cognitions or of a mere stream.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yasya tu pratyarthaniyataṃ pratyayamātraṃ kṣaṇikaṃ ca cittaṃ tasya sarvam eva cittam ekāgraṃ nāsty eva vikṣiptam.",
+     "translation": "For one who holds mind to be fixed to each object, mere cognition, and momentary, every mind would be one-pointed, and there would be no distracted mind at all."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "tasmād ekam anekārtham avasthitaṃ cittam iti.",
+     "translation": "Therefore the mind is one, has many objects, and is enduring."
+    },
+    {
+     "lines": [
+      16
+     ],
+     "quote": "tasmād ekam anekārtham avasthitaṃ ca cittam.",
+     "translation": "Therefore the mind is one, has many objects, and is enduring."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For the prevention of that [distraction, vikṣepa], there is cultivation (abhyāsa) of the mind resting on a single principle/object (eka-tattva).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take tat as an unspecified plural ‘those obstacles’; Vyāsa glosses the scope as vikṣepa, distraction.",
+  "It might render eka-tattva as ‘the One Reality,’ whereas the bhāṣya explains it as the mind’s support in one tattva and as concentration on one artha, a single object.",
+  "It might leave abhyāsaḥ as a bare noun ‘practice’; Vyāsa recasts it as the optative prescription cittam abhyaset, ‘one should cultivate the mind.’",
+  "It might miss the polemic against momentariness: Vyāsa insists that practice of one-pointedness belongs to a single enduring citta, not to isolated momentary cognitions that would already be ‘one-pointed.’"
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3889,
+   "completion_tokens": 9405,
+   "reasoning_tokens": 7679
+  },
+  "est_cost": 0.1527,
+  "reverified": true
+ },
+ "mula": "tatpratiṣedhārtham ekatattvābhyāsaḥ",
+ "commentary_lines": [
+  "vikṣepapratiṣedhārtham ekatattvāvalambanaṃ cittam abhyaset.",
+  "yasya tu pratyarthaniyataṃ pratyayamātraṃ kṣaṇikaṃ ca cittaṃ tasya sarvam eva cittam ekāgraṃ nāsty eva vikṣiptam.",
+  "yadi punar idaṃ sarvataḥ pratyāhṛtyaikasminn arthe samādhīyate tadā bhavaty ekāgram ity ato na pratyarthaniyatam.",
+  "yo 'pi sadṛśapratyayapravāhena cittam ekāgraṃ manyate tasyaikāgratā yadi pravāhacittasya dharmas tadaikaṃ nāsti pravāhacittaṃ kṣaṇikatvāt.",
+  "atha pravāhāṃśasyaiva pratyayasya dharmaḥ, sa sarvaḥ sadṛśapratyayapravāhī vā visadṛśapratyayapravāhī vā pratyarthaniyatatvād ekāgra eveti vikṣiptacittānupapattiḥ.",
+  "tasmād ekam anekārtham avasthitaṃ cittam iti.",
+  "yadi ca cittenaikenānanvitāḥ svabhāvabhinnāḥ pratyayā jāyerann atha katham anyapratyayadṛṣṭasyānyaḥ smartā bhavet.",
+  "anyapratyayopacitasya ca karmāśayasyānyaḥ pratyaya upabhoktā bhavet.",
+  "kathaṃcit samādhīyamānam apy etad gomayapāyasīyanyāyam ākṣipati.",
+  "kiṃ ca svātmānubhavāpahnavaś cittasyānyatve prāpnoti.",
+  "katham, yad aham adrākṣaṃ tat spṛśāmi yac cāsprākṣaṃ tat paśyāmīty aham iti pratyayaḥ sarvasya pratyayasya bhede sati pratyayiny abhedenopasthitaḥ.",
+  "ekapratyayaviṣayo 'yam abhedātmāham iti pratyayaḥ katham atyantabhinneṣu citteṣu vartamānaḥ sāmānyam ekaṃ pratyayinam āśrayet.",
+  "svānubhavagrāhyaś cāyam abhedātmāham iti pratyayaḥ.",
+  "na ca pratyakṣasya māhātmyaṃ pramāṇāntareṇābhibhūyate.",
+  "pramāṇāntaraṃ ca pratyakṣabalenaiva vyavahāraṃ labhate.",
+  "tasmād ekam anekārtham avasthitaṃ ca cittam.",
+  "1.32",
+  "yasya cittasyāvasthitasyedaṃ śāstreṇa parikarma nirdiśyate tat katham"
+ ]
+}

@@ -1,0 +1,481 @@
+{
+ "unit": "7",
+ "analysis": [
+  {
+   "surface": "yasmin",
+   "surface_in_sandhi": "yasmin",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative relative pronoun. Śaṅkara explicitly allows either temporal construal with kāla or locative construal with yathoktātman; both are masculine in the cited gloss.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvāṇi",
+   "surface_in_sandhi": "sarvāṇi",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal adjective agreeing with bhūtāni.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "bhūtāni",
+   "surface_in_sandhi": "bhūtāny",
+   "lemma": "bhūta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantive neuter plural, ‘beings’; final -i becomes -y before ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūta Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ātmā",
+   "surface_in_sandhi": "ātmaivābhūd",
+   "lemma": "ātman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: ‘the Self alone.’ Printed in the coalesced sandhi cluster ātmaivābhūd = ātmā eva abhūt.",
+   "verification": {
+    "status": "pass",
+    "detail": "ātman Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "ātmaivābhūd",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Restrictive/emphatic particle, ‘alone, just’; printed within ātmaivābhūd = ātmā eva abhūt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "abhūt",
+   "surface_in_sandhi": "abhūd",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lun",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Root aorist 3rd singular parasmaipada, ‘became/was’; final -t is voiced to -d before vijānataḥ in sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhū Lun/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vijānataḥ",
+   "surface_in_sandhi": "vijānataḥ",
+   "lemma": "vijānat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular masculine present active participle used substantively, ‘of/for the one who knows’; derivationally from vi + √jñā.",
+   "verification": {
+    "status": "pass",
+    "detail": "vijānat Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatra",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative locative adverb to yasmin: ‘there/then,’ with the same temporal or ātman-locative alternatives in the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kaḥ",
+   "surface_in_sandhi": "ko",
+   "lemma": "ka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative pronoun; visarga becomes -o before voiced m in mohaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "ka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mohaḥ",
+   "surface_in_sandhi": "mohaḥ",
+   "lemma": "moha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "‘Delusion’; treated by the commentary as an effect of avidyā and as connected with desire and action.",
+   "verification": {
+    "status": "pass",
+    "detail": "moha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kaḥ",
+   "surface_in_sandhi": "kaḥ",
+   "lemma": "ka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second interrogative pronoun, parallel to ko before mohaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "ka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śokaḥ",
+   "surface_in_sandhi": "śoka",
+   "lemma": "śoka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "‘Sorrow’; final visarga is dropped before ekatvam in the printed sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "śoka Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ekatvam",
+   "surface_in_sandhi": "ekatvam",
+   "lemma": "ekatva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Single abstract noun ‘oneness,’ not eka + tvam; accusative object of anupaśyataḥ. Śaṅkara glosses it as ātmaikatvam, ‘oneness of the Self.’",
+   "verification": {
+    "status": "pass",
+    "detail": "ekatva Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "anupaśyataḥ",
+   "surface_in_sandhi": "anupaśyataḥ",
+   "lemma": "anupaśyat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular masculine present active participle used substantively, ‘of/for one who beholds’; derivationally from anu + √paś.",
+   "verification": {
+    "status": "pass",
+    "detail": "anupaśyat Pum/Sasthi/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The locative relative yasmin and the correlative tatra are not forced into a merely spatial reading. Śaṅkara glosses yasmin both as yasmin kāle and as yathoktātmani, and tatra correspondingly as tasmin kāle or tatrātmani. The translation therefore preserves both: ‘At the time when—or in the Self in which ... there.’",
+   "options_considered": [
+    "Purely temporal: ‘when ... then’",
+    "Purely locative: ‘in whom/in which Self ... there’",
+    "Śaṅkara’s inclusive alternative: temporal or locative in the aforesaid Self"
+   ],
+   "chosen": "yasmin/tatra is rendered with Śaṅkara’s two permitted scopes: temporal ‘when/then’ and locative ‘in the Self/there.’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yasminkāle yathoktātmani vā tānyeva bhūtāni sarvāṇi paramārthātmadarśanādātmaivābhūd ātmaiva saṃvṛtaḥ paramārthavastu vijānataḥ tatra tasminkāle tatrātmani vā ko mohaḥ kaḥ śokaḥ /",
+     "translation": "‘At the time when, or in the aforesaid Self ... there, at that time or in that Self, what delusion, what sorrow?’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The commentary makes the ‘becoming the Self alone’ depend on paramārthātmadarśana, vision of the ultimate Self. Thus ātmā eva is restrictive: all beings are known as nothing but the Self in true knowledge.",
+   "options_considered": [
+    "Cosmological or material transformation of beings",
+    "Identification with an individual self or ego",
+    "Recognition, through ultimate-Self vision, that all beings are the Self alone"
+   ],
+   "chosen": "sarvāṇi bhūtāni are said to have become/been recognized as the Self alone for the knower, not as a physical transformation of beings into an individual ego.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tānyeva bhūtāni sarvāṇi paramārthātmadarśanādātmaivābhūd",
+     "translation": "‘Those very beings, all of them, because of the vision of the ultimate Self, became the Self alone.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The genitive participle is not a finite verb. Śaṅkara glosses its object as paramārthavastu, ‘the ultimate reality,’ and contrasts it with ajānataḥ, ‘of one who does not know,’ for whom sorrow and delusion occur.",
+   "options_considered": [
+    "Finite verbal construal: ‘he knows’",
+    "Ablative ‘from knowing’",
+    "Genitive substantive participle: ‘for/of the knower’"
+   ],
+   "chosen": "vijānataḥ means ‘for/of the one who knows the highest reality.’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "paramārthavastu vijānataḥ",
+     "translation": "‘of the one knowing the ultimate reality’"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "śokaśca mohaśca kāmakarmabījam ajānato bhavati /",
+     "translation": "‘Sorrow and delusion, the seed of desire and action, occur for one who does not know.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The interrogatives are not requests for information. Śaṅkara explains that sorrow and delusion are effects of avidyā and that the verse shows their impossibility by rhetorical challenge; therefore the translation ‘what delusion, what sorrow?’ carries the force ‘none is possible.’",
+   "options_considered": [
+    "A literal open question asking what kind of delusion and sorrow exist",
+    "A denial applying only to sorrow but not delusion",
+    "A rhetorical denial of both delusion and sorrow as avidyā-effects"
+   ],
+   "chosen": "ko mohaḥ kaḥ śokaḥ is a rhetorical denial of the possibility of delusion and sorrow for the knower.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "śokaśca mohaśca kāmakarmabījam ajānato bhavati /",
+     "translation": "‘Sorrow and delusion, the seed of desire and action, occur for one who does not know.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "na tvātmaikatvaṃ viśuddhaṃ gaganopamaṃ paśyataḥ ko mohaḥ kaḥ śoka iti śokamohayoravidyākāryayorākṣepeṇa asambhavapradarśanāt sakāraṇasya saṃsārasyātyantamevocchedaḥ pradarśito bhavati",
+     "translation": "‘But not for one who sees the pure, sky-like oneness of the Self: “what delusion, what sorrow?” By this challenge the impossibility of sorrow and delusion, effects of ignorance, is shown, and the absolute cutting off of saṃsāra together with its cause is displayed.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The commentary glosses ekatvam as ātmaikatvaṃ and anupaśyataḥ by paśyataḥ. This excludes reading ekatvam as a separate eka + tvam sequence and excludes a merely numerical or social ‘unity’; Śaṅkara’s object is the pure oneness of the Self.",
+   "options_considered": [
+    "eka + tvam, ‘one you’",
+    "Abstract numerical unity without reference to Self",
+    "ātmaikatva, the oneness of the Self, as the object seen"
+   ],
+   "chosen": "ekatvam anupaśyataḥ is ‘for one beholding Self-oneness,’ with ekatvam as the accusative object of the participle.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "na tvātmaikatvaṃ viśuddhaṃ gaganopamaṃ paśyataḥ",
+     "translation": "‘But not for one who sees the pure, sky-like oneness of the Self.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "This is decided on grammar rather than commentary: abhūt is the root-aorist form of √bhū, while the regular imperfect would be abhavat. The commentary supports the meaning ‘became/was,’ but the lakāra identification is grammatical.",
+   "options_considered": [
+    "Laṅ/imperfect 3rd singular abhūt",
+    "Luṅ/aorist 3rd singular abhūt"
+   ],
+   "chosen": "abhūt is analyzed as Luṅ/aorist 3rd singular of √bhū.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "At the time when—or in the Self in which—for the knower all beings have become the Self alone: there, what delusion, what sorrow, for one who beholds Self-oneness (ekatva)?",
+ "one_shot_delta": [
+  "A commentary-blind translation might make yasmin/tatra only spatial; Śaṅkara explicitly allows ‘at the time when/then’ as well as ‘in the aforesaid Self/there.’",
+  "It might read ‘all beings became the Self’ as a real transformation in time; Śaṅkara ties it to paramārthātmadarśana, the knower’s vision of the ultimate Self.",
+  "It might take ‘what delusion, what sorrow?’ as an ordinary question; the commentary makes it a rhetorical demonstration of impossibility for one seeing Self-oneness.",
+  "It might follow the analyzer’s split eka + tvam; the commentary’s ātmaikatvaṃ shows that ekatvam is one abstract noun meaning Self-oneness."
+ ],
+ "analyzer_disagreements": [
+  "abhūt: the analyzer only gives a generic finite tag; this apparatus specifies Luṅ/aorist, since √bhū has abhūt as the root-aorist 3rd singular, while the regular Laṅ/imperfect would be abhavat.",
+  "vijānataḥ: the analyzer gives the verbal lemma vijñā; morphologically in the verse it is a subanta, genitive singular masculine present active participle, stem vijānat.",
+  "ekatvam: the analyzer splits eka + tvam; the verse has the single abstract noun ekatva- in the accusative singular neuter, supported by the commentary’s ātmaikatvaṃ ... paśyataḥ in line 3.",
+  "anupaśyataḥ: the analyzer gives the verbal lemma anupaś; morphologically in the verse it is a subanta, genitive singular masculine present active participle, stem anupaśyat."
+ ],
+ "open_questions": [
+  "The unproofread commentary line 1 prints saṃvṛtaḥ; this is likely a surface error for saṃvṛttaḥ, but no distinct doctrinal decision here rests on that exact reading."
+ ],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5319,
+   "completion_tokens": 14762,
+   "reasoning_tokens": 11242
+  },
+  "est_cost": 0.2374,
+  "reverified": true
+ },
+ "mula": "yasmin sarvāṇi bhūtāny ātmaivābhūd vijānataḥ | tatra ko mohaḥ kaḥ śoka ekatvam anupaśyataḥ",
+ "commentary_lines": [
+  "yasminkāle yathoktātmani vā tānyeva bhūtāni sarvāṇi paramārthātmadarśanādātmaivābhūd ātmaiva saṃvṛtaḥ paramārthavastu vijānataḥ tatra tasminkāle tatrātmani vā ko mohaḥ kaḥ śokaḥ /",
+  "śokaśca mohaśca kāmakarmabījam ajānato bhavati /",
+  "na tvātmaikatvaṃ viśuddhaṃ gaganopamaṃ paśyataḥ ko mohaḥ kaḥ śoka iti śokamohayoravidyākāryayorākṣepeṇa asambhavapradarśanāt sakāraṇasya saṃsārasyātyantamevocchedaḥ pradarśito bhavati"
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "unit": "1.48",
+ "analysis": [
+  {
+   "surface": "ṛtaṃbharā",
+   "surface_in_sandhi": "ṛtaṃbharā",
+   "lemma": "ṛtaṃbhara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "ṛtaṃ bharatīti",
+    "members": [
+     "ṛta",
+     "bhara"
+    ]
+   },
+   "note": "Feminine nominative singular agreeing with/predicated of prajñā; lexical sense ‘truth-bearing’ follows the compound and MW, while the Bhāṣya identifies it as the designation of this prajñā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ṛtaṃbhara as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatra",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative adverb; the Bhāṣya glosses it by tasmin.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "prajñā",
+   "surface_in_sandhi": "prajñā",
+   "lemma": "prajñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the nominal sūtra; the Bhāṣya supplies jāyate, ‘arises’.",
+   "verification": {
+    "status": "pass",
+    "detail": "prajñā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The sūtra is read as a nominal statement: ‘the prajñā there is ṛtaṃbharā.’ Vyāsa explicitly says that the prajñā which arises has the designation ṛtaṃbharā.",
+   "options_considered": [
+    "ṛtaṃbharā as a stand-alone noun/name independent of prajñā",
+    "ṛtaṃbharā as an adjective/predicate of prajñā"
+   ],
+   "chosen": "ṛtaṃbharā is predicated of the prajñā, not a separate substantive.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tasmin samāhitacittasya yā prajñā jāyate tasyā ṛtaṃbhareti",
+     "translation": "The wisdom that arises in that, for one whose mind is concentrated—of it [the designation] is ‘ṛtaṃbharā.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The adverb is locative in force. The Bhāṣya glosses tatra with tasmin and links it with the concentrated mind.",
+   "options_considered": [
+    "there/thither as a directional adverb",
+    "in that, locative, referring back to the prior yogic state"
+   ],
+   "chosen": "tatra means ‘in that [state/locus]’, not ‘thither’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tasmin samāhitacittasya yā prajñā jāyate",
+     "translation": "The wisdom that arises in that, for one whose mind is concentrated..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although the sūtra is verbless, Vyāsa supplies jāyate and qualifies the possessor/context as samāhitacittasya.",
+   "options_considered": [
+    "a static abstract ‘wisdom’ with no implied arising",
+    "an insight/cognition that arises in samādhi"
+   ],
+   "chosen": "prajñā is a cognition/insight that arises for the concentrated mind.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samāhitacittasya yā prajñā jāyate",
+     "translation": "the wisdom that arises for one whose mind is concentrated"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The Bhāṣya here identifies the epithet but does not unpack its semantics. The English ‘truth-bearing’ follows the compound ṛtaṃ-bhara and MW s.v. ṛtaṃbhara, ‘bearing the truth in one’s self’.",
+   "options_considered": [
+    "leave ṛtaṃbharā wholly untranslated",
+    "render by the lexical-compound sense ‘truth-bearing’"
+   ],
+   "chosen": "ṛtaṃbharā is rendered ‘truth-bearing’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "There, the insight (prajñā) is truth-bearing (ṛtaṃbharā). In Vyāsa’s terms: it is the prajñā that arises in that state for one whose mind is concentrated.",
+ "one_shot_delta": [
+  "A commentary-blind translation might miss that ṛtaṃbharā is specifically the designation of the prajñā, not an independent entity.",
+  "It might leave tatra as a vague ‘there’; Vyāsa’s tasmin makes it a locative referring back to the preceding yogic state/context.",
+  "It might translate the sūtra as a bare static equation and omit Vyāsa’s point that this prajñā ‘arises’ for the samāhita-citta, the concentrated mind."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2531,
+   "completion_tokens": 3717,
+   "reasoning_tokens": 2555
+  },
+  "est_cost": 0.0633,
+  "reverified": true
+ },
+ "mula": "47ṛtaṃbharā tatra prajñā",
+ "commentary_lines": [
+  "tasmin samāhitacittasya yā prajñā jāyate tasyā ṛtaṃbhareti"
+ ]
+}

@@ -1,0 +1,414 @@
+{
+ "unit": "2.45",
+ "analysis": [
+  {
+   "surface": "traiguṇya-viṣayāḥ",
+   "surface_in_sandhi": "traiguṇya-viṣayā",
+   "lemma": "traiguṇya-viṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "traiguṇyaṃ viṣayaḥ prakāśayitavyaḥ yeṣāṃ te",
+    "members": [
+     "traiguṇya",
+     "viṣaya"
+    ]
+   },
+   "note": "Qualifies vedāḥ; Śaṅkara construes it as an exocentric adjective, 'those for which traiguṇya/saṃsāra is the subject to be revealed.' The Pāṇinian verifier reported a tool_error for the compound stem and unsupported relation logging for bahuvrīhi; I retain the analysis because this is not a demonstrated failure of the form and is directly supported by the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem traiguṇya-viṣaya as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vedāḥ",
+   "surface_in_sandhi": "vedā",
+   "lemma": "veda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the opening nominal clause.",
+   "verification": {
+    "status": "pass",
+    "detail": "veda Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "nistraiguṇyaḥ",
+   "surface_in_sandhi": "nistraiguṇyo",
+   "lemma": "nistraiguṇya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "traiguṇyāt nirgataḥ; niṣkāmaḥ",
+    "members": [
+     "nis",
+     "traiguṇya"
+    ]
+   },
+   "note": "Predicative nominative with bhava; Śaṅkara glosses the practical sense as niṣkāmaḥ, 'desireless.'",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nistraiguṇya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bhava",
+   "surface_in_sandhi": "bhavārjuna",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Imperative governing the sequence of nominative predicates; bhava + arjuna is printed as bhavārjuna.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhū Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "arjuna",
+   "surface_in_sandhi": "bhavārjuna",
+   "lemma": "arjuna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative; its initial a coalesces with the final -a of bhava in bhavārjuna.",
+   "verification": {
+    "status": "pass",
+    "detail": "arjuna Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "nirdvandvaḥ",
+   "surface_in_sandhi": "nirdvandvo",
+   "lemma": "nirdvandva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dvandvāt nirgataḥ",
+    "members": [
+     "nis",
+     "dvandva"
+    ]
+   },
+   "note": "Predicative nominative with bhava understood; Śaṅkara defines the dvandvas as opposed pleasure/pain-causing objects and then says to be gone out from them.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nirdvandva as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nitya-sattva-sthaḥ",
+   "surface_in_sandhi": "nitya-sattva-stho",
+   "lemma": "nitya-sattva-stha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "nityaṃ sattva-guṇe sthaḥ; sadā sattva-guṇāśritaḥ",
+    "members": [
+     "nitya",
+     "sattva",
+     "stha"
+    ]
+   },
+   "note": "Predicative nominative; sattva is Śaṅkara's sattva-guṇa, not merely 'being' or 'essence.' The Pāṇinian verifier reported a tool_error for the compound stem and unsupported relation logging for tatpuruṣa; I retain the analysis because this is not a demonstrated failure of the form and is supported by Śaṅkara's gloss.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem nitya-sattva-stha as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niryoga-kṣemaḥ",
+   "surface_in_sandhi": "niryoga-kṣema",
+   "lemma": "niryoga-kṣema",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yoga-kṣemābhyāṃ nirgataḥ",
+    "members": [
+     "nis",
+     "yoga",
+     "kṣema"
+    ]
+   },
+   "note": "Predicative nominative; not the lexical niryoga 'rope/decoration' plus kṣema. Śaṅkara treats yoga and kṣema as a pair: acquisition of the unacquired and safeguarding of the acquired. The Pāṇinian verifier reported a tool_error for the compound stem and unsupported relation logging for tatpuruṣa; I retain the analysis because this is not a demonstrated failure of the form and is supported by the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem niryoga-kṣema as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ātmavān",
+   "surface_in_sandhi": "ātmavān",
+   "lemma": "ātmavant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular of the possessive -vant stem ātmavant, corresponding to the dictionary headword ātmavat. Śaṅkara glosses the force as apramattaḥ, 'not heedless, vigilant.' Revised from ātmavat to ātmavant because the verifier showed that ātmavat did not derive ātmavān in this environment.",
+   "verification": {
+    "status": "pass",
+    "detail": "ātmavant Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is taken as a bahuvrīhi qualifying vedāḥ, not as a mere karmadhāraya 'three-guṇa subjects' nor as an abstract 'Vedas are objects of traiguṇya.'",
+   "options_considered": [
+    "A bahuvrīhi: Vedas whose subject is traiguṇya/saṃsāra",
+    "A karmadhāraya: Vedas that are themselves three-guṇa subjects",
+    "A vague locative/range sense without the saṃsāra gloss"
+   ],
+   "chosen": "traiguṇya-viṣayāḥ = Vedas whose subject to be revealed is traiguṇya, glossed as saṃsāra.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "traiguṇya-viṣayāḥ traiguṇyaṃ saṃsāro viṣayaḥ prakāśayitavyaḥ yeṣāṃ te vedāḥ traiguṇya-viṣayāḥ |",
+     "translation": "“Traiguṇya-subject”: traiguṇya, namely saṃsāra, is the subject to be made manifest for them; those Vedas are traiguṇya-viṣayāḥ."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara does not let the imperative mean only metaphysical absence of the three guṇas; he glosses its intended sense here as niṣkāmaḥ, free from desire.",
+   "options_considered": [
+    "Metaphysically devoid of sattva, rajas, and tamas",
+    "Free from the desire-bound three-guṇa sphere, i.e. niṣkāmaḥ"
+   ],
+   "chosen": "nistraiguṇyaḥ is rendered practically as 'free from the three-guṇa sphere—desireless.'",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tvaṃ tu nistraiguṇyo bhava arjuna, niṣkāmo bhava ity arthaḥ |",
+     "translation": "But you, Arjuna, be nistraiguṇya; the meaning is: be desireless."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The commentary specifies dvandva as opposed objects connected with pleasure and pain, and explains nir- as being gone out from them.",
+   "options_considered": [
+    "Free from any abstract duality whatsoever",
+    "Free from envy/jealousy",
+    "Free from the opposed pleasure/pain-causing pairs"
+   ],
+   "chosen": "nirdvandvaḥ = free from opposed pairs that cause pleasure and pain.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "nirdvandvaḥ sukha-duḥkha-hetū sa-pratipakṣau padārthau dvandva-śabda-vācyau |",
+     "translation": "The two objects that are causes of pleasure and pain, together with their opposites, are denoted by the word dvandva."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tataḥ nirgataḥ nirdvandvo bhava |",
+     "translation": "Having gone out from those, be nirdvandva."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Sattva is construed as sattva-guṇa, and nitya as sadā, 'always'; not as 'eternal being' or an ontological absolute.",
+   "options_considered": [
+    "Established in eternal being/reality",
+    "Always established in or supported by the sattva-guṇa"
+   ],
+   "chosen": "nitya-sattva-sthaḥ = always established in the sattva-quality.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "nitya-sattva-sthaḥ sadā sattva-guṇāśrito bhava |",
+     "translation": "Be nitya-sattva-stha: always resorting to the sattva-guṇa."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The commentary defines yoga as acquiring what has not been acquired and kṣema as protecting what has been acquired; it further says that one for whom yoga-kṣema is primary has difficulty entering the good, hence the verse enjoins freedom from it.",
+   "options_considered": [
+    "Without yoga and welfare in a general sense",
+    "Without security or prosperity",
+    "Free from concern for acquisition of the unacquired and preservation of the acquired"
+   ],
+   "chosen": "niryoga-kṣemaḥ = free from concern for acquisition and safeguarding.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "tathā niryoga-kṣemo 'nupāttasya upādānaṃ yogaḥ, upāttasya rakṣaṇaṃ kṣemaḥ, yoga-kṣema-pradhānasya śreyasi pravṛttir duṣkarā ity ataḥ niryoga-kṣemo bhava |",
+     "translation": "Likewise be niryoga-kṣema: yoga is acquiring what has not been acquired, kṣema is guarding what has been acquired; because progress toward the good is difficult for one whose main concern is yoga-kṣema, therefore be niryoga-kṣema."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Rather than the literal 'having a self/soul,' Śaṅkara glosses the ethical-ascetic force as apramattaḥ, not negligent.",
+   "options_considered": [
+    "Having a self/soul",
+    "Self-possessed and vigilant, not heedless"
+   ],
+   "chosen": "ātmavān = self-possessed, vigilant/not heedless.",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "ātmavān apramattaś ca bhava |",
+     "translation": "Be ātmavān, and not heedless."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The Vedas have the three-guṇa saṃsāra as their subject.\nBut you, Arjuna, be free of that three-guṇa sphere—desireless;\nfree from the opposed pairs, ever established in the sattva-quality,\nfree from concern for acquisition (yoga) and safeguarding (kṣema), self-possessed and vigilant.",
+ "one_shot_delta": [
+  "A commentary-blind translation might make traiguṇya merely 'the three guṇas'; Śaṅkara glosses it here as saṃsāra, the three-guṇa worldly sphere that the Vedas reveal.",
+  "It might render nistraiguṇyaḥ as only metaphysical guṇa-transcendence; Śaṅkara gives the immediate practical sense: niṣkāmaḥ, desireless.",
+  "It might take nitya-sattva-sthaḥ as 'established in eternal being'; Śaṅkara says 'always resorting to the sattva-guṇa.'",
+  "It might translate yoga-kṣema as 'yoga and welfare/security'; Śaṅkara defines yoga as acquisition of the unacquired and kṣema as protection of the acquired.",
+  "It might render ātmavān literally as 'having a soul'; Śaṅkara's gloss points to vigilance or self-possession: apramattaḥ."
+ ],
+ "analyzer_disagreements": [
+  "For inflected compounds the ByT5 output gives head lemmas viṣaya, stha, and kṣema; per the requested analysis I use the whole compound stems traiguṇya-viṣaya, nitya-sattva-stha, and niryoga-kṣema.",
+  "For niryoga-kṣemaḥ, ByT5's niryoga_Cp kṣemaḥ segmentation could suggest a compound headed simply by kṣema. Śaṅkara line 6 defines yoga and kṣema separately and treats yoga-kṣema as the concern to abandon, so I analyze the whole as nis + yoga-kṣema, 'free from acquisition and safeguarding.'",
+  "I normalize the tagger's nirdvaṃdva spelling to the verse/commentary spelling nirdvandva; this is orthographic, not a change of grammatical features.",
+  "I add samāsa analyses for the prefixed adjectives nistraiguṇyaḥ and nirdvandvaḥ, which ByT5 left as simple nominal stems.",
+  "For ātmavān, ByT5 gives ātmavat_SNM; after the verifier report I record the derivational possessive stem as ātmavant for Pum/Prathama/Eka, while noting that ātmavat is the dictionary headword."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 9,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12309,
+   "completion_tokens": 19852,
+   "reasoning_tokens": 13537
+  },
+  "est_cost": 0.3347,
+  "reverified": true
+ },
+ "mula": "traiguṇya-viṣayā vedā nistraiguṇyo bhavārjuna | nirdvandvo nitya-sattva-stho niryoga-kṣema ātmavān",
+ "commentary_lines": [
+  "traiguṇya-viṣayāḥ traiguṇyaṃ saṃsāro viṣayaḥ prakāśayitavyaḥ yeṣāṃ te vedāḥ traiguṇya-viṣayāḥ |",
+  "tvaṃ tu nistraiguṇyo bhava arjuna, niṣkāmo bhava ity arthaḥ |",
+  "nirdvandvaḥ sukha-duḥkha-hetū sa-pratipakṣau padārthau dvandva-śabda-vācyau |",
+  "tataḥ nirgataḥ nirdvandvo bhava |",
+  "nitya-sattva-sthaḥ sadā sattva-guṇāśrito bhava |",
+  "tathā niryoga-kṣemo 'nupāttasya upādānaṃ yogaḥ, upāttasya rakṣaṇaṃ kṣemaḥ, yoga-kṣema-pradhānasya śreyasi pravṛttir duṣkarā ity ataḥ niryoga-kṣemo bhava |",
+  "ātmavān apramattaś ca bhava |",
+  "eṣa tava upadeśaḥ sva-dharmam anutiṣṭhataḥ ||bhgs_2.45||",
+  "sarveṣu vedokteṣu karmasu yāny uktāny anantāni phalāni tāni nāpekṣyante cet, kim arthaṃ tāni īśvarāyety anuṣṭhīyante ity ucyate |",
+  "sṛṇu -"
+ ]
+}

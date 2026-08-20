@@ -1,0 +1,242 @@
+{
+ "unit": "1.18",
+ "analysis": [
+  {
+   "surface": "virāmapratyayābhyāsapūrvaḥ",
+   "surface_in_sandhi": "virāmapratyayābhyāsapūrvaḥ",
+   "lemma": "virāmapratyayābhyāsapūrva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "virāmapratyayasya abhyāsaḥ pūrvaḥ yasya saḥ",
+    "members": [
+     "virāma",
+     "pratyaya",
+     "abhyāsa",
+     "pūrva"
+    ]
+   },
+   "note": "Whole compound stem inflected as a masculine nominative singular adjective to the implied anyaḥ samādhi/nirodha. Internally, virāma-pratyaya is understood from the bhāṣya as an objectless/contentless cessation-cognition, and abhyāsa as its practice.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem virāmapratyayābhyāsapūrva as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saṃskāraśeṣaḥ",
+   "surface_in_sandhi": "saṃskāraśeṣo",
+   "lemma": "saṃskāraśeṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "saṃskāraḥ śeṣaḥ yasya saḥ",
+    "members": [
+     "saṃskāra",
+     "śeṣa"
+    ]
+   },
+   "note": "Qualifies the implied samādhi/nirodha: not a standalone subject ‘the residue of saṃskāras,’ but a state in which saṃskāra remains after the vṛttis have ceased.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem saṃskāraśeṣa as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anyaḥ",
+   "surface_in_sandhi": "'nyaḥ",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to the other samādhi, identified by Vyāsa as asaṃprajñāta/nirbīja samādhi, i.e. the mind’s nirodha.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Resolve the implied subject and referent of anyaḥ.",
+   "options_considered": [
+    "an unspecified ‘other’ thing",
+    "another practice or cognition",
+    "the other samādhi, asaṃprajñāta/nirbīja, as distinct from the preceding samprajñāta"
+   ],
+   "chosen": "anyaḥ means the other samādhi, namely asaṃprajñāta/nirbīja samādhi, described as nirodha of the mind.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvavṛttipratyastamaye saṃskāraśeṣo nirodhaś cittasya samādhir asaṃprajñātaḥ.",
+     "translation": "When all mental activities have set, the mind’s nirodha, with saṃskāra as remainder, is asaṃprajñāta samādhi."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tadabhyāsapūrvakaṃ hi cittaṃ nirālambanam abhāvaprāptam iva bhavatīty eṣa nirbījaḥ samādhir asaṃprajñātaḥ.",
+     "translation": "For the mind, preceded by practice of that, becomes supportless, as though it had reached absence; this is seedless samādhi, asaṃprajñāta."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Determine the sense of virāmapratyaya.",
+   "options_considered": [
+    "pratyaya as ordinary belief or conviction",
+    "pratyaya as a real object-cognition of cessation",
+    "virāma-pratyaya as an objectless/contentless cessation-cognition"
+   ],
+   "chosen": "virāma-pratyaya is the objectless/contentless cessation-cognition taken as an ālambana, not an ordinary object-supported idea or merely a ‘belief’.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sālambano hy abhyāsas tatsādhanāya na kalpata iti virāmapratyayo nirvastuka ālambanīkriyate.",
+     "translation": "For object-supported practice is not fit as a means to it; therefore the virāma-pratyaya, objectless, is made the support."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "sa cārthaśūnyaḥ.",
+     "translation": "And it is empty of an object/content."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvavṛttipratyastamaye saṃskāraśeṣo nirodhaś cittasya samādhir asaṃprajñātaḥ.",
+     "translation": "At the setting of all vṛttis, the nirodha of the mind with saṃskāra as remainder is asaṃprajñāta samādhi."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Construe the compound relation of abhyāsa-pūrva in virāmapratyayābhyāsapūrvaḥ.",
+   "options_considered": [
+    "a former practice called virāma-pratyaya",
+    "something prior to the practice of virāma-pratyaya",
+    "the samādhi/nirodha preceded or conditioned by practice of the virāma-pratyaya"
+   ],
+   "chosen": "virāmapratyayābhyāsapūrvaḥ means ‘preceded by, or having as its prior condition, the practice of the virāma-pratyaya’.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tadabhyāsapūrvakaṃ hi cittaṃ nirālambanam abhāvaprāptam iva bhavatīty eṣa nirbījaḥ samādhir asaṃprajñātaḥ.",
+     "translation": "For the mind, having the practice of that as its prior condition, becomes supportless, as though it had reached absence; this is seedless samādhi, asaṃprajñāta."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sālambano hy abhyāsas tatsādhanāya na kalpata iti virāmapratyayo nirvastuka ālambanīkriyate.",
+     "translation": "Object-supported practice is not fit as a means to it; therefore the objectless virāma-pratyaya is taken as the support."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Interpret saṃskāraśeṣaḥ and its scope.",
+   "options_considered": [
+    "‘a remaining saṃskāra’ as the main subject",
+    "‘the residue of saṃskāras’ as a substantive",
+    "a samādhi/nirodha-state in which only saṃskāra remains after cessation of vṛttis"
+   ],
+   "chosen": "saṃskāraśeṣaḥ is bahuvrīhi in force: the samādhi/nirodha has saṃskāra as the remaining residue after all vṛttis cease; it is not total annihilation.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvavṛttipratyastamaye saṃskāraśeṣo nirodhaś cittasya samādhir asaṃprajñātaḥ.",
+     "translation": "When all vṛttis have set, the mind’s nirodha, with saṃskāra as remainder, is asaṃprajñāta samādhi."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tadabhyāsapūrvakaṃ hi cittaṃ nirālambanam abhāvaprāptam iva bhavatīty eṣa nirbījaḥ samādhir asaṃprajñātaḥ.",
+     "translation": "The mind, preceded by the practice of that, becomes supportless, as though it had reached absence; this is seedless samādhi, asaṃprajñāta."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The other [samādhi], preceded by the practice (abhyāsa) of the cessation-cognition (virāma-pratyaya), has only latent impressions (saṃskāra) remaining.",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave anyaḥ vague; Vyāsa identifies it as asaṃprajñāta, nirbīja samādhi, the mind’s nirodha.",
+  "It might render pratyaya as ordinary ‘belief’ or ‘conviction’; Vyāsa makes the virāma-pratyaya an objectless, contentless ālambana.",
+  "It might take saṃskāraśeṣaḥ as a substantive ‘remainder of impressions’; the bhāṣya construes it adjectivally with samādhi/nirodha: the vṛttis have ceased, but saṃskāra remains.",
+  "It might read the state as simple non-being; Vyāsa says the mind becomes as though it had reached absence, while still being saṃskāra-śeṣa."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3520,
+   "completion_tokens": 7672,
+   "reasoning_tokens": 5611
+  },
+  "est_cost": 0.1256,
+  "reverified": true
+ },
+ "mula": "virāmapratyayābhyāsapūrvaḥ saṃskāraśeṣo 'nyaḥ",
+ "commentary_lines": [
+  "sarvavṛttipratyastamaye saṃskāraśeṣo nirodhaś cittasya samādhir asaṃprajñātaḥ.",
+  "tasya paraṃ vairāgyam upāyaḥ.",
+  "sālambano hy abhyāsas tatsādhanāya na kalpata iti virāmapratyayo nirvastuka ālambanīkriyate.",
+  "sa cārthaśūnyaḥ.",
+  "tadabhyāsapūrvakaṃ hi cittaṃ nirālambanam abhāvaprāptam iva bhavatīty eṣa nirbījaḥ samādhir asaṃprajñātaḥ.",
+  "1.18",
+  "sa khalv ayaṃ dvividhaḥ"
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "unit": "1.28",
+ "analysis": [
+  {
+   "surface": "tajjapaḥ",
+   "surface_in_sandhi": "tajjapas",
+   "lemma": "tajjapa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tasya (praṇavasya) japaḥ",
+    "members": [
+     "tad",
+     "japa"
+    ]
+   },
+   "note": "The compound’s internal sandhi is tad + japa > tajjapa; the external saṃhitā form before tad- is tajjapas.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tajjapa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tadarthabhāvanam",
+   "surface_in_sandhi": "tadarthabhāvanam",
+   "lemma": "tadarthabhāvana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tasya (praṇavasya) arthaḥ tadarthaḥ; tadarthasya (praṇavābhidheyasya īśvarasya) bhāvanam",
+    "members": [
+     "tad",
+     "artha",
+     "bhāvana"
+    ]
+   },
+   "note": "Formally neuter nominative/accusative singular; construed here as nominative, coordinated with tajjapaḥ. Nested compound: tadartha = tasya arthaḥ, where the commentary identifies the artha as Īśvara, the abhidheya of praṇava.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tadarthabhāvana as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first tad is not a vague “that” nor directly Īśvara; Vyāsa glosses it as praṇava. The compound is therefore a genitive tatpuruṣa, “repetition of praṇava.”",
+   "options_considered": [
+    "tad = praṇava, the sacred syllable from the preceding sūtra",
+    "tad = Īśvara directly",
+    "tad = an unspecified prior object"
+   ],
+   "chosen": "tajjapaḥ = praṇavasya japaḥ, “repetition of that praṇava.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "praṇavasya japaḥ",
+     "translation": "the repetition of praṇava"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The word artha is taken as “meaning, referent,” not as “purpose” or “benefit.” Vyāsa identifies that artha with Īśvara as the abhidheya, the entity denoted by praṇava.",
+   "options_considered": [
+    "artha = meaning/referent signified by praṇava",
+    "artha = purpose or benefit of repetition",
+    "artha = a merely abstract meaning not identified with Īśvara"
+   ],
+   "chosen": "tadartha = the referent/signified of praṇava, namely Īśvara.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "praṇavābhidheyasya ceśvarasya",
+     "translation": "and of Īśvara, the one denoted by praṇava"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The head bhāvanam is a noun of contemplation/mental cultivation, with the tadartha as its object. Vyāsa’s gloss makes the object of contemplation Īśvara, not the phonetic syllable alone. The supplied line prints final bhāvana; I use it as a nominal semantic gloss, while retaining the sūtra’s inflected bhāvanam in the analysis.",
+   "options_considered": [
+    "contemplation of the meaning/referent, Īśvara",
+    "contemplation of the syllable’s sound alone",
+    "a qualifier such as “meaningful repetition”"
+   ],
+   "chosen": "tadarthabhāvanam = contemplation of that referent, Īśvara.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "praṇavābhidheyasya ceśvarasya bhāvana",
+     "translation": "the contemplation of Īśvara, the one denoted by praṇava"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The sūtra has no finite verb; tajjapaḥ is unambiguously nominative singular, so the neuter tadarthabhāvanam is construed as nominative singular in a nominal coordination rather than as an accusative governed by an unexpressed verb.",
+   "options_considered": [
+    "nominative coordination: repetition and contemplation",
+    "accusative object of an implied imperative such as kuryāt or bhāvayet"
+   ],
+   "chosen": "Two coordinated practice-nouns: tajjapaḥ and tadarthabhāvanam.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Repetition (japa) of that [praṇava], and contemplation (bhāvana) of its meaning—the Īśvara denoted by praṇava.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take tajjapaḥ as “repetition of him/that” and miss Vyāsa’s specification that what is repeated is praṇava.",
+  "It might translate tadartha as “for that purpose” or “the benefit of that,” whereas Vyāsa takes it as the abhidheya, the signified referent, Īśvara.",
+  "It might collapse the sūtra into “meaningful recitation,” rather than two coordinated practices: japa and bhāvana."
+ ],
+ "analyzer_disagreements": [
+  "For tadarthabhāvanam, the ByT5 output gives bhāvanam_bhāvanā_SNNe. I take the full compound stem as tadarthabhāvana, not an ā-stem bhāvanā, because the sūtra form -am requires a neuter -a stem if nominative/accusative singular; the commentary supports the sense of bhāvana but not an ā-stem inflection.",
+  "The ByT5 segmentation lists compound components separately; the apparatus analyzes the two inflected sūtra-words as whole compound subantas, as required for compound stems."
+ ],
+ "open_questions": [
+  "The supplied commentary line ends with bhāvana rather than the sūtra’s bhāvanam or the expected feminine bhāvanā; I have treated this as a semantic nominal gloss and not as decisive evidence for the sūtra-word’s inflection."
+ ],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2725,
+   "completion_tokens": 8527,
+   "reasoning_tokens": 7071
+  },
+  "est_cost": 0.1361,
+  "reverified": true
+ },
+ "mula": "tajjapas tadarthabhāvanam",
+ "commentary_lines": [
+  "praṇavasya japaḥ praṇavābhidheyasya ceśvarasya bhāvana"
+ ]
+}

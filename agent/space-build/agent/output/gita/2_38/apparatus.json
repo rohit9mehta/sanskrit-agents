@@ -1,0 +1,439 @@
+{
+ "unit": "2.38",
+ "analysis": [
+  {
+   "surface": "sukhaduḥkhe",
+   "surface_in_sandhi": "sukha-duḥkhe",
+   "lemma": "sukhaduḥkha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "sukhaṃ ca duḥkhaṃ ca",
+    "members": [
+     "sukha",
+     "duḥkha"
+    ]
+   },
+   "note": "Formally also Prathama dual, but here taken as Dvitiya dual object of kṛtvā; Śaṅkara glosses it directly with same/tulye. Revised to the unhyphenated prakriyā stem sukhaduḥkha; the verifier’s dvandva-relation rejection is only reported as unsupported/logged, so the dvandva analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sukhaduḥkha as Napumsaka/Dvitiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "same",
+   "surface_in_sandhi": "same",
+   "lemma": "sama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective with sukha-duḥkhe: ‘equal/alike’.",
+   "verification": {
+    "status": "pass",
+    "detail": "sama Napumsaka/Dvitiya/Dvi: pass"
+   }
+  },
+  {
+   "surface": "kṛtvā",
+   "surface_in_sandhi": "kṛtvā",
+   "lemma": "kṛ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "kṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive/converb: ‘having made’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "lābhālābhau",
+   "surface_in_sandhi": "lābhālābhau",
+   "lemma": "lābhālābha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "lābhaś ca alābhaś ca",
+    "members": [
+     "lābha",
+     "alābha"
+    ]
+   },
+   "note": "Accusative dual object understood with samau kṛtvā, supplied by Śaṅkara.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem lābhālābha as Pum/Dvitiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "jayājayau",
+   "surface_in_sandhi": "jayājayau",
+   "lemma": "jayājaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "jayaś ca ajayaś ca",
+    "members": [
+     "jaya",
+     "ajaya"
+    ]
+   },
+   "note": "Accusative dual object understood with samau kṛtvā, supplied by Śaṅkara.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem jayājaya as Pum/Dvitiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tataḥ",
+   "surface_in_sandhi": "tato",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal tataḥ appears as tato before yuddhāya by external sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yuddhāya",
+   "surface_in_sandhi": "yuddhāya",
+   "lemma": "yuddha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative of purpose/goal with yujyasva: ‘for/to battle’.",
+   "verification": {
+    "status": "pass",
+    "detail": "yuddha Napumsaka/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "yujyasva",
+   "surface_in_sandhi": "yujyasva",
+   "lemma": "yuj",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yuj",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "2nd singular imperative in a passive/yak-form; Śaṅkara’s gloss ghaṭāsva gives the idiomatic sense ‘apply yourself, strive’, not merely literal ‘be yoked’.",
+   "verification": {
+    "status": "pass",
+    "detail": "yuj Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "naivaṃ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Fused with evam in the printed naivaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "evam",
+   "surface_in_sandhi": "naivaṃ",
+   "lemma": "evam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Underlying evam; in naivaṃ, na + evam gives nai-, and final -m is written anusvāra before pāpam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "pāpam",
+   "surface_in_sandhi": "pāpam",
+   "lemma": "pāpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter accusative singular substantive object of avāpsyasi: ‘sin/evil’.",
+   "verification": {
+    "status": "pass",
+    "detail": "pāpa Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "avāpsyasi",
+   "surface_in_sandhi": "avāpsyasi",
+   "lemma": "āp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "āp",
+    "prefixes": [
+     "ava"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Simple future, 2nd singular: ‘you will incur/obtain’; the prefixed lexical form is avāp.",
+   "verification": {
+    "status": "pass",
+    "detail": "ava-āp Lrt/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "same is not merely ‘same’ in a loose lexical sense: Śaṅkara glosses it as tulye, and explains the point of this equalizing as not producing rāga and dveṣa toward pleasure and pain.",
+   "options_considered": [
+    "make pleasure and pain physically level",
+    "regard pleasure and pain as simply identical",
+    "treat pleasure and pain equally, without attachment and aversion"
+   ],
+   "chosen": "“Having made pleasure and pain alike—without forming attachment and aversion.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sukha-duḥkhe same tulye kṛtvā, rāga-dveṣāv apy akṛtvety etat |",
+     "translation": "Having made pleasure and pain the same, equal; that is, also not having made attachment and aversion."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The verse has same only with the neuter dual sukha-duḥkhe, but Śaṅkara explicitly supplies samau kṛtvā for the two masculine dual pairs lābhālābhau and jayājayau. The translation therefore repeats ‘alike/equal’ for both pairs.",
+   "options_considered": [
+    "take same as agreeing only with sukha-duḥkhe and leave the other pairs unqualified",
+    "make all three contrast-pairs objects of kṛtvā with equalizing supplied for the latter two",
+    "treat lābhālābhau jayājayau as nominatives"
+   ],
+   "chosen": "“and likewise gain and loss, victory and defeat alike.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tathā lābhālābhau jayājayau ca samau kṛtvā tato yuddhāya yujyasva ghaṭāsva |",
+     "translation": "Likewise, having made gain-and-loss and victory-and-defeat equal, then apply yourself for battle; strive."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "yuddhāya is construed as the dative goal/purpose of yujyasva, and yujyasva is translated idiomatically from Śaṅkara’s ghaṭāsva, ‘strive/apply yourself,’ rather than as a bare literal ‘be yoked’.",
+   "options_considered": [
+    "be yoked for battle",
+    "practice yoga for battle",
+    "apply yourself / strive for battle"
+   ],
+   "chosen": "“then apply yourself to battle.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tathā lābhālābhau jayājayau ca samau kṛtvā tato yuddhāya yujyasva ghaṭāsva |",
+     "translation": "Likewise, having made gain-and-loss and victory-and-defeat equal, then apply yourself for battle; strive."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara expands evam as modifying the manner of fighting—evaṃ yuddhaṃ kurvan—not as an adjective to pāpam (‘such sin’). pāpam is the accusative object of avāpsyasi.",
+   "options_considered": [
+    "you will not incur such a sin",
+    "in this way, while fighting, you will not incur sin",
+    "do not thus incur sin"
+   ],
+   "chosen": "“fighting thus, you will not incur sin (pāpa).”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "na evaṃ yuddhaṃ kurvan pāpam avāpsyasi |",
+     "translation": "Fighting in this way, you will not incur sin."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "This contextual scope does not change the bare sentence meaning, but it prevents over-reading the verse as Śaṅkara’s main tātparya; he calls this upadeśa prāsaṅgika and says that paramārtha-darśana is the present topic.",
+   "options_considered": [
+    "make this verse the main doctrinal conclusion",
+    "read it as an incidental instruction within the broader teaching whose main topic is paramārtha-darśana"
+   ],
+   "chosen": "Treat the verse as an incidental practical instruction in Śaṅkara’s sequence, not the final doctrinal purport.",
+   "evidence": [
+    {
+     "lines": [
+      4,
+      6
+     ],
+     "quote": "ity eṣa upadeśaḥ prāsaṅgikaḥ ||bhgs_2.38||\nparamārtha-darśanam iha prakṛtam |",
+     "translation": "Thus this instruction is incidental. The vision of ultimate reality is what is under discussion here."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Making pleasure and pain alike—without forming attachment and aversion (rāga-dveṣa)—\nand likewise gain and loss, victory and defeat alike,\nthen apply yourself to battle;\nfighting thus, you will not incur sin (pāpa).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might leave lābhālābhau and jayājayau without the supplied ‘equal/alike’; Śaṅkara explicitly supplies samau kṛtvā for them.",
+  "It might translate yujyasva literally as ‘be yoked’ or doctrinally as ‘practice yoga,’ missing Śaṅkara’s ghaṭāsva, ‘apply yourself/strive’.",
+  "It might take evam with pāpam—‘such sin’—instead of with the manner of fighting; Śaṅkara expands it as evaṃ yuddhaṃ kurvan.",
+  "It might miss that equalizing pleasure and pain entails not producing attachment and aversion (rāga-dveṣa).",
+  "It might present the verse as the main purport of the teaching, whereas Śaṅkara calls this upadeśa prāsaṅgika and keeps paramārtha-darśana as the main topic."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 represents sukha-duḥkhe, lābhālābhau, and jayājayau as compound-part plus final member; this apparatus records each as a single dvandva compound stem, with members separately in samāsa analysis. For sukha-duḥkhe the prakriyā/checking lemma is now written unhyphenated as sukhaduḥkha, while surface_in_sandhi preserves the printed hyphen.",
+  "ByT5’s DuANe tags leave Prathama/Dvitiya ambiguity for sukha-duḥkhe and same; here both are fixed as Dvitiya dual because they are governed by kṛtvā in Śaṅkara’s gloss.",
+  "ByT5 labels kṛtvā as a converb; the required schema has no separate converb category, so it is recorded as an avyaya with root kṛ and Kartari sense.",
+  "ByT5 lemmatizes avāpsyasi as prefixed avāp; per the requested format it is analyzed as bare root āp with prefix ava."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14209,
+   "completion_tokens": 21129,
+   "reasoning_tokens": 15358
+  },
+  "est_cost": 0.3596,
+  "reverified": true
+ },
+ "mula": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṃ pāpam avāpsyasi",
+ "commentary_lines": [
+  "sukha-duḥkhe same tulye kṛtvā, rāga-dveṣāv apy akṛtvety etat |",
+  "tathā lābhālābhau jayājayau ca samau kṛtvā tato yuddhāya yujyasva ghaṭāsva |",
+  "na evaṃ yuddhaṃ kurvan pāpam avāpsyasi |",
+  "ity eṣa upadeśaḥ prāsaṅgikaḥ ||bhgs_2.38||",
+  "śoka-mohāpanayanāya laukiko nyāyaḥ svadharmam api cāvekṣya ity ādyaiḥ lokair uktaḥ, na tu tātparyeṇa |",
+  "paramārtha-darśanam iha prakṛtam |",
+  "tac coktam upasaṃhriyate -- eṣā te 'bhihitā iti śāstra-viṣaya-vibhāga-pradarśanāya |",
+  "iha hi pradarśite punaḥ śāstra-viṣaya-vibhāge upariṣṭāt jñāna-yogena sāṃkhyānāṃ karma-yogena yoginām iti niṣṭhā-dvaya-viṣayaṃ śāstraṃ sukhaṃ pravartiṣyate, śrotāraś ca viṣaya-vibhāgena sukhaṃ grahīṣyanti ity ata āha ---"
+ ]
+}

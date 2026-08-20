@@ -1,0 +1,237 @@
+{
+ "unit": "1.14",
+ "analysis": [
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal nominative singular masculine; pausal saḥ is printed as sa before tu by sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tu",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adversative/continuative particle, translated here as “but.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dīrghakālanairantaryasatkārāsevitaḥ",
+   "surface_in_sandhi": "dīrghakālanairantaryasatkārāsevito",
+   "lemma": "dīrghakālanairantaryasatkārāsevita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dīrghakālam nirantaraṃ satkāreṇa ca āsevitaḥ",
+    "members": [
+     "dīrghakāla",
+     "nairantarya",
+     "satkāra",
+     "āsevita"
+    ]
+   },
+   "note": "A nominative masculine singular compound adjective qualifying saḥ, with āsevita internally a past passive participle from ā-√sev.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dīrghakālanairantaryasatkārāsevita as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "dṛḍhabhūmiḥ",
+   "surface_in_sandhi": "dṛḍhabhūmiḥ",
+   "lemma": "dṛḍhabhūmi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "dṛḍhā bhūmir yasya saḥ",
+    "members": [
+     "dṛḍha",
+     "bhūmi"
+    ]
+   },
+   "note": "Although bhūmi is feminine as an independent noun, the whole bahuvrīhi is masculine nominative singular, agreeing with saḥ/abhyāsaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dṛḍhabhūmi as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The sūtra is nominal in form, but the bhāṣya explicitly supplies bhavati with dṛḍhabhūmiḥ. Hence the English should not leave dṛḍhabhūmiḥ as a bare appositional noun such as “a firm ground,” but make it a predicate of the prior practice.",
+   "options_considered": [
+    "Supply “is/becomes” and make dṛḍhabhūmiḥ the predicate of saḥ.",
+    "Translate dṛḍhabhūmiḥ as a standalone noun, “a firm ground.”"
+   ],
+   "chosen": "saḥ ... dṛḍhabhūmiḥ is to be translated with an understood bhavati: “that [practice] becomes/is firmly grounded.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tapasā brahmacaryeṇa vidyayā śraddhayā ca saṃpāditaḥ satkāravān dṛḍhabhūmir bhavati.",
+     "translation": "Brought about by austerity, celibacy, knowledge, and faith, and furnished with reverence, it becomes firmly grounded."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The bhāṣya unpacks the long compound distributively, repeating āsevitaḥ with each condition. Therefore nairantarya should be rendered adverbially as “without interruption/continuously,” and the compound should not be read as a single opaque noun phrase.",
+   "options_considered": [
+    "Distributive construal: “cultivated for a long time, without interruption, and with reverence.”",
+    "Opaque compound: “cultivated by long-time-uninterrupted reverence.”"
+   ],
+   "chosen": "dīrghakāla, nairantarya, and satkāra are three separate qualifications of āsevitaḥ: cultivated for a long time, continuously, and with reverence.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "dīrghakālāsevito nirantarāsevitaḥ satkārāsevitaḥ.",
+     "translation": "Cultivated for a long time, cultivated continuously, cultivated with reverence."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The bhāṣya connects satkāra with tapas, brahmacarya, vidyā, and śraddhā, so in this yogic context it is an inward respectful seriousness in practice. “Reverent care” best captures that force.",
+   "options_considered": [
+    "satkāra as reverence or respectful care in yogic practice.",
+    "satkāra as hospitality, feasting, or external honor."
+   ],
+   "chosen": "satkāra is “reverent care/esteem,” not hospitality or merely social honor.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tapasā brahmacaryeṇa vidyayā śraddhayā ca saṃpāditaḥ satkāravān dṛḍhabhūmir bhavati.",
+     "translation": "Brought about by austerity, celibacy, knowledge, and faith, and furnished with reverence, it becomes firmly grounded."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya’s explanation of dṛḍhabhūmiḥ is functional: the practice’s field is not immediately overwhelmed by the saṃskāra of mental emergence/outgoing activity. This confirms the bahuvrīhi predicate “having firm ground,” rather than a literal “firm earth.”",
+   "options_considered": [
+    "Bahuvrīhi predicate: “firmly grounded / having a firm basis.”",
+    "Literal feminine noun: “firm earth/ground/stage.”"
+   ],
+   "chosen": "dṛḍhabhūmiḥ means “firmly grounded,” specifically not quickly overpowered by vyutthāna-saṃskāra.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "vyutthānasaṃskāreṇa drāg ity evānabhibhūtaviṣaya ity arthaḥ.",
+     "translation": "The meaning is: its domain is not at once overpowered by the saṃskāra of emergence."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The particle marks a turn from the preceding definition of practice to the condition under which it is stable. The commentary does not gloss tu explicitly, so this is decided on grammar and normal usage.",
+   "options_considered": [
+    "Adversative “but.”",
+    "Weak continuative “and/now.”"
+   ],
+   "chosen": "tu is rendered “but.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "But that [practice (abhyāsa)], when cultivated for a long time, without interruption, and with reverent care (satkāra), becomes firmly grounded (dṛḍhabhūmi).",
+ "one_shot_delta": [
+  "Without the bhāṣya, one might miss that āsevitaḥ is to be distributed over three conditions: long duration, continuity, and satkāra.",
+  "One might translate satkāra as “hospitality” or external honor; the bhāṣya makes it reverent seriousness supported by tapas, brahmacarya, vidyā, and śraddhā.",
+  "One might take dṛḍhabhūmiḥ literally as “firm ground”; the bhāṣya explains it as a stable practice not quickly overcome by vyutthāna-saṃskāra."
+ ],
+ "analyzer_disagreements": [
+  "For sa, ByT5 gives the printed sandhi form; I record the required pausal surface saḥ while retaining lemma tad, Pum Prathama Eka.",
+  "For dīrghakālanairantaryasatkārāsevitaḥ, ByT5 split the members dīrgha/kāla/nairantarya/satkāra and āsevitaḥ; the bhāṣya’s distributive gloss supports treating the printed expression as one compound adjective.",
+  "For dṛḍhabhūmiḥ, ByT5 split dṛḍha + bhūmi; I analyze the whole as a masculine nominative singular bahuvrīhi, supported by the bhāṣya’s predicate dṛḍhabhūmir bhavati."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3742,
+   "completion_tokens": 8633,
+   "reasoning_tokens": 6654
+  },
+  "est_cost": 0.1407,
+  "reverified": true
+ },
+ "mula": "13 sa tu dīrghakālanairantaryasatkārāsevito dṛḍhabhūmiḥ",
+ "commentary_lines": [
+  "dīrghakālāsevito nirantarāsevitaḥ satkārāsevitaḥ.",
+  "tapasā brahmacaryeṇa vidyayā śraddhayā ca saṃpāditaḥ satkāravān dṛḍhabhūmir bhavati.",
+  "vyutthānasaṃskāreṇa drāg ity evānabhibhūtaviṣaya ity arthaḥ.",
+  "1.14",
+  "dṛṣṭānuśravikaviṣayavitṛṣṇasya vaśīkārasaṃjñā vairāgyam"
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "unit": "2.68",
+ "analysis": [
+  {
+   "surface": "tasmāt",
+   "surface_in_sandhi": "tasmād",
+   "lemma": "tasmāt",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival pronoun used adverbially as an inferential connective; the commentary construes it with yasmāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yasya",
+   "surface_in_sandhi": "yasya",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative genitive singular; the commentary supplies the referent yateḥ, “of the ascetic.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "mahābāho",
+   "surface_in_sandhi": "mahābāho",
+   "lemma": "mahābāhu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "mahāntau bāhū yasya saḥ; sambodhane",
+    "members": [
+     "mahat",
+     "bāhu"
+    ]
+   },
+   "note": "Vocative address, confirmed by the commentary’s he mahābāho.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mahābāhu as Pum/Sambodhana/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nigṛhītāni",
+   "surface_in_sandhi": "nigṛhītāni",
+   "lemma": "nigṛhīta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective from ni + √grah; predicate to indriyāṇi, with asti understood.",
+   "verification": {
+    "status": "pass",
+    "detail": "nigṛhīta Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sarvaśaḥ",
+   "surface_in_sandhi": "sarvaśaḥ",
+   "lemma": "sarvaśaḥ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by the commentary as sarva-prakāraiḥ mānasādi-bhedaiḥ, “by all modes, with distinctions beginning with the mental.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "indriyāṇi",
+   "surface_in_sandhi": "indriyāṇī",
+   "lemma": "indriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative plural subject of nigṛhītāni.",
+   "verification": {
+    "status": "pass",
+    "detail": "indriya Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "indriyārthebhyaḥ",
+   "surface_in_sandhi": "indriyārthebhyas",
+   "lemma": "indriyārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "indriyāṇām arthāḥ",
+    "members": [
+     "indriya",
+     "artha"
+    ]
+   },
+   "note": "Ablative plural of separation governed by nigṛhītāni; the commentary glosses these objects as śabda and the rest.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem indriyārtha as Pum/Panchami/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasya",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative genitive singular answering yasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "prajñā",
+   "surface_in_sandhi": "prajñā",
+   "lemma": "prajñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of pratiṣṭhitā; in this context, wisdom as discriminative knowledge.",
+   "verification": {
+    "status": "pass",
+    "detail": "prajñā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pratiṣṭhitā",
+   "surface_in_sandhi": "pratiṣṭhitā",
+   "lemma": "pratiṣṭhitā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular participial/adjectival form, agreeing with prajñā; PPP of prati + √sthā, “established, firmly settled.”",
+   "verification": {
+    "status": "pass",
+    "detail": "pratiṣṭhitā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "tasmāt is an inferential connective grounded in the fault already shown in the activity of the senses.",
+   "options_considered": [
+    "ablatival “from that” as a local/separative phrase",
+    "inferential “therefore” continuing the previous argument"
+   ],
+   "chosen": "“Therefore,” not merely “from that.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "indriyāṇāṃ pravṛttau doṣa upapādito yasmāt tasmāt",
+     "translation": "Because the defect in the activity of the senses has been demonstrated, therefore..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The genitive relative-correlative construction is to be understood as “of the ascetic whose ... of that one.”",
+   "options_considered": [
+    "a completely unspecified “whoever” with no supplied referent",
+    "reference to a yati, as supplied by the commentary"
+   ],
+   "chosen": "yasya/tasya refer to a yati, “ascetic/disciplined person.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yasya yateḥ he mahābāho, nigṛhītāni ... tasya prajñā pratiṣṭhitā",
+     "translation": "of whose—the ascetic’s—O mighty-armed one, [the senses] are restrained ... that one’s wisdom is established."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "indriyārthebhyaḥ is ablative plural with nigṛhītāni; it means sense-objects, not “purposes” in the abstract.",
+   "options_considered": [
+    "objects of the senses, with ablative separation",
+    "purposes/aims of the senses",
+    "the senses actively restraining the objects"
+   ],
+   "chosen": "“restrained from the objects of the senses,” i.e. from sound and the rest.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "nigṛhītāni ... indriyāṇi indriyārthebhyaḥ śabdādibhyas",
+     "translation": "the senses restrained from the sense-objects, from sound and the rest."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "sarvaśaḥ modifies the restraint by specifying all modes or manners, not simply “all the senses.”",
+   "options_considered": [
+    "“completely” only as a loose intensifier",
+    "“all the senses” as the scope of sarvaśaḥ",
+    "“in every way/by all modes,” as glossed"
+   ],
+   "chosen": "“in every way,” with modes including the mental.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvaśaḥ sarva-prakāraiḥ mānasādi-bhedaiḥ",
+     "translation": "sarvaśaḥ: by all modes, with distinctions beginning with the mental."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The word is not syntactically part of the yasya phrase; it directly addresses Arjuna.",
+   "options_considered": [
+    "a descriptive compound belonging with yasya",
+    "a vocative address"
+   ],
+   "chosen": "mahābāho is a vocative address, “O mighty-armed one.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "he mahābāho",
+     "translation": "O mighty-armed one."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The verse’s formula tasya prajñā pratiṣṭhitā is read in the sthita-prajña context, where Śaṅkara characterizes the person as one in whom discriminative knowledge has arisen.",
+   "options_considered": [
+    "ordinary intelligence or cleverness",
+    "mere ritual or scriptural information",
+    "discriminative wisdom that is established"
+   ],
+   "chosen": "prajñā is “wisdom/discriminative knowledge,” and pratiṣṭhitā means “established, firmly settled.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tasya prajñā pratiṣṭhitā",
+     "translation": "that one’s wisdom is established."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "utpanna-viveka-jñānasya sthita-prajñasya",
+     "translation": "of the person of established wisdom, whose discriminative knowledge has arisen."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Therefore, O mighty-armed one, the wisdom (prajñā) of that ascetic whose senses are restrained in every way from the objects of the senses is firmly established.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render indriyārtha as “the purposes of the senses”; Śaṅkara’s gloss śabdādibhyas makes it “sense-objects,” such as sound (line 1).",
+  "It might take sarvaśaḥ as only “completely” or as referring vaguely to all the senses; the bhāṣya specifies “by all modes,” including mental distinctions (line 1).",
+  "It might miss that yasya is supplied with yateḥ: Śaṅkara understands the person as the disciplined ascetic whose senses are restrained (line 1).",
+  "It might treat tasmāt as a bare “from that”; Śaṅkara explicitly connects it to the previously shown defect in sense-activity, hence “therefore” (line 1)."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split mahā_bāho as mahat_Cp + bāhu_SVM; I analyze the printed expression as the compound stem mahābāhu, masculine vocative singular, a bahuvrīhi, as confirmed by the bhāṣya’s he mahābāho (line 1).",
+  "ByT5 segmented indriya_arthebhyaḥ; I analyze it as the compound stem indriyārtha, masculine ablative plural, glossed by śabdādibhyaḥ in the commentary (line 1).",
+  "ByT5 gave nigrah as the lemma for nigṛhītāni; since the required analysis is of the subanta actually inflected, I record the nominal participial stem nigṛhīta, neuter nominative plural, noting its derivation from ni + √grah.",
+  "ByT5 gave pratiṣṭhā for pratiṣṭhitā; I analyze the form as feminine nominative singular of the participial/adjectival stem pratiṣṭhitā, agreeing with prajñā, not as the abstract noun pratiṣṭhā."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4462,
+   "completion_tokens": 9242,
+   "reasoning_tokens": 6655
+  },
+  "est_cost": 0.152,
+  "reverified": true
+ },
+ "mula": "tasmād yasya mahābāho nigṛhītāni sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā",
+ "commentary_lines": [
+  "indriyāṇāṃ pravṛttau doṣa upapādito yasmāt tasmāt yasya yateḥ he mahābāho, nigṛhītāni sarvaśaḥ sarva-prakāraiḥ mānasādi-bhedaiḥ indriyāṇi indriyārthebhyaḥ śabdādibhyas tasya prajñā pratiṣṭhitā ||bhgs_2.68||",
+  "yo 'yaṃ laukiko vaidika ca vyavahāraḥ sa utpanna-viveka-jñānasya sthita-prajñasya avidyākāryatvāt avidyā-nivṛttau nivartate, avidyāyā ca vidyā-virodhāt nivṛttiḥ, ity etam arthaṃ sphuṭīkurvann āha ---"
+ ]
+}

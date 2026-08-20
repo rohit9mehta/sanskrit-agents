@@ -1,0 +1,452 @@
+{
+ "unit": "2.57",
+ "analysis": [
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yaḥ",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun, correlated with tasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvatra",
+   "surface_in_sandhi": "sarvatrā",
+   "lemma": "sarvatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sandhi span: sarvatra + anabhisnehaḥ -> sarvatrānabhisnehas.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anabhisnehaḥ",
+   "surface_in_sandhi": "anabhisnehas",
+   "lemma": "anabhisneha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "na vidyamānaḥ abhisnehaḥ yasya saḥ",
+    "members": [
+     "nañ",
+     "abhisneha"
+    ]
+   },
+   "note": "Śaṅkara glosses as abhisneha-varjitaḥ, ‘devoid of attachment’; final visarga appears as -s before tat.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anabhisneha as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First member of the reduplicated distributive tat tat, in apposition with śubhāśubham.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second member of the reduplicated distributive tat tat, object of prāpya with śubhāśubham.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "prāpya",
+   "surface_in_sandhi": "prāpya",
+   "lemma": "āp",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "āp",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable absolutive in -ya: pra + √āp, ‘having obtained’; Śaṅkara glosses labdhvā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "śubhāśubham",
+   "surface_in_sandhi": "śubhāśubham",
+   "lemma": "śubhāśubha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "śubham aśubhaṃ vā",
+    "members": [
+     "śubha",
+     "aśubha"
+    ]
+   },
+   "note": "A single inflected compound, semantically resolved by Śaṅkara as alternatives: śubham aśubhaṃ vā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem śubhāśubha as Napumsaka/Dvitiya/Eka: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates abhinandati; sandhi span: na + abhinandati -> nābhinandati.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "abhinandati",
+   "surface_in_sandhi": "abhinandati",
+   "lemma": "nand",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "nand",
+    "prefixes": [
+     "abhi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present active 3rd singular; not ‘congratulate’ here, but ‘rejoice/be pleased at,’ as Śaṅkara’s na tuṣyati na hṛṣyati shows. Printed in the sandhi span nābhinandati.",
+   "verification": {
+    "status": "pass",
+    "detail": "abhi-nand Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates dveṣṭi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dveṣṭi",
+   "surface_in_sandhi": "dveṣṭi",
+   "lemma": "dviṣ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dviṣ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present active 3rd singular, ‘hates’.",
+   "verification": {
+    "status": "pass",
+    "detail": "dviṣ Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tasya",
+   "surface_in_sandhi": "tasya",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular referring back to yaḥ muniḥ: ‘of that one’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "prajñā",
+   "surface_in_sandhi": "prajñā",
+   "lemma": "prajñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative subject; Śaṅkara characterizes it as vivekajā, ‘born of discrimination’.",
+   "verification": {
+    "status": "pass",
+    "detail": "prajñā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pratiṣṭhitā",
+   "surface_in_sandhi": "pratiṣṭhitā",
+   "lemma": "pratiṣṭhita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular past passive participial adjective from prati + √sthā, predicate to prajñā; Śaṅkara supplies bhavati.",
+   "verification": {
+    "status": "pass",
+    "detail": "pratiṣṭhita Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "sarvatra sets the range of anabhisnehaḥ broadly, and anabhisnehaḥ is not mere coldness but absence of abhisneha/attachment. Śaṅkara explicitly includes deha-jīvita-ādi, ‘body, life, etc.’",
+   "options_considered": [
+    "unaffectionate/cold in all circumstances",
+    "unattached everywhere, even toward body and life",
+    "without affection for anyone"
+   ],
+   "chosen": "‘without clinging everywhere,’ including even body and life",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yaḥ muniḥ sarvatra deha-jīvitādiṣv api anabhisneho 'bhisneha-varjitas",
+     "translation": "‘The sage who, everywhere, even with regard to body, life, and the like, is anabhisneha—devoid of attachment.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "tat tat is taken distributively with śubhāśubham as the object-range of prāpya; prāpya is explained as labdhvā, ‘having obtained,’ and śubhāśubham is resolved as śubham aśubham vā, ‘good or bad.’",
+   "options_considered": [
+    "having attained the abstract pair good-and-evil collectively",
+    "having obtained each particular good-or-bad occurrence",
+    "having reached auspicious and inauspicious places"
+   ],
+   "chosen": "‘having obtained this or that—good or bad’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tat tat prāpya śubhāśubhaṃ tat tat śubhaṃ aśubhaṃ vā labdhvā",
+     "translation": "‘Having reached/obtained that and that, good-or-bad: having obtained this or that good thing or bad thing.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "abhinandati is construed as emotional delight/exultation, not greeting or verbal praise; dveṣṭi is the adverse reaction to aśubha. Śaṅkara maps them to not being pleased/exultant on obtaining good and not hating on obtaining bad.",
+   "options_considered": [
+    "does not congratulate or praise, and does not dislike",
+    "does not rejoice at good and does not hate bad",
+    "does not approve or condemn morally"
+   ],
+   "chosen": "‘neither rejoices nor hates’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "nābhinandati na dveṣṭi śubhaṃ prāpya na tuṣyati na hṛṣyati, aśubhaṃ ca prāpya na dveṣṭi ity arthaḥ",
+     "translation": "‘He does not rejoice and does not hate: on obtaining good he is not pleased, does not exult; and on obtaining bad he does not hate—this is the meaning.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "tasya is the genitive correlative of yaḥ; prajñā is the subject, pratiṣṭhitā the predicate, with ‘is/becomes’ supplied. Śaṅkara further characterizes the person as free from joy and sorrow and the wisdom as vivekajā, born of discrimination.",
+   "options_considered": [
+    "his ordinary cognition is fixed",
+    "his discrimination-born wisdom is established",
+    "his reputation or standing is established"
+   ],
+   "chosen": "‘that one’s discrimination-born wisdom is established’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tasya evaṃ harṣa-viṣāda-varjitasya vivekajā prajñā pratiṣṭhitā bhavati",
+     "translation": "‘Of that one, thus free from joy and sorrow, the wisdom born of discrimination becomes established.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The sage who, everywhere, is without clinging (anabhisneha),\nwho, having obtained this or that—good or bad—\nneither rejoices nor hates:\nthat one’s discrimination-born wisdom (prajñā) is established.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render anabhisnehaḥ as mere emotional coldness; Śaṅkara makes it absence of clinging even toward body and life.",
+  "It might take abhinandati in the lexical sense ‘praise/congratulate’; Śaṅkara’s gloss requires ‘be pleased, exult’ at śubha.",
+  "It might flatten śubhāśubham into an abstract ‘good and evil’; Śaṅkara treats it as each encountered good-or-bad item.",
+  "It might miss the supplied bhavati and the qualification vivekajā, so that prajñā pratiṣṭhitā becomes only ‘knowledge fixed’ rather than ‘discrimination-born wisdom is established.’"
+ ],
+ "analyzer_disagreements": [
+  "prāpya was tagged with lemma prāp; per the instruction to give bare verbal roots without prefixes, it is analyzed as √āp with prefix pra, an indeclinable absolutive rather than a finite verb.",
+  "śubhāśubham was split by the analyzer as śubha_Cp + aśubham; it is analyzed here as one neuter accusative singular dvandva compound stem śubhāśubha, supported semantically by Śaṅkara’s gloss śubhaṃ aśubhaṃ vā.",
+  "abhinandati was tagged with lemma abhinand; per the instruction to give bare roots without prefixes, it is analyzed as √nand with prefix abhi.",
+  "pratiṣṭhitā was lemmatized by the analyzer as pratiṣṭhā; the form is feminine nominative singular of the participial stem pratiṣṭhita, not the noun pratiṣṭhā."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4486,
+   "completion_tokens": 14155,
+   "reasoning_tokens": 11265
+  },
+  "est_cost": 0.2258,
+  "reverified": true
+ },
+ "mula": "yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā",
+ "commentary_lines": [
+  "yaḥ muniḥ sarvatra deha-jīvitādiṣv api anabhisneho 'bhisneha-varjitas tat tat prāpya śubhāśubhaṃ tat tat śubhaṃ aśubhaṃ vā labdhvā nābhinandati na dveṣṭi śubhaṃ prāpya na tuṣyati na hṛṣyati, aśubhaṃ ca prāpya na dveṣṭi ity arthaḥ |",
+  "tasya evaṃ harṣa-viṣāda-varjitasya vivekajā prajñā pratiṣṭhitā bhavati ||bhgs_2.57||",
+  "kiṃ ca --"
+ ]
+}

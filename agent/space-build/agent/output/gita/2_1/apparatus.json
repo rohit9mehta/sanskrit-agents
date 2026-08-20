@@ -1,0 +1,406 @@
+{
+ "unit": "2.1",
+ "analysis": [
+  {
+   "surface": "saṃjayaḥ",
+   "surface_in_sandhi": "saṃjaya",
+   "lemma": "saṃjaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Proper name; nominative subject of the first uvāca, the reporting formula.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃjaya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "uvāca",
+   "surface_in_sandhi": "uvāca",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect used narratively: “said.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lit/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tam",
+   "surface_in_sandhi": "taṃ",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative masculine singular; the person addressed by Madhusūdana, qualified by the following accusative masculine participles/adjective-compound.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tathā",
+   "surface_in_sandhi": "tathā",
+   "lemma": "tathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable adverb, “thus/so.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kṛpayā",
+   "surface_in_sandhi": "kṛpayā",
+   "lemma": "kṛpā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental of cause/means with āviṣṭam: “by/with compassion.”",
+   "verification": {
+    "status": "pass",
+    "detail": "kṛpā Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "āviṣṭam",
+   "surface_in_sandhi": "āviṣṭam",
+   "lemma": "āviṣṭa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial adjective from ā + √viś, “entered, possessed, overcome”; agrees with tam.",
+   "verification": {
+    "status": "pass",
+    "detail": "āviṣṭa Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "aśrupūrṇākulekṣaṇam",
+   "surface_in_sandhi": "aśrupūrṇākulekṣaṇam",
+   "lemma": "aśrupūrṇākulekṣaṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "aśrubhiḥ pūrṇe ākule ca īkṣaṇe yasya",
+    "members": [
+     "aśru",
+     "pūrṇa",
+     "ākula",
+     "īkṣaṇa"
+    ]
+   },
+   "note": "Masculine accusative singular bahuvrīhi agreeing with tam; the final member īkṣaṇa is “eye/sight,” while the whole compound denotes the person possessing such eyes. Internal sandhi: ākula + īkṣaṇa → ākulekṣaṇa.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem aśrupūrṇākulekṣaṇa as Pum/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "viṣīdantam",
+   "surface_in_sandhi": "viṣīdantam",
+   "lemma": "viṣīdant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial adjective from vi + √sad, “desponding, sinking in dejection”; agrees with tam. Stem recorded as viṣīdant, since the accusative singular form is viṣīdantam, not viṣīdatam.",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣīdant Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "idaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter accusative singular, agreeing with vākyam as the speech-object of the second uvāca.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vākyam",
+   "surface_in_sandhi": "vākyam",
+   "lemma": "vākya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter accusative singular object: the utterance spoken.",
+   "verification": {
+    "status": "pass",
+    "detail": "vākya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "uvāca",
+   "surface_in_sandhi": "uvāca",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect used narratively: “said/spoke.” This is the main reported action within Saṃjaya’s frame.",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lit/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "madhusūdanaḥ",
+   "surface_in_sandhi": "madhusūdanaḥ",
+   "lemma": "madhusūdana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "madhoḥ sūdanaḥ",
+    "members": [
+     "madhu",
+     "sūdana"
+    ]
+   },
+   "note": "Nominative subject of the second uvāca; an epithet of Kṛṣṇa, “slayer of Madhu.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem madhusūdana as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The accusative tam, with āviṣṭam, aśrupūrṇākulekṣaṇam, and viṣīdantam agreeing with it, is construed with the second uvāca; idam vākyam is the speech-object of that same verb, and madhusūdanaḥ is its nominative subject.",
+   "options_considered": [
+    "Take Saṃjaya as the subject of the whole sentence addressing tam directly.",
+    "Take the first uvāca as a frame and the second uvāca with madhusūdanaḥ as the main reported action."
+   ],
+   "chosen": "saṃjayaḥ uvāca is the reporting frame, while madhusūdanaḥ uvāca idam vākyam tam ... is the reported action: “Sañjaya said: … Madhusūdana spoke this utterance to him ….”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The instrumental kṛpayā is best taken as the cause or possessing force with the past passive participle āviṣṭam from ā + √viś, whose lexical range includes “enter” and “take possession of.”",
+   "options_considered": [
+    "Woodenly: “entered by compassion.”",
+    "Idiomatic passive/resultative: “possessed or overcome by compassion.”"
+   ],
+   "chosen": "kṛpayā āviṣṭam = “overcome/possessed by compassion.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "Although the final member īkṣaṇa is neuter, the compound as a whole agrees with tam in masculine accusative singular; therefore it describes the person, not an independent neuter object “eye.”",
+   "options_considered": [
+    "A neuter accusative object: “a tear-filled, troubled eye/sight.”",
+    "A bahuvrīhi adjective qualifying tam: “whose eyes were tear-filled and troubled.”"
+   ],
+   "chosen": "aśrupūrṇākulekṣaṇam is a masculine accusative singular bahuvrīhi: “having eyes filled with tears and troubled.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The form is a present active participle from vi + √sad, agreeing with tam; its aspect is simultaneous with Madhusūdana’s speaking, not a separate finite action.",
+   "options_considered": [
+    "Treat it as a finite verb: “he desponded.”",
+    "Treat it as a participial qualifier: “desponding.”"
+   ],
+   "chosen": "viṣīdantam = “desponding.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "In this epic context the compound madhu-sūdana is the proper epithet of Viṣṇu-Kṛṣṇa, not the alternative lexical sense “bee” or the literal “destroyer of honey.”",
+   "options_considered": [
+    "Literal/non-contextual: “destroyer of honey” or “bee.”",
+    "Contextual epic epithet: “Madhusūdana, slayer of Madhu.”"
+   ],
+   "chosen": "madhusūdanaḥ is Kṛṣṇa’s epithet, “slayer of Madhu.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Sañjaya said:\nTo him—thus overcome by compassion, with eyes filled with tears and troubled, desponding—Madhusūdana (slayer of Madhu) spoke this utterance.",
+ "one_shot_delta": [
+  "A commentary-blind or syntax-blind translation might make Saṃjaya the speaker to Arjuna, missing that Saṃjaya is only framing Madhusūdana’s speech.",
+  "It might treat aśrupūrṇākulekṣaṇam as an independent neuter object, rather than as a masculine accusative bahuvrīhi qualifying tam.",
+  "It might render kṛpayā āviṣṭam too literally as “entered by compassion,” instead of the idiom “overcome/possessed by compassion.”",
+  "It might choose the non-contextual meaning of madhusūdana, such as “bee” or “destroyer of honey,” rather than Kṛṣṇa’s epithet “slayer of Madhu.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives āviṣṭam and viṣīdantam under verbal/root lemmas (āviś, viṣad). Under the requested format they are treated as subanta participial adjectives, so the lemmas are recorded as nominal stems āviṣṭa and viṣīdant, with derivational notes preserving ā + √viś and vi + √sad.",
+  "ByT5 locally splits aśru_pūrṇa_ākula_īkṣaṇam into member analyses. Since the printed unit is one compound word, it is recorded here as a single bahuvrīhi compound with those members.",
+  "Corrected after verifier report: viṣīdantam is not derived from a nominal stem viṣīdat as claimed before, since that yields viṣīdatam; the stem is recorded as viṣīdant."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12755,
+   "completion_tokens": 16931,
+   "reasoning_tokens": 11773
+  },
+  "est_cost": 0.2922,
+  "reverified": true
+ },
+ "mula": "saṃjaya uvāca taṃ tathā kṛpayāviṣṭam aśrupūrṇākulekṣaṇam | viṣīdantam idaṃ vākyam uvāca madhusūdanaḥ",
+ "commentary_lines": []
+}

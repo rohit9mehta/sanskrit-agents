@@ -1,0 +1,213 @@
+{
+ "unit": "1.46",
+ "analysis": [
+  {
+   "surface": "tāḥ",
+   "surface_in_sandhi": "tā",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronoun referring back to the four samāpattis; pausal tāḥ appears in sandhi as tā before eva.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "eva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle: “very / just.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sabījaḥ",
+   "surface_in_sandhi": "sabījaḥ",
+   "lemma": "sabīja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "bījena saha vartamānaḥ / bījaṃ yasya saḥ",
+    "members": [
+     "sa",
+     "bīja"
+    ]
+   },
+   "note": "Predicate adjective agreeing with samādhiḥ; not two separate words sa + bījaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sabīja as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "samādhiḥ",
+   "surface_in_sandhi": "samādhiḥ",
+   "lemma": "samādhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Singular class-name: the samādhi that is counted fourfold through the four samāpattis.",
+   "verification": {
+    "status": "pass",
+    "detail": "samādhi Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate tā eva as “these very [four attainments],” not as an independent feminine plural with no supplied referent.",
+   "options_considered": [
+    "“these” with no specified antecedent",
+    "“those very four samāpattis”",
+    "a plural adjective agreeing directly with samādhiḥ"
+   ],
+   "chosen": "tāḥ refers to the four samāpattis previously taught.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tāś catasraḥ samāpattayo bahirvastubījā iti samādhir api sabījaḥ.",
+     "translation": "Those four attainments, having external objects as their seed, therefore the samādhi too is with seed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Take bīja technically as the objective support or germ of these samāpattis, not as a literal plant-seed; render “seeded concentration (sabīja samādhi).”",
+   "options_considered": [
+    "literal “having a seed” in the botanical sense",
+    "“caused by seed”",
+    "“having an external object as its seed/support”"
+   ],
+   "chosen": "sabījaḥ means “seeded,” i.e. possessing an external-object seed.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "bahirvastubījā iti samādhir api sabījaḥ",
+     "translation": "because they have external objects as seed, the samādhi too is seeded"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tatra sthūle 'rthe savitarko nirvitarkaḥ, sūkṣme 'rthe savicāro nirvicāra iti caturdhopasaṃkhyātaḥ samādhir iti.",
+     "translation": "There, with a gross object: savitarka and nirvitarka; with a subtle object: savicāra and nirvicāra—thus samādhi is counted fourfold."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although tāḥ is feminine plural, samādhiḥ is singular masculine because the sūtra identifies the four samāpattis collectively as the seeded form of samādhi.",
+   "options_considered": [
+    "make samādhiḥ one additional item after the four",
+    "force direct number agreement and translate as four ‘samādhis’",
+    "take samādhiḥ as a singular category constituted by the four"
+   ],
+   "chosen": "The singular samādhiḥ is a class-name comprising those four attainments.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tāś catasraḥ samāpattayo ... samādhir api sabījaḥ",
+     "translation": "those four samāpattis ... the samādhi too is seeded"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "caturdhopasaṃkhyātaḥ samādhir iti",
+     "translation": "samādhi is counted fourfold"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "These very [four attainments] are the seeded concentration (sabīja samādhi).",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave tāḥ vague; Vyāsa identifies it as the four samāpattis.",
+  "It might split sabījaḥ into sa + bījaḥ or read bīja as an ordinary seed; the bhāṣya makes it a technical ‘external-object seed.’",
+  "It might treat samādhiḥ as a fifth samādhi beyond the four, whereas the bhāṣya says samādhi is counted fourfold through them."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split sabījaḥ as sa + bījaḥ. I treat sabījaḥ as one inflected bahuvrīhi compound adjective, because the sūtra is traditionally read sabījaḥ and the bhāṣya glosses the point with samādhir api sabījaḥ after explaining the samāpattis as bahirvastubījāḥ (line 1).",
+  "ByT5’s segmentation gives surface tāḥ, while the printed sandhi form is tā before eva. I record surface as the pausal tāḥ and surface_in_sandhi as tā."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3016,
+   "completion_tokens": 3883,
+   "reasoning_tokens": 2560
+  },
+  "est_cost": 0.0673,
+  "reverified": true
+ },
+ "mula": "45 tā eva sabījaḥ samādhiḥ",
+ "commentary_lines": [
+  "tāś catasraḥ samāpattayo bahirvastubījā iti samādhir api sabījaḥ.",
+  "tatra sthūle 'rthe savitarko nirvitarkaḥ, sūkṣme 'rthe savicāro nirvicāra iti caturdhopasaṃkhyātaḥ samādhir iti.",
+  "1.46",
+  "nirvicāravaiśāradye 'dhyātmaprasādaḥ"
+ ]
+}

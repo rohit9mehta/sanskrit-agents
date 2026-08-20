@@ -1,0 +1,584 @@
+{
+ "unit": "2.16",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi: na + asataḥ > nāsato.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asataḥ",
+   "surface_in_sandhi": "asato",
+   "lemma": "asat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "In nāsato, initial a coalesces with preceding na; final ḥ becomes o before vidyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "asat Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vidyate",
+   "surface_in_sandhi": "vidyate",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Morphology retained from the analyzer as passive/middle; translated existentially because the bhāṣya glosses vidyate with asti/nāsti.",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhāvaḥ",
+   "surface_in_sandhi": "bhāvo",
+   "lemma": "bhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "bhāva Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi: na + abhāvaḥ > nābhāvo.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "abhāvaḥ",
+   "surface_in_sandhi": "abhāvo",
+   "lemma": "abhāva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "In nābhāvo, initial a coalesces with preceding na; final ḥ becomes o before vidyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "abhāva Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vidyate",
+   "surface_in_sandhi": "vidyate",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Same form and construal as the first vidyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sataḥ",
+   "surface_in_sandhi": "sataḥ",
+   "lemma": "sat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized sat; the bhāṣya identifies the referent as the ātman.",
+   "verification": {
+    "status": "pass",
+    "detail": "sat Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "ubhayoḥ",
+   "surface_in_sandhi": "ubhayor",
+   "lemma": "ubha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dual: ‘of both’. Revised from stem ubhaya to ubha: the verifier correctly noted that ubhaya would derive ubhayayoḥ, while the printed ubhayoḥ is the pronominal dual form from ubha. Final ḥ becomes r before api.",
+   "verification": {
+    "status": "pass",
+    "detail": "ubha Napumsaka/Sasthi/Dvi: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "api",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dṛṣṭaḥ",
+   "surface_in_sandhi": "dṛṣṭo",
+   "lemma": "dṛṣṭa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle from √dṛś, agreeing with antaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "dṛṣṭa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "antaḥ",
+   "surface_in_sandhi": "'ntas",
+   "lemma": "anta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after dṛṣṭo; final ḥ becomes s before tu.",
+   "verification": {
+    "status": "pass",
+    "detail": "anta Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tv",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "u becomes v before following a: tu anayoḥ > tv anayoḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anayoḥ",
+   "surface_in_sandhi": "anayos",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dual of idam; final ḥ becomes s before tattva-.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Sasthi/Dvi: pass"
+   }
+  },
+  {
+   "surface": "tattva-darśibhiḥ",
+   "surface_in_sandhi": "tattva-darśibhiḥ",
+   "lemma": "tattva-darśin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tattvaṃ darśanti iti tattva-darśinaḥ",
+    "members": [
+     "tattva",
+     "darśin"
+    ]
+   },
+   "note": "Instrumental plural: the agents in the passive construction dṛṣṭaḥ. A later verifier reported a tool_error for this compound and that the tatpuruṣa relation is unsupported; since this is a tool limitation rather than a derivational contradiction, the analysis is kept.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tattva-darśin as Pum/Trtiya/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "asataḥ is not taken as moral ‘bad’ or mere false speech, nor as an unrelated absolute nothing; Śaṅkara glosses it as avidyamāna and applies it to caused empirical dualities and modifications.",
+   "options_considered": [
+    "‘bad’ or morally wrong",
+    "absolute nothingness unrelated to experience",
+    "dependent empirical non-Self/modification"
+   ],
+   "chosen": "asat = the unreal/non-existent non-Self, especially dependent modifications such as the body and the heat-cold dualities.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "na asato 'vidyamānasya śītoṣṇādeḥ sa-kāraṇasya na vidyate nāsti bhāvo bhavanam astitā ||",
+     "translation": "Of the unreal, the non-existent—such as cold and heat together with their causes—there is no being; there is not existence, becoming, actuality."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tathā sarvo vikāraḥ kāraṇa-vyatirekeṇānupalabdher asat |",
+     "translation": "So every modification is unreal, because it is not apprehended apart from its cause."
+    },
+    {
+     "lines": [
+      30
+     ],
+     "quote": "tasmād dehāder dvandvasya ca sa-kāraṇasya asato na vidyate bhāva iti |",
+     "translation": "Therefore, of the body and the duality and so on, together with their causes, being unreal, there is no being."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The first pāda denies existence of asat, and the second denies non-existence of sat; ‘state’ or ‘emotion’ for bhāva would miss Śaṅkara’s explicit gloss.",
+   "options_considered": [
+    "bhāva as emotion/state",
+    "bhāva as mere becoming only",
+    "bhāva/abhāva as existence/non-existence"
+   ],
+   "chosen": "bhāva = being/existence; abhāva = non-being/non-existence; vidyate is translated existentially as ‘is found/exists’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "na asato 'vidyamānasya śītoṣṇādeḥ sa-kāraṇasya na vidyate nāsti bhāvo bhavanam astitā ||",
+     "translation": "Of the unreal ... there is no bhāva: there is no becoming, existence, actuality."
+    },
+    {
+     "lines": [
+      31
+     ],
+     "quote": "tathā sataś ca ātmano 'bhāvo 'vidyamānatā na vidyate, sarvatrāvyabhicārāt ity avocāma ||",
+     "translation": "Likewise, of the real, the Self, non-being—non-existence—is not found, because it is invariable everywhere, as we have said."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "sataḥ is construed as the real whose absence is never found, not as any ordinary empirical existent; Śaṅkara identifies it with the ātman and grounds it in avyabhicāra.",
+   "options_considered": [
+    "generic existent object",
+    "any perceptible object",
+    "the invariable real Self"
+   ],
+   "chosen": "sat = the real, the Self, recognized by invariability of cognition.",
+   "evidence": [
+    {
+     "lines": [
+      10,
+      11
+     ],
+     "quote": "yad-viṣayā buddhir na vyabhicarati, tat sat | yad-viṣayā vyabhicarati, tad asat |",
+     "translation": "That whose cognition does not deviate is real; that whose cognition deviates is unreal."
+    },
+    {
+     "lines": [
+      17,
+      18,
+      19
+     ],
+     "quote": "na tu sad-buddhiḥ | tasmāt ghaṭādi-buddhi-viṣayo 'san, vyabhicārāt | na tu sad-buddhi-viṣayaḥ, avyabhicārāt ||",
+     "translation": "But not the cognition of being. Therefore the object of pot-cognition and the like is unreal, because it deviates; but not the object of being-cognition, because it does not deviate."
+    },
+    {
+     "lines": [
+      31
+     ],
+     "quote": "tathā sataś ca ātmano 'bhāvo 'vidyamānatā na vidyate, sarvatrāvyabhicārāt ity avocāma ||",
+     "translation": "Likewise, of the real, the Self, non-being—non-existence—is not found, because it is invariable everywhere, as we have said."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The genitive duals do not refer to bhāva and abhāva as abstract terms, but to the two ontological sides already stated: the Self/real and non-Self/unreal.",
+   "options_considered": [
+    "of existence and non-existence",
+    "of heat and cold only",
+    "of the two just stated, sat/asat = ātman/anātman"
+   ],
+   "chosen": "ubhayoḥ api ... anayoḥ = ‘of both these’, namely ātman/anātman, sat/asat.",
+   "evidence": [
+    {
+     "lines": [
+      32
+     ],
+     "quote": "evam ātmānātmanoḥ sad-asatoḥ ubhayor api dṛṣṭaḥ upalabdho 'nto nirṇayaḥ sat sad eva, asat asad eveti, tv anayoḥ yathoktayoḥ tattva-darśibhiḥ |",
+     "translation": "Thus, regarding both—the Self and non-Self, the real and unreal—the end, the determination, has been seen, apprehended: the real is just real, the unreal just unreal; by the seers of reality, regarding these two as stated."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "anta is not a physical end or destruction here; Śaṅkara explicitly glosses it as nirṇaya, and dṛṣṭa as upalabdha.",
+   "options_considered": [
+    "their destruction/end in time",
+    "their boundary in space",
+    "the determinate conclusion about them"
+   ],
+   "chosen": "dṛṣṭaḥ antaḥ = ‘the settled conclusion has been seen/apprehended’.",
+   "evidence": [
+    {
+     "lines": [
+      32
+     ],
+     "quote": "evam ātmānātmanoḥ sad-asatoḥ ubhayor api dṛṣṭaḥ upalabdho 'nto nirṇayaḥ sat sad eva, asat asad eveti, tv anayoḥ yathoktayoḥ tattva-darśibhiḥ |",
+     "translation": "Thus, regarding both ... the end, the determination, has been seen, apprehended: the real is just real, the unreal just unreal."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The compound is taken with tattva as the object of seeing/realization, and tattva is not Sāṃkhya categories here but the real nature of Brahman according to Śaṅkara.",
+   "options_considered": [
+    "Sāṃkhya tattvas/categories",
+    "truth in a merely general sense",
+    "Brahman’s true nature seen by realized seers"
+   ],
+   "chosen": "tattva-darśibhiḥ = ‘by seers of reality (tattva)’, where tattva is Brahman’s true nature.",
+   "evidence": [
+    {
+     "lines": [
+      33
+     ],
+     "quote": "tad iti sarva-nāma sarvaṃ ca brahma, tasya nāma tad iti, tad-bhāvas tattvam, brahmaṇo yāthātmyam |",
+     "translation": "‘Tat’ is a pronoun, and everything is Brahman; its name is ‘tat’. The state of That is tattva, the real nature of Brahman."
+    },
+    {
+     "lines": [
+      34
+     ],
+     "quote": "tad draṣṭuṃ śīlaṃ yeṣāṃ te tattva-darśinaḥ, tais tattva-darśibhiḥ |",
+     "translation": "Those whose nature is to see That are tattva-darśins; by those tattva-darśins."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Of the unreal (asat, the non-Self) there is no being (bhāva);\nof the real (sat, the Self) there is no non-being (abhāva).\nBut the settled conclusion (anta) about both these\nhas been seen by seers of reality (tattva), Brahman’s true nature.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take asat as sheer nonentity, making the verse a tautology; Śaṅkara instead applies it to caused empirical modifications such as heat/cold, body, and dualities.",
+  "It might leave sat as generic ‘existent’; the bhāṣya identifies it with the invariable ātman and, ultimately, Brahman’s reality.",
+  "It might render antaḥ as ‘end’ or ‘destruction’; Śaṅkara glosses it as nirṇaya, a settled determination.",
+  "It might take tattva-darśin as simply ‘philosophers’ or as Sāṃkhya category-knowers; Śaṅkara defines tattva as brahmaṇo yāthātmyam and darśin as one disposed to see That."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives sataḥ as as_SGPaPrNe; per the required nominal-stem format and the bhāṣya’s sat/asat terminology, I record the stem as sat, retaining genitive singular neuter features.",
+  "ByT5 gives ubhayoḥ as from ubhaya; this is revised to stem ubha, because ubhaya in the genitive dual would yield ubhayayoḥ, whereas the printed form is ubhayoḥ.",
+  "ByT5 gives dṛṣṭaḥ under root dṛś; since the verse-form is a kṛdanta subanta, I record the inflected stem dṛṣṭa and note its derivation from √dṛś.",
+  "ByT5 splits tattva-darśibhiḥ into tattva_Cp + darśibhiḥ; I analyze the printed compound as one inflected compound stem, tattva-darśin, with samāsa information."
+ ],
+ "open_questions": [
+  "The supplied plaintext gives no edition; this apparatus follows only the provided text and lineation."
+ ],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 16617,
+   "completion_tokens": 24409,
+   "reasoning_tokens": 16894
+  },
+  "est_cost": 0.416,
+  "reverified": true
+ },
+ "mula": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ",
+ "commentary_lines": [
+  "na asato 'vidyamānasya śītoṣṇādeḥ sa-kāraṇasya na vidyate nāsti bhāvo bhavanam astitā ||",
+  "na hi śītoṣṇādi sa-kāraṇaṃ pramāṇair nirūpyamāṇaṃ vastu sambhavati |",
+  "vikāro hi saḥ, vikāraś ca vyabhicarati |",
+  "yathā ghaṭādi-saṃsthānaṃ cakṣuṣā nirūpyamāṇaṃ mṛd-vyatirekeṇānupalabdher asat |",
+  "tathā sarvo vikāraḥ kāraṇa-vyatirekeṇānupalabdher asat |",
+  "janma-pradhvaṃsābhyāṃ prāg ūrdhvaṃ cānupalabdheḥ |",
+  "kāryasya ghaṭādeḥ mṛd-ādi-kāraṇasya ca tat-kāraṇa-vyatirekeṇānupalabdher asattvam ||",
+  "tad-asattve sarvābhāva-prasaṅga iti cet, na |",
+  "sarvatra buddhi-dvayopalabdheḥ, sad-buddhir asad-buddhir iti |",
+  "yad-viṣayā buddhir na vyabhicarati, tat sat |",
+  "yad-viṣayā vyabhicarati, tad asat |",
+  "iti sad-asad-vibhāge buddhi-tantre sthite |",
+  "sarvatra dve buddhī sarvair upalabhyete samānādhikaraṇe na nīlotpalavat, san ghaṭaḥ san paṭaḥ, san hastī iti |",
+  "evaṃ sarvatra |",
+  "tayor buddhyoḥ ghaṭādi-buddhir vyabhicarati |",
+  "tathā ca darśitam |",
+  "na tu sad-buddhiḥ |",
+  "tasmāt ghaṭādi-buddhi-viṣayo 'san, vyabhicārāt |",
+  "na tu sad-buddhi-viṣayaḥ, avyabhicārāt ||",
+  "ghaṭe vinaṣṭe ghaṭa-buddhau vyabhicarantyāṃ sad-buddhir api vyabhicaratīti cet na |",
+  "paṭād evapi sad-buddhi-darśanāt |",
+  "viśeṣaṇa-viṣayaiva sā sad-buddhiḥ |",
+  "sad-buddhivat ghaṭa-buddhir api ghaṭāntarā dṛśyata iti cet, na |",
+  "paṭādau adarśanāt ||",
+  "sad-buddhir api naṣṭe ghaṭe na dṛśyata iti cet, na |",
+  "viśeṣyābhāvāt |",
+  "sad-buddhir viśeṣaṇa-viṣayā satī viśeṣyābhāve viśeṣaṇānupapattau kiṃ-viṣayā syāt ? na tu punaḥ sad-buddheḥ viṣayābhāvāt ||",
+  "ekādhikaraṇatvaṃ ghaṭādi-viśeṣyābhāve na yuktam iti cet, na |",
+  "idam udakam iti marīcy-ādau anyatarābhāve 'pi sāmānādhikaraṇya-darśanāt ||",
+  "tasmād dehāder dvandvasya ca sa-kāraṇasya asato na vidyate bhāva iti |",
+  "tathā sataś ca ātmano 'bhāvo 'vidyamānatā na vidyate, sarvatrāvyabhicārāt ity avocāma ||",
+  "evam ātmānātmanoḥ sad-asatoḥ ubhayor api dṛṣṭaḥ upalabdho 'nto nirṇayaḥ sat sad eva, asat asad eveti, tv anayoḥ yathoktayoḥ tattva-darśibhiḥ |",
+  "tad iti sarva-nāma sarvaṃ ca brahma, tasya nāma tad iti, tad-bhāvas tattvam, brahmaṇo yāthātmyam |",
+  "tad draṣṭuṃ śīlaṃ yeṣāṃ te tattva-darśinaḥ, tais tattva-darśibhiḥ |",
+  "tvam api tattva-darśināṃ dṛṣṭim āśritya śokaṃ mohaṃ ca hitvā śītoṣṇādīni niyatāniyata-rūpāṇi dvandvāni vikāro 'yam asann eva marīci-jalavan mithyāvabhāsate iti manasi niścitya titikṣasva ity abhiprāyaḥ ||bhgs_2.16||",
+  "kiṃ punas tat yat sad eva sarvadaiva astīti |",
+  "ucyate ---"
+ ]
+}

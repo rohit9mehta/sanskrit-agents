@@ -1,0 +1,432 @@
+{
+ "unit": "2.60",
+ "analysis": [
+  {
+   "surface": "yatataḥ",
+   "surface_in_sandhi": "yatato",
+   "lemma": "yatat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial stem of √yat used nominally; the genitive construal is supported by the bhāṣya gloss prayatnaṃ kurvataḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yatat Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hy",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal particle; Śaṅkara glosses it with yasmāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "api",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara says it is connected, despite separation, with medhāvinaḥ/vipaścitaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kaunteya",
+   "surface_in_sandhi": "kaunteya",
+   "lemma": "kaunteya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative address to Arjuna as son of Kuntī.",
+   "verification": {
+    "status": "pass",
+    "detail": "kaunteya Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "puruṣasya",
+   "surface_in_sandhi": "puruṣasya",
+   "lemma": "puruṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on the taking-away of the mind: 'of the man'.",
+   "verification": {
+    "status": "pass",
+    "detail": "puruṣa Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "vipaścitaḥ",
+   "surface_in_sandhi": "vipaścitaḥ",
+   "lemma": "vipaścit",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular agreeing with puruṣasya; glossed by Śaṅkara as medhāvinaḥ, with api connected to it.",
+   "verification": {
+    "status": "pass",
+    "detail": "vipaścit Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "indriyāṇi",
+   "surface_in_sandhi": "indriyāṇi",
+   "lemma": "indriya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter plural subject of haranti; Śaṅkara construes indriyāṇi as the agents that disturb and carry off.",
+   "verification": {
+    "status": "pass",
+    "detail": "indriya Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pramāthīni",
+   "surface_in_sandhi": "pramāthīni",
+   "lemma": "pramāthin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter plural agreeing with indriyāṇi; glossed as pramathana-śīlāni, 'having the nature of agitating/churning'.",
+   "verification": {
+    "status": "pass",
+    "detail": "pramāthin Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "haranti",
+   "surface_in_sandhi": "haranti",
+   "lemma": "hṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "hṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Finite verb with indriyāṇi as subject and manaḥ as object.",
+   "verification": {
+    "status": "pass",
+    "detail": "hṛ Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "prasabham",
+   "surface_in_sandhi": "prasabhaṃ",
+   "lemma": "prasabham",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable adverb; Śaṅkara glosses it as prasahya, 'forcibly'.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya per MW (kosha gap; logged unsupported)"
+   }
+  },
+  {
+   "surface": "manaḥ",
+   "surface_in_sandhi": "manaḥ",
+   "lemma": "manas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular object of haranti; although nom./acc. sg. are formally identical in this stem, the bhāṣya construes it as what the senses carry off.",
+   "verification": {
+    "status": "pass",
+    "detail": "manas Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The form is not taken as ablative or as an unattached adverbial 'while striving'; Śaṅkara glosses it with the genitive participial expression prayatnaṃ kurvataḥ and places it in the same genitive chain as puruṣasya vipaścitaḥ.",
+   "options_considered": [
+    "genitive participle qualifying puruṣasya",
+    "ablative: 'from one who strives'",
+    "pure adverbial: 'while striving'"
+   ],
+   "chosen": "yatataḥ is a genitive singular participle qualifying puruṣasya: 'of a man who is striving'.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yatataḥ prayatnaṃ kurvataḥ hi yasmāt kaunteya puruṣasya vipaścitaḥ medhāvino 'pi iti vyavahitena saṃbandhaḥ",
+     "translation": "yatataḥ means 'of one making effort'; for, because, O Kaunteya, [it is] of the man, of the wise one; 'api' is connected despite separation."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The commentary explicitly supplies yasmāt for hi, so the verse is introduced as the reason for the preceding instruction.",
+   "options_considered": [
+    "causal 'for/because'",
+    "merely emphatic 'indeed'"
+   ],
+   "chosen": "hi is causal: 'for' or 'because'.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "hi yasmāt",
+     "translation": "hi means 'because'."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although api is printed near yatataḥ, Śaṅkara states that it is connected across intervening words with medhāvinaḥ, his gloss for vipaścitaḥ. The translation therefore makes the concessive force fall on the person's discernment, not only on the fact of striving.",
+   "options_considered": [
+    "'even of a discerning/wise one'",
+    "'even while striving' only",
+    "additive 'also' without concessive force"
+   ],
+   "chosen": "api has scope with vipaścitaḥ/medhāvinaḥ: 'even of a discerning/wise one'.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "puruṣasya vipaścitaḥ medhāvino 'pi iti vyavahitena saṃbandhaḥ",
+     "translation": "[It is] of the man, of the wise one even; this is the connection despite intervening words."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara glosses vipaścitaḥ as medhāvinaḥ and further describes the mind as connected with discriminative knowledge; this supports an epistemic-discriminative sense.",
+   "options_considered": [
+    "discerning/wise",
+    "inspired",
+    "merely learned or well-read"
+   ],
+   "chosen": "vipaścitaḥ is rendered 'discerning', i.e. wise/intelligent, not merely 'learned'.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vipaścitaḥ medhāvinaḥ",
+     "translation": "vipaścit means 'wise/intelligent'."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "prakāśam eva paśyato viveka-vijñāna-yuktaṃ manaḥ",
+     "translation": "the mind endowed with discriminative knowledge, of one who is plainly seeing."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The bhāṣya defines pramāthīni as pramathana-śīlāni and explains their action as vikṣobhayanti and ākulīkurvanti, so the adjective is active and disruptive, not a neutral 'restless'.",
+   "options_considered": [
+    "turbulent/agitating",
+    "merely restless",
+    "destructive/tearing in a physical sense"
+   ],
+   "chosen": "pramāthīni means 'turbulent/agitating', senses whose nature is to churn or disturb.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "indriyāṇi pramāthīni pramathana-śīlāni viṣayābhimukhaṃ hi puruṣaṃ vikṣobhayanti ākulīkurvanti",
+     "translation": "The senses are pramāthīni, having the nature of agitation; they disturb and throw into confusion a person turned toward objects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The commentary repeats the syntactic frame with the senses as those that disturb and carry off, and with manaḥ as what is carried off. This fixes the otherwise formally ambiguous neuter manaḥ as accusative.",
+   "options_considered": [
+    "indriyāṇi as nominative subject and manaḥ as object",
+    "manaḥ as nominative subject",
+    "indriyāṇi as accusative object"
+   ],
+   "chosen": "indriyāṇi pramāthīni is the nominative subject of haranti, and manaḥ is the accusative object.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "indriyāṇi pramāthīni pramathana-śīlāni ... ākulīkṛtya ca haranti ... manaḥ",
+     "translation": "The senses, being agitating by nature, having thrown [him] into confusion, carry off the mind."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Śaṅkara glosses prasabham directly with prasahya, so the translation uses 'by force/forcibly', not a weaker 'suddenly' or 'openly'.",
+   "options_considered": [
+    "forcibly/by force",
+    "suddenly",
+    "openly or manifestly"
+   ],
+   "chosen": "prasabham is an adverb meaning 'forcibly'.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "haranti prasabhaṃ prasahya",
+     "translation": "They carry off prasabham, that is, forcibly."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For, O Kaunteya,\nthe turbulent senses (indriyāṇi) forcibly carry off\nthe mind (manas) of a striving man—\neven of a discerning one.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might attach api to yatataḥ as only 'even while striving'; Śaṅkara instead says it is connected with medhāvinaḥ/vipaścitaḥ across intervening words.",
+  "It might under-translate pramāthīni as merely 'restless'; the bhāṣya defines it as a nature of agitation and explains that the senses disturb and confuse the person.",
+  "It might miss that prasabham is specifically 'forcibly'; Śaṅkara glosses it with prasahya.",
+  "It might leave manaḥ as a nominative 'mind' because the neuter form is ambiguous; the commentary's haranti ... manaḥ fixes it as the object carried off."
+ ],
+ "analyzer_disagreements": [
+  "yatataḥ: ByT5 gives the lemma as yat; for this subanta analysis the reported nominal stem is yatat-, the present participial stem, with genitive singular masculine fixed by Śaṅkara's prayatnaṃ kurvataḥ in line 1.",
+  "indriyāṇi/pramāthīni and manaḥ: ByT5's neuter case tags are formally ambiguous; I resolve indriyāṇi pramāthīni as Prathama Bahu and manaḥ as Dvitiya Eka because the bhāṣya construes the senses as agents and the mind as what is carried off in line 2."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4554,
+   "completion_tokens": 12891,
+   "reasoning_tokens": 9988
+  },
+  "est_cost": 0.207,
+  "reverified": true
+ },
+ "mula": "yatato hy api kaunteya puruṣasya vipaścitaḥ | indriyāṇi pramāthīni haranti prasabhaṃ manaḥ",
+ "commentary_lines": [
+  "yatataḥ prayatnaṃ kurvataḥ hi yasmāt kaunteya puruṣasya vipaścitaḥ medhāvino 'pi iti vyavahitena saṃbandhaḥ |",
+  "indriyāṇi pramāthīni pramathana-śīlāni viṣayābhimukhaṃ hi puruṣaṃ vikṣobhayanti ākulīkurvanti, ākulīkṛtya ca haranti prasabhaṃ prasahya prakāśam eva paśyato viveka-vijñāna-yuktaṃ manaḥ ||bhgs_2.60||",
+  "yatas tasmāt--"
+ ]
+}

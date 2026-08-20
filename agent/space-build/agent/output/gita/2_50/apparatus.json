@@ -1,0 +1,416 @@
+{
+ "unit": "2.50",
+ "analysis": [
+  {
+   "surface": "buddhi-yuktaḥ",
+   "surface_in_sandhi": "buddhi-yukto",
+   "lemma": "buddhi-yukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "buddhyā yuktaḥ, karma-samatva-viṣayayā buddhyā yuktaḥ",
+    "members": [
+     "buddhi",
+     "yukta"
+    ]
+   },
+   "note": "Adjectival tṛtīyā-tatpuruṣa: “joined/endowed with buddhi,” specifically the buddhi whose object is equality with respect to action. Verifier note: vidyut-prakriya reported a tool_error / unsupported relation for this compound analysis, but I retain it because the commentary explicitly analyzes buddhi-yuktaḥ as buddhyā yuktaḥ; the verifier appears not to be adjudicating the compound relation here.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem buddhi-yukta as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "jahāti",
+   "surface_in_sandhi": "jahātīha",
+   "lemma": "hā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "hā",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Glossed by Śaṅkara as parityajati. The printed sandhi-form jahātīha represents jahāti + iha.",
+   "verification": {
+    "status": "pass",
+    "detail": "hā Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "iha",
+   "surface_in_sandhi": "jahātīha",
+   "lemma": "iha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed as asmin loke. The word is contained in the printed sandhi-form jahātīha.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ubhe",
+   "surface_in_sandhi": "ubhe",
+   "lemma": "ubha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative dual neuter agreeing with sukṛta-duṣkṛte as object of jahāti.",
+   "verification": {
+    "status": "pass",
+    "detail": "ubha Napumsaka/Dvitiya/Dvi: pass"
+   }
+  },
+  {
+   "surface": "sukṛta-duṣkṛte",
+   "surface_in_sandhi": "sukṛta-duṣkṛte",
+   "lemma": "sukṛta-duṣkṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "sukṛtaṃ ca duṣkṛtaṃ ca",
+    "members": [
+     "sukṛta",
+     "duṣkṛta"
+    ]
+   },
+   "note": "Dual dvandva; Śaṅkara glosses the pair as puṇya-pāpe. Verifier note: vidyut-prakriya reported a tool_error / unsupported relation for the whole compound-stem analysis, but I retain the whole-compound stem and dvandva relation because the unit prints sukṛta-duṣkṛte as a paired compound and Śaṅkara glosses it by the dual pair puṇya-pāpe; this looks like a verifier limitation rather than a grammatical correction.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sukṛta-duṣkṛta as Napumsaka/Dvitiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tasmāt",
+   "surface_in_sandhi": "tasmād",
+   "lemma": "tasmāt",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal connective, “therefore”; final -t is voiced before y- in sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yogāya",
+   "surface_in_sandhi": "yogāya",
+   "lemma": "yoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative of goal/purpose with yujyasva; Śaṅkara specifies samatva-buddhi-yoga.",
+   "verification": {
+    "status": "pass",
+    "detail": "yoga Pum/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "yujyasva",
+   "surface_in_sandhi": "yujyasva",
+   "lemma": "yuj",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yuj",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Formally a passive imperative, used idiomatically with dative: “be applied to / apply yourself to.” Śaṅkara glosses it with ghaṭāsva, “strive, exert yourself.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yuj Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yogaḥ",
+   "surface_in_sandhi": "yogaḥ",
+   "lemma": "yoga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the definition yogaḥ karmasu kauśalam.",
+   "verification": {
+    "status": "pass",
+    "detail": "yoga Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "karmasu",
+   "surface_in_sandhi": "karmasu",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative plural; Śaṅkara narrows the scope to sva-dharmākhyeṣu karmasu, actions called one’s own duty.",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Saptami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kauśalam",
+   "surface_in_sandhi": "kauśalam",
+   "lemma": "kauśala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative neuter abstract noun: “skillfulness”; Śaṅkara glosses kauśalaṃ as kuśala-bhāvaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "kauśala Napumsaka/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound buddhi-yuktaḥ is not a generic epithet. Śaṅkara construes it as one joined with a buddhi whose specific viṣaya is karma-samatva, equality/equanimity regarding action; line 4 restates the verse’s instruction as becoming samatva-buddhi-yukta.",
+   "options_considered": [
+    "generic “wise/intelligent”",
+    "“endowed with ordinary intellect”",
+    "“joined with equanimity-understanding”"
+   ],
+   "chosen": "“Joined with the understanding whose object is equanimity,” not merely “intelligent” or “wise.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "buddhi-yuktaḥ karma-samatva-viṣayayā buddhyā yukto buddhi-yuktaḥ",
+     "translation": "“buddhi-yuktaḥ: joined with buddhi whose object is equality with respect to action—that is buddhi-yuktaḥ.”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tasmāt samatva-buddhi-yukto bhava tvam",
+     "translation": "“Therefore become one joined with the understanding of equanimity.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara glosses jahāti by parityajati, iha by asmin loke, and sukṛta-duṣkṛte by puṇya-pāpe. The abandonment is therefore not simply “stopping good and bad deeds,” but relinquishing both karmic opposites, through purification and attainment of knowledge.",
+   "options_considered": [
+    "“he abandons good and bad deeds” as external non-performance",
+    "“he abandons both merit and demerit/sin”",
+    "“he destroys only sin, keeping merit”"
+   ],
+   "chosen": "The object abandoned is both merit and demerit/sin, here in this world.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "saḥ jahāti parityajati iha asmin loke ubhe sukṛta-duṣkṛte puṇya-pāpe sattva-śuddhi-jñāna-prāpti-dvāreṇa",
+     "translation": "“He abandons, gives up, here in this world, both sukṛta and duṣkṛta—merit and sin—through the means of purification of sattva and attainment of knowledge.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The dative yogāya is not left as an undefined “to yoga.” Śaṅkara expands it to samatva-buddhi-yogāya and glosses yujyasva as ghaṭāsva, so the imperative is rendered idiomatically as “apply yourself/strive,” not as a merely physical “be yoked.”",
+   "options_considered": [
+    "“be yoked” in a literal passive sense",
+    "“practice yoga” without specifying its kind",
+    "“apply yourself to the yoga of equanimity-understanding”"
+   ],
+   "chosen": "“Apply yourself to yoga,” with yoga specified as samatva-buddhi-yoga.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tasmāt samatva-buddhi-yogāya yujyasva ghaṭāsva",
+     "translation": "“Therefore apply yourself, strive, for the yoga of the understanding of equanimity.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara prevents reading kauśalam as ordinary clever efficiency. He defines it as kuśala-bhāva consisting in samatva-buddhi toward siddhi and asiddhi, in the context of sva-dharma actions and īśvarārpita-cetastā.",
+   "options_considered": [
+    "ordinary dexterity or efficiency in action",
+    "ritual expertise alone",
+    "equanimity in success and failure while doing svadharma"
+   ],
+   "chosen": "“Yoga is skillfulness in actions,” where skillfulness is equanimity in success and failure while performing one’s own-duty actions with the mind offered to Īśvara.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yogo hi karmasu kauśalam sva-dharmākhyeṣu karmasu vartamānasya yā siddhy-asiddhyoḥ samatva-buddhir īśvarārpita-cetastayā tat kauśalaṃ kuśala-bhāvaḥ",
+     "translation": "“For yoga is skillfulness in actions: for one engaged in actions called one’s own duty, the equanimity of understanding toward success and failure, through the state of having the mind offered to Īśvara—that is skillfulness, the state of being skillful.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Line 3 explains why this is kauśalam: actions that naturally bind are made to turn away from that nature through samatva-buddhi. The printed svabhāvān in the supplied text appears likely to be an unproofread/corrupt form for expected svabhāvāt; the translation follows that evident sense while quoting the input verbatim.",
+   "options_considered": [
+    "skill as producing better worldly results",
+    "skill as making action non-binding through equanimity",
+    "skill as merely technical ritual correctness"
+   ],
+   "chosen": "The “skill” is non-binding skill: it makes even bondage-natured actions cease from their binding nature.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tad dhi kauśalaṃ yad bandhana-svabhāvāny api karmāṇi samatva-buddhyā svabhāvān nivartante",
+     "translation": "“For that is skill by which even actions whose nature is bondage turn away from their nature through evenness-understanding; svabhāvān as printed is likely for svabhāvāt.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Joined with the understanding (buddhi) whose field is equanimity, one abandons here in this world both merit and demerit. Therefore apply yourself to yoga—the discipline of equal understanding (samatva-buddhi-yoga); yoga is skillfulness (kauśala) in actions, the actions of one’s own duty.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render buddhi-yuktaḥ simply as “wise” or “intelligent,” missing Śaṅkara’s specific “understanding whose object is equality in action.”",
+  "It might take sukṛta-duṣkṛte as merely “good and bad deeds”; Śaṅkara glosses the pair as puṇya-pāpa, merit and sin/demerit, abandoned through purification and knowledge.",
+  "It might read yujyasva literally as “be yoked” without the idiomatic force “apply yourself/strive,” supplied by ghaṭāsva.",
+  "It might take yogaḥ karmasu kauśalam as worldly efficiency in work; Śaṅkara defines kauśala as equanimity in success and failure, with the mind offered to Īśvara, in one’s own-duty actions.",
+  "It might miss the non-binding function of this kauśala: even actions of a binding nature cease from that nature through samatva-buddhi."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 splits buddhi-yuktaḥ as buddhi_Cp + yuktaḥ_yuj; I analyze the printed compound as the whole inflected compound stem buddhi-yukta, a tatpuruṣa, following Śaṅkara’s gloss buddhyā yuktaḥ in line 1.",
+  "ByT5 gives the stem of ubhe as ubh; I use the pronominal/adjectival stem ubha, accusative dual neuter, agreeing with sukṛta-duṣkṛte as the object of jahāti.",
+  "ByT5 treats sukṛta as a compound member and duṣkṛte as the inflected head; I analyze the hyphenated expression as a single dual dvandva stem sukṛta-duṣkṛta, supported by Śaṅkara’s dual gloss puṇya-pāpe in line 1.",
+  "ByT5 does not resolve the prayoga of yujyasva; I mark it formally as Karmani Lot, while translating it idiomatically as “apply yourself/strive” on Śaṅkara’s gloss ghaṭāsva in line 1."
+ ],
+ "open_questions": [
+  "Textual note: commentary line 3 prints svabhāvān nivartante; this is likely an unproofread/corrupt reading for svabhāvāt nivartante, and the apparatus treats it accordingly."
+ ],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11715,
+   "completion_tokens": 17761,
+   "reasoning_tokens": 11263
+  },
+  "est_cost": 0.3016,
+  "reverified": true
+ },
+ "mula": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujyasva yogaḥ karmasu kauśalam",
+ "commentary_lines": [
+  "buddhi-yuktaḥ karma-samatva-viṣayayā buddhyā yukto buddhi-yuktaḥ saḥ jahāti parityajati iha asmin loke ubhe sukṛta-duṣkṛte puṇya-pāpe sattva-śuddhi-jñāna-prāpti-dvāreṇa yataḥ, tasmāt samatva-buddhi-yogāya yujyasva ghaṭāsva |",
+  "yogo hi karmasu kauśalam sva-dharmākhyeṣu karmasu vartamānasya yā siddhy-asiddhyoḥ samatva-buddhir īśvarārpita-cetastayā tat kauśalaṃ kuśala-bhāvaḥ |",
+  "tad dhi kauśalaṃ yad bandhana-svabhāvāny api karmāṇi samatva-buddhyā svabhāvān nivartante |",
+  "tasmāt samatva-buddhi-yukto bhava tvam ||bhgs_2.50||",
+  "yasmāt -",
+  "karmajaṃ buddhi-yuktā hi phalaṃ tyaktvā manīṣiṇaḥ |",
+  "janma-bandha-vinirmuktāḥ padaṃ gacchanty anāmayam"
+ ]
+}

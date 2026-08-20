@@ -1,0 +1,524 @@
+{
+ "unit": "2.33",
+ "analysis": [
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "atha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Inceptive/transition particle, construed with the following conditional cet.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "cet",
+   "surface_in_sandhi": "cet",
+   "lemma": "ced",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Conditional indeclinable. The source form is cet before tvam; lemma retained as ced per the MW entry supplied. A verifier that looks up cet as an independent headword may miss the indeclinable ced; this analysis is therefore retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya per MW (kosha gap; logged unsupported)"
+   }
+  },
+  {
+   "surface": "tvam",
+   "surface_in_sandhi": "tvam",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun, nominative singular. The form is gender-common, but linga is supplied as Pum because the addressee, Arjuna, is masculine and the required nominal analysis asks for linga.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "imam",
+   "surface_in_sandhi": "imaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative masculine singular, agreeing with saṃgrāmam.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "dharmyam",
+   "surface_in_sandhi": "dharmyaṃ",
+   "lemma": "dharmya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative masculine singular, agreeing with saṃgrāmam.",
+   "verification": {
+    "status": "pass",
+    "detail": "dharmya Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṃgrāmam",
+   "surface_in_sandhi": "saṃgrāmaṃ",
+   "lemma": "saṃgrāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of kariṣyasi; glossed as yuddham, ‘battle’.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃgrāma Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kariṣyasi",
+   "surface_in_sandhi": "kariṣyasi",
+   "lemma": "kṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "kṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Simple future, second singular; with saṃgrāmam it means ‘will undertake/fight the battle’.",
+   "verification": {
+    "status": "pass",
+    "detail": "kṛ Lrt/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tataḥ",
+   "surface_in_sandhi": "tataḥ",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Apodotic ‘then’; Śaṅkara construes it causally as tad-akaraṇāt, ‘because of not doing that’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "svadharmam",
+   "surface_in_sandhi": "sva-dharmaṃ",
+   "lemma": "svadharma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "svasya dharmaḥ",
+    "members": [
+     "sva",
+     "dharma"
+    ]
+   },
+   "note": "Accusative object of hitvā; in context, ‘your own duty’. The source prints the compound with an editorial hyphen as sva-dharmaṃ; the Sanskrit compound stem is given without the hyphen as svadharma.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svadharma as Pum/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "kīrtim",
+   "surface_in_sandhi": "kīrtiṃ",
+   "lemma": "kīrti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object of hitvā, coordinated with svadharmaṃ; Śaṅkara specifies it as mahā-devādi-samāgama-nimittā.",
+   "verification": {
+    "status": "pass",
+    "detail": "kīrti Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction, coordinating kīrtim with svadharmam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hitvā",
+   "surface_in_sandhi": "hitvā",
+   "lemma": "hā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "hā",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive of √hā, ‘having abandoned’; its objects are svadharmam and kīrtim.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "pāpam",
+   "surface_in_sandhi": "pāpam",
+   "lemma": "pāpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter substantive, ‘sin/evil’, object of avāpsyasi.",
+   "verification": {
+    "status": "pass",
+    "detail": "pāpa Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "avāpsyasi",
+   "surface_in_sandhi": "avāpsyasi",
+   "lemma": "āp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "āp",
+    "prefixes": [
+     "ava"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Future second singular of ava-√āp, ‘attain, incur’.",
+   "verification": {
+    "status": "pass",
+    "detail": "ava-āp Lrt/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "atha cet ... na kariṣyasi is not merely a temporal sequence; tataḥ is read by Śaṅkara as causal/resultative, tied to tad-akaraṇāt.",
+   "options_considered": [
+    "‘atha’ as a simple ‘then/next’ without conditional force",
+    "‘tataḥ’ as only temporal ‘after that’",
+    "conditional ‘if ... then’, with causal force ‘because of that non-performance’"
+   ],
+   "chosen": "A conditional protasis and apodosis: ‘if you will not ... then, because of that non-performance ...’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "atha cet tvam imaṃ dharmyaṃ dharmād anapetaṃ vihitaṃ saṃgrāmaṃ yuddhaṃ na kariṣyasi cet, tataḥ tad-akaraṇāt",
+     "translation": "‘Now/but if you will not do this dharmya battle, not departed from dharma, enjoined, namely war, then because of not doing that ...’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The adjective is not taken merely as ‘customary’ or vaguely ‘legal’; Śaṅkara explains it as both dharmād anapetam and vihitam.",
+   "options_considered": [
+    "customary/usual",
+    "legal/legitimate in a secular sense",
+    "righteous and prescribed, not contrary to dharma"
+   ],
+   "chosen": "dharmyaṃ means ‘righteous/enjoined, not apart from dharma’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "dharmyaṃ dharmād anapetaṃ vihitaṃ",
+     "translation": "‘dharmya: not departed from dharma, enjoined.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The object saṃgrāma is not an assembly or troop here; the bhāṣya glosses it directly as yuddham.",
+   "options_considered": [
+    "assembly/host/troop",
+    "conflict in a broad metaphorical sense",
+    "battle/war to be fought"
+   ],
+   "chosen": "saṃgrāmaṃ is ‘battle/war’, and kariṣyasi with it means ‘undertake/fight’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "saṃgrāmaṃ yuddhaṃ",
+     "translation": "‘saṃgrāma: war/battle.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The compound relation is possessive; ‘sva’ qualifies dharma as belonging to the subject, not as a separate coordinated item.",
+   "options_considered": [
+    "a dvandva, ‘self and duty’",
+    "a purely adjectival karmadhāraya, ‘self-duty’",
+    "a possessive tatpuruṣa, ‘one’s own dharma/duty’"
+   ],
+   "chosen": "svadharma is a tatpuruṣa compound: svasya dharmaḥ, ‘one’s own duty’, here ‘your own duty’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The absolutive is not limited to kīrti alone; Śaṅkara repeats the pair as a single abandonment, svadharma-kīrti-parityāgaḥ.",
+   "options_considered": [
+    "hitvā applies only to kīrtiṃ",
+    "hitvā applies to pāpam",
+    "hitvā applies to both svadharmaṃ and kīrtiṃ"
+   ],
+   "chosen": "hitvā governs both svadharmaṃ and kīrtiṃ: ‘abandoning your own duty and fame’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svadharmaṃ kīrtiṃ ca mahā-devādi-samāgama-nimittāṃ hitvā",
+     "translation": "‘having abandoned own duty and fame, occasioned by encounters with Mahādeva and the like’"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "na kevalaṃ svadharma-kīrti-parityāgaḥ -",
+     "translation": "‘not merely the abandonment of own duty and fame ...’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara identifies the source or occasion of the fame; the translation therefore avoids reducing kīrti to generic ‘report’ or ‘mention’.",
+   "options_considered": [
+    "mere mention/report",
+    "generic reputation without specification",
+    "fame occasioned by encounters with Mahādeva and the like"
+   ],
+   "chosen": "kīrti is ‘fame’, specifically the fame occasioned by encounters with Mahādeva and others.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kīrtiṃ ca mahā-devādi-samāgama-nimittāṃ",
+     "translation": "‘and fame occasioned by meeting Mahādeva and the others.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "pāpam is a neuter substantive ‘sin’, not an adjective or ‘wicked man’; Śaṅkara adds kevalam, marking it as the sole result after the abandonment.",
+   "options_considered": [
+    "you will obtain a wicked person",
+    "you will experience an unspecified evil",
+    "you will incur only sin"
+   ],
+   "chosen": "pāpam avāpsyasi means ‘you will incur only sin’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "hitvā kevalaṃ pāpam avāpsyasi",
+     "translation": "‘having abandoned [them], you will attain/incur only sin.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "But if you will not fight this battle—righteous, enjoined, not apart from dharma—then, abandoning your own duty (svadharma) and the fame occasioned by encounters with Mahādeva and the like, you will incur only sin (pāpa).",
+ "one_shot_delta": [
+  "Without the commentary, dharmyaṃ might be translated blandly as ‘customary’ or ‘legal’; Śaṅkara fixes it as ‘not apart from dharma’ and ‘enjoined’.",
+  "A commentary-blind reading might take tataḥ as simply temporal ‘after that’; Śaṅkara’s tad-akaraṇāt makes the result arise from non-performance.",
+  "The verse’s kīrtiṃ could be left as generic fame, but Śaṅkara specifies fame occasioned by encounters with Mahādeva and the like.",
+  "The force of kevalam in the bhāṣya prevents softening pāpam avāpsyasi to ‘you will meet with misfortune’; the point is that only sin is incurred."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 represents the conditional particle as ced; the source prints cet. I retain surface cet as the pausal/sandhi-devoiced source form and lemma ced as the supplied MW headword marked indeclinable.",
+  "ByT5 does not provide a linga for tvam; Pum is supplied from the masculine addressee Arjuna, while noting that the form itself is gender-common.",
+  "ByT5 represents tataḥ as tatas; the analysis gives the required pausal surface tataḥ while retaining lexical lemma tatas.",
+  "ByT5 segments sva-dharmaṃ as sva_Cp + dharmam; because the source prints a compound and the meaning is ‘one’s own duty’, it is analyzed as one inflected compound stem svadharma, accusative masculine singular. The source hyphen is retained only in surface_in_sandhi.",
+  "ByT5 gives avāpsyasi under the prefixed lemma avāp; per the requested format it is analyzed with bare root āp and prefix ava."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13997,
+   "completion_tokens": 18103,
+   "reasoning_tokens": 11777
+  },
+  "est_cost": 0.3135,
+  "reverified": true
+ },
+ "mula": "atha cet tvam imaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi | tataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi",
+ "commentary_lines": [
+  "atha cet tvam imaṃ dharmyaṃ dharmād anapetaṃ vihitaṃ saṃgrāmaṃ yuddhaṃ na kariṣyasi cet, tataḥ tad-akaraṇāt svadharmaṃ kīrtiṃ ca mahā-devādi-samāgama-nimittāṃ hitvā kevalaṃ pāpam avāpsyasi ||bhgs_2.33||",
+  "na kevalaṃ svadharma-kīrti-parityāgaḥ -"
+ ]
+}

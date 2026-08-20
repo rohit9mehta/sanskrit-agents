@@ -1,0 +1,616 @@
+{
+ "unit": "2.21",
+ "analysis": [
+  {
+   "surface": "veda",
+   "surface_in_sandhi": "vedā-",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect form with present sense, glossed by Śaṅkara as vijānāti. The Pāṇinian verifier did not derive this special/archaic perfect form and instead generated regular viveda; the Lit analysis is retained because the text and commentary require veda = ‘knows.’",
+   "verification": {
+    "status": "unsupported",
+    "detail": "vid Lit/Prathama/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "avināśinam",
+   "surface_in_sandhi": "-vināśinaṃ",
+   "lemma": "avināśin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is coalesced with preceding veda in the printed sandhi vedāvināśinaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avināśin Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "nityam",
+   "surface_in_sandhi": "nityaṃ",
+   "lemma": "nitya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative masculine singular agreeing with enam, as part of the object of veda.",
+   "verification": {
+    "status": "pass",
+    "detail": "nitya Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "ya",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun correlated with saḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "enam",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to the Self characterized in the previous teaching, according to the commentary. Lemma corrected to idam: enam is the accusative masculine singular enclitic form of idam, not a regular form of enad.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "idam Pum/Dvitiya/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "ajam",
+   "surface_in_sandhi": "ajam",
+   "lemma": "aja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here ‘unborn,’ not any of the homonymous senses of aja.",
+   "verification": {
+    "status": "pass",
+    "detail": "aja Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "avyayam",
+   "surface_in_sandhi": "avyayam",
+   "lemma": "avyaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjectival, agreeing with enam; not the grammatical term ‘indeclinable’ here.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "katham",
+   "surface_in_sandhi": "kathaṃ",
+   "lemma": "katham",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative adverb used rhetorically as denial/impossibility in Śaṅkara’s reading.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative to yaḥ; pausal form restored from sandhi sa.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "puruṣaḥ",
+   "surface_in_sandhi": "puruṣaḥ",
+   "lemma": "puruṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara construes this as the knowing person, vidvān puruṣaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "puruṣa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "pārtha",
+   "surface_in_sandhi": "pārtha",
+   "lemma": "pārtha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative address to Arjuna: ‘O Pārtha.’",
+   "verification": {
+    "status": "pass",
+    "detail": "pārtha Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "kam",
+   "surface_in_sandhi": "kaṃ",
+   "lemma": "ka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Under the rhetorical denial, ‘anyone’; object of the causative sense of ghātayati.",
+   "verification": {
+    "status": "pass",
+    "detail": "ka Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ghātayati",
+   "surface_in_sandhi": "ghātayati",
+   "lemma": "han",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "han",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Causative present form: ‘causes to kill / causes to be killed’; Śaṅkara glosses it as instigating a killer.",
+   "verification": {
+    "status": "pass",
+    "detail": "han Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "hanti",
+   "surface_in_sandhi": "hanti",
+   "lemma": "han",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "han",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Simple present active: ‘kills.’",
+   "verification": {
+    "status": "pass",
+    "detail": "han Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kam",
+   "surface_in_sandhi": "kam",
+   "lemma": "ka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Under the rhetorical denial, ‘anyone’; object of hanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "ka Pum/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The semantic value is not ‘has known’ in a temporally prior sense, but ‘knows/understands.’",
+   "options_considered": [
+    "temporally perfect: ‘has known’",
+    "present cognitive sense: ‘knows/understands’"
+   ],
+   "chosen": "veda is translated as present ‘knows,’ while retained morphologically as a perfect form of √vid with present value.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "veda vijānāti avināśinam antya-bhāva-vikāra-rahitaṃ nityaṃ vipariṇāma-rahitaṃ yo veda iti saṃbandhaḥ",
+     "translation": "‘veda’ means ‘understands’; the construction is ‘he who knows [it as] imperishable, free from the final state-change, eternal, free from transformation.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Translate ‘this [Self]’ for enam, because Śaṅkara identifies it as the entity with the characteristics stated in the prior mantra/verse and later explicitly treats the subject as the avikriya ātmā.",
+   "options_considered": [
+    "enam as the embodied person/body",
+    "enam as the Self taught in the preceding context"
+   ],
+   "chosen": "enam refers to the Self characterized in the immediately preceding teaching, not to the body or to an ordinary person.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "enaṃ pūrveṇa matreṇokta-lakṣaṇam ajaṃ janma-rahitam avyayam apakṣaya-rahitaṃ",
+     "translation": "‘this one,’ having the characteristics stated by the previous mantra/verse, unborn—free from birth—and undecaying—free from diminution."
+    },
+    {
+     "lines": [
+      13
+     ],
+     "quote": "ataḥ pāriśeṣyāt asaṃhata ātmā vidvān avikriyaḥ iti tasya viduṣaḥ karmāsaṃbhavāt ākṣepo yuktaḥ kathaṃ sa puruṣaḥ iti",
+     "translation": "Therefore, by elimination, the uncompounded Self is the knower and is changeless; since action is impossible for that knower, the rhetorical objection ‘how could that person…?’ is fitting."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara glosses each epithet by specifying the absence of a particular transformation or loss.",
+   "options_considered": [
+    "general praise-epithets without technical force",
+    "specific denials of birth, transformation, final destruction, and diminution"
+   ],
+   "chosen": "avināśinam, nityam, ajam, and avyayam are technical negations of change: imperishable, eternal, unborn, undecaying.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avināśinam antya-bhāva-vikāra-rahitaṃ nityaṃ vipariṇāma-rahitaṃ",
+     "translation": "Imperishable: free from the final change of state; eternal: free from transformation."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "ajaṃ janma-rahitam avyayam apakṣaya-rahitaṃ",
+     "translation": "Unborn: free from birth; undecaying: free from diminution."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Render ‘how could…?’ with the force ‘in no way can…,’ because Śaṅkara says the question-sense is impossible and that ākṣepa is intended in both halves.",
+   "options_considered": [
+    "literal question: ‘how does he kill?’",
+    "rhetorical impossibility: ‘how could he kill?’ / ‘he cannot kill’"
+   ],
+   "chosen": "katham introduces a rhetorical denial, not an information-seeking question.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "na kathaṃcit kaṃcit hanti, na kathaṃcit kaṃcit ghātayati iti ubhayatra ākṣepaḥ evārthaḥ praśnārthāsaṃbhavāt",
+     "translation": "He does not in any way kill anyone, nor in any way cause anyone to be killed; in both places the meaning is rhetorical denial, since a question-sense is impossible."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara distinguishes hanti as doing the act of killing from ghātayati as instigating a killer; he later names this as hetu-kartṛtva, causative agency.",
+   "options_considered": [
+    "ghātayati as simply ‘kills/slays’",
+    "ghātayati as causative: ‘makes another kill / causes to be killed’"
+   ],
+   "chosen": "ghātayati is causative: ‘causes to kill’ or ‘causes to be killed,’ not merely a second synonym of hanti.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "hanti hanana-kriyāṃ karoti, kathaṃ vā ghātayati hantāraṃ prayojayati",
+     "translation": "‘hanti’ means he performs the act of killing; or how does he ‘ghātayati,’ that is, instigate a killer?"
+    },
+    {
+     "lines": [
+      40,
+      43
+     ],
+     "quote": "atra ca ātmanaḥ hanana-kriyāyāḥ kartṛtvaṃ karmatvaṃ hetu-kartṛtvaṃ ca ajñāna-kṛtaṃ darśitam | tad etat aviśeṣeṇa viduṣaḥ sarva-kriyāsu kartṛtvaṃ hetu-kartṛtvaṃ ca pratiṣedhati bhagavān vāsudevo viduṣaḥ karmādhikārābhāva-pradarśanārthaṃ vedāvināśinaṃ, kathaṃ sa puruṣaḥ ity ādinā",
+     "translation": "Here agency, objecthood, and causative agency regarding the Self in the act of killing are shown to be produced by ignorance. By ‘vedāvināśinam… kathaṃ sa puruṣaḥ…’ Bhagavān Vāsudeva prohibits, without distinction, the knower’s agency and causative agency in all actions, to show the absence of eligibility for ritual/action."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The subject of the second half is not any man whatsoever but the person who knows the Self under these descriptions.",
+   "options_considered": [
+    "puruṣaḥ as a generic ‘man’ unconnected with the knower",
+    "puruṣaḥ as ‘that knowing person’"
+   ],
+   "chosen": "puruṣaḥ is the vidvān puruṣaḥ, ‘the knowing person,’ correlated with yaḥ.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "kathaṃ kena prakāreṇa sa vidvān puruṣo 'dhikṛtaḥ hanti hanana-kriyāṃ karoti, kathaṃ vā ghātayati hantāraṃ prayojayati",
+     "translation": "How, in what manner, does that knowing person, the one under discussion, perform the act of killing; or how does he instigate a killer?"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Although formally interrogative ‘whom?’, Śaṅkara’s paraphrase kaṃcit in both halves supports ‘anyone’ in English after the rhetorical negative force.",
+   "options_considered": [
+    "interrogative ‘whom?’ retained as a real question",
+    "indefinite ‘anyone’ under rhetorical negation"
+   ],
+   "chosen": "kaṃ is masculine ‘anyone’ in both occurrences under the denial.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "na kathaṃcit kaṃcit hanti, na kathaṃcit kaṃcit ghātayati",
+     "translation": "He does not in any way kill anyone; he does not in any way cause anyone to be killed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Do not translate the verse as licensing killing or as concerning only violence; in the bhāṣya, hanti is an example used to show the impossibility of agency and causative agency for the knower generally.",
+   "options_considered": [
+    "the verse concerns only physical killing",
+    "the killing example illustrates the impossibility of all agency for the knower"
+   ],
+   "chosen": "The immediate example is killing, but Śaṅkara takes the intended scope to be the knower’s non-agency in all actions.",
+   "evidence": [
+    {
+     "lines": [
+      4,
+      5
+     ],
+     "quote": "hetv-arthasya ca avikriyatvasya tulyatvāt viduṣaḥ sarva-karma-pratiṣedha eva prakaraṇārtho 'bhipreto bhagavatā | hantes tu ākṣepaḥ udāharaṇārthatvena kathitaḥ",
+     "translation": "Because the reason, changelessness, is the same, the contextual meaning intended by Bhagavān is precisely the prohibition of all action for the knower; the rhetorical denial concerning ‘killing’ is stated as an example."
+    },
+    {
+     "lines": [
+      43
+     ],
+     "quote": "tad etat aviśeṣeṇa viduṣaḥ sarva-kriyāsu kartṛtvaṃ hetu-kartṛtvaṃ ca pratiṣedhati bhagavān vāsudevo viduṣaḥ karmādhikārābhāva-pradarśanārthaṃ vedāvināśinaṃ, kathaṃ sa puruṣaḥ ity ādinā",
+     "translation": "Thus Bhagavān Vāsudeva, by ‘vedāvināśinam… kathaṃ sa puruṣaḥ…,’ prohibits without distinction the knower’s agency and causative agency in all actions, to show the knower’s lack of eligibility for action."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "He who knows this [Self] as imperishable, eternal,\nunborn, and undecaying—\nhow could that knowing person, O Pārtha,\ncause anyone to be killed, or kill anyone?",
+ "one_shot_delta": [
+  "A commentary-blind translation might treat katham as a real question; Śaṅkara instead requires rhetorical denial: the knower cannot in any way kill or cause killing.",
+  "It might translate ghātayati as merely ‘kills’ and miss the causative-agency distinction; Śaṅkara glosses it as hantāraṃ prayojayati, ‘instigates a killer.’",
+  "It might not mark enam as the Self characterized previously, or might read the adjectives as loose epithets; Śaṅkara ties them to absence of birth, transformation, destruction, and diminution.",
+  "It might confine the point to battlefield killing; Śaṅkara says killing is only an example and that the intended scope is the knower’s non-agency in all actions."
+ ],
+ "analyzer_disagreements": [
+  "For ghātayati, ByT5 gives the lemma as ghātay; following the instruction to give the bare verbal root and Śaṅkara’s gloss ghātayati hantāraṃ prayojayati (line 2), it is analyzed as the causative present of √han.",
+  "For enam, ByT5 gives the lemma as enad; corrected to idam because enad as a regular stem would yield enadam, while enam is the accusative masculine singular enclitic form of idam."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 2,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 18811,
+   "completion_tokens": 16922,
+   "reasoning_tokens": 9089
+  },
+  "est_cost": 0.3103,
+  "reverified": true
+ },
+ "mula": "vedāvināśinaṃ nityaṃ ya enam ajam avyayam | kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam",
+ "commentary_lines": [
+  "veda vijānāti avināśinam antya-bhāva-vikāra-rahitaṃ nityaṃ vipariṇāma-rahitaṃ yo veda iti saṃbandhaḥ |",
+  "enaṃ pūrveṇa matreṇokta-lakṣaṇam ajaṃ janma-rahitam avyayam apakṣaya-rahitaṃ kathaṃ kena prakāreṇa sa vidvān puruṣo 'dhikṛtaḥ hanti hanana-kriyāṃ karoti, kathaṃ vā ghātayati hantāraṃ prayojayati |",
+  "na kathaṃcit kaṃcit hanti, na kathaṃcit kaṃcit ghātayati iti ubhayatra ākṣepaḥ evārthaḥ praśnārthāsaṃbhavāt |",
+  "hetv-arthasya ca avikriyatvasya tulyatvāt viduṣaḥ sarva-karma-pratiṣedha eva prakaraṇārtho 'bhipreto bhagavatā |",
+  "hantes tu ākṣepaḥ udāharaṇārthatvena kathitaḥ |",
+  "viduṣaḥ kaṃ karmāsaṃbhave hetu-viśeṣaṃ paśyan karmāṇy ākṣipati bhagavān kathaṃ sa puruṣaḥ iti |",
+  "nanu ukta evātmano 'vikriyatvaṃ sarva-karmāsaṃbhava-kāraṇa-viśeṣaḥ |",
+  "satyam uktaḥ |",
+  "na tu sa kāraṇa-viśeṣaḥ, anyatvāt viduṣo 'vikriyād ātmanaḥ |",
+  "na hi avikriyaṃ sthāṇuṃ viditavataḥ karma na saṃbhavati iti cet, na |",
+  "viduṣaḥ ātmatvāt |",
+  "na dehādi-saṃghātasya vidvattā |",
+  "ataḥ pāriśeṣyāt asaṃhata ātmā vidvān avikriyaḥ iti tasya viduṣaḥ karmāsaṃbhavāt ākṣepo yuktaḥ kathaṃ sa puruṣaḥ iti |",
+  "yathā buddhyādy āhṛtasya śabdādy-arthasya avikriya eva san buddhi-vṛtty-aviveka-vijñānena avidyayā upalabdhā ātmā kalpyate, evam eva ātmānātma-viveka-jñānena buddhi-vṛttyā vidyā asatya-rūpayaiva paramārthato 'vikriya eva ātmā vidvān ucyate |",
+  "viduṣaḥ karmāsaṃbhava-vacanāt yāni karmāṇi śāstreṇa vidhīyante tāni aviduṣo vihitāni iti bhagavato niścayo 'vagamyate ||",
+  "nanu vidyāpi aviduṣa eva vidhīyate, vidita-vidyasya piṣṭa-peṣaṇavat vidyā-vidhānānarthakyāt |",
+  "tatra aviduṣaḥ karmāṇi vidhīyante na viduṣaḥ iti viśeṣo nopapadyate iti cet, na |",
+  "anuṣṭheyasya bhāvābhāva-viśeṣopapatteḥ |",
+  "agnihotrādi-vidhy-artha-jñānottara-kālam agnihotrādi-karma aneka-sādhanopasaṃhāra-pūrvakam anuṣṭheyaṃ kartā aham, mama kartavyam ity evaṃ prakāra-vijñānavato 'viduṣaḥ yathā anuṣṭheyaṃ bhavati, na tu tathā na jāyate ity ādy ātma-svarupa-vidhy-artha-jñānottara-kāla-bhāvi kiṃcid anuṣṭheyaṃ bhavati |",
+  "kintu nāhaṃ kartā, nāhaṃ bhoktā ity ādy ātmaikatvākartṛtvādi-viṣaya-jñānāt nānyad utpadyate iti eṣa viśeṣa upapadyate |",
+  "yaḥ punaḥ kartā aham iti vetti ātmānam, tasya mama idaṃ kartavyam iti avaśyaṃbhāvinī buddhiḥ syāt |",
+  "tad-apekṣayā so 'dhikriyate iti taṃ prati karmāṇi saṃbhavanti |",
+  "sa ca avidvān ubhau tau na vijānītaḥ iti vacanāt viśeṣitasya ca viduṣaḥ karmākṣepa-vacanāt kathaṃ sa puruṣaḥ iti |",
+  "tasmāt viśeṣitasya avikriyātma-darśinaḥ viduṣaḥ mumukṣo ca sarva-karma-saṃnyāse eva adhikāraḥ |",
+  "ata eva bhagavān nārāyaṇaḥ sāṃkhyān viduṣo 'viduṣa ca karmiṇaḥ pravibhajya dve niṣṭhe grāhayati-jñāna-yogena sāṃkhyānāṃ karma-yogena yoginām iti |",
+  "tathā ca putrāya āha bhagavān vyāsaḥ - dvāv imāv atha panthānau [mahāśā 241.6] ity ādi |",
+  "tathā ca kriyā-pathaś caiva purastāt paścāt saṃnyāsaś ca iti |",
+  "etam eva vibhāgaṃ punaḥ punar darśayiṣyati bhagavān --- atattvavit ahaṃkāra-vimūḍhātmā kartāham iti manyate, tattvavit tu, nāhaṃ karomi iti |",
+  "tathā ca sarva-karmāṇi manasā saṃnyasyāste ityādi ||",
+  "tatra kecit paṇḍitaṃ-manyā vadanti --- janmādi-ṣaḍ-bhāva-vikriyā-rahito 'vikriyo 'kartā eko 'ham ātmā iti na kasyacit jñānam utpadyate, yasmin sati sarva-karma-saṃnyāsaḥ upadiśyate iti |",
+  "tan na |",
+  "na jāyate ityādi śāstropadeśānarthakya-prasaṅgāt |",
+  "yathā ca śāstropadeśa-sāmarthyāt dharmādharmāstitva-vijñānaṃ kartuś ca dehāntara-saṃbandha-vijñānam utpadyate, tathā śāstrāt tasyaiva ātmano 'vikriyatvākartṛtvaikatvādi-vijñānaṃ kasmāt notpadyate iti praṣṭavyāḥ te |",
+  "karaṇāgocaratvāt iti cet, na |",
+  "manasaivānudraṣṭavyam [bau 4.4.19] iti śruteḥ |",
+  "śāstrācāryopadeśa-śama-damādi-saṃskṛtaṃ mana ātma-darśane karaṇam |",
+  "tathā ca tad adhigamāya anumāne āgame ca sati jñānaṃ notpadyata iti sāhasa-mātram etat |",
+  "jñānaṃ ca utpadyamānaṃ tad-viparītam ajñānam avaśyaṃ bādhate ity abhyupagantavyam |",
+  "tac ca ajñānaṃ darśitam hantā aham, hato 'smi iti ubhau tau na vijānīta iti |",
+  "atra ca ātmanaḥ hanana-kriyāyāḥ kartṛtvaṃ karmatvaṃ hetu-kartṛtvaṃ ca ajñāna-kṛtaṃ darśitam |",
+  "tac ca sarva-kriyāsv api samānaṃ kartṛtvādeḥ avidyā-kṛtatvam avikriyatvāt ātmanaḥ |",
+  "vikriyāvān hi kartā ātmanaḥ karma-bhūtam anyaṃ prayojayati kuru iti |",
+  "tad etat aviśeṣeṇa viduṣaḥ sarva-kriyāsu kartṛtvaṃ hetu-kartṛtvaṃ ca pratiṣedhati bhagavān vāsudevo viduṣaḥ karmādhikārābhāva-pradarśanārthaṃ vedāvināśinaṃ, kathaṃ sa puruṣaḥ ity ādinā |",
+  "kva punaḥ viduṣo 'dhikāra iti etad uktaṃ pūrvam eva jñāna-yogena sāṃkhyānām iti |",
+  "tathā ca sarva-karma-saṃnyāsaṃ vakṣyati sarva-karmāṇi manasā ity ādinā ||",
+  "nanu manasā iti vacanāt na vācikānāṃ kāyikānā ca saṃnyāsaḥ iti cet, na |",
+  "sarva-karmāṇi iti viśeṣitatvāt |",
+  "mānasānām eva sarva-karmaṇām iti cet, na |",
+  "mano-vyāpāra-pūrvakatvād vāk-kāya-vyāpārāṇāṃ mano-vyāpārābhāve tad-anupapatteḥ |",
+  "śāstrīyāṇāṃ vāk-kāya-karmaṇāṃ kāraṇāni mānasāni karmāṇi varjayitvā anyāni sarva-karmāṇi manasā saṃnyasyed iti cet, na |",
+  "naiva kurvan na kārayan iti viśeṣaṇāt |",
+  "sarva-karma-saṃnyāso 'yaṃ bhagavatā uktaḥ mariṣyato na jīvata iti cet, na |",
+  "nava-dvāre pure dehī āste iti viśeṇānupapatteḥ |",
+  "na hi sarva-karma-saṃnyāsena mṛtasya tad-dehe āsanaṃ saṃbhavati |",
+  "akurvato 'kārayata ca dehe saṃnyasya iti saṃbandho na dehe āste iti cet, na |",
+  "sarvatra ātmano 'vikriyatvāvadhāraṇāt |",
+  "āsana-kriyāyāś cādhikaraṇāpekṣatvāt |",
+  "tad-anapekṣatvāc ca saṃnyāsasya |",
+  "saṃpūrvas tu nyāsa-śabdo 'tra tyāgārthaḥ, na nikṣepārthaḥ |",
+  "tasmāt gītā-śāstre ātma-jñānavataḥ saṃnyāsa eva adhikāro na karmaṇīti tatra tatra upariṣṭāt ātma-jñāna-prakaraṇe darśayiṣyāmaḥ ||bhgs_2.21||",
+  "prakṛtaṃ tu vakṣyāmaḥ |",
+  "tatra ātmano 'vināśitvaṃ pratijñātam |",
+  "tat kim iveti, ucyate -"
+ ]
+}

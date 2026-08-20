@@ -1,0 +1,232 @@
+{
+ "unit": "1.9",
+ "analysis": [
+  {
+   "surface": "śabdajñānānupātī",
+   "surface_in_sandhi": "śabdajñānānupātī",
+   "lemma": "śabdajñānānupātin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "śabdāt jātaṃ jñānam, tasya anupātī",
+    "members": [
+     "śabda",
+     "jñāna",
+     "anupātin"
+    ]
+   },
+   "note": "In-stem adjective in nominative masculine singular, agreeing with vikalpaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem śabdajñānānupātin as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vastuśūnyaḥ",
+   "surface_in_sandhi": "vastuśūnyo",
+   "lemma": "vastuśūnya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vastunā śūnyaḥ",
+    "members": [
+     "vastu",
+     "śūnya"
+    ]
+   },
+   "note": "Adjective in nominative masculine singular, agreeing with vikalpaḥ; sandhi changes final -aḥ to -o before v-.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vastuśūnya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vikalpaḥ",
+   "surface_in_sandhi": "vikalpaḥ",
+   "lemma": "vikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative masculine singular head noun of the definition.",
+   "verification": {
+    "status": "pass",
+    "detail": "vikalpa Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The commentary glosses the sūtra’s śabda-jñāna element by saying that the relevant vyavahāra is grounded in the efficacy of śabda-jñāna; therefore the compound is construed as a single dependence on word-cognition.",
+   "options_considered": [
+    "following upon verbal cognition",
+    "following words and knowledge separately",
+    "merely accompanied by speech"
+   ],
+   "chosen": "śabdajñānānupātī means “following upon / dependent on verbal cognition,” not “following words and knowledge” as two separate items.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "vastuśūnyatve 'pi śabdajñānamāhātmyanibandhano vyavahāro dṛśyate.",
+     "translation": "Even when there is object-emptiness, a usage is seen that is grounded in the efficacy of verbal cognition."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The bhāṣya explicitly says that vyavahāra is seen even in vastuśūnyatva. Its examples show that what is lacking is not necessarily meaningful use, but a real counterpart such as an actual relation or a real property inhering in the subject.",
+   "options_considered": [
+    "meaningless or unusable because it has no object",
+    "empty of a real corresponding object/property, though linguistically usable",
+    "referring to a false object in the manner of viparyaya"
+   ],
+   "chosen": "vastuśūnyaḥ means “empty of a corresponding object/reality,” while still capable of supporting linguistic usage.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "vastuśūnyatve 'pi śabdajñānamāhātmyanibandhano vyavahāro dṛśyate.",
+     "translation": "Even in object-emptiness, a usage is observed, grounded in the efficacy of verbal cognition."
+    },
+    {
+     "lines": [
+      4,
+      5,
+      6
+     ],
+     "quote": "tad yathā caitanyaṃ puruṣasya svarūpam iti.\nyadā citir eva puruṣas tadā kim atra kena vyapadiśyate.\nbhavati ca vyapadeśe vṛttiḥ.",
+     "translation": "For example: ‘Consciousness is the own-form of puruṣa.’ When consciousness itself is puruṣa, what is here designated by what? Yet in designation an operation does occur."
+    },
+    {
+     "lines": [
+      10,
+      11
+     ],
+     "quote": "tathānutpattidharmā puruṣa iti, utpattidharmasyābhāvamātram avagamyate na puruṣānvayī dharmaḥ.\ntasmād vikalpitaḥ sa dharmas tena cāsti vyavahāra iti.",
+     "translation": "Similarly, in ‘puruṣa has non-origination as its property,’ only the mere absence of the property of origination is understood, not a property inhering in puruṣa. Therefore that property is constructed, and by it there is usage."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Vyāsa excludes vikalpa from both pramāṇa and viparyaya, and calls the relevant dharma vikalpita, constructed. The English “conceptual construction” best preserves that it is a cognition/usage produced through verbal construction without a corresponding object.",
+   "options_considered": [
+    "conceptual/verbal construction",
+    "alternative or option",
+    "valid cognition",
+    "misapprehension of a false object"
+   ],
+   "chosen": "vikalpaḥ is rendered “conceptual construction,” not “option/alternative” and not a pramāṇa or viparyaya.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "sa na pramāṇopārohī.\nna viparyayopārohī ca.",
+     "translation": "It does not fall under pramāṇa. Nor does it fall under viparyaya."
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "tasmād vikalpitaḥ sa dharmas tena cāsti vyavahāra iti.",
+     "translation": "Therefore that property is constructed, and by it there is usage."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The three inflected forms are nominative masculine singular, forming a compact sūtra-definition: ‘vikalpa is that which is X and Y.’",
+   "options_considered": [
+    "both adjectives qualify vikalpaḥ",
+    "the first compound is an independent substantive",
+    "the second compound is an adverbial expression"
+   ],
+   "chosen": "śabdajñānānupātī and vastuśūnyaḥ are nominative masculine singular adjectives qualifying vikalpaḥ.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Conceptual construction (vikalpa) is that which follows upon verbal cognition (śabda-jñāna), while empty of a corresponding object (vastu).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might translate vikalpa as simply “option” or “alternative”; Vyāsa instead treats it as a constructed cognition/usage that is neither pramāṇa nor viparyaya.",
+  "It might take vastuśūnyaḥ to mean sheer nonsense or absence of all meaningful use; Vyāsa says usage is in fact observed even in object-emptiness, based on verbal cognition.",
+  "It might miss that the ‘object’ lacking can be a real relation or property, as in Vyāsa’s examples where a property is only vikalpita, constructed, and not truly inhering in puruṣa."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split śabdajñānānupātī into lexical members śabda + jñāna + anupātin; I retain those members but analyze the printed inflected form as one nominative masculine singular tatpuruṣa compound stem śabdajñānānupātin, agreeing with vikalpaḥ. The commentary treats śabdajñāna as the relevant basis in śabdajñānamāhātmyanibandhanaḥ (line 3).",
+  "ByT5 split vastuśūnyaḥ into vastu + śūnya; I retain those members but analyze the printed sandhi form vastuśūnyo as one nominative masculine singular tatpuruṣa compound stem vastuśūnya, agreeing with vikalpaḥ. The commentary abstracts the same compound as vastuśūnyatve (line 3)."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2353,
+   "completion_tokens": 7989,
+   "reasoning_tokens": 6143
+  },
+  "est_cost": 0.1269,
+  "reverified": true
+ },
+ "mula": "8 śabdajñānānupātī vastuśūnyo vikalpaḥ",
+ "commentary_lines": [
+  "sa na pramāṇopārohī.",
+  "na viparyayopārohī ca.",
+  "vastuśūnyatve 'pi śabdajñānamāhātmyanibandhano vyavahāro dṛśyate.",
+  "tad yathā caitanyaṃ puruṣasya svarūpam iti.",
+  "yadā citir eva puruṣas tadā kim atra kena vyapadiśyate.",
+  "bhavati ca vyapadeśe vṛttiḥ.",
+  "yathā caitrasya gaur iti.",
+  "tathā pratiṣiddhavastudharmo niṣkriyaḥ puruṣaḥ, tiṣṭhati bāṇaḥ sthāsyati sthita iti.",
+  "gatinivṛttau dhātvarthamātraṃ gamyate.",
+  "tathānutpattidharmā puruṣa iti, utpattidharmasyābhāvamātram avagamyate na puruṣānvayī dharmaḥ.",
+  "tasmād vikalpitaḥ sa dharmas tena cāsti vyavahāra iti.",
+  "1.9",
+  "abhāvapratyayālambanā vṛttir nidrā"
+ ]
+}

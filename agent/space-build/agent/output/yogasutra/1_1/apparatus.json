@@ -1,0 +1,821 @@
+{
+ "unit": "1.1",
+ "analysis": [
+  {
+   "surface": "ādyam",
+   "surface_in_sandhi": "ādyaṃ",
+   "lemma": "ādya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial accusative: “at first / at the beginning.” Pausal pre-sandhi form is ādyam; the printed form has anusvāra before prabhavati.",
+   "verification": {
+    "status": "pass",
+    "detail": "ādya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "prabhavati",
+   "surface_in_sandhi": "prabhavati",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhū",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Bare root √bhū with prefix pra-, as required for verbal analysis.",
+   "verification": {
+    "status": "pass",
+    "detail": "pra-bhū Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "jagataḥ",
+   "surface_in_sandhi": "jagato",
+   "lemma": "jagat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular: “of the world”; also supplies the antecedent for yasya in this construal.",
+   "verification": {
+    "status": "pass",
+    "detail": "jagat Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "anekadhā",
+   "surface_in_sandhi": "'nekadhā",
+   "lemma": "anekadhā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable: “in many ways”; printed together with following anugrahāya by ā + a sandhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anugrahāya",
+   "surface_in_sandhi": "nugrahāya",
+   "lemma": "anugraha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative of purpose: “for favouring / benefiting.”",
+   "verification": {
+    "status": "pass",
+    "detail": "anugraha Pum/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "prakṣīṇakleśarāśiḥ",
+   "surface_in_sandhi": "prakṣīṇakleśarāśir",
+   "lemma": "prakṣīṇakleśarāśi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "prakṣīṇaḥ kleśānāṃ rāśir yasya saḥ",
+    "members": [
+     "prakṣīṇa",
+     "kleśa",
+     "rāśi"
+    ]
+   },
+   "note": "External masculine nominative epithet of devaḥ/ahīśaḥ; internally kleśa-rāśi is a genitive relation.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem prakṣīṇakleśarāśi as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "viṣamaviṣadharaḥ",
+   "surface_in_sandhi": "viṣamaviṣadharo",
+   "lemma": "viṣamaviṣadhara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "viṣamaṃ viṣaṃ dharati iti",
+    "members": [
+     "viṣama",
+     "viṣa",
+     "dhara"
+    ]
+   },
+   "note": "Epithet: “bearing dread poison.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem viṣamaviṣadhara as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anekavaktraḥ",
+   "surface_in_sandhi": "'nekavaktraḥ",
+   "lemma": "anekavaktra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "anekāni vaktrāṇi yasya saḥ",
+    "members": [
+     "aneka",
+     "vaktra"
+    ]
+   },
+   "note": "External epithet of the serpent-lord/deity.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anekavaktra as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "subhogī",
+   "surface_in_sandhi": "subhogī",
+   "lemma": "subhogin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "śobhanā bhogā yasya saḥ",
+    "members": [
+     "su",
+     "bhoga"
+    ]
+   },
+   "note": "In the serpent context, bhogin is taken in the sense “coiled/ringed,” not merely “enjoyer.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem subhogin as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sarvajñānaprasūtiḥ",
+   "surface_in_sandhi": "sarvajñānaprasūtir",
+   "lemma": "sarvajñānaprasūti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "sarvasya jñānasya prasūtiḥ",
+    "members": [
+     "sarva",
+     "jñāna",
+     "prasūti"
+    ]
+   },
+   "note": "Feminine abstract noun in apposition to the deity: “source/origin of all knowledge.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvajñānaprasūti as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bhujagaparikaraḥ",
+   "surface_in_sandhi": "bhujagaparikaraḥ",
+   "lemma": "bhujagaparikara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "bhujagāḥ parikaro yasya saḥ",
+    "members": [
+     "bhujaga",
+     "parikara"
+    ]
+   },
+   "note": "External masculine epithet: “having serpents as retinue.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem bhujagaparikara as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "prītaye",
+   "surface_in_sandhi": "prītaye",
+   "lemma": "prīti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Caturthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Dative of purpose: “for delight/pleasure.”",
+   "verification": {
+    "status": "pass",
+    "detail": "prīti Stri/Caturthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "yasya",
+   "surface_in_sandhi": "yasya",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The form is masc./neut. genitive singular; here taken with jagat: “of which / its.”",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "nityam",
+   "surface_in_sandhi": "nityaṃ",
+   "lemma": "nityam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable: “always.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "devaḥ",
+   "surface_in_sandhi": "devo",
+   "lemma": "deva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject/apposition with saḥ and ahīśaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "deva Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ahīśaḥ",
+   "surface_in_sandhi": "'hīśaḥ",
+   "lemma": "ahīśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "ahīnām īśaḥ",
+    "members": [
+     "ahi",
+     "īśa"
+    ]
+   },
+   "note": "“Lord of serpents.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ahīśa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative pronoun: “that/he.”",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vaḥ",
+   "surface_in_sandhi": "vo",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic second-person plural object of avyāt: “you.” The pronoun is semantically common-gender; Pum is supplied as the formal linga value for the nominal-analysis slot.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "avyāt",
+   "surface_in_sandhi": "'vyāt",
+   "lemma": "av",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "av",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "AshirLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Benedictive/āśīr-liṅ: “may he protect.”",
+   "verification": {
+    "status": "pass",
+    "detail": "av AshirLin/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sitavimalatanuḥ",
+   "surface_in_sandhi": "sitavimalatanur",
+   "lemma": "sitavimalatanu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sitā vimalā tanuḥ yasya saḥ",
+    "members": [
+     "sita",
+     "vimala",
+     "tanu"
+    ]
+   },
+   "note": "External masculine bahuvrīhi agreeing with devaḥ/ahīśaḥ; tanuḥ in the vigraha is “body.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sitavimalatanu as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yogadaḥ",
+   "surface_in_sandhi": "yogado",
+   "lemma": "yogada",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yogaṃ dadāti iti",
+    "members": [
+     "yoga",
+     "da"
+    ]
+   },
+   "note": "Epithet: “giver of yoga.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem yogada as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yogayuktaḥ",
+   "surface_in_sandhi": "yogayuktaḥ",
+   "lemma": "yogayukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yogena yuktaḥ",
+    "members": [
+     "yoga",
+     "yukta"
+    ]
+   },
+   "note": "“Joined to/engaged in yoga”; in the sūtra-commentary context yoga is samādhi.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem yogayukta as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "atha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Explained by the bhāṣya as adhikārārtha, a topic-opening/undertaking marker.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yogānuśāsanam",
+   "surface_in_sandhi": "yogānuśāsanam",
+   "lemma": "yogānuśāsana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "yogasya anuśāsanam",
+    "members": [
+     "yoga",
+     "anuśāsana"
+    ]
+   },
+   "note": "Neuter nominative/accusative form; analyzed as a nominative/title of the śāstra on the evidence of the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem yogānuśāsana as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Force of atha in the sūtra",
+   "options_considered": [
+    "ordinary temporal “then/now” only",
+    "purely auspicious particle",
+    "adhikāra/topic-opening marker"
+   ],
+   "chosen": "atha is a topic-opening/undertaking marker: “Now:” in the sense of opening the adhikāra.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "athety ayam adhikārārthaḥ.",
+     "translation": "“The word atha has the sense of adhikāra.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Scope of yogānuśāsanam",
+   "options_considered": [
+    "a vague “discipline of yoga”",
+    "a command issued after yoga",
+    "the treatise/instruction on yoga as the topic"
+   ],
+   "chosen": "yogānuśāsanam denotes the śāstra of authoritative instruction on yoga now being undertaken.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yogānuśāsanaṃ śāstram adhikṛtaṃ veditavyam.",
+     "translation": "“The yogānuśāsana is to be understood as the śāstra that has been taken up as the topic.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Technical sense of yoga",
+   "options_considered": [
+    "union/yoking in the ordinary lexical sense",
+    "practice generally",
+    "samādhi as the technical referent"
+   ],
+   "chosen": "Yoga (yoga) is rendered technically as samādhi, not as generic yoking or union.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yogaḥ samādhiḥ.",
+     "translation": "“Yoga is samādhi.”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "sa ca sārvabhaumaś cittasya dharmaḥ.",
+     "translation": "“And that is a property of the mind in all its grounds.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Technical scope of samādhi/yoga after the opening sūtra",
+   "options_considered": [
+    "every instance of concentration counts as yoga",
+    "only ordinary mental focusing is meant",
+    "the restricted samādhi described by Vyāsa"
+   ],
+   "chosen": "The yoga to be expounded is not any distracted concentration; it is the samādhi that illumines a real object, attenuates kleśas, loosens karmic bonds, turns toward nirodha, and also the asaṃprajñāta samādhi of total cessation of vṛttis.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "tatra vikṣipte cetasi vikṣepopasarjanībhūtaḥ samādhir na yogapakṣe vartate.",
+     "translation": "“There, in a distracted mind, a samādhi subordinated to distraction does not fall within the class of yoga.”"
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "yas tv ekāgre cetasi sadbhūtam arthaṃ pradyotayati kṣiṇoti ca kleśān karmabandhanāni ślathayati nirodham abhimukhaṃ karoti sa saṃprajñāto yoga ity ākhyāyate.",
+     "translation": "“But that which, in a one-pointed mind, makes a real object shine forth, destroys the kleśas, loosens the bonds of karma, and turns toward cessation is called saṃprajñāta yoga.”"
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "sarvavṛttinirodhe tv asaṃprajñātaḥ samādhiḥ.",
+     "translation": "“But when all vṛttis have ceased, it is asaṃprajñāta samādhi.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Prayer syntax of the maṅgala verse",
+   "options_considered": [
+    "avyāt from √vī, “may he go”",
+    "a non-benedictive finite form",
+    "āśīr-liṅ of √av, “may he protect”"
+   ],
+   "chosen": "saḥ … vaḥ avyāt is the benedictory frame: “may that god protect you,” with avyāt from √av, not √vī.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J6",
+   "decision": "Antecedent of yasya in the verse",
+   "options_considered": [
+    "yasya refers to an unnamed third person",
+    "yasya refers reflexively to ahīśaḥ",
+    "yasya refers back to jagat, “of which/its”"
+   ],
+   "chosen": "yasya prītaye is taken with jagataḥ: the deity manifests for the world’s manifold benefit and for its delight.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J7",
+   "decision": "Compound relation in prakṣīṇakleśarāśiḥ",
+   "options_considered": [
+    "tatpuruṣa: “a heap of exhausted afflictions” as a separate noun",
+    "bahuvrīhi epithet of the deity"
+   ],
+   "chosen": "prakṣīṇakleśarāśiḥ is a bahuvrīhi epithet: “one whose mass of kleśas is exhausted.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J8",
+   "decision": "Gender and function of sarvajñānaprasūtiḥ",
+   "options_considered": [
+    "masculine bahuvrīhi adjective agreeing directly with devaḥ",
+    "feminine appositional noun from prasūti f."
+   ],
+   "chosen": "sarvajñānaprasūtiḥ is a feminine tatpuruṣa abstract in apposition, “source/origin of all knowledge.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "At the beginning he manifests for the world’s benefit in many ways—his mass of afflictions worn away, bearing dread poison, many-mouthed, fair-coiled; source of all knowledge, with serpents for his retinue, always for its delight. May that god, the Lord of Serpents, white and stainless in body, giver of yoga, joined to yoga, protect you.\n\nNow: the authoritative instruction on yoga (yoga, i.e. samādhi).",
+ "one_shot_delta": [
+  "Without the bhāṣya, yoga in 1.1 would plausibly be translated as “union” or “yoking”; Vyāsa explicitly says yogaḥ samādhiḥ (line 3).",
+  "Without the bhāṣya, atha might be flattened to a merely temporal “then/now”; Vyāsa marks it as adhikārārtha, opening the topic (line 1).",
+  "A commentary-blind translation could miss that yogānuśāsanam is the śāstra now undertaken, not merely a loose “discipline”; line 2 states yogānuśāsanaṃ śāstram adhikṛtaṃ veditavyam.",
+  "Following the automatic tagger would misread avyāt as from √vī; the verse is a standard benediction, “may he protect you,” from √av.",
+  "A purely lexical rendering could take subhogī as “good enjoyer”; the surrounding serpent terms ahīśaḥ, bhujaga-, and anekavaktraḥ favour “fair-coiled/ringed.”"
+ ],
+ "analyzer_disagreements": [
+  "The tagger lemmatizes prabhavati as prabhū; following the required format, this is analyzed as bare root √bhū with prefix pra- in kartari laṭ, 3rd singular.",
+  "The tagger’s api_seg gives jagantaḥ and local_SLM uses jagant; the printed/contextual form is jagataḥ, genitive singular neuter of jagat, “of the world.”",
+  "The tagger prints/analyzes ādyaṃ in sandhi; the pausal form for the accusative singular neuter is ādyam.",
+  "The tagger splits several printed compounds into separate members; the apparatus retains the printed compounds as single inflected words and supplies samāsa analyses.",
+  "sarvajñānaprasūtiḥ was tagged masculine; it is analyzed here as feminine nominative singular from prasūti f., an appositional noun meaning “source/origin.”",
+  "yasya was tagged masculine genitive singular; the form is also neuter, and here it is construed with jagat, hence neuter genitive singular in the analysis.",
+  "vaḥ was left only as an ambiguous pronominal particle; in sa vo 'vyāt it is accusative plural, the object of “may he protect.” Because the second-person pronoun is common-gender, Pum is entered only as the formal linga value for the subanta slot.",
+  "avyāt was analyzed by the tagger under √vī; context and idiom require āśīr-liṅ of √av, “may he protect.”",
+  "The supplied local_SLM did not analyze the sūtra words atha yogānuśāsanam; they are added from the printed unit and the bhāṣya."
+ ],
+ "open_questions": [
+  "The supplied bhāṣya comments on the sūtra, not on the maṅgala verse; therefore the verse’s syntax, especially yasya prītaye and adverbial ādyaṃ, is decided from grammar and context rather than commentary.",
+  "The neuter yogānuśāsanam is nominative/accusative syncretic; it is analyzed as a nominative title because the bhāṣya treats it as the śāstra being undertaken."
+ ],
+ "verification_summary": {
+  "pass": 24,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 20759,
+   "completion_tokens": 27199,
+   "reasoning_tokens": 17405
+  },
+  "est_cost": 0.4703,
+  "reverified": true
+ },
+ "mula": "ādyaṃ prabhavati jagato 'nekadhānugrahāya prakṣīṇakleśarāśir viṣamaviṣadharo 'nekavaktraḥ subhogī / sarvajñānaprasūtir bhujagaparikaraḥ prītaye yasya nityaṃ devo 'hīśaḥ sa vo 'vyāt sitavimalatanur yogado yogayuktaḥ //1// atha yogānuśāsanam",
+ "commentary_lines": [
+  "athety ayam adhikārārthaḥ.",
+  "yogānuśāsanaṃ śāstram adhikṛtaṃ veditavyam.",
+  "yogaḥ samādhiḥ.",
+  "sa ca sārvabhaumaś cittasya dharmaḥ.",
+  "kṣiptaṃ mūḍhaṃ vikṣiptam ekāgraṃ niruddham iti cittabhūmayaḥ.",
+  "tatra vikṣipte cetasi vikṣepopasarjanībhūtaḥ samādhir na yogapakṣe vartate.",
+  "yas tv ekāgre cetasi sadbhūtam arthaṃ pradyotayati kṣiṇoti ca kleśān karmabandhanāni ślathayati nirodham abhimukhaṃ karoti sa saṃprajñāto yoga ity ākhyāyate.",
+  "sa ca vitarkānugato vicārānugata ānandānugato 'smitānugata ity upariṣṭān nivedayiṣyāmaḥ.",
+  "sarvavṛttinirodhe tv asaṃprajñātaḥ samādhiḥ.",
+  "1.1",
+  "tasya lakṣaṇābhidhitsayedaṃ sūtraṃ pravavṛte"
+ ]
+}

@@ -1,0 +1,503 @@
+{
+ "unit": "2.10",
+ "analysis": [
+  {
+   "surface": "tam",
+   "surface_in_sandhi": "tam",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular masculine pronoun; it refers to Arjuna, further qualified by viṣīdantam.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "uvāca",
+   "surface_in_sandhi": "uvāca",
+   "lemma": "vac",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vac",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Perfect active, 3rd singular: “he said/spoke.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vac Lit/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "hṛṣīkeśaḥ",
+   "surface_in_sandhi": "hṛṣīkeśaḥ",
+   "lemma": "hṛṣīkeśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "hṛṣīkāṇām īśaḥ",
+    "members": [
+     "hṛṣīka",
+     "īśa"
+    ]
+   },
+   "note": "Proper name of Bhagavān Vāsudeva here; traditional compound analysis supplied, though Śaṅkara here identifies the referent rather than glossing the name.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem hṛṣīkeśa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "prahasan",
+   "surface_in_sandhi": "prahasann",
+   "lemma": "prahasant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participle stem prahasant from pra + √has, agreeing with hṛṣīkeśaḥ. Pausal nominative singular masculine is prahasan; before iva the printed saṃhitā form shows prahasann.",
+   "verification": {
+    "status": "pass",
+    "detail": "prahasant Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "iva",
+   "surface_in_sandhi": "iva",
+   "lemma": "iva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable of comparison/qualification: “as it were, as though.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhārata",
+   "surface_in_sandhi": "bhārata",
+   "lemma": "bhārata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative singular, addressed by Sañjaya to Dhṛtarāṣṭra: “O descendant of Bharata.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhārata Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "senayoḥ",
+   "surface_in_sandhi": "senayor",
+   "lemma": "senā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Sasthi",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dual dependent on madhye: “of the two armies.” Pausal -oḥ appears as -or before the following voiced vowel.",
+   "verification": {
+    "status": "pass",
+    "detail": "senā Stri/Sasthi/Dvi: pass"
+   }
+  },
+  {
+   "surface": "ubhayoḥ",
+   "surface_in_sandhi": "ubhayor",
+   "lemma": "ubha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Sasthi",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dual feminine agreeing with senayoḥ: “of both.” Pausal -oḥ appears as -or before the following voiced vowel. Corrected from ubhaya: the verified form ubhayoḥ is from the dual pronominal adjective ubha, whereas regular ubhaya would give ubhayayoḥ here.",
+   "verification": {
+    "status": "pass",
+    "detail": "ubha Stri/Sasthi/Dvi: pass"
+   }
+  },
+  {
+   "surface": "madhye",
+   "surface_in_sandhi": "madhye",
+   "lemma": "madhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular used relationally/adverbially with the genitive: “in the midst of.”",
+   "verification": {
+    "status": "pass",
+    "detail": "madhya Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "viṣīdantam",
+   "surface_in_sandhi": "viṣīdantam",
+   "lemma": "viṣīdant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participle stem viṣīdant from vi + √sad, accusative singular masculine, qualifying tam: “him, desponding.”",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣīdant Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "idaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular neuter agreeing with vacaḥ; points forward to the words beginning aśocyān.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vacaḥ",
+   "surface_in_sandhi": "vacaḥ",
+   "lemma": "vacas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular neuter object of uvāca: “word/speech/utterance.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vacas Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The nominative hṛṣīkeśaḥ is taken as the speaker, not merely as an etymological common noun. Śaṅkara repeatedly identifies the one about to speak as bhagavān vāsudevaḥ and introduces the following teaching with āha.",
+   "options_considered": [
+    "Hṛṣīkeśa as Bhagavān Vāsudeva/Kṛṣṇa, subject of uvāca",
+    "hṛṣīkeśa as a merely generic epithet “lord of the senses” without identifying the speaker",
+    "Sañjaya as the effective speaker of idaṃ vacaḥ"
+   ],
+   "chosen": "Hṛṣīkeśa is Bhagavān Vāsudeva, the subject of uvāca.",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "tad-upadidikṣuḥ sarva-lokānugrahārtham arjunaṃ nimittīkṛtya āha bhagavān vāsudevaḥ--- aśocyān ityādi",
+     "translation": "Desiring to teach that, for the benefit of all people, Bhagavān Vāsudeva, making Arjuna the occasion, spoke—beginning with “aśocyān …”."
+    },
+    {
+     "lines": [
+      57
+     ],
+     "quote": "bhagavān vāsudevaḥ tataḥ kṛpayā arjunam uddidhārayiṣuḥ ātma-jñānāyāvatārayann āha",
+     "translation": "Bhagavān Vāsudeva, then, out of compassion, wishing to lift Arjuna up and bringing him down to the teaching of self-knowledge, spoke."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The accusative tam is the person addressed by uvāca, and viṣīdantam qualifies that same masculine singular object. Śaṅkara reads the whole prior scene as Arjuna’s śoka and moha, culminating in his need to be raised up by Vāsudeva.",
+   "options_considered": [
+    "tam = Arjuna, qualified by viṣīdantam",
+    "tam as a vague demonstrative without fixed referent",
+    "viṣīdantam as a general battlefield depression rather than Arjuna’s śoka-moha state"
+   ],
+   "chosen": "tam viṣīdantam refers to Arjuna as the desponding recipient of the speech.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "arjunena rājya-guru-putra-mitra-suhṛt-svajana-saṃbandhi-bāndhaveṣu aham eteṣām mamaite ity evaṃ bhrānti-pratyaya-nimitta-sneha-vicchedādi-nimittau ātmanaḥ śoka-mohau pradarśitau",
+     "translation": "By Arjuna, sorrow and delusion of the self were displayed, caused by affection and its rupture, themselves due to the mistaken notion ‘I am theirs, these are mine’ regarding kingdom, teachers, sons, friends, well-wishers, kinsmen, relatives, and connections."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "śoka-mohābhyāṃ hy abhibhūta-viveka-vijñānaḥ svata eva kṣatra-dharme yuddhe pravṛtto 'pi tasmād yuddhād upararāma",
+     "translation": "For, with his discriminative knowledge overpowered by sorrow and delusion, though already engaged in battle, the kṣatriya duty, he ceased from that battle."
+    },
+    {
+     "lines": [
+      57
+     ],
+     "quote": "dharma-saṃmūḍha-cetaso mithyā-jñānavato mahati śoka-sāgare nimagnasya arjunasya anyatrātma-jñānād uddharaṇam apaśyan",
+     "translation": "Seeing no rescue for Arjuna—whose mind was confused about dharma, who had false knowledge, and who was sunk in the great ocean of sorrow—apart from self-knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "uvāca takes both the person addressed (tam) and the utterance (idaṃ vacaḥ). Śaṅkara explicitly connects the speech now introduced with the words beginning aśocyān in 2.11.",
+   "options_considered": [
+    "idaṃ vacaḥ as the following doctrinal utterance beginning aśocyān",
+    "idaṃ vacaḥ as referring backward to Arjuna’s words",
+    "vacaḥ as nominative rather than accusative object"
+   ],
+   "chosen": "idaṃ vacaḥ is the forward-pointing object: the teaching beginning aśocyān.",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "āha bhagavān vāsudevaḥ--- aśocyān ityādi",
+     "translation": "Bhagavān Vāsudeva spoke—beginning with “aśocyān …”."
+    },
+    {
+     "lines": [
+      58,
+      59,
+      60
+     ],
+     "quote": "śrī-bhagavān uvāca\naśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase |\ngatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ",
+     "translation": "The Blessed Lord said: ‘You have grieved for those who should not be grieved for, and you speak words of wisdom; the learned grieve neither for those whose life-breaths are gone nor for those whose life-breaths are not gone.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Grammatically, prahasann is a nominative singular present participle agreeing with Hṛṣīkeśa, and iva softens the action. Although Śaṅkara does not gloss prahasann directly, he describes Vāsudeva’s motive as kṛpayā, “out of compassion,” which excludes making mockery the governing sense.",
+   "options_considered": [
+    "“as though smiling” with iva as a mitigating particle",
+    "“laughing aloud” as a bare physical description",
+    "“laughing at him / mocking him”"
+   ],
+   "chosen": "prahasann iva is rendered “as though smiling,” not as derisive mockery.",
+   "evidence": [
+    {
+     "lines": [
+      57
+     ],
+     "quote": "bhagavān vāsudevaḥ tataḥ kṛpayā arjunam uddidhārayiṣuḥ",
+     "translation": "Bhagavān Vāsudeva, then, out of compassion, wishing to lift Arjuna up."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The genitive duals senayoḥ and ubhayoḥ depend on the locative madhye, a regular construction meaning “in the middle of / between.” The commentary is silent on this case construal, so the decision rests on grammar and dictionary usage for the sense of senā, “army,” and madhya, “middle”; ubhayoḥ is analyzed as the dual adjective “both.”",
+   "options_considered": [
+    "genitive dual with madhye: “between the two armies”",
+    "locative dual: “in both armies”",
+    "taking ubhayoḥ substantively apart from senayoḥ"
+   ],
+   "chosen": "senayor ubhayor madhye means “in the midst of the two armies.”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "Grammar/dictionary: madhye is a locative relational expression used with a genitive complement; senayoḥ ubhayoḥ are genitive duals, ‘of both armies.’"
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "To him, desponding there in the midst of the two armies,\nHṛṣīkeśa—Bhagavān Vāsudeva—as though smiling,\nspoke these words, O Bhārata.",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave Hṛṣīkeśa as an unexplained name; Śaṅkara’s frame identifies the speaker as Bhagavān Vāsudeva beginning the liberating teaching.",
+  "It might treat Arjuna’s condition as simple nervous discouragement; Śaṅkara frames viṣīdantam as the śoka-moha state that is the seed of saṃsāra and requires self-knowledge.",
+  "It might take idaṃ vacaḥ vaguely or backward-looking; the bhāṣya points it forward to the teaching beginning aśocyān in 2.11.",
+  "It might render prahasann as mockery; Śaṅkara’s kṛpayā makes the tone compassionate rather than derisive."
+ ],
+ "analyzer_disagreements": [
+  "The api_seg line gives bhārataiḥ, but the unit text and local_SLM read bhārata; I analyze it as vocative singular masculine.",
+  "The api_seg line gives ubhayayoḥ, but the unit text and local_SLM read ubhayoḥ; I analyze the printed form as genitive dual feminine agreeing with senayoḥ.",
+  "ByT5 gives lemma ubhaya for ubhayoḥ; the verified pausal form ubhayoḥ is analyzed instead from ubha, since ubhaya Stri/Sasthi/Dvi derives ubhayayoḥ.",
+  "For prahasann, ByT5 gives the lexical source prahas; for the required nominal analysis I record the verified participial stem prahasant, not prahasat.",
+  "For viṣīdantam, ByT5 gives the lexical source viṣad; for the required nominal analysis I record the verified participial stem viṣīdant, not viṣīdat."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 18862,
+   "completion_tokens": 15451,
+   "reasoning_tokens": 8692
+  },
+  "est_cost": 0.2884,
+  "reverified": true
+ },
+ "mula": "tam uvāca hṛṣīkeśaḥ prahasann iva bhārata | senayor ubhayor madhye viṣīdantam idaṃ vacaḥ",
+ "commentary_lines": [
+  "atra ca dṛṣṭvā tu pāṇḍavānīkam ity ārabhya yāvat na yotsya iti govindam uktvā tūṣṇīṃ babhūva ha ity etad-antaḥ prāṇināṃ śoka-mohādi-saṃsāra-bīja-bhūta-doṣodbhava-kāraṇa-pradarśanārthatvena vyākhyeyo granthaḥ |",
+  "tathā hi -- arjunena rājya-guru-putra-mitra-suhṛt-svajana-saṃbandhi-bāndhaveṣu aham eteṣām mamaite ity evaṃ bhrānti-pratyaya-nimitta-sneha-vicchedādi-nimittau ātmanaḥ śoka-mohau pradarśitau |",
+  "kathaṃ bhīṣmam ahaṃ saṃkhye ity ādinā |",
+  "śoka-mohābhyāṃ hy abhibhūta-viveka-vijñānaḥ svata eva kṣatra-dharme yuddhe pravṛtto 'pi tasmād yuddhād upararāma |",
+  "para-dharmaṃ ca bhikṣā-jīvanādikaṃ kartuṃ pravavṛte |",
+  "tathā ca sarva-prāṇināṃ śoka-mohādi-doṣāviṣṭa-cetasāṃ svabhāvata eva svadharma-parityāgaḥ pratiṣiddha-sevā ca syāt |",
+  "sva-dharme pravṛttānām api teṣāṃ vāṅ-manaḥ-kāyādīnāṃ pravṛttiḥ phalābhisaṃdhi-pūrvikaiva sāhaṃkārā ca bhavati |",
+  "tatraivaṃ sati dharmādharmopacayād iṣṭāniṣṭa-janma-sukha-duḥkhādi-prāpti-lakṣaṇaḥ saṃsāro 'nuparato bhavati |",
+  "ity ataḥ saṃsāra-bīja-bhūtau śoka-mohau |",
+  "tayoś ca sarva-karma-saṃnyāsa-pūrvakād ātma-jñānāt nānyato nivṛttir iti tad-upadidikṣuḥ sarva-lokānugrahārtham arjunaṃ nimittīkṛtya āha bhagavān vāsudevaḥ--- aśocyān ityādi |",
+  "atra kecid āhuḥ-sarva-karma-saṃnyāsa-pūrvakād ātma-jñāna-niṣṭhā-mātrād eva kevalāt kaivalyaṃ na prāpyata eva |",
+  "kiṃ tarhi ? agnihotrādi-śrauta-smārta-karma-sahitāt jñānāt kaivalya-prāptir iti sarvāsu gītāsu niścito 'rtha iti |",
+  "jñāpakaṃ cāhur asyārthasya -- atha cet tvam imaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi [gītā 2.33] karmaṇy evādhikāras te [gītā 2.47], kuru karmaiva tasmāt tvam [gītā 4.15] ity ādi |",
+  "hiṃsādi-yuktatvāt vaidikaṃ karma adharmāya itīyam apy āśaṅkā na kāryā |",
+  "katham ? kṣātraṃ karma yuddha-lakṣaṇaṃ guru-bhrātṛ-putrādi-hiṃsā-lakṣaṇam atyantaṃ krūram api sva-dharma iti kṛtvā nādharmāya |",
+  "tad-akaraṇe ca tataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi [gītā 2.33] iti bruvatā yāvaj jīvādi-śruti-coditānāṃ paśv-ādi-hiṃsā-lakṣaṇānāṃ ca karmaṇāṃ prāg eva nādharmatvam iti suniścitam uktaṃ bhavati -- iti |",
+  "tad asat |",
+  "jñāna-karma-niṣṭhayor vibhāga-vacanād buddhi-dvayāśrayayoḥ |",
+  "aśocyān ity ādinā bhagavatā yāvat svadharmam api cāvekṣya ity etad-antena granthena yat-paramārthātma-tattva-nirūpaṇaṃ kṛtam, tat sāṃkhyam |",
+  "tad-viṣayā buddhir ātmano janmādi-ṣaḍ-vikriyābhāvād akartā ātmeti prakaraṇārtha-nirūpaṇād yā jāyate, sā sāṃkhya-buddhiḥ |",
+  "sā yeṣāṃ jñāninām ucitā bhavati, te sāṃkhyāḥ |",
+  "etasyā buddher janmanaḥ prāk ātmano dehādivyatiriktatvakartṛtvabhoktṛtvabhoktṛtvādyapekṣo dharmādharma-viveka-pūrvako mokṣa-sādhanānuṣṭhāna-lakṣaṇo yogaḥ |",
+  "tad-viṣayā buddhiḥ yoga-buddhiḥ |",
+  "sā yeṣāṃ karmiṇām ucitā bhavati te yoginaḥ |",
+  "tathā ca bhagavatā vibhakte dve buddhī nirdiṣṭe eṣā te 'bhihitā sāṃkhye buddhir yoge tv imāṃ śṛṇu iti |",
+  "tayoś ca sāṃkhya-buddhy-āśrayāṃ jñāna-yogena niṣṭhāṃ sāṃkhyānāṃ vibhaktāṃ vakṣyati purā vedātmanā mayā proktā iti |",
+  "tathā ca yoga-buddhy-āśrayāṃ karma-yogena niṣṭhāṃ vibhaktāṃ vakṣyati - karma-yogena yoginām iti |",
+  "evaṃ sāṃkhya-buddhiṃ yoga-buddhiṃ ca āśritya dve niṣṭhe vibhakte bhagavataiva ukte jñāna-karmaṇoḥ kartṛtvākartṛtvaikatvānekatva-buddhy-āśrayayoḥ yugapad-eka-puruṣāśrayatvāsaṃbhavaṃ paśyatā |",
+  "yathā etad-vibhāga-vacanam tathaiva darśitaṃ śātapathīye brāhmaṇe - etam eva pravrājino lokam icchanto brāhmaṇāḥ pravrajanti [bau 4.4.22] iti sarva-karma-saṃnyāsaṃ vidhāya tac-cheṣeṇa kiṃ prajayā kariṣyāmo yeṣāṃ no 'yam ātmāyaṃ lokaḥ [bau 4.4.22] iti |",
+  "tatraiva ca prāg dāra-parigrahāt puruṣa ātmo prākṛto dharma-jijñāsottara-kālaṃ loka-traya-sādhanam |",
+  "putraṃ, dvi-prakāraṃ ca vittaṃ mānuṣaṃ dvi-prakāraṃ ca |",
+  "tatra mānuṣaṃ karma-rūpaṃ pitṛ-loka-prāpti-sādhanaṃ vidyāṃ ca daivaṃ vittaṃ deva-loka-prāpti-sādhanam |",
+  "so 'kāmayata [bau 1.4.17] iti avidyā-kāmavata eva sarvāṇi karmāṇi śrautādīni darśitāni |",
+  "tebhyo vyutthāya, pravrajanti [bau 4.4.22] iti vyutthānam ātmānam eva lokam icchato 'kāmasya vihitam |",
+  "tad etad vibhāga-vacanam anupapannaṃ syād yadi śrauta-karma-jñānayoḥ samuccayo 'bhipretaḥ syād bhagavataḥ |",
+  "na cārjunasya praśna upapanno bhavati jyāyasī cet karmaṇas te [gītā 3.1] ity ādiḥ |",
+  "eka-puruṣānuṣṭheyatvāsaṃbhavaṃ buddhi-karmaṇoḥ bhagavatā pūrvam anuktaṃ katham arjuno 'śrutaṃ buddhā ca karmaṇo jyāyastvaṃ bhagavaty adhyāropayen mṛṣaiva jyāyasī cet karmaṇas te matā buddhiḥ iti |",
+  "kiṃ ca -- yadi buddhi-karmaṇoḥ sarveṣāṃ samuccaya uktaḥ syāt arjunasyāpi sa ukta eveti, yac chrāya etayor ekaṃ tan me brūhi suniścitam iti katham ubhayor upadeśe sati anyatara-viṣaya eva praśnaḥ syāt ? na hi pitta-praśamanārthinaḥ vaidyena madhuraṃ śītalaṃ ca bhoktavyam ity upadiṣṭe tayor anyatarat-pitta-praśamana-kāraṇaṃ brūhi iti praśnaḥ saṃbhavati |",
+  "athārjunasya bhagavad-ukta-vacanārtha-vivekānavadhāraṇa-nimittaḥ praśnaḥ kalpyeta, tathāpi bhagavatā praśnānurūpaṃ prativacanaṃ deyam -- mayā buddhi-karmaṇoḥ samuccaya uktaḥ kim artham itthaṃ tvaṃ bhrānto 'si -- iti |",
+  "na tu punaḥ prativacanam ananurūpaṃ pṛṣṭād anyad eva dve niṣṭhā mayā purā proktā iti vaktuṃ yuktam |",
+  "nāpi smārtenaiva karmaṇā buddheḥ samuccaye abhiprete vibhāga-vacanādi sarvam upapananam |",
+  "kiṃ ca -- kṣatriyasya yuddhaṃ smārtaṃ karma sva-dharma iti jānataḥ tat kiṃ karmaṇi ghoro māṃ niyojayasi ity upālambho 'nupapannaḥ |",
+  "tasmād gītā-śāstre īṣan-mātreṇāpi śrautena smārtena vā karmaṇā ātma-jñānasya samuccayo na kenacid darśayituṃ śakyaḥ |",
+  "yasya tv ajñānāt rāgādi-doṣato vā karmaṇi pravṛttasya yajñena dānena tapasā vā viśuddha-sattvasya jñānam utpannaṃ paramārtha-tattva-viṣayam ekam evedaṃ sarvaṃ brahma akartṛ ca iti, tasya karmaṇi karma-prayojane ca nivṛtte 'pi loka-saṃgrahārthaṃ yatna-pūrvaṃ yathā pravṛttiḥ, tathaiva pravṛttasya yat pravṛtti-rūpaṃ dṛśyate na tat karma yena buddheḥ samuccayaḥ syāt |",
+  "yathā bhagavato vāsudevasya kṣatra-dharma-ceṣṭitaṃ na jñānena samuccīyate puruṣārtha-siddhaye, tadvat tat-phalābhisaṃdhy-ahaṃkārābhāvasya tulyatvād viduṣaḥ |",
+  "tattvavin nāhaṃ karomīti manyate, na ca tat-phalam abhisandhatte |",
+  "yathā ca svargādi-kāmārthino 'gnihotrādi-karma-lakṣaṇa-dharmānuṣṭhānāya āhitāgneḥ kāmye eva agnihotrādau pravṛttasya sāmi kṛte vinaṣṭā 'pi kāme tad eva agnihotrādy-anutiṣṭhato 'pi na tat-kāmyam agnihotrādi bhavati |",
+  "tathā ca darśayati bhagavān - kurvann api na lipyate na karoti na lipyate iti tatra tatra ||",
+  "yac ca pūrvaiḥ pūrvataraṃ kṛtam karmaṇaiva hi saṃsiddhim āsthitā janakādayaḥ iti, tat tu pravibhajya vijñeyam |",
+  "tat katham ? yadi tāvat pūrve janakādayaḥ tattva-vido 'pi pravṛtta-karmāṇaḥ syuḥ, te loka-saṃgrahārtham guṇā guṇeṣu vartante iti jñānenaiva saṃsiddhim āsthitāḥ, karma-saṃnyāse prāpte 'pi karmaṇā sahaiva saṃsiddhim āsthitāḥ, na karma-saṃnyāsaṃ kṛtavanta ity arthaḥ |",
+  "atha na te tattva-vidaḥ |",
+  "īśvara-samarpitena karmaṇā sādhana-bhūtena saṃsiddhiṃ sattva-śuddhim, jñānotpatti-lakṣaṇāṃ vā saṃsiddhim, āsthitā janakādaya iti vyākhyeyam |",
+  "etam evārthaṃ vakṣyati bhagavān sattva-śuddhaye karma kurvanti iti |",
+  "sva-karmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ ity uktvā siddhiṃ prāptasya punar-jñāna-niṣṭhāṃ vakṣyati -- siddhiṃ prāpto yathā brahma ity ādinā ||",
+  "tasmād gītā-śāstre kevalād eva tattva-jñānān mokṣa-prāptiḥ na karma-samuccitāt iti niścito 'rthaḥ |",
+  "yathā cāyam arthaḥ, tathā prakaraṇaśo vibhajya tatra tatra darśayiṣyāmaḥ ||",
+  "tatraiva dharma-saṃmūḍha-cetaso mithyā-jñānavato mahati śoka-sāgare nimagnasya arjunasya anyatrātma-jñānād uddharaṇam apaśyan bhagavān vāsudevaḥ tataḥ kṛpayā arjunam uddidhārayiṣuḥ ātma-jñānāyāvatārayann āha -",
+  "śrī-bhagavān uvāca",
+  "aśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase |",
+  "gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ"
+ ]
+}

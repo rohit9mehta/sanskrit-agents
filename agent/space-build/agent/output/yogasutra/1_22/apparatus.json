@@ -1,0 +1,225 @@
+{
+ "unit": "1.22",
+ "analysis": [
+  {
+   "surface": "mṛdumadhyādhimātratvāt",
+   "surface_in_sandhi": "mṛdumadhyādhimātratvāt",
+   "lemma": "mṛdu-madhya-adhimātratva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "mṛduś ca madhyaś cādhimātraś ca; tad-bhāvaḥ",
+    "members": [
+     "mṛdu",
+     "madhya",
+     "adhimātra"
+    ]
+   },
+   "note": "Ablative of cause: “because of the mild/middle/extreme gradation.” The -tva abstract is based on the three grade-terms; Vyāsa applies them to tīvra-saṃvega, intense ardour. Vidyut-prakriya reported a tool_error for this compound-stem derivation and did not supply an alternative; I therefore retain the grammatically regular neuter ablative singular in -tvāt. The dvandva analysis is semantic/exegetical for the base triad; -tva is the abstract-forming suffix, not a separate samāsa-member.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem mṛdu-madhya-adhimātratva as Napumsaka/Panchami/Eka: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tataḥ",
+   "surface_in_sandhi": "tato",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable ablatival adverb: “from/within that”; here, from the previously stated class of those with intense ardour.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "'pi",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adds inclusion/emphasis: “even / also.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "viśeṣaḥ",
+   "surface_in_sandhi": "viśeṣaḥ",
+   "lemma": "viśeṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the verbless sūtra: “a distinction, differentiation”; Vyāsa specifies it as a gradation in the nearness of samādhi-attainment and its fruit.",
+   "verification": {
+    "status": "pass",
+    "detail": "viśeṣa Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate the compound as “because [that intense ardour] has mild, middling, and extreme degrees,” rather than as an abstract physical softness/middleness/excessiveness.",
+   "options_considered": [
+    "literal qualities: softness, middleness, excessiveness",
+    "three degrees of the prior tīvra-saṃvega: mildly intense, middling-intense, extremely intense"
+   ],
+   "chosen": "mṛdu, madhya, and adhimātra are not merely “soft/middle/excessive” in isolation; they mark sub-grades of the already ‘intense’ saṃvega.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "mṛdutīvro madhyatīvro 'dhimātratīvra iti.",
+     "translation": "“It is ‘mildly intense,’ ‘middling-intense,’ and ‘extremely intense.’”"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tadviśeṣād api mṛdutīvrasaṃvegasyāsannaḥ tato madhyatīvrasaṃvegasyāsannataraḥ, tasmād adhimātratīvrasaṃvegasyādhimātropāyasyāpy āsannatamaḥ samādhilābhaḥ samādhiphalaṃ ceti.",
+     "translation": "“Because of that distinction too, for one whose ardour is mildly intense [samādhi-attainment] is near; for one whose ardour is middling-intense, nearer than that; for one whose ardour is extremely intense and whose means are also extreme, samādhi-attainment and the fruit of samādhi are nearest.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Render tato 'pi as “even within that / even there,” not as an unrelated “thereafter also.”",
+   "options_considered": [
+    "temporal: “after that also”",
+    "comparative/return-reference: “even from/within that [intense ardour]"
+   ],
+   "chosen": "tataḥ api refers back to the immediately preceding tīvra-saṃvega class and means that even within that class there is further differentiation.",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3
+     ],
+     "quote": "tato 'pi viśeṣaḥ. tadviśeṣād api mṛdutīvrasaṃvegasyāsannaḥ tato madhyatīvrasaṃvegasyāsannataraḥ, tasmād adhimātratīvrasaṃvegasyādhimātropāyasyāpy āsannatamaḥ samādhilābhaḥ samādhiphalaṃ ceti.",
+     "translation": "“There is a distinction even from/within that. Because of that distinction too, for one whose ardour is mildly intense [attainment] is near; for one whose ardour is middling-intense, nearer than that; from that, for one whose ardour and means are extremely intense, samādhi-attainment and its fruit are nearest.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Supply the contextual sense of viśeṣaḥ as a gradation of āsannatā—near, nearer, nearest—in the result.",
+   "options_considered": [
+    "an unspecified distinction of any kind",
+    "a distinction in the proximity/speed of samādhi-attainment and its fruit"
+   ],
+   "chosen": "viśeṣaḥ is specifically a distinction in the nearness of samādhi-attainment and its fruit.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "mṛdutīvrasaṃvegasyāsannaḥ tato madhyatīvrasaṃvegasyāsannataraḥ, tasmād adhimātratīvrasaṃvegasyādhimātropāyasyāpy āsannatamaḥ samādhilābhaḥ samādhiphalaṃ ceti.",
+     "translation": "“For one whose ardour is mildly intense [samādhi-attainment] is near; for one whose ardour is middling-intense, nearer than that; for one whose ardour is extremely intense and whose means are also extreme, samādhi-attainment and the fruit of samādhi are nearest.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Render mṛdumadhyādhimātratvāt as “because of being mild, middling, and extreme / because of the mild-middling-extreme gradation.”",
+   "options_considered": [
+    "ablative as source: “from mildness, middleness, and extremeness”",
+    "ablative as cause: “because of the mild/middle/extreme gradation”"
+   ],
+   "chosen": "-tvāt is an ablative of cause.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tadviśeṣād api",
+     "translation": "“Because of that distinction too.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Because [that intense ardour] has mild, middling, and extreme degrees, there is a further distinction even within that [in the nearness of samādhi-attainment].",
+ "one_shot_delta": [
+  "A commentary-blind translation might take mṛdu simply as “soft/gentle” and adhimātra as “excessive,” missing that Vyāsa reads all three as sub-degrees of the prior tīvra-saṃvega: mildly intense, middling-intense, and extremely intense.",
+  "It might render tato 'pi mechanically as “after that also,” whereas Vyāsa uses it to mark a further distinction even within the class just mentioned.",
+  "It might leave viśeṣaḥ as a vague “difference”; Vyāsa specifies the difference as near/nearer/nearest attainment of samādhi and its fruit."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented mṛdu/madhya/adhimātra as compound-elements plus tvāt_tva_SBNe; I have consolidated the printed word into one neuter ablative singular abstract stem mṛdu-madhya-adhimātratva. This is not a semantic split of four independent words: -tva forms the abstract noun, and Vyāsa’s line 1 supplies the three grade-members as mṛdu-, madhya-, and adhimātra- applied to tīvra.",
+  "Vidyut-prakriya reported a tool_error for deriving mṛdu-madhya-adhimātratva and logged the dvandva relation as unsupported, but gave no contrary derivation; I therefore keep the regular -tva neuter ablative singular and mark the dvandva as an exegetical analysis of the base triad."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 8178,
+   "completion_tokens": 9041,
+   "reasoning_tokens": 5120
+  },
+  "est_cost": 0.1601,
+  "reverified": true
+ },
+ "mula": "21 mṛdumadhyādhimātratvāt tato 'pi viśeṣaḥ",
+ "commentary_lines": [
+  "mṛdutīvro madhyatīvro 'dhimātratīvra iti.",
+  "tato 'pi viśeṣaḥ.",
+  "tadviśeṣād api mṛdutīvrasaṃvegasyāsannaḥ tato madhyatīvrasaṃvegasyāsannataraḥ, tasmād adhimātratīvrasaṃvegasyādhimātropāyasyāpy āsannatamaḥ samādhilābhaḥ samādhiphalaṃ ceti.",
+  "1.22",
+  "kim etasmād evāsannatamaḥ samādhir bha"
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "unit": "1.15",
+ "analysis": [
+  {
+   "surface": "dṛṣṭānuśravikaviṣayavitṛṣṇasya",
+   "surface_in_sandhi": "dṛṣṭānuśravikaviṣayavitṛṣṇasya",
+   "lemma": "dṛṣṭānuśravikaviṣayavitṛṣṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "dṛṣṭāś ca ānuśravikāś ca viṣayāḥ; teṣu vitṛṣṇam cittam",
+    "members": [
+     "dṛṣṭa",
+     "ānuśravika",
+     "viṣaya",
+     "vitṛṣṇa"
+    ]
+   },
+   "note": "The initial ā is compound-internal sandhi from dṛṣṭa + ānuśravika. The neuter construal follows Vyāsa’s supplied cittasya: the thirstlessness is that of the mind.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem dṛṣṭānuśravikaviṣayavitṛṣṇa as Napumsaka/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vaśīkārasaṃjñā",
+   "surface_in_sandhi": "vaśīkārasaṃjñā",
+   "lemma": "vaśīkārasaṃjñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vaśīkāra iti saṃjñā",
+    "members": [
+     "vaśīkāra",
+     "saṃjñā"
+    ]
+   },
+   "note": "Feminine nominative singular with saṃjñā as head; Vyāsa’s feminine anābhogātmikā and śūnyā confirm that it is not a neuter adjective agreeing directly with vairāgyam.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vaśīkārasaṃjñā as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vairāgyam",
+   "surface_in_sandhi": "vairāgyam",
+   "lemma": "vairāgya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular in a nominal sentence; the form is also accusative in shape, but no transitive construction is present.",
+   "verification": {
+    "status": "pass",
+    "detail": "vairāgya Napumsaka/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound dṛṣṭānuśravikaviṣaya is not taken as merely ‘visible and audible sense-objects’. Vyāsa distinguishes worldly seen objects from scripturally heard attainments.",
+   "options_considered": [
+    "dṛṣṭa and ānuśravika as ordinary visible and audible sense-objects",
+    "dṛṣṭa as worldly experienced objects and ānuśravika as scripturally heard attainments"
+   ],
+   "chosen": "dṛṣṭa-viṣaya means ordinary experienced objects, and ānuśravika-viṣaya means objects or attainments known from scripture/tradition.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "striyo 'nnapānam aiśvaryam iti dṛṣṭaviṣaye vitṛṣṇasya svargavaidehyaprakṛtilayatvaprāptāv ānuśravikaviṣaye vitṛṣṇasya",
+     "translation": "‘Women, food-and-drink, sovereignty’—in regard to a seen object, one without thirst; and, in regard to an ānuśravika object, namely the attainment of heaven, bodilessness, and absorption into prakṛti, one without thirst."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The sūtra’s genitive is translated as belonging to a mind without thirst, not primarily as ‘of a person’ or ‘of a yogin’.",
+   "options_considered": [
+    "genitive of a person/yogin who lacks desire",
+    "genitive of the mind whose thirst has ceased"
+   ],
+   "chosen": "The genitive dṛṣṭānuśravikaviṣayavitṛṣṇasya is construed with an implied cittasya, ‘of the mind’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "divyādivyaviṣayasaṃprayoge 'pi cittasya viṣayadoṣadarśinaḥ",
+     "translation": "of the mind, even in contact with divine and non-divine objects, seeing the defects in objects"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "‘Mastery’ is not active enjoyment or domination of objects; Vyāsa defines this grade of dispassion as arising from seeing defects in objects and as lacking both appropriation and rejection.",
+   "options_considered": [
+    "vaśīkāra as active control over, or possession of, objects",
+    "vaśīkāra-saṃjñā as a dispassionate mastery-state characterized by non-engagement"
+   ],
+   "chosen": "vaśīkārasaṃjñā is the mastery designation/state marked by non-engagement toward objects.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "viṣayadoṣadarśinaḥ prasaṃkhyānabalād anābhogātmikā heyopādeyaśūnyā vaśīkārasaṃjñā vairāgyam",
+     "translation": "for [the mind] seeing the defects in objects, through the power of discriminative discernment, the mastery-designation—of the nature of non-engagement, empty of what is to be rejected or taken up—is dispassion."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although it stands beside neuter vairāgyam, the word is not analyzed as a neuter adjective; the bhāṣya’s feminine qualifiers show that saṃjñā is the syntactic head.",
+   "options_considered": [
+    "neuter adjectival ‘called mastery’ agreeing with vairāgyam",
+    "feminine noun compound ‘the designation called mastery’"
+   ],
+   "chosen": "vaśīkārasaṃjñā is a feminine head-noun compound: ‘the designation called mastery’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "anābhogātmikā heyopādeyaśūnyā vaśīkārasaṃjñā vairāgyam",
+     "translation": "the mastery-designation, of the nature of non-engagement and devoid of anything to be rejected or taken up, is dispassion"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The neuter form could be accusative by form alone, but the construction is a nominal definition with no transitive verb; therefore Prathama Eka is chosen.",
+   "options_considered": [
+    "Dvitiya Eka object form",
+    "Prathama Eka in an equational definition"
+   ],
+   "chosen": "vairāgyam is nominative singular, the predicate/subject term in an equational sūtra.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Dispassion (vairāgya), in a mind without thirst for objects seen (dṛṣṭa) and scripturally heard (ānuśravika), is the state bearing the designation “mastery” (vaśīkāra-saṃjñā).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take ānuśravika as merely ‘audible’ objects; Vyāsa makes it scripturally heard attainments such as heaven, bodilessness, and prakṛti-absorption.",
+  "It might construe the genitive as simply ‘of a person free from desire’; Vyāsa explicitly frames the state as belonging to the citta, the mind.",
+  "It might render vaśīkāra as active control or mastery by possession; Vyāsa defines it as non-engagement, empty of both rejection and appropriation, grounded in seeing the defects of objects."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 tags vitṛṣṇasya as masculine genitive singular within its segmented analysis; I construe the whole compound dṛṣṭānuśravikaviṣayavitṛṣṇa as neuter genitive singular because Vyāsa supplies cittasya, ‘of the mind’, in line 1.",
+  "ByT5 presents the sequence mainly as internally segmented members. I analyze the printed unit as three padas, with dṛṣṭānuśravikaviṣayavitṛṣṇasya and vaśīkārasaṃjñā treated as inflected compounds; the internal member analysis is retained in the samāsa fields."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3409,
+   "completion_tokens": 10380,
+   "reasoning_tokens": 8431
+  },
+  "est_cost": 0.1659,
+  "reverified": true
+ },
+ "mula": "14 dṛṣṭānuśravikaviṣayavitṛṣṇasya vaśīkārasaṃjñā vairāgyam",
+ "commentary_lines": [
+  "striyo 'nnapānam aiśvaryam iti dṛṣṭaviṣaye vitṛṣṇasya svargavaidehyaprakṛtilayatvaprāptāv ānuśravikaviṣaye vitṛṣṇasya divyādivyaviṣayasaṃprayoge 'pi cittasya viṣayadoṣadarśinaḥ prasaṃkhyānabalād anābhogātmikā heyopādeyaśūnyā vaśīkārasaṃjñā vairāgyam.",
+  "1.15",
+  "tat paraṃ puruṣakhyāter guṇavaitṛṣṇyam"
+ ]
+}

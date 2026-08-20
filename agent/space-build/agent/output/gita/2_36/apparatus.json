@@ -1,0 +1,457 @@
+{
+ "unit": "2.36",
+ "analysis": [
+  {
+   "surface": "avācyavādān",
+   "surface_in_sandhi": "avācya-vādāṃś",
+   "lemma": "avācyavāda",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "avācyāḥ vādāḥ",
+    "members": [
+     "avācya",
+     "vāda"
+    ]
+   },
+   "note": "The printed text shows an editorial hyphen; the pausal analyzable word is avācyavādān. External sandhi before ca gives -ān + ca → -āṃś ca.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem avācyavāda as Pum/Dvitiya/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bahūn",
+   "surface_in_sandhi": "bahūn",
+   "lemma": "bahu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Qualifies avācyavādān.",
+   "verification": {
+    "status": "pass",
+    "detail": "bahu Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vadiṣyanti",
+   "surface_in_sandhi": "vadiṣyanti",
+   "lemma": "vad",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "vad",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Simple future: ‘they will say/utter’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vad Lrt/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tava",
+   "surface_in_sandhi": "tavāhitāḥ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First occurrence, in sandhi with ahitāḥ: tava + ahitāḥ → tavāhitāḥ. The form is common across genders in the second-person pronoun; Pum is supplied from the male addressee, Arjuna, for the required linga field.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "ahitāḥ",
+   "surface_in_sandhi": "tavāhitāḥ",
+   "lemma": "ahita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara glosses this as śatravaḥ, ‘enemies’.",
+   "verification": {
+    "status": "pass",
+    "detail": "ahita Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "nindantaḥ",
+   "surface_in_sandhi": "nindantas",
+   "lemma": "nindant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial nominal from √nind, agreeing with ahitāḥ; the inflectional stem is nindant, yielding nominative plural nindantaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "nindant Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tava",
+   "surface_in_sandhi": "tava",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second occurrence, dependent on sāmarthyam: ‘your prowess/capacity’. The form is common across genders; Pum is supplied from the male addressee, Arjuna, for the required linga field.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "sāmarthyam",
+   "surface_in_sandhi": "sāmarthyaṃ",
+   "lemma": "sāmarthya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of nindantaḥ; interpreted by Śaṅkara as one’s own capacity/prowess, especially known from earlier battles.",
+   "verification": {
+    "status": "pass",
+    "detail": "sāmarthya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tatas",
+   "surface_in_sandhi": "tato",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here not temporal ‘afterwards’ but ablatival/comparative: ‘than that’, i.e. than the pain of receiving censure.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "duḥkhataram",
+   "surface_in_sandhi": "duḥkhataraṃ",
+   "lemma": "duḥkhatara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate with kim in the rhetorical question: ‘what is more painful?’",
+   "verification": {
+    "status": "pass",
+    "detail": "duḥkhatara Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nu",
+   "surface_in_sandhi": "nu",
+   "lemma": "nu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle in the question.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kim",
+   "surface_in_sandhi": "kim",
+   "lemma": "kim",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative pronoun in the neuter nominative singular; although the dictionary headword may be ka, the inflectional lemma for this special neuter form is kim.",
+   "verification": {
+    "status": "pass",
+    "detail": "kim Napumsaka/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is not merely ‘speeches about the unspeakable’; Śaṅkara directly glosses avācya with avaktavya and keeps vāda as the utterance/speech to be said by the enemies.",
+   "options_considered": [
+    "karmadhāraya: ‘unspeakable/improper utterances’",
+    "tatpuruṣa: ‘talk about what should not be spoken’"
+   ],
+   "chosen": "avācya-vādān = ‘statements not fit to be uttered’, a karmadhāraya compound qualifying the accusative object of vadiṣyanti.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avācya-vādān avaktavya-vādāṃś ca",
+     "translation": "‘avācya-vādān’ means ‘statements that are not to be spoken.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The accusative plural bahūn qualifies avācya-vādān, and Śaṅkara expands it as aneka-prakārān, ‘of many sorts’.",
+   "options_considered": [
+    "simple quantity: ‘many’",
+    "variety as well as quantity: ‘many, manifold’"
+   ],
+   "chosen": "bahūn means ‘many, of many kinds’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "bahūn aneka-prakārān",
+     "translation": "‘many’ means ‘of numerous kinds.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Rather than a vague ‘ill-wishers’ or ‘hostile ones’, Śaṅkara explicitly glosses the nominative subject as śatravaḥ, ‘enemies’.",
+   "options_considered": [
+    "‘those harmful to you’",
+    "‘ill-wishers’",
+    "‘enemies’"
+   ],
+   "chosen": "ahitāḥ means ‘enemies’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tavāhitāḥ śatravaḥ",
+     "translation": "‘your ahitāḥ’ are ‘enemies.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara glosses nindantaḥ by kutsayantaḥ, ‘reviling, disparaging’, and takes tava as tvadīyam modifying sāmarthyam. His added nivāta-kavacādi-yuddha-nimittam shows the sense is martial capacity/prowess rather than abstract logical ‘fitness’.",
+   "options_considered": [
+    "‘blaming your suitability/fitness’",
+    "‘ridiculing your ability’",
+    "‘disparaging your prowess’"
+   ],
+   "chosen": "nindantaḥ tava sāmarthyam = ‘disparaging your prowess/capacity’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "nindantaḥ kutsayantaḥ tava tvadīyaṃ sāmarthyaṃ nivāta-kavacādi-yuddha-nimittam",
+     "translation": "‘nindantaḥ’ means ‘disparaging’; ‘your sāmarthyam’ means ‘your own capacity/prowess, with reference to the battles with the Nivātakavacas and the like.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The word is not temporal ‘thereafter’. Śaṅkara explains tatas as tasmāt nindā-prāpter duḥkhāt, making it the standard of comparison for duḥkhataram.",
+   "options_considered": [
+    "temporal: ‘after that’",
+    "consequential: ‘therefore’",
+    "comparative ablative: ‘than that pain’"
+   ],
+   "chosen": "tatas is comparative/ablatival: ‘than that’, namely than the pain arising from the receipt of censure.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tatas tasmāt nindā-prāpter duḥkhāt duḥkhataraṃ nu kim ?",
+     "translation": "‘tatas’ means ‘than that pain from the obtaining of censure—what is more painful?’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara paraphrases the question as a negative assertion: there is no more grievous pain than that.",
+   "options_considered": [
+    "open information question: ‘what is more painful?’",
+    "rhetorical question denying any greater pain"
+   ],
+   "chosen": "duḥkhataraṃ nu kim is a rhetorical question: ‘what could be more painful than that?’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tataḥ kaṣṭataraṃ duḥkhaṃ nāstīty arthaḥ",
+     "translation": "The meaning is: ‘There is no pain more grievous than that.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Your enemies, while disparaging your prowess (sāmarthya), will utter many statements not fit to be spoken. What, then, could be more painful than that?",
+ "one_shot_delta": [
+  "A commentary-blind translation might take tato/tatas temporally as ‘afterwards’; Śaṅkara makes it comparative: ‘than the pain of receiving censure’ (line 2).",
+  "It might render ahitāḥ only as ‘unfriendly people’; Śaṅkara specifies śatravaḥ, ‘enemies’ (line 1).",
+  "It might treat sāmarthya as abstract ‘fitness’ or ‘adequacy’; Śaṅkara’s nivāta-kavacādi-yuddha-nimittam points to Arjuna’s martial prowess/capacity (line 1).",
+  "It might miss that the final question is rhetorical; Śaṅkara paraphrases it as ‘there is no greater pain’ (line 2)."
+ ],
+ "analyzer_disagreements": [
+  "The api_seg alternative gives nindantaḥ te, but the unit text, local_S/local_SLM, and Śaṅkara’s line 1 read tava; I analyze the word as tava, genitive singular of tvad.",
+  "ByT5 represents avācya-vādān internally as avācya + vādān; for the apparatus I treat the printed hyphenated expression as a single inflected compound stem avācyavāda, with the printed hyphen retained only in surface_in_sandhi.",
+  "For both occurrences of tava, ByT5 marks only tvad_SG; I supply Ṣaṣṭhī singular and Pum. The form itself is gender-common in the second-person pronoun, but the addressee Arjuna is masculine and the verifier requires a linga value.",
+  "For nindantaḥ, the inflectional participial stem is nindant, not nindat; nindant correctly yields nominative plural masculine nindantaḥ.",
+  "For kim, ByT5 gives the dictionary base ka; I use the inflectional lemma kim for the neuter nominative singular form."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11633,
+   "completion_tokens": 13728,
+   "reasoning_tokens": 8149
+  },
+  "est_cost": 0.2408,
+  "reverified": true
+ },
+ "mula": "avācya-vādāṃś ca bahūn vadiṣyanti tavāhitāḥ | nindantas tava sāmarthyaṃ tato duḥkhataraṃ nu kim",
+ "commentary_lines": [
+  "avācya-vādān avaktavya-vādāṃś ca bahūn aneka-prakārān vadiṣyanti tavāhitāḥ śatravaḥ nindantaḥ kutsayantaḥ tava tvadīyaṃ sāmarthyaṃ nivāta-kavacādi-yuddha-nimittam |",
+  "tatas tasmāt nindā-prāpter duḥkhāt duḥkhataraṃ nu kim ? tataḥ kaṣṭataraṃ duḥkhaṃ nāstīty arthaḥ ||bhgs_2.36||",
+  "yurā punaḥ kriyamāṇe karṇādibhiḥ-"
+ ]
+}

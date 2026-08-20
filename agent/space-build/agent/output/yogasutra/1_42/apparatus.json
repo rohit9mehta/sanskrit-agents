@@ -1,0 +1,278 @@
+{
+ "unit": "1.42",
+ "analysis": [
+  {
+   "surface": "tatra",
+   "surface_in_sandhi": "tatra",
+   "lemma": "tatra",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable locative-correlative: “there, in that context.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "śabdārthajñānavikalpaiḥ",
+   "surface_in_sandhi": "śabdārthajñānavikalpaiḥ",
+   "lemma": "śabdārthajñānavikalpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "śabdaś ca arthaś ca jñānaṃ ca; teṣāṃ vikalpāḥ",
+    "members": [
+     "śabda",
+     "artha",
+     "jñāna",
+     "vikalpa"
+    ]
+   },
+   "note": "Instrumental of association/mixture with saṃkīrṇā; the compound is taken as “vikalpas of word, object, and cognition,” not as four coordinate items.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem śabdārthajñānavikalpa as Pum/Trtiya/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saṃkīrṇā",
+   "surface_in_sandhi": "saṃkīrṇā",
+   "lemma": "saṃkīrṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine nominative singular agreeing with samāpattiḥ: “mixed, intermingled.”",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃkīrṇa Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "savitarkā",
+   "surface_in_sandhi": "savitarkā",
+   "lemma": "savitarka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "vitarkeṇa saha vartamānā samāpattiḥ",
+    "members": [
+     "saha",
+     "vitarka"
+    ]
+   },
+   "note": "A single technical adjective-compound, not pronoun sa + vitarkā; feminine nominative singular agreeing with samāpattiḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem savitarka as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "samāpattiḥ",
+   "surface_in_sandhi": "samāpattiḥ",
+   "lemma": "samāpatti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Head noun of the sentence; the two preceding feminine nominatives predicate/qualify it.",
+   "verification": {
+    "status": "pass",
+    "detail": "samāpatti Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is not best read as a simple list “word, object, knowledge, and vikalpa.” Vyāsa first isolates three items—śabda, artha, and jñāna—each illustrated by gauḥ, then says that although they are distinct, they are apprehended without division. The sūtra’s vikalpas are therefore the conflating/conceptual constructions concerning these three factors.",
+   "options_considered": [
+    "dvandva: “word, object, cognition, and conceptual construction” as four coordinate items",
+    "tatpuruṣa: “conceptual constructions of word, object, and cognition”"
+   ],
+   "chosen": "śabdārthajñānavikalpaiḥ = “with/by the conceptual constructions of word, object, and cognition”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tadyathā gaur iti śabdo gaur ity artho gaur iti jñānam ity avibhāgena vibhaktānām api grahaṇaṃ dṛṣṭam.",
+     "translation": "For example, the word ‘cow,’ the object ‘cow,’ and the cognition ‘cow’ are seen to be apprehended without division, even though they are distinct."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "vibhajyamānāś cānye śabdadharmā anye 'rthadharmā anye vijñānadharmā ity eteṣāṃ vibhaktaḥ panthāḥ.",
+     "translation": "And when they are being distinguished, the properties of word are one thing, those of object another, and those of cognition another; their paths are distinct."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sa cec chabdārthajñānavikalpānuviddha upāvartate sā saṃkīrṇā samāpattiḥ savitarkety ucyate.",
+     "translation": "If that [object] recurs as penetrated by the conceptual construction of word, object, and cognition, that mixed samāpatti is called savitarkā."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The instrumental plural marks what the samāpatti is mixed with. Vyāsa glosses the condition as the meditative object being anuviddha, “pervaded/penetrated,” by the śabda-artha-jñāna-vikalpa; that condition is then explicitly called saṃkīrṇā samāpattiḥ.",
+   "options_considered": [
+    "instrumental of agency: “mixed by the vikalpas”",
+    "instrumental of association/respect: “mixed with the vikalpas”"
+   ],
+   "chosen": "saṃkīrṇā construes with instrumental śabdārthajñānavikalpaiḥ",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tatra samāpannasya yogino yo gavādyarthaḥ samādhiprajñāyāṃ samārūḍhaḥ sa cec chabdārthajñānavikalpānuviddha upāvartate sā saṃkīrṇā samāpattiḥ savitarkety ucyate.",
+     "translation": "There, if the object such as a cow, having arisen in the samādhi-cognition of the yogin in samāpatti, recurs as penetrated by the conceptual construction of word, object, and cognition, that is the mixed samāpatti and is called savitarkā."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The word is not the pronoun sa plus vitarkā. Vyāsa treats it as the name of the mixed samāpatti and contrasts it with nirvitarkā samāpatti, where the samādhi-cognition is empty of such vikalpa. Hence the sa- is the ‘with’ element of a compound, and vitarka is understood in this context through the presence of word-object-cognition vikalpa, not as mere ordinary ‘doubt.’",
+   "options_considered": [
+    "sa + vitarkā as two words: “that, vitarkā”",
+    "savitarkā as a technical compound: “with vitarka/conceptual discursiveness”",
+    "vitarka as ordinary doubt or uncertainty"
+   ],
+   "chosen": "savitarkā is a single technical adjective: “with conceptual examination/discursiveness”",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sā saṃkīrṇā samāpattiḥ savitarkety ucyate.",
+     "translation": "That mixed samāpatti is called savitarkā."
+    },
+    {
+     "lines": [
+      5,
+      6
+     ],
+     "quote": "yadā punaḥ śabdasaṃketasmṛtipariśuddhau śrutānumānajñānavikalpaśūnyāyāṃ samādhiprajñāyāṃ svarūpamātreṇāvasthito 'rthas tatsvarūpākāramātratayaivāvacchidyate. sā ca nirvitarkā samāpattiḥ.",
+     "translation": "But when, with the memory of verbal convention purified, the object rests in its own form alone in a samādhi-cognition empty of the vikalpa of knowledge from testimony and inference, and is delimited only by the form of its own nature—that is nirvitarkā samāpatti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Rather than translating tatra as a merely spatial “there,” I take it contextually: “in that case/context.” Vyāsa expands it as the situation of a yogin in samāpatti whose object has arisen in samādhi-cognition.",
+   "options_considered": [
+    "purely local “there”",
+    "contextual “there/in that meditative case”"
+   ],
+   "chosen": "tatra refers to the meditative context of the yogin’s samāpatti",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tatra samāpannasya yogino yo gavādyarthaḥ samādhiprajñāyāṃ samārūḍhaḥ",
+     "translation": "There, the object such as a cow which has arisen in the samādhi-cognition of the yogin in samāpatti …"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "In that meditative context, the absorptive attainment (samāpatti) that is mixed with conceptual constructions (vikalpa) concerning word, object, and cognition is “with conceptual examination” (savitarkā).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take śabdārthajñānavikalpaiḥ as four separate factors—“word, meaning, knowledge, and imagination”—whereas Vyāsa’s explanation makes word, object, and cognition the three distinguished factors whose undivided apprehension is the vikalpa at issue.",
+  "It might translate savitarkā as involving ordinary “doubt” or “guesswork.” Vyāsa instead defines it technically as the mixed samāpatti in which the samādhi-object is still penetrated by word-object-cognition vikalpa.",
+  "It might follow the analyzer’s split sa + vitarkā, but the bhāṣya treats savitarkā as a single named type of samāpatti, contrasted with nirvitarkā."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 output split savitarkā as sa + vitarkā. I analyze savitarkā as one bahuvrīhi/adjectival technical compound, because Vyāsa has savitarkety ucyate at line 3 and contrasts nirvitarkā samāpattiḥ at line 6.",
+  "The ByT5 output marked śabda, artha, and jñāna only as compound pre-members and vikalpaiḥ as the inflected word, without specifying the compound relation. I resolve the whole as a genitive tatpuruṣa with an embedded dvandva: “vikalpas of word, object, and cognition,” on the basis of lines 1–3.",
+  "The ByT5 lemma for saṃkīrṇā was given as verbal/root-like saṃkṛ. For nominal analysis I give the inflected participial/adjectival stem saṃkīrṇa, Stri Prathama Eka."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 5,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3933,
+   "completion_tokens": 6008,
+   "reasoning_tokens": 3582
+  },
+  "est_cost": 0.1019,
+  "reverified": true
+ },
+ "mula": "41 tatra śabdārthajñānavikalpaiḥ saṃkīrṇā savitarkā samāpattiḥ",
+ "commentary_lines": [
+  "tadyathā gaur iti śabdo gaur ity artho gaur iti jñānam ity avibhāgena vibhaktānām api grahaṇaṃ dṛṣṭam.",
+  "vibhajyamānāś cānye śabdadharmā anye 'rthadharmā anye vijñānadharmā ity eteṣāṃ vibhaktaḥ panthāḥ.",
+  "tatra samāpannasya yogino yo gavādyarthaḥ samādhiprajñāyāṃ samārūḍhaḥ sa cec chabdārthajñānavikalpānuviddha upāvartate sā saṃkīrṇā samāpattiḥ savitarkety ucyate.",
+  "1.42",
+  "yadā punaḥ śabdasaṃketasmṛtipariśuddhau śrutānumānajñānavikalpaśūnyāyāṃ samādhiprajñāyāṃ svarūpamātreṇāvasthito 'rthas tatsvarūpākāramātratayaivāvacchidyate.",
+  "sā ca nirvitarkā samāpattiḥ.",
+  "tat paraṃ pratyakṣam.",
+  "tac ca śrutānumānayor bījam.",
+  "tataḥ śrutānumāne prabhavataḥ.",
+  "na ca śrutānumānajñānasahabhūtaṃ tad darśanam.",
+  "tasmād asaṃkīrṇaṃ praṃmāṇāntareṇa yogino nirvitarkasamādhijaṃ darśanam iti.",
+  "nirvitarkāyāḥ samāpatter asyāḥ sūtreṇa lakṣaṇaṃ dyotyate"
+ ]
+}

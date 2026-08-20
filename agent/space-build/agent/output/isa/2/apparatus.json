@@ -1,0 +1,575 @@
+{
+ "unit": "2",
+ "analysis": [
+  {
+   "surface": "kurvan",
+   "surface_in_sandhi": "kurvann",
+   "lemma": "kurvant",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial nominal stem kurvant- (weak stem kurvat-), from √kṛ, used with jijīviṣet: “while doing.”",
+   "verification": {
+    "status": "pass",
+    "detail": "kurvant Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "ev",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sandhi complex eva+iha > eveha; the sandhi portion is shown.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "iha",
+   "surface_in_sandhi": "eha",
+   "lemma": "iha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sandhi complex eva+iha > eveha; the sandhi portion is shown.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "karmāṇi",
+   "surface_in_sandhi": "karmāṇi",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of kurvan; commentary identifies these as Agnihotra and other prescribed rites.",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "jijīviṣet",
+   "surface_in_sandhi": "jijīviṣec",
+   "lemma": "jīv",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jīv",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Desiderative stem jijīviṣa-; commentary glosses jijīviṣet as jīvitum icchet. In sandhi jijīviṣet śatam > jijīviṣecchataṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "jīv VidhiLin/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śatam",
+   "surface_in_sandhi": "chataṃ",
+   "lemma": "śata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative of duration/count with samāḥ; in sandhi jijīviṣet śatam > jijīviṣecchataṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "śata Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "samāḥ",
+   "surface_in_sandhi": "samāḥ",
+   "lemma": "samā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative plural of duration, glossed by saṃvatsarān.",
+   "verification": {
+    "status": "pass",
+    "detail": "samā Stri/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "evam",
+   "surface_in_sandhi": "evaṃ",
+   "lemma": "evam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by the commentary as evamprakāreṇa, “in this manner.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tvayi",
+   "surface_in_sandhi": "tvayi",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular personal pronoun; gender supplied contextually as masculine because the commentary construes it with nare in apposition. The form tvayi is common to genders in isolation.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First negator in the sandhi complex na anyathā itaḥ asti > nānyatheto 'sti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anyathā",
+   "surface_in_sandhi": "nyathe",
+   "lemma": "anyathā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "“Otherwise”; final ā coalesces with initial i of itaḥ in nānyatheto 'sti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "itaḥ",
+   "surface_in_sandhi": "to",
+   "lemma": "itas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival adverb: “than/from this.” In sandhi anyathā itaḥ asti > anyatheto 'sti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asti",
+   "surface_in_sandhi": "'sti",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "In the sandhi complex itaḥ asti > ito 'sti.",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "karma",
+   "surface_in_sandhi": "karma",
+   "lemma": "karman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative/accusative singular form; analyzed as nominative with lipyate, while the commentary gives the idiomatic sense by an instrumental paraphrase, karmaṇā na lipyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "karman Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "lipyate",
+   "surface_in_sandhi": "lipyate",
+   "lemma": "lip",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "lip",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive present: “is smeared/tainted,” idiomatically “clings/taints.”",
+   "verification": {
+    "status": "pass",
+    "detail": "lip Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nare",
+   "surface_in_sandhi": "nare",
+   "lemma": "nara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular, in apposition with tvayi according to the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "nara Pum/Saptami/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The object karmāṇi should not be translated as any and all activity in a secular sense. Śaṅkara identifies it as Agnihotra and other prescribed rites, and repeats that one who wishes to live should do precisely those śāstra-enjoined works.",
+   "options_considered": [
+    "generic action or worldly activity",
+    "Vedic/śāstra-prescribed ritual works such as Agnihotra"
+   ],
+   "chosen": "karmāṇi = śāstra-prescribed ritual works, especially Agnihotra and the like; kurvan eva = only while doing them.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "karmāṇyagnihotrādīni",
+     "translation": "“works, Agnihotra and the like.”"
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "ataḥ śāstravihitāni karmāṇyagnihotrādīni kurvanneva jijīviṣet",
+     "translation": "“Therefore one should wish to live only while doing the works enjoined by scripture, Agnihotra and the like.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The optative jijīviṣet is glossed as ‘should wish to live,’ and samāḥ as ‘years.’ Śaṅkara adds that the wish to live a hundred years is a prāptānuvāda, a restatement of a natural fact; what is enjoined is ‘doing works alone.’ The translation therefore avoids making desire for longevity an independent Upaniṣadic duty.",
+   "options_considered": [
+    "an injunction to desire long life as such",
+    "a restatement of the natural wish to live, with work-doing as the enjoined means"
+   ],
+   "chosen": "jijīviṣet śataṃ samāḥ = one should seek/wish to live a hundred years, but the real injunction is to do works while living.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "jijīviṣejjīvitumicchecchataṃ śatasaṅkhyākāḥ samāḥ saṃvatsarān",
+     "translation": "“jijīviṣet means ‘should wish to live’; śatam means ‘numbered by a hundred’; samāḥ means ‘years.’”},{"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The words evam, anyathā, and itaḥ are construed around prakāra: ‘in this manner,’ ‘a different manner,’ and ‘from this present manner.’ This rules out a merely spatial reading such as ‘not otherwise from here.’",
+   "options_considered": [
+    "spatial ‘from here’",
+    "modal ‘than this way/manner’"
+   ],
+   "chosen": "evam … nānyathā itaḥ asti = in this manner there is no other way than this present mode of doing the prescribed works.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "evamevamprakāreṇa ... etasmādagnihotrādīni karmāṇi kurvato vartamānātprakārādanyathā prakārāntaraṃ nāsti",
+     "translation": "“evam means ‘in this very manner’ ... apart from this present manner of doing Agnihotra and other works, there is no other different manner.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara construes tvayi with nare and supplies jijīviṣati and naramātrābhimānini. The translation therefore treats the second half as addressed to the person on the action-path, not to the renunciant knower described in the previous mantra.",
+   "options_considered": [
+    "tvayi as a general ‘in you’ without qualification",
+    "tvayi nare as ‘in/for you, a man wishing to live and identifying as merely human’"
+   ],
+   "chosen": "tvayi and nare are locatives in apposition: ‘in/for you, as a man,’ specifically one wishing to live and identifying merely as a man.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tvayi jijīviṣati nare naramātrābhimāninīta",
+     "translation": "“in you, in a man wishing to live, [read from the unsegmented text as naramātrābhimānini itaḥ:] identifying merely as a man; from this ...”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although karma is morphologically the neuter nominative/accusative singular form in the mantra, Śaṅkara explains the intended sense as non-taint by karma and even specifies aśubha karma. Thus ‘does not cling/taint’ is preferable to a flat passive ‘karma is not smeared in the man.’",
+   "options_considered": [
+    "karma as an inert subject: ‘karma is not smeared in a man’",
+    "idiomatic karmic non-taint: ‘action does not cling to/taint the man’"
+   ],
+   "chosen": "na karma lipyate nare = action does not cling to/taint the man; idiomatically, he is not tainted by karma.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yena prakāreṇāśubhaṃ karma na lipyate karmaṇā na lipyata ityarthaḥ",
+     "translation": "“by which manner evil karma does not cling; the meaning is, ‘he is not tainted by karma’ [lipyata is taken as the unproofread lipyate].”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara explicitly frames mantra 1 as sannyāsin-jñānaniṣṭhā and mantra 2 as karmaniṣṭhā for the one incapable of that, insisting on the firm opposition between knowledge and action and on two distinct paths.",
+   "options_considered": [
+    "universal endorsement of lifelong ritual action for all seekers",
+    "jñāna-karma-samuccaya, a combination of knowledge and action",
+    "a distinct action-path for the one not fit for renunciant knowledge"
+   ],
+   "chosen": "The mantra teaches karmaniṣṭhā for one unable to take the renunciant knowledge-path; it is not a doctrine of combining knowledge and ritual action.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "pūrveṇa saṃnyāsino jñānaniṣṭhoktā dvitīyena tadaśaktasya karmaniṣṭheti",
+     "translation": "“By the previous [mantra] the knowledge-discipline of the renunciant was taught; by the second, the action-discipline of one incapable of that.”"
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "jñānakarmaṇorvirodhaṃ parvatavadakampyaṃ",
+     "translation": "“the opposition of knowledge and action, unshakable like a mountain.”"
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "imau dvāveva panthānāvanuniṣkrāntatarau bhavataḥ kriyāpathaścaiva purastātsaṃnyāsaścottareṇa",
+     "translation": "“These two paths alone stand out: the path of ritual action first, and renunciation thereafter.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Only doing here the ritual works (karmāṇi),\none should seek to live a hundred years.\nThus, for you—one who would live, taking yourself as just a man (nara)—\nthere is no other way than this:\naction (karma) does not cling to the man.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render karmāṇi as generic ‘actions’; Śaṅkara takes them as śāstra-prescribed rites such as Agnihotra.",
+  "It might make the desire to live a hundred years itself the injunction; Śaṅkara says this is prāptānuvāda and that ‘doing works alone’ is what is enjoined.",
+  "It might read itaḥ spatially as ‘from here’; the commentary glosses it modally as ‘from this manner/course.’",
+  "It might miss that tvayi nare is aimed at the person identifying as merely a man and wishing to live, not at the renunciant knowledge-seeker of mantra 1.",
+  "It might use this mantra to support a combination of knowledge and action; Śaṅkara explicitly rejects that by asserting their opposition and distinguishing the two paths.",
+  "It might translate na karma lipyate mechanically as ‘karma is not smeared in the man’; Śaṅkara gives the idiom ‘he is not tainted by karma.’"
+ ],
+ "analyzer_disagreements": [
+  "The analyzer’s local segmentation gives evā for eva; I read eva, supported by the commentary’s kurvanneva iha in line 1 and by the checked mūla sandhi eva+iha > eveha.",
+  "kurvan was tagged under root kṛ; for the required subanta analysis I record the participial nominal stem kurvant- (with weak stem kurvat-), while noting derivation from √kṛ.",
+  "jijīviṣet was tagged with lemma/stem jijīviṣ; for the required tinanta analysis I give the bare verbal root jīv and note the desiderative stem jijīviṣa-.",
+  "For tvayi, the analyzer does not specify gender; I supply masculine from the commentary’s apposition tvayi ... nare, while noting that the form is common to genders in isolation."
+ ],
+ "open_questions": [
+  "Line 1 prints nivartayanneva; since the file is unproofread, this may stand for nirvartayanneva. I did not base a distinct ‘turning back’ interpretation on it, relying instead on the clear kurvanneva and karmāṇy agnihotrādīni glosses.",
+  "Line 4 prints lipyata in karmaṇā na lipyata ityarthaḥ; I treat this as unproofread for lipyate in the standard explanatory phrase karmaṇā na lipyate ity arthaḥ."
+ ],
+ "verification_summary": {
+  "pass": 17,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15974,
+   "completion_tokens": 26315,
+   "reasoning_tokens": 14338
+  },
+  "est_cost": 0.4426,
+  "reverified": true
+ },
+ "mula": "kurvann eveha karmāṇi jijīviṣecchataṃ samāḥ | evaṃ tvayi nānyatheto 'sti na karma lipyate nare",
+ "commentary_lines": [
+  "kurvanneva iha nivartayanneva karmāṇyagnihotrādīni jijīviṣejjīvitumicchecchataṃ śatasaṅkhyākāḥ samāḥ saṃvatsarān /",
+  "tāvaddhi puruṣasya paramāyurnirūpitam /",
+  "tathā ca prāptānuvādena yajjijīviṣecchataṃ varṣāṇi tat kurvanneva karmāṇītyetadvidhīyate /",
+  "evamevamprakāreṇa tvayi jijīviṣati nare naramātrābhimāninīta etasmādagnihotrādīni karmāṇi kurvato vartamānātprakārādanyathā prakārāntaraṃ nāsti yena prakāreṇāśubhaṃ karma na lipyate karmaṇā na lipyata ityarthaḥ /",
+  "ataḥ śāstravihitāni karmāṇyagnihotrādīni kurvanneva jijīviṣet /",
+  "kathaṃ punaridamavagamyate pūrveṇa saṃnyāsino jñānaniṣṭhoktā dvitīyena tadaśaktasya karmaniṣṭheti /",
+  "ucyateḥ jñānakarmaṇorvirodhaṃ parvatavadakampyaṃ yathoktaṃ na smarasi kim /",
+  "ihāpyuktaṃ 'yo hi jijīviṣet sa karma kurvan' 'īśāvāsyamidaṃ sarvam' 'tena tyaktena bhuñjīthāḥ' 'mā gṛdhaḥ kasyasviddhanam' iti ca /",
+  "'na jīvite maraṇe vā gṛdhiṃ kurvītāraṇyamiyāditi ca param ; tato na punariyāt' iti saṃnyāsāsanāt /",
+  "ubhayoḥ phalabhedaṃ ca vakṣyati /",
+  "imau dvāveva panthānāvanuniṣkrāntatarau bhavataḥ kriyāpathaścaiva purastātsaṃnyāsaścottareṇa /",
+  "nivṛttimārgeṇa eṣaṇātrayasya tyāgaḥ /",
+  "tayoḥ saṃnyāsapatha evātirecayati /",
+  "\"nyāsa evātyarecayat\"iti ca taittirīyake /",
+  "\"dvāvimāvatha panthānau yatra vedāḥ pratiṣṭhitāḥ /",
+  "pravṛttilakṣaṇo dharmo nivṛttaśca vibhāvitaḥ\" //",
+  "ityādi putrāya vicārya niścitamuktaṃ vyāsena vedācāryeṇa bhagavatā vibhāgañcānayoḥ darśayiṣyāmaḥ"
+ ]
+}

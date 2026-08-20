@@ -1,0 +1,636 @@
+{
+ "unit": "1",
+ "analysis": [
+  {
+   "surface": "oṃ",
+   "surface_in_sandhi": "oṃ",
+   "lemma": "oṃ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sacred syllable introducing the mantra.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "īśā",
+   "surface_in_sandhi": "īśā",
+   "lemma": "īś",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vedic instrumental singular: ‘by the Lord’; the commentary glosses it with īśena / parameśvaraḥ, not as the feminine noun īśā ‘dominion’.",
+   "verification": {
+    "status": "pass",
+    "detail": "īś Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vāsyam",
+   "surface_in_sandhi": "vāsyam",
+   "lemma": "vāsya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Gerundive/predicative adjective, ‘to be covered/enveloped’; nominative neuter singular agreeing predicatively with idaṃ sarvam. Formally nominative/accusative neuter singular are identical; Prathama is chosen for the passive predication.",
+   "verification": {
+    "status": "pass",
+    "detail": "vāsya Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "idam",
+   "surface_in_sandhi": "idaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the gerundive predication with sarvam.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvam",
+   "surface_in_sandhi": "sarvaṃ",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter singular substantive/adjective: ‘all, everything’.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yat",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun in the indefinite expression yat kiñca, ‘whatever’.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kiñca",
+   "surface_in_sandhi": "kiñca",
+   "lemma": "kiñca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indefinitizing particle with yat: ‘whatever at all’.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "jagatyām",
+   "surface_in_sandhi": "jagatyāṃ",
+   "lemma": "jagatī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: the commentary glosses jagatyām as pṛthivyām, ‘on/in the earth’, and then treats it as upalakṣaṇa, an indicative mention extending to all name-form-action transformations.",
+   "verification": {
+    "status": "pass",
+    "detail": "jagatī Stri/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "jagat",
+   "surface_in_sandhi": "jagat",
+   "lemma": "jagat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter singular substantive/adjective, ‘moving thing / world’; here in apposition to the relative clause, as Śaṅkara expands it to the entire moving-and-unmoving world.",
+   "verification": {
+    "status": "pass",
+    "detail": "jagat Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tena",
+   "surface_in_sandhi": "tena",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular, construed with tyaktena; according to the commentary the phrase means ‘by renunciation’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tyaktena",
+   "surface_in_sandhi": "tyaktena",
+   "lemma": "tyakta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participial stem from √tyaj, used substantively/abstractly; Śaṅkara glosses tyaktena as tyāgena, ‘by abandonment/renunciation’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tyakta Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhuñjīthāḥ",
+   "surface_in_sandhi": "bhuñjīthā",
+   "lemma": "bhuj",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhuj",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "VidhiLin",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Middle 2nd singular optative; surface_in_sandhi loses visarga before mā from pausal bhuñjīthāḥ. The commentary glosses pālayethāḥ, ‘you should protect/maintain’, not ‘enjoy/eat’.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhuj VidhiLin/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mā",
+   "surface_in_sandhi": "mā",
+   "lemma": "mā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Prohibitive particle governing gṛdhaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "gṛdhaḥ",
+   "surface_in_sandhi": "gṛdhaḥ",
+   "lemma": "gṛdh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "gṛdh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lun",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Augmentless aorist/injunctive after prohibitive mā; the schema has no separate injunctive category, so this is recorded under Lun.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "gṛdh Lun/Madhyama/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "kasya",
+   "surface_in_sandhi": "kasya",
+   "lemma": "ka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular interrogative/indefinite possessor: ‘of whom / of anyone’. Masculine is chosen because Śaṅkara paraphrases with personal possessors, kasyacit parasya svasya vā.",
+   "verification": {
+    "status": "pass",
+    "detail": "ka Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "svid",
+   "surface_in_sandhi": "svid",
+   "lemma": "svid",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Particle; Śaṅkara first calls it an expletive nipāta, but also records an alternative in which kasya svid has rhetorical force.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "dhanam",
+   "surface_in_sandhi": "dhanam",
+   "lemma": "dhana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object/scope of the prohibited coveting.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhana Napumsaka/Dvitiya/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The opening word is not the feminine noun ‘dominion’ and not part of a split īśā vā + āsyam. Śaṅkara defines the governing īś as the Lord/supreme Self and glosses the instrumental sense with īśena and ātmanā.",
+   "options_considered": [
+    "īśā as feminine noun ‘power/dominion’",
+    "īśā as Vedic instrumental singular ‘by the Lord’",
+    "segmentation īśā vā + āsyam"
+   ],
+   "chosen": "īśā = ‘by the Lord’, namely by the supreme Self as the inner Self",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "īśitā parameśvaraḥ paramātmā sarvasya /",
+     "translation": "The ruler is the Supreme Lord, the supreme Self of all."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sa hi sarvamīṣṭe sarvajantūnāmātmā sanpratyagātmatayā tena svena rūpeṇātmaneśā vāsyamācchādanīyam /",
+     "translation": "For he rules all, being the Self of all creatures as the inward Self; by that own form, by the Self, it is to be covered by the Lord."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tatsarvaṃ svenātmanā īśena pratyagātmatayāhamevedaṃ sarvamiti paramārthasatyarūpeṇa",
+     "translation": "All that is to be covered by one’s own Self, by the Lord, as the inward Self, in the ultimately real form ‘I alone am all this.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The gerundive does not mean ‘to be inhabited’ or ‘to be used’; Śaṅkara repeatedly glosses it as ācchādanīyam and explains the covering as a contemplative superimposition of the real Self over the unreal world, like natural sandal fragrance covering adventitious bad odor.",
+   "options_considered": [
+    "vāsyam = ‘to be dwelt in/inhabited’",
+    "vāsyam = ‘to be clothed/covered’ physically",
+    "vāsyam = ‘to be covered’ by the cognition of the supreme Self"
+   ],
+   "chosen": "vāsyam = ‘to be covered/enveloped’ by the Lord as one’s own Self",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "īśā vāsyamācchādanīyam /",
+     "translation": "‘vāsyam by the Lord’ means ‘to be covered’."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "anṛtamidaṃ sarvaṃ carācaramācchādanīyaṃ svena paramātmanā /",
+     "translation": "All this unreal moving-and-unmoving world is to be covered by one’s own supreme Self."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "yathā candanāgarvāderudakādisambandhajakledādijamaupādhikaṃ daurgandhyaṃ tatsvarūpanigharṣaṇena ācchāghate svena pāramārthikena gandhena /",
+     "translation": "As the adventitious bad odor of sandalwood and the like, born of contact with water and dampness, is covered by its own true fragrance when its surface is rubbed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Although jagatyām is glossed as ‘on the earth’, Śaṅkara says it is an upalakṣaṇa, an indicative mention, so the scope is all name-form-action transformations, not merely terrestrial moving beings.",
+   "options_considered": [
+    "only whatever literally moves on the physical earth",
+    "the whole world, including moving and unmoving, by upalakṣaṇa",
+    "jagat as a mere repetition with no semantic expansion"
+   ],
+   "chosen": "idaṃ sarvaṃ yat kiñca jagatyāṃ jagat has universal scope",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "idaṃ sarva yatkiñca yatkiñcijjagatyāṃ pṛthivyāṃ jagattatsarvaṃ",
+     "translation": "This all—whatever moving thing there is in jagatī, on the earth—all that."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "jagatyāṃ pṛthivyām, jagatyāmiti upalakṣaṇārthatvātsarvameva nāmarūpakarmākhyaṃ vikārajātaṃ",
+     "translation": "‘In jagatī’ means ‘on the earth’; since ‘in jagatī’ has an indicative function, it means the whole mass of transformations called name, form, and action."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Śaṅkara explicitly rejects the idea that ‘by the renounced’ means being sustained by an abandoned object such as a dead son or servant. The Vedic meaning, he says, is tyāgena, ‘by renunciation’, in the context of renouncing the three desires.",
+   "options_considered": [
+    "by what has been abandoned or left over",
+    "by what has been allotted by the Lord",
+    "by renunciation itself"
+   ],
+   "chosen": "tena tyaktena = ‘by that renunciation’",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "evamīśvarātmabhāvanayā yuktasya putrādyeṣaṇātrayasaṃnyāsa evādhikāro na karmasu /",
+     "translation": "For one endowed with this contemplation of the Lord as the Self, the entitlement is solely to renunciation of the three desires, beginning with desire for sons, not to rites."
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "tena tyaktena tyāgenetyarthaḥ /",
+     "translation": "‘By that tyaktena’ means ‘by renunciation’."
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "na hi tyakto mṛtaḥ putro vā bhṛtyo vā ātmasambandhitāyā abhāvāt ātmānaṃ pālayati atastyāgena ityayameva vedārthaḥ",
+     "translation": "For a renounced or dead son or servant does not protect oneself, since there is no relation to oneself; therefore ‘by renunciation’—this alone is the Vedic meaning."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The common lexical sense of √bhuj, ‘enjoy/consume’, is not Śaṅkara’s chosen sense here. He glosses bhuñjīthāḥ with pālayethāḥ and explains the protection of oneself through renunciation.",
+   "options_considered": [
+    "you should enjoy/consume",
+    "you should possess/use",
+    "you should protect or maintain yourself"
+   ],
+   "chosen": "bhuñjīthāḥ = ‘you should protect/maintain yourself’, not ‘you should enjoy’",
+   "evidence": [
+    {
+     "lines": [
+      9
+     ],
+     "quote": "bhuñjīthāḥ pālayethāḥ /",
+     "translation": "‘bhuñjīthāḥ’ means ‘you should protect/maintain’."
+    },
+    {
+     "lines": [
+      10
+     ],
+     "quote": "evaṃ tyaktaiṣaṇastvaṃ",
+     "translation": "Thus you, having renounced desires..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara first takes gṛdh as covetous desire directed to wealth and treats svid as an expletive particle, so kasya svid dhanam means the wealth of anyone, another’s or one’s own. He also offers an alternative: the phrase has rhetorical force, since, when everything has been renounced as the Self, there is no one’s wealth to covet.",
+   "options_considered": [
+    "do not covet anyone’s wealth, with svid expletive",
+    "do not covet: for whose wealth is it?",
+    "do not steal another person’s property as a merely social command"
+   ],
+   "chosen": "mā gṛdhaḥ kasya svid dhanam = ‘do not covet anyone’s wealth’, with an alternative rhetorical sense ‘whose wealth is it?’",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "mā gṛdhaḥ gṛdhimākāṅkṣāṃ mā kārṣīrdhanaviṣayām kasyasviddhanaṃ kasyacitparasya svasya vā dhanaṃ mā kāṅkṣīrityarthaḥ /",
+     "translation": "‘Do not covet’: do not make greed, desire, whose object is wealth; ‘kasya svid dhanam’ means do not desire anyone’s wealth, whether another’s or your own."
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "svidityanarthako nipātaḥ /",
+     "translation": "svid is a particle without semantic force."
+    },
+    {
+     "lines": [
+      12,
+      13
+     ],
+     "quote": "athavā mā gṛdhaḥ / kasmāt? kasyasviddhanamityākṣepārtho na kasyaciddhanamasti yadgṛdhyeta /",
+     "translation": "Or: ‘do not covet.’ Why? ‘Whose wealth?’ has the force of an objection: there is no wealth belonging to anyone that might be coveted."
+    },
+    {
+     "lines": [
+      14
+     ],
+     "quote": "ātmaivedaṃ sarvamitīśvarabhāvanayā sarvaṃ tyaktamata ātmana evedaṃ sarvamātmaiva ca sarvamato mithyāviṣayāṃ gṛdhiṃ mā kārṣīrityarthaḥ",
+     "translation": "By the contemplation ‘the Self alone is all this’ everything has been renounced; therefore all this belongs to the Self alone, and the Self alone is all; hence do not make greed whose object is false."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Om. By the Lord (Īśa), as the inward Self, all this is to be covered—whatever moving thing there is in the world. By that renunciation you should maintain yourself; do not covet anyone’s wealth (or: do not covet—for whose wealth is it?).",
+ "one_shot_delta": [
+  "A commentary-blind translation might split the text as īśā vā āsyam and produce a nonsensical ‘mouth/face’ reading; Śaṅkara requires īśā vāsyam, ‘to be covered by the Lord’.",
+  "It might translate vāsyam as ‘to be inhabited’ and miss Śaṅkara’s ācchādana interpretation: the world is to be covered by the cognition of the supreme Self.",
+  "It might render tena tyaktena as ‘by what has been left/allotted’ or ‘by the abandoned thing’; Śaṅkara insists on tyāgena, ‘by renunciation’.",
+  "It might translate bhuñjīthāḥ as ‘enjoy’; Śaṅkara’s gloss is pālayethāḥ, ‘protect/maintain yourself’.",
+  "It might treat kasya svid dhanam only as ‘another’s wealth’; Śaṅkara includes ‘another’s or one’s own’ in the main reading and adds the deeper rhetorical point that no wealth belongs to anyone in truth."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 splits īśā vāsyam as īśā + vā + āsyam; the commentary explicitly construes īśā with īśena/parameśvara and vāsyam with ācchādanīyam, so there is no separate vā and no āsyam ‘mouth’.",
+  "ByT5 labels īśā as a feminine nominal; this is overridden as Vedic instrumental singular masculine of īś, because Śaṅkara glosses it as īśena and defines it as parameśvaraḥ/paramātmā (lines 2–4).",
+  "ByT5 gives āsyam from āsya; overridden to vāsyam, gerundive ‘to be covered’, on the commentary’s vāsyam ācchādanīyam (line 3).",
+  "ByT5’s lemma for jagat is jagant; I record the standard nominal stem jagat, since the commentary treats it as the neuter substantive jagat/tat sarvam and expands its scope rather than requiring a separate participial lemma.",
+  "ByT5 gives tyaktena with root lemma tyaj; for a subanta analysis the nominal stem is tyakta, while its derivational source √tyaj is noted.",
+  "ByT5 normalizes bhuñjīthā to bhuñjīthāḥ; I keep pausal bhuñjīthāḥ but record the printed sandhi form bhuñjīthā, since -āḥ before mā appears as -ā. I also identify it specifically as VidhiLiṅ, supported by Śaṅkara’s pālayethāḥ.",
+  "For gṛdhaḥ I analyze the form as an augmentless aorist/injunctive under Lun after mā; ByT5’s terse tag does not mark this prohibitive aorist construal."
+ ],
+ "open_questions": [
+  "The commentary text is unproofread: line 1, “īśā īṣṭa itīṭ teneśā,” appears corrupt or badly segmented. I have not used its doubtful wording independently; the analysis rests on the clearer definitions in lines 2–4.",
+  "The mantra’s printed bhuñjīthā is treated as sandhi for pausal bhuñjīthāḥ, consistent with the commentary’s bhuñjīthāḥ pālayethāḥ and with visarga loss after ā before mā."
+ ],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 3,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 6116,
+   "completion_tokens": 11436,
+   "reasoning_tokens": 6654
+  },
+  "est_cost": 0.1899,
+  "reverified": true
+ },
+ "mula": "oṃ īśā vāsyam idaṃ sarvaṃ yat kiñca jagatyāṃ jagat | tena tyaktena bhuñjīthā mā gṛdhaḥ kasya sviddhanam",
+ "commentary_lines": [
+  "īśā īṣṭa itīṭ teneśā /",
+  "īśitā parameśvaraḥ paramātmā sarvasya /",
+  "sa hi sarvamīṣṭe sarvajantūnāmātmā sanpratyagātmatayā tena svena rūpeṇātmaneśā vāsyamācchādanīyam /",
+  "kim? idaṃ sarva yatkiñca yatkiñcijjagatyāṃ pṛthivyāṃ jagattatsarvaṃ svenātmanā īśena pratyagātmatayāhamevedaṃ sarvamiti paramārthasatyarūpeṇānṛtamidaṃ sarvaṃ carācaramācchādanīyaṃ svena paramātmanā /",
+  "yathā candanāgarvāderudakādisambandhajakledādijamaupādhikaṃ daurgandhyaṃ tatsvarūpanigharṣaṇena ācchāghate svena pāramārthikena gandhena /",
+  "tadvadeva hi svātmani adhyastaṃ svābhāvikaṃ kartṛtvabhoktṛtvādilakṣaṇaṃ jagadadvaitarūpaṃ jagatyāṃ pṛthivyām, jagatyāmiti upalakṣaṇārthatvātsarvameva nāmarūpakarmākhyaṃ vikārajātaṃ paramārthasatyātmabhāvanayā tyaktaṃ syāt /",
+  "evamīśvarātmabhāvanayā yuktasya putrādyeṣaṇātrayasaṃnyāsa evādhikāro na karmasu /",
+  "tena tyaktena tyāgenetyarthaḥ /",
+  "na hi tyakto mṛtaḥ putro vā bhṛtyo vā ātmasambandhitāyā abhāvāt ātmānaṃ pālayati atastyāgena ityayameva vedārthaḥ-- bhuñjīthāḥ pālayethāḥ /",
+  "evaṃ tyaktaiṣaṇastvaṃ mā gṛdhaḥ gṛdhimākāṅkṣāṃ mā kārṣīrdhanaviṣayām kasyasviddhanaṃ kasyacitparasya svasya vā dhanaṃ mā kāṅkṣīrityarthaḥ /",
+  "svidityanarthako nipātaḥ /",
+  "athavā mā gṛdhaḥ /",
+  "kasmāt? kasyasviddhanamityākṣepārtho na kasyaciddhanamasti yadgṛdhyeta /",
+  "ātmaivedaṃ sarvamitīśvarabhāvanayā sarvaṃ tyaktamata ātmana evedaṃ sarvamātmaiva ca sarvamato mithyāviṣayāṃ gṛdhiṃ mā kārṣīrityarthaḥ"
+ ]
+}

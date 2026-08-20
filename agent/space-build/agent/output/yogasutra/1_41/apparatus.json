@@ -1,0 +1,374 @@
+{
+ "unit": "1.41",
+ "analysis": [
+  {
+   "surface": "kṣīṇavṛtteḥ",
+   "surface_in_sandhi": "kṣīṇavṛtter",
+   "lemma": "kṣīṇavṛtti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "kṣīṇā vṛttiḥ",
+    "members": [
+     "kṣīṇa",
+     "vṛtti"
+    ]
+   },
+   "note": "Revised per the verifier: morphologically this is the feminine genitive singular of the compound kṣīṇavṛtti, not a neuter genitive; taken formally as ‘of the subsided vṛtti.’ Vyāsa nevertheless construes the sense as applying to the citta/cetas whose pratyaya has subsided.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kṣīṇavṛtti as Stri/Sasthi/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "abhijātasya",
+   "surface_in_sandhi": "abhijātasyeva",
+   "lemma": "abhijāta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adjectival participial stem agreeing with maṇeḥ; in context, the bhāṣya takes the jewel as a crystal-like illustrative example.",
+   "verification": {
+    "status": "pass",
+    "detail": "abhijāta Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "iva",
+   "surface_in_sandhi": "eva",
+   "lemma": "iva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed as -eva in sandhi with preceding abhijātasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "maṇeḥ",
+   "surface_in_sandhi": "maṇer",
+   "lemma": "maṇi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular in the simile abhijātasya maṇer iva.",
+   "verification": {
+    "status": "pass",
+    "detail": "maṇi Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "grahītṛgrahaṇagrāhyeṣu",
+   "surface_in_sandhi": "grahītṛgrahaṇagrāhyeṣu",
+   "lemma": "grahītṛgrahaṇagrāhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "grahītā ca grahaṇaṃ ca grāhyaṃ ca, teṣu",
+    "members": [
+     "grahītṛ",
+     "grahaṇa",
+     "grāhya"
+    ]
+   },
+   "note": "Locative plural sphere of samāpatti; the bhāṣya maps the members to puruṣa, indriya, and bhūta.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem grahītṛgrahaṇagrāhya as Napumsaka/Saptami/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tatsthatadañjanatā",
+   "surface_in_sandhi": "tatsthatadañjanatā",
+   "lemma": "tatsthatadañjanatā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tatsthasya tadañjanatā; bhāṣye: teṣu sthitasya tadākārāpattiḥ",
+    "members": [
+     "tatstha",
+     "tadañjanatā"
+    ]
+   },
+   "note": "Feminine abstract in -tā. The analysis follows Vyāsa’s semantic vigraha: ‘for what is situated in them, assumption of their form.’ Nested tat-stha = tasmin/teṣu sthita; tad-añjanatā is not literal collyrium-application but taking on that form/color.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tatsthatadañjanatā as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "samāpattiḥ",
+   "surface_in_sandhi": "samāpattiḥ",
+   "lemma": "samāpatti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative: the preceding tatsthatadañjanatā is what is called samāpatti.",
+   "verification": {
+    "status": "pass",
+    "detail": "samāpatti Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The form is taken morphologically as a feminine genitive singular karmadhāraya, while Vyāsa’s artha-gloss and later mention of cetas determine that the relevant bearer is the mind.",
+   "options_considered": [
+    "A neuter genitive bahuvrīhi agreeing directly with cetas",
+    "A non-technical sense such as ‘of diminished conduct’",
+    "A feminine genitive compound kṣīṇā vṛttiḥ, commentarially applied to the mind"
+   ],
+   "chosen": "Grammatically, kṣīṇavṛtteḥ is ‘of the subsided vṛtti’; in the sūtra’s commentarial sense, it describes the mind whose vṛtti/pratyaya has subsided.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "kṣīṇavṛtter iti pratyastamitapratyayasyety arthaḥ.",
+     "translation": "‘kṣīṇavṛtti’ means ‘whose pratyaya has set/subsided’ or ‘of the subsided pratyaya.’"
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "abhijātamaṇikalpasya cetaso",
+     "translation": "Vyāsa explicitly supplies the referent as ‘of the mind comparable to a fine jewel.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The phrase is not an additional doctrinal subject; Vyāsa marks it as a dṛṣṭānta and explains its point through the crystal’s taking on the color/form of its support.",
+   "options_considered": [
+    "Literal social sense: ‘like a well-born jewel’",
+    "A mere decorative comparison with no interpretive force",
+    "A crystal/jewel simile showing transparent conformity to the support"
+   ],
+   "chosen": "abhijātasya maṇer iva is an illustrative simile of a clear crystal-jewel.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "abhijātasyeva maṇer iti dṛṣṭāntopādānam.",
+     "translation": "‘Like a fine jewel’ is the introduction of an example."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yathā sphaṭika upāśrayabhedāt tattadrūpoparakta upāśrayarūpākāreṇa nirbhāsate tathā grāhyālambanoparaktaṃ cittaṃ grāhyasamāpannaṃ grāhyasvarūpākāreṇa nirbhāsate.",
+     "translation": "As a crystal, depending on different supports, is colored by this or that form and appears in the form of the support, so the mind colored by a graspable support appears in the graspable’s own form."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound is taken as a locative plural dvandva naming the possible supports in which the mind’s samāpatti occurs.",
+   "options_considered": [
+    "grahaṇa as only the abstract act of grasping",
+    "grahītṛ as any empirical receiver or taker",
+    "The Yogic triad puruṣa–indriya–bhūta supplied by Vyāsa"
+   ],
+   "chosen": "grahītṛ-grahaṇa-grāhya denotes the triad: grasper/puruṣa, grasping-instruments/indriyas, and graspable objects/bhūtas.",
+   "evidence": [
+    {
+     "lines": [
+      11
+     ],
+     "quote": "grahītṛgrahaṇagrāhyeṣu puruṣendriyabhūteṣu",
+     "translation": "Vyāsa glosses ‘in the grasper, grasping, and graspable’ as ‘in puruṣa, senses, and elements.’"
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "tathā grahaṇeṣv apīndriyeṣv api draṣṭavyam.",
+     "translation": "In the case of grahaṇas, it is to be understood with respect to the senses too."
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "tathā grahītṛpuruṣālambanoparaktaṃ grahītṛpuruṣasamāpannaṃ grahītṛpuruṣasvarūpākāreṇa nirbhāsate.",
+     "translation": "When colored by the support that is the grahītṛ-puruṣa, it has entered into the grahītṛ-puruṣa and appears in that form."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "tat-stha is read as ‘situated in them’ and tad-añjanatā as taking on their form/color, not literal smearing or collyrium. The compound relation is represented as tatsthasya tadañjanatā, following Vyāsa’s teṣu sthitasya tadākārāpattiḥ.",
+   "options_considered": [
+    "Literal ‘application of collyrium’",
+    "Two unrelated properties: merely being there plus being stained",
+    "The mind’s taking on the form of the support while situated in it"
+   ],
+   "chosen": "tatsthatadañjanatā is ‘the assumption of their form by what is situated in them.’",
+   "evidence": [
+    {
+     "lines": [
+      11
+     ],
+     "quote": "yā tatsthatadañjanatā teṣu sthitasya tadākārāpattiḥ sā samāpattir ity ucyate.",
+     "translation": "That tat-stha-tad-añjanatā is the assumption of that form by what is situated in them; that is called samāpatti."
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "grahaṇālambanoparaktaṃ grahaṇasamāpannaṃ grahaṇasvarūpākāreṇa nirbhāsate.",
+     "translation": "Colored by a grahaṇa-support and coalesced with grahaṇa, it appears in the form of grahaṇa."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Vyāsa repeatedly explains samāpatti with samāpanna and svarūpākāreṇa nirbhāsate: the mind, colored by a support, appears in that support’s own form. The sūtra’s predicate defines this as samāpatti.",
+   "options_considered": [
+    "samāpatti as chance/accident",
+    "samāpatti as mere physical meeting",
+    "samāpatti as the mind’s coalescent assumption of the support’s form"
+   ],
+   "chosen": "samāpatti is rendered as cognitive ‘coalescence’ or engrossed conformity, not as accident or mere meeting.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "grāhyālambanoparaktaṃ cittaṃ grāhyasamāpannaṃ grāhyasvarūpākāreṇa nirbhāsate.",
+     "translation": "The mind, colored by a graspable support and coalesced with the graspable, appears in the graspable’s own form."
+    },
+    {
+     "lines": [
+      11
+     ],
+     "quote": "sā samāpattir ity ucyate.",
+     "translation": "That is called samāpatti."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For the mind whose fluctuation (vṛtti) has subsided, as with a clear crystal-jewel, coalescence (samāpatti) is its taking on their form while it is situated among the grasper (grahītṛ), the grasping-instruments (grahaṇa), and the graspables (grāhya).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take abhijāta maṇi as just ‘well-born jewel,’ missing Vyāsa’s crystal example and the color/form-taking function of the simile.",
+  "It might render grahaṇa as only ‘grasping’ in the abstract, whereas Vyāsa identifies grahaṇas here with the senses and the full triad with puruṣa, indriyas, and bhūtas.",
+  "It might read tadañjana literally as ‘smearing/applying collyrium,’ rather than as the mind’s assumption of the form of the object in which it is situated.",
+  "It might fail to supply citta/cetas for kṣīṇavṛtteḥ and thus miss that the sūtra describes the mind whose pratyayas have subsided."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split kṣīṇa_vṛtteḥ and analysed only vṛtteḥ as SGM; I analyse kṣīṇavṛtteḥ as one feminine genitive singular karmadhāraya compound, because the text and bhāṣya treat kṣīṇavṛtti as a semantic unit. This revision avoids the rejected neuter-genitive claim, for which the verifier derived kṣīṇavṛttinaḥ.",
+  "ByT5 gave abhijātasya with lemma abhijan; I use the nominal participial stem abhijāta, masculine genitive singular, agreeing with maṇeḥ.",
+  "ByT5 treated grahītṛ and grahaṇa as Cp elements with grāhyeṣu as the inflected item; I record the whole locative plural dvandva compound stem grahītṛgrahaṇagrāhya.",
+  "ByT5 segmented tad_stha_tad_añjana_tā; I analyse tatsthatadañjanatā as a single feminine abstract noun with compound structure, since the bhāṣya glosses the whole expression as teṣu sthitasya tadākārāpattiḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 7,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12032,
+   "completion_tokens": 24228,
+   "reasoning_tokens": 18191
+  },
+  "est_cost": 0.3995,
+  "reverified": true
+ },
+ "mula": "kṣīṇavṛtter abhijātasyeva maṇer grahītṛgrahaṇagrāhyeṣu tatsthatadañjanatā samāpattiḥ",
+ "commentary_lines": [
+  "kṣīṇavṛtter iti pratyastamitapratyayasyety arthaḥ.",
+  "abhijātasyeva maṇer iti dṛṣṭāntopādānam.",
+  "yathā sphaṭika upāśrayabhedāt tattadrūpoparakta upāśrayarūpākāreṇa nirbhāsate tathā grāhyālambanoparaktaṃ cittaṃ grāhyasamāpannaṃ grāhyasvarūpākāreṇa nirbhāsate.",
+  "bhūtasūkṣmoparaktaṃ bhūtasūkṣmasamāpannaṃ bhūtasūkṣmasvarūpābhāsaṃ bhavati.",
+  "tathā sthūlālambanoparaktaṃ sthūlarūpasamāpannaṃ sthūlarūpābhāsaṃ bhavati.",
+  "tathā viśvabhedoparaktaṃ viśvabhedasamāpannaṃ viśvarūpābhāsaṃ bhavati.",
+  "tathā grahaṇeṣv apīndriyeṣv api draṣṭavyam.",
+  "grahaṇālambanoparaktaṃ grahaṇasamāpannaṃ grahaṇasvarūpākāreṇa nirbhāsate.",
+  "tathā grahītṛpuruṣālambanoparaktaṃ grahītṛpuruṣasamāpannaṃ grahītṛpuruṣasvarūpākāreṇa nirbhāsate.",
+  "tathā muktapuruṣālambanoparaktaṃ muktapuruṣasamāpannaṃ muktapuruṣasvarūpākāreṇa nirbhāsata iti.",
+  "tad evam abhijātamaṇikalpasya cetaso grahītṛgrahaṇagrāhyeṣu puruṣendriyabhūteṣu yā tatsthatadañjanatā teṣu sthitasya tadākārāpattiḥ sā samāpattir ity ucyate.",
+  "1.41",
+  "tatra śabdārthajñānavikalpaiḥ saṃkīrṇā savitarkā samāpattiḥ"
+ ]
+}

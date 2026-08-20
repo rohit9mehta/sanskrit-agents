@@ -1,0 +1,572 @@
+{
+ "verse": 22,
+ "analysis": [
+  {
+   "surface": "ataḥ",
+   "surface_in_sandhi": "ata",
+   "lemma": "atas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Causal connective: “for this very reason.” Pausal visarga is lost before eva in the printed verse.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "eva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic particle with ataḥ: ata eva, “for just this reason.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to pariniṣpannaḥ, the perfected nature, as the commentary states.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "naivānyo",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates anyaḥ; together with eva, “not at all / certainly not.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "naivānyo",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphasizes the first negation: na eva anyaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anyaḥ",
+   "surface_in_sandhi": "naivānyo",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective agreeing with saḥ = pariniṣpannaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nānanyaḥ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates ananyaḥ: “nor non-different.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ananyaḥ",
+   "surface_in_sandhi": "nānanyaḥ",
+   "lemma": "ananya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na anyaḥ",
+    "members": [
+     "nañ",
+     "anya"
+    ]
+   },
+   "note": "Predicate adjective agreeing with saḥ = pariniṣpannaḥ; here itself a nañ-formation, then negated by preceding na.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ananya as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "paratantrataḥ",
+   "surface_in_sandhi": "paratantrataḥ",
+   "lemma": "paratantratas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Tasil indeclinable in an ablatival/comparative sense: “from / in relation to the other-dependent”; Sthiramati glosses it with paratantrāt. No samāsa object is given here because the surface word is the indeclinable tasil form paratantratas, though its lexical base paratantra contains para + tantra.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha"
+   }
+  },
+  {
+   "surface": "anityatādivat",
+   "surface_in_sandhi": "anityatādivad",
+   "lemma": "anityatādivat",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Similative vati: “as in the case of impermanence and the rest.” The commentary supplies duḥkhatā and anātmatā as the ādi-series. No samāsa object is given here because the surface word is the indeclinable vati-derivative anityatādivat, though it is built on the compound base anityatādi.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha"
+   }
+  },
+  {
+   "surface": "vācyaḥ",
+   "surface_in_sandhi": "vācyo",
+   "lemma": "vācya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Gerundive adjective from √vac, agreeing with saḥ = pariniṣpannaḥ: “is to be stated/said.” The commentary supplies the omitted predicate nānyo nānanyaḥ after vācyo.",
+   "verification": {
+    "status": "pass",
+    "detail": "vācya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nādṛṣṭe",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates dṛśyate in the locative-absolute construction: “when this has not been seen, it is not seen.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "adṛṣṭe",
+   "surface_in_sandhi": "nādṛṣṭe",
+   "lemma": "adṛṣṭa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na dṛṣṭaḥ",
+    "members": [
+     "nañ",
+     "dṛṣṭa"
+    ]
+   },
+   "note": "Locative singular agreeing with asmin and with the glossed pariniṣpanne svabhāve; privative PPP from √dṛś, “unseen / unpenetrated / unrealized.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem adṛṣṭa as Pum/Saptami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "asmin",
+   "surface_in_sandhi": "'smin",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers to pariniṣpannasvabhāvaḥ, not to paratantraḥ; part of a locative absolute.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "sa",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here, unlike the first saḥ, it refers to paratantraḥ svabhāvaḥ, as the commentary explicitly says.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dṛśyate",
+   "surface_in_sandhi": "dṛśyate",
+   "lemma": "dṛś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dṛś",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive: “is seen / is apprehended”; the commentary glosses by gṛhyate and contrasts the knowledge by which it is or is not grasped.",
+   "verification": {
+    "status": "pass",
+    "detail": "dṛś Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate the first half as a statement that the perfected is neither different nor non-different from the other-dependent, not as a statement about the dependent being different from something else or about mere ‘dependence’ in the abstract.",
+   "options_considered": [
+    "saḥ = pariniṣpannaḥ; paratantrataḥ = ‘from/in relation to paratantraḥ’",
+    "saḥ = paratantraḥ",
+    "paratantrataḥ = ‘because of dependentness’ as an abstract causal adverb"
+   ],
+   "chosen": "The first saḥ is the perfected nature (pariniṣpannaḥ), and paratantrataḥ means ‘from / in relation to the other-dependent nature (paratantraḥ).’",
+   "evidence": [
+    {
+     "lines": [
+      1342,
+      1343,
+      1344,
+      1345,
+      1346,
+      1347,
+      1348
+     ],
+     "quote": "ata eva sa naiveti parikalpitena svabhāvena paratantrasya sadā rahitatā\npariniṣpannaḥ\nrahitatā ca dharmatā\nsā ca dharmatā dharmān nānyā nānanyā\nyujyate\npariniṣpannaś ca paratantradharmatety ataḥ paratantrāt pariniṣpanno\nnānyo nānanya iti boddhavyaḥ",
+     "translation": "On ‘for just this reason he is not ...’: the perfected is the constant absence, in the other-dependent, of the imagined nature. Absence is dharmatā, and that dharmatā is not properly either different or non-different from the dharmas. And since the perfected is the dharmatā of the other-dependent, the perfected should be understood as neither different nor non-different from the other-dependent."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Preserve the double denial rather than resolving it into simple identity, simple difference, or a vague ‘indescribability.’",
+   "options_considered": [
+    "a strict double negation: neither different nor non-different",
+    "simple identity of pariniṣpanna and paratantra",
+    "simple difference between pariniṣpanna and paratantra",
+    "a merely apophatic ‘cannot be spoken of’ without the specific identity/difference issue"
+   ],
+   "chosen": "Neither ‘different’ nor ‘non-different’ is to be affirmed without qualification.",
+   "evidence": [
+    {
+     "lines": [
+      1349,
+      1350,
+      1351,
+      1352,
+      1353,
+      1354,
+      1355
+     ],
+     "quote": "yadi hi pariniṣpannaḥ paratantrād anyaḥ syād\nevaṃ na parikalpitena paratantraḥ śūnyaḥ syāt\nathānanya evam api\npariniṣpanno na viśuddhālambanaḥ syāt paratantravat saṃkleśātmakatvāt\nevaṃ\nparatantraś ca na kleśātmakaḥ syāt\npariniṣpannād ananyatvāt pariniṣpannavat",
+     "translation": "If the perfected were different from the other-dependent, then the other-dependent would not be empty of the imagined. But if it were simply non-different, then the perfected would not be a purified object, because, like the other-dependent, it would have the nature of defilement; and likewise the other-dependent would not have the nature of defilement, because, being non-different from the perfected, it would be like the perfected."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Take vācyo with an explicit ellipsis supplied by Sthiramati, not as ‘expressible like impermanence’ in a loose lexical sense.",
+   "options_considered": [
+    "‘is to be stated neither different nor non-different, as with impermanence etc.’",
+    "‘is expressible like impermanence etc.’",
+    "‘is called impermanent etc.’"
+   ],
+   "chosen": "anityatādivat vācyo means ‘is to be stated [as neither different nor non-different], as with impermanence and the rest.’",
+   "evidence": [
+    {
+     "lines": [
+      1356,
+      1357
+     ],
+     "quote": "anityatādivad vācyo\nnānyo nānanya iti vākyaśeṣaḥ",
+     "translation": "‘Is to be stated as with impermanence and the rest’: the remainder of the sentence is ‘neither different nor non-different.’"
+    },
+    {
+     "lines": [
+      1358,
+      1359,
+      1360,
+      1361,
+      1362,
+      1363,
+      1364,
+      1365
+     ],
+     "quote": "yathā hy anityatā duḥkhatānātmatā ca\nsaṃskārādibhyo\nnānyā nānanyā\nyadi saṃskārebhyo 'nityatā anyā\nevaṃ tarhi saṃskārā nityāḥ\nsyuḥ\nathānanyā evam api saṃskārāḥ pradhvaṃsābhāvarūpāḥ syur anityatāvat\nevaṃ duḥkhatādiṣv api vācyam",
+     "translation": "For just as impermanence, sufferingness, and selflessness are neither different nor non-different from formations and the like: if impermanence were different from formations, then formations would be permanent; but if it were non-different, then formations would have the nature of destruction-absence, like impermanence. The same is to be said for sufferingness and the rest."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Translate the last pāda as a locative-absolute condition: ‘when this perfected nature has not been seen, that other-dependent nature is not seen.’",
+   "options_considered": [
+    "asmin = pariniṣpannasvabhāvaḥ; saḥ = paratantrasvabhāvaḥ",
+    "asmin = paratantraḥ and saḥ = pariniṣpannaḥ",
+    "saḥ = a personal observer, ‘he sees’",
+    "adṛṣṭe as a simple adjective of paratantra rather than a locative absolute"
+   ],
+   "chosen": "In nādṛṣṭe ’smin sa dṛśyate, asmin refers to the perfected nature, while saḥ refers to the other-dependent nature.",
+   "evidence": [
+    {
+     "lines": [
+      1366,
+      1367,
+      1368,
+      1369,
+      1370
+     ],
+     "quote": "yadi grāhyagrāhakabhāvarahitaḥ paratantraḥ katham asau gṛhyate agṛhyamāṇo vā\nkatham astīti vijñāyate\nata āha\nnādṛṣṭe 'smin sa dṛśyate\nnādṛṣṭe 'sminn iti pariniṣpannasvabhāve sa dṛśyata iti paratantraḥ svabhāvaḥ",
+     "translation": "Objection: if the other-dependent is devoid of the condition of grasper and grasped, how is it apprehended? Or, if it is not apprehended, how is it known to exist? Therefore he says: ‘When this has not been seen, it is not seen.’ In ‘when this has not been seen’ the reference is to the perfected nature; in ‘it is seen’ the reference is to the other-dependent nature."
+    },
+    {
+     "lines": [
+      1371,
+      1372,
+      1373,
+      1374
+     ],
+     "quote": "nirvikalpalokottarajñānadṛśye pariniṣpanne svabhāve adṛṣṭe apratividdhe\nasākṣātkṛte tatpṛṣṭhalabdhaśuddhalaukikajñānagamyatvāt paratantro 'nyena\njñānena na gṛhyate\nataḥ pariniṣpanne 'dṛṣṭe paratantro na dṛśyate",
+     "translation": "When the perfected nature, which is seen by non-conceptual supramundane knowledge, has not been seen, penetrated, or directly realized, the other-dependent is not grasped by any other knowledge, because it is accessible to the pure worldly knowledge obtained subsequently to that. Therefore, when the perfected has not been seen, the other-dependent is not seen."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Maintain the restricted scope: it is not seen by ‘another’ cognition before the perfected is realized; it is seen by subsequently obtained pure worldly knowledge.",
+   "options_considered": [
+    "a limited epistemic claim: paratantra is not seen before pariniṣpanna is realized",
+    "an absolute claim that paratantra is never seen",
+    "a claim that ordinary grasper–grasped cognition sees paratantra as it is"
+   ],
+   "chosen": "The negation in the final pāda is not a denial that the other-dependent can ever be seen.",
+   "evidence": [
+    {
+     "lines": [
+      1375,
+      1376
+     ],
+     "quote": "na punar\nlokottarajñānapṛṣṭhalabdhenāpi jñānena na dṛśyate",
+     "translation": "But it is not the case that it is not seen even by the knowledge obtained subsequent to supramundane knowledge."
+    },
+    {
+     "lines": [
+      1378,
+      1379,
+      1380,
+      1381,
+      1382,
+      1383,
+      1384,
+      1385
+     ],
+     "quote": "tat pṛṣṭhalabdhena jñānena māyāmarīcisvapnapratiśrutkodakacandranirmitasamān\nsarvadharmān pratyetīti\natra ca dharmāḥ paratantrasaṃgṛhītā abhipretāḥ\npariniṣpannaś cākāśavad\nekarasaḥ\njñānañ ca yathoktaṃ\nnirvikalpena jñānenākāśasamatayā tān sarvadharmān paśyatīti\nparatantradharmāṇāṃ tathatāmātradarśanāt",
+     "translation": "With the knowledge obtained subsequently to that, one understands all dharmas to be like illusion, mirage, dream, echo, moon in water, and magical creation. Here the dharmas intended are those included in the other-dependent. And the perfected is of one taste, like space. And knowledge is as stated: by non-conceptual knowledge one sees all those dharmas as equal to space, because one sees only the suchness of other-dependent dharmas."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For just this reason, it is neither different\nnor non-different from the other-dependent (paratantra);\nas with impermanence and the rest, it is to be so stated.\nWhen this perfected nature (pariniṣpanna) has not been seen,\nthat other-dependent nature is not seen.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take both occurrences of saḥ as the same referent; Sthiramati explicitly distinguishes them: first pariniṣpannaḥ, later paratantraḥ.",
+  "It might render anityatādivad vācyo as ‘expressible like impermanence,’ missing Sthiramati’s supplied ellipsis: ‘to be stated as neither different nor non-different.’",
+  "It might construe nādṛṣṭe ’smin as ‘when this dependent nature is unseen,’ but the commentary makes asmin the perfected nature and saḥ the other-dependent nature.",
+  "It might take the last negation absolutely—‘it is not seen’—whereas Sthiramati restricts it: the other-dependent is not grasped by any other cognition before realization of the perfected, but is seen by subsequently obtained pure worldly knowledge."
+ ],
+ "analyzer_disagreements": [
+  "paratantrataḥ: the analyzer’s api segmentation normalized the word to paratantrāt, and the local tag effectively treats it as an ablatival form of paratantra. The printed bhāṣya reading is paratantrataḥ; I analyze it as a tasil indeclinable with ablatival force, while noting that Sthiramati glosses it by paratantrāt at trbh 1347–1348.",
+  "anityatādivat: the analyzer splits anitya-tā-ādi-vat into components. I treat the verse word as a single similative indeclinable, with the compound base anityatādi, because Sthiramati explains the comparison as anityatā, duḥkhatā, anātmatā, etc. at trbh 1358–1365.",
+  "adṛṣṭe: the analyzer’s local output separates na + a + dṛṣṭe, treating a as independent and dṛṣṭe as positive. I read na + adṛṣṭe, where adṛṣṭe is the privative/nañ PPP ‘unseen,’ explicitly glossed by adṛṣṭe apratividdhe asākṣātkṛte at trbh 1371–1372."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 2,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 18476,
+   "completion_tokens": 16903,
+   "reasoning_tokens": 7680
+  },
+  "est_cost": 0.309,
+  "retrieval": {
+   "anchor": [
+    1341,
+    1341
+   ],
+   "span": [
+    1342,
+    1388
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

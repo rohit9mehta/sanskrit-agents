@@ -1,0 +1,192 @@
+{
+ "unit": "1.38",
+ "analysis": [
+  {
+   "surface": "svapnanidrājñānālambanam",
+   "surface_in_sandhi": "svapnanidrājñānālambanaṃ",
+   "lemma": "svapnanidrājñānālambana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "svapnasya jñānaṃ vā nidrāyāḥ jñānaṃ vā ālambanaṃ yasya (cittasya)",
+    "members": [
+     "svapna",
+     "nidrā",
+     "jñāna",
+     "ālambana"
+    ]
+   },
+   "note": "Neuter nominative singular, agreeing with understood cittaṃ. The form is formally identical with accusative singular, but the bhāṣya supplies yoginaś cittaṃ as the subject attaining steadiness.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem svapnanidrājñānālambana as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable ‘or’; the bhāṣya repeats it in the alternative analysis vā ... vā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "svapna and nidrā are not taken as one undifferentiated ‘dream-sleep’ object; the bhāṣya explicitly distributes them with vā ... vā.",
+   "options_considered": [
+    "A single compound meaning ‘having knowledge of dream-and-sleep as support’.",
+    "Two alternative supports: dream-cognition or sleep-cognition."
+   ],
+   "chosen": "The compound is to be unpacked as two alternatives: svapna-jñāna-ālambanam or nidrā-jñāna-ālambanam.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svapnajñānālambanaṃ vā nidrājñānālambanaṃ vā tadākāraṃ yoginaś cittaṃ sthitipadaṃ labhata iti.",
+     "translation": "‘[It is] having dream-cognition as support, or having sleep-cognition as support; taking that form, the yogin’s mind attains the state of steadiness.’ The printed labhata is evidently to be understood in the sense of labhate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "ālambana is not rendered as an independent noun ‘a support’ here; it functions possessively with the yogin’s mind as the implicit qualified term.",
+   "options_considered": [
+    "Tatpuruṣa-like independent noun: ‘support of dream/sleep-knowledge’.",
+    "Bahuvrīhi adjective of citta: ‘whose support is dream/sleep-cognition’."
+   ],
+   "chosen": "svapnanidrājñānālambanam is an adjectival bahuvrīhi: ‘whose support is dream-cognition or sleep-cognition,’ qualifying understood cittaṃ.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tadākāraṃ yoginaś cittaṃ sthitipadaṃ labhata iti.",
+     "translation": "‘Taking that form, the yogin’s mind attains the state of steadiness’—with labhata apparently standing for labhate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The sūtra is elliptical; Vyāsa supplies the subject citta and the result sthitipadaṃ labhate, so the translation may include ‘the mind becomes steady’ in brackets.",
+   "options_considered": [
+    "Translate only the bare nominal phrase without supplying the implied subject/result.",
+    "Supply the bhāṣya’s understood citta and its attainment of steadiness."
+   ],
+   "chosen": "The supplied sense is that the yogin’s mind becomes steady.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yoginaś cittaṃ sthitipadaṃ labhata iti.",
+     "translation": "‘The yogin’s mind attains the state of steadiness’—again, labhata is read for sense as labhate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although svapna can denote sleep in general, the bhāṣya separates svapna-jñāna from nidrā-jñāna, so translating both as ‘sleep’ would erase the intended contrast.",
+   "options_considered": [
+    "svapna = sleep, making it nearly synonymous with nidrā.",
+    "svapna = dream/dream-state, paired contrastively with nidrā = sleep."
+   ],
+   "chosen": "svapna is rendered as ‘dream’ or ‘dream-state,’ contrasted with nidrā ‘sleep’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svapnajñānālambanaṃ vā nidrājñānālambanaṃ vā",
+     "translation": "‘Having dream-cognition as support, or having sleep-cognition as support.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The sūtra’s final vā marks this as another optional means for steadiness, and Vyāsa’s internal expansion also uses vā ... vā between the two alternatives.",
+   "options_considered": [
+    "Treat vā as a nominal form from the dictionary excerpt.",
+    "Treat vā as the standard indeclinable disjunctive particle ‘or’."
+   ],
+   "chosen": "vā is the indeclinable ‘or’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "svapnajñānālambanaṃ vā nidrājñānālambanaṃ vā",
+     "translation": "‘... as support, or ... as support.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Or, [the yogin’s mind becomes steady when it is] one whose support (ālambana) is cognition (jñāna) connected with dream (svapna) or with sleep (nidrā).",
+ "one_shot_delta": [
+  "A commentary-blind translation might take svapna-nidrā as one compound idea, ‘dream-sleep,’ rather than Vyāsa’s two alternatives: svapna-jñāna or nidrā-jñāna.",
+  "It might translate ālambanam as an independent ‘support’ instead of a bahuvrīhi adjective of the understood cittaṃ.",
+  "It might omit the implied result that the yogin’s mind attains steadiness, which the bhāṣya supplies.",
+  "It might render svapna merely as ‘sleep,’ duplicating nidrā and missing the contrast between dream-cognition and sleep-cognition."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 only segmented svapna, nidrā, jñāna as compound components and ālambanam as the inflected neuter form; I treat the whole printed string svapnanidrājñānālambanam as one inflected bahuvrīhi compound stem qualifying understood citta, following Vyāsa’s gloss in line 1.",
+  "ByT5 did not decide nominative versus accusative for the neuter singular ālambanam; I record Prathama singular because Vyāsa supplies yoginaś cittaṃ as the subject of the attainment of steadiness in line 1, though the surface form is nom./acc. identical."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2719,
+   "completion_tokens": 8081,
+   "reasoning_tokens": 6448
+  },
+  "est_cost": 0.1294,
+  "reverified": true
+ },
+ "mula": "37 svapnanidrājñānālambanaṃ vā",
+ "commentary_lines": [
+  "svapnajñānālambanaṃ vā nidrājñānālambanaṃ vā tadākāraṃ yoginaś cittaṃ sthitipadaṃ labhata iti.",
+  "1.38",
+  "yathābhimatadhyānād vā"
+ ]
+}

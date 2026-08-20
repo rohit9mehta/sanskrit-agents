@@ -1,0 +1,443 @@
+{
+ "verse": 16,
+ "analysis": [
+  {
+   "surface": "manovijñānasambhūtiḥ",
+   "surface_in_sandhi": "manovijñānasaṃbhūtiḥ",
+   "lemma": "manovijñānasambhūti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "manovijñānasya sambhūtiḥ",
+    "members": [
+     "manovijñāna",
+     "sambhūti"
+    ]
+   },
+   "note": "Vidyut verifies the phonological spelling with homorganic labial nasal, sambhūtiḥ; the printed verse has anusvāra, saṃbhūtiḥ. Nominal sentence; the commentary paraphrases the verse’s rule as manovijñāna-pravṛttiḥ veditavyā, so sambhūtiḥ is rendered as occurrence/arising. I retain the ṣaṣṭhī-tatpuruṣa relation; the verifier only logged this relation as unsupported, not grammatically contradicted.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem manovijñānasambhūti as Stri/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "sarvadā",
+   "surface_in_sandhi": "sarvadā",
+   "lemma": "sarvadā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by the bhāṣya as sarvakālam, including both with and without eye-consciousnesses and the rest.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "āsañjñikāt",
+   "surface_in_sandhi": "saṃjñikād",
+   "lemma": "āsaṃjñika",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vidyut verifies the pausal phonological form as āsañjñikāt; the printed bhāṣya/verse spelling uses anusvāra, āsaṃjñikād. In the printed sandhi sarvadāsaṃjñikād, initial ā is contracted with final ā of sarvadā; the commentary restores āsaṃjñikād ṛte at trbh 1057.",
+   "verification": {
+    "status": "pass",
+    "detail": "āsaṃjñika Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "ṛte",
+   "surface_in_sandhi": "ṛte",
+   "lemma": "ṛte",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Takes the ablative exception-list; the commentary calls this list an apavāda and later summarizes it as five avasthās to be excluded.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "samāpattidvayāt",
+   "surface_in_sandhi": "samāpattidvayān",
+   "lemma": "samāpattidvaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "samāpattyoḥ dvayam",
+    "members": [
+     "samāpatti",
+     "dvaya"
+    ]
+   },
+   "note": "The final -t is assimilated to -n before following middhāt. The commentary defines the pair as asaṃjñisamāpatti and nirodhasamāpatti.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem samāpattidvaya as Napumsaka/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "middhāt",
+   "surface_in_sandhi": "middhān",
+   "lemma": "middha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The commentary restricts this to acittaka middha, torpor/sleep in which mental consciousness does not occur for that time.",
+   "verification": {
+    "status": "pass",
+    "detail": "middha Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "mūrcchanāt",
+   "surface_in_sandhi": "mūrcchanād",
+   "lemma": "mūrcchana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The verse-form is neuter mūrcchana-; the commentary explains it with the feminine mūrcchā, ‘fainting/syncope,’ and calls it acittikā.",
+   "verification": {
+    "status": "pass",
+    "detail": "mūrcchana Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "apy",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "api is sandhied to apy before acittakāt.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "acittakāt",
+   "surface_in_sandhi": "acittakāt",
+   "lemma": "acittaka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "cittaṃ nāsti yasmin",
+    "members": [
+     "a",
+     "citta"
+    ]
+   },
+   "note": "A privative adjective, ‘mindless/without consciousness’; the commentary explicitly uses acittakaṃ of middha and acittikā of mūrcchā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem acittaka as Napumsaka/Panchami/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Construe manovijñānasambhūtiḥ as the nominal subject/predicate of an understood rule: mental consciousness occurs/arises in all states except the listed exceptions.",
+   "options_considered": [
+    "literal ‘birth/origin of mental consciousness’",
+    "contextual ‘arising/occurrence/activity of mental consciousness’"
+   ],
+   "chosen": "‘The arising/occurrence of mental consciousness’ rather than a bare metaphysical ‘birth’",
+   "evidence": [
+    {
+     "lines": [
+      1081,
+      1082
+     ],
+     "quote": "etāḥ pañcāvasthā varjayitvā tadanyāsu sarvāsv avasthāsu manovijñānapravṛttir\nveditavyā",
+     "translation": "Excluding these five states, in all other states the occurrence/activity of mental consciousness is to be understood."
+    },
+    {
+     "lines": [
+      1083,
+      1084,
+      1085,
+      1086
+     ],
+     "quote": "evam āsaṃjñikādiṣu manovijñāne niruddhe tadapagame punaḥ kuta\nutpadyate yatas tasya kālakriyā na bhavati\ntat punar ālayavijñānād\nevotpadyate",
+     "translation": "When mental consciousness has ceased in the āsaṃjñika and the rest, whence does it arise again when that has passed, since it has no temporal efficacy then? It arises only from the store-consciousness."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "sarvadā is not merely vague ‘always’; the commentary explicitly expands it as all times both accompanied by and not accompanied by the visual and other sense-consciousnesses.",
+   "options_considered": [
+    "simple adverb ‘always’",
+    "‘always, with or without the eye- and other sense-consciousnesses’"
+   ],
+   "chosen": "‘at all times, whether together with or without eye-consciousnesses and the rest’",
+   "evidence": [
+    {
+     "lines": [
+      1055
+     ],
+     "quote": "sarvadeti sarvakālaṃ cakṣurādivijñānaiḥ saha vinā cety arthaḥ",
+     "translation": "‘Always’ means ‘at all times, both together with eye-consciousnesses and the rest, and without them.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The ablatives after ṛte are construed as exceptions to the general rule, not as sources from which mental consciousness arises. The commentary calls them an apavāda and later says that these five states are to be excluded.",
+   "options_considered": [
+    "ablatives as sources or causes",
+    "ablatives governed by ṛte as exceptions"
+   ],
+   "chosen": "ṛte introduces an exception-list of five states",
+   "evidence": [
+    {
+     "lines": [
+      1056,
+      1057,
+      1058
+     ],
+     "quote": "asyotsargasyemam apavādam ārabhate\nāsaṃjñikād ṛte\nsamāpattidvayān middhān mūrcchanād apy acittakād iti",
+     "translation": "He begins this exception to the general rule: ‘except for the āsaṃjñika, the two attainments, middha, and also mindless fainting.’"
+    },
+    {
+     "lines": [
+      1081,
+      1082
+     ],
+     "quote": "etāḥ pañcāvasthā varjayitvā tadanyāsu sarvāsv avasthāsu manovijñānapravṛttir\nveditavyā",
+     "translation": "Excluding these five states, in all other states the occurrence of mental consciousness is to be understood."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Do not render āsaṃjñika as a generic adjective ‘unconscious’; it is a named state in which cittacaitasika dharmas cease for beings born among the unconscious gods.",
+   "options_considered": [
+    "generic ‘unconsciousness’",
+    "technical ‘unconscious state’ among asaṃjñisattva gods"
+   ],
+   "chosen": "āsaṃjñika as a technical unconscious state involving cessation of mind and mental factors among asaṃjñisattva gods",
+   "evidence": [
+    {
+     "lines": [
+      1059,
+      1060
+     ],
+     "quote": "tatrāsaṃjñikam asaṃjñisattveṣu deveṣūpapannasya yaś cittacaitasikānāṃ\ndharmāṇāṃ nirodhaḥ",
+     "translation": "Here the āsaṃjñika is the cessation of mental and mental-associated dharmas in one born among the gods who are unconscious beings."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "samāpattidvaya is not ‘two meetings/accidents’; the commentary names the two contemplative attainments and defines them by cessation of manovijñāna, with further cessation of kliṣṭa manas in nirodhasamāpatti.",
+   "options_considered": [
+    "ordinary ‘two meetings’ or ‘two acquisitions’",
+    "technical pair of meditative attainments"
+   ],
+   "chosen": "samāpattidvaya as ‘the two attainments’: asaṃjñisamāpatti and nirodhasamāpatti",
+   "evidence": [
+    {
+     "lines": [
+      1061
+     ],
+     "quote": "samāpattidvayam asaṃjñisamāpattir nirodhasamāpattiś ca",
+     "translation": "The pair of attainments is the unconscious attainment and the cessation attainment."
+    },
+    {
+     "lines": [
+      1064,
+      1065
+     ],
+     "quote": "niḥsaraṇasaṃjñāpūrvakeṇa manasikāreṇa manovijñānasya tatsaṃprayuktānāñ ca\ncaittānāṃ yo nirodhaḥ so 'trāsaṃjñisamāpattir ity ucyate",
+     "translation": "The cessation of mental consciousness and its associated mental factors, through attention preceded by the notion of escape, is here called the unconscious attainment."
+    },
+    {
+     "lines": [
+      1072,
+      1073,
+      1074
+     ],
+     "quote": "nirodhasamāpattir ākiñcanyāyatanavītarāgasya śāntavihārasaṃjñāpūrvakeṇa\nmanasikāreṇa sasaṃprayogasya manovijñānasya kliṣṭasya ca manaso yo nirodhaḥ\niyam apy asaṃjñisamāpattivad āśrayasyāvasthāviśeṣe prajñapyate",
+     "translation": "The cessation attainment is the cessation, for one free from attachment to the sphere of nothingness, of mental consciousness together with its associates and of the afflicted manas, through attention preceded by the notion of peaceful abiding; like the unconscious attainment, it is designated upon a particular condition of the basis."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The verse’s middha is the exceptional acittaka kind: because the basis is impaired by intense middha, mental consciousness does not occur for that time.",
+   "options_considered": [
+    "ordinary laziness/sloth as a mental factor",
+    "mindless deep torpor/sleep in which manovijñāna does not occur"
+   ],
+   "chosen": "middha as mindless torpor/sleep, not ordinary sloth alone",
+   "evidence": [
+    {
+     "lines": [
+      1075,
+      1076
+     ],
+     "quote": "acittakaṃ middhaṃ gāḍhamiddhopahatatvād āśrayasya tāvatkālaṃ\nmanovijñānāpravṛtter acittakam ity ucyate",
+     "translation": "Middha is mindless: because the basis is impaired by intense middha, for that time mental consciousness does not occur; therefore it is called mindless."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Translate mūrcchanāt as fainting/syncope, not ‘stupefying’ or another sense of mūrchana; the commentary defines it as a mindless condition produced by external blow or humoral imbalance and opposed to the occurrence of mental consciousness.",
+   "options_considered": [
+    "‘stupefaction’ as an agentive quality",
+    "medical/phenomenological fainting or syncope that blocks manovijñāna"
+   ],
+   "chosen": "mūrcchanā/mūrcchā as mindless fainting or syncope",
+   "evidence": [
+    {
+     "lines": [
+      1077,
+      1078,
+      1079,
+      1080
+     ],
+     "quote": "acittikā mūrcchā\nāgantukenābhighātena vātapittaśleṣmavaiṣamyeṇa vā yad\nāśrayavaiṣamyaṃ\nmanovijñānapravṛttiviruddhaṃ tatrācittikā mūrcchopacaryate",
+     "translation": "Fainting is mindless. Where there is an imbalance of the basis, caused by an external blow or by imbalance of wind, bile, and phlegm, opposed to the occurrence of mental consciousness, there mindless fainting is figuratively designated."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The arising of mental consciousness (manovijñāna)\nis at all times—whether with the eye-consciousnesses and the rest, or without them—\nexcept in the unconscious state (āsaṃjñika),\nin the two attainments (samāpatti-dvaya),\nin mindless torpor (acittaka middha),\nand also in mindless fainting (mūrcchā).",
+ "one_shot_delta": [
+  "A commentary-blind rendering might translate sarvadā simply as ‘always’ and miss Sthiramati’s explicit point: mental consciousness occurs both together with and without the eye- and other sense-consciousnesses.",
+  "It might treat samāpattidvaya, middha, and mūrcchanā as ordinary dictionary items—‘two meetings,’ ‘sloth,’ and ‘stupefying’—rather than the five technical acitta states defined by cessation or non-occurrence of manovijñāna.",
+  "It might construe the ablatives as sources from which mental consciousness arises; the commentary instead marks them as exceptions to the general rule and summarizes them as five states to be excluded.",
+  "It might render sambhūti as bare ‘birth/origin’; the commentary’s manovijñānapravṛttiḥ veditavyā supports ‘occurrence/arising’ within the rule about when manovijñāna is active."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 output variously gives mūrchanāt/mūrchana and mūrcchanāt; I adopt the bhāṣya reading mūrcchanāt with cch, supported by the commentary’s mūrcchā/mūrcchopacaryate at trbh 1077 and 1080.",
+  "The ByT5 segmentation treats manaḥ, vijñāna, and saṃbhūti as separate compound-elements; for checkable morphology I analyze the inflected word as the whole compound stem manovijñānasambhūti-, with Vidyut’s homorganic-nasal spelling sambhūti rather than the printed anusvāra spelling saṃbhūti.",
+  "For āsaṃjñikāt, I keep the lexical/commentarial spelling āsaṃjñika in the lemma but give Vidyut’s verified pausal surface āsañjñikāt; the verse and bhāṣya print anusvāra in āsaṃjñikād/saṃjñikād."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 9,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 14574,
+   "completion_tokens": 19475,
+   "reasoning_tokens": 12137
+  },
+  "est_cost": 0.3358,
+  "retrieval": {
+   "anchor": [
+    1052,
+    1053
+   ],
+   "span": [
+    1055,
+    1089
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

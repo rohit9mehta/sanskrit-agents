@@ -1,0 +1,244 @@
+{
+ "unit": "1.50",
+ "analysis": [
+  {
+   "surface": "tajjaḥ",
+   "surface_in_sandhi": "tajjaḥ",
+   "lemma": "tadja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "tasmāj jātaḥ; samādhi-prajñā-prabhavaḥ",
+    "members": [
+     "tad",
+     "ja"
+    ]
+   },
+   "note": "Adjective agreeing with saṃskāraḥ; surface shows internal compound sandhi: tad + ja > tajja.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem tadja as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saṃskāraḥ",
+   "surface_in_sandhi": "saṃskāro",
+   "lemma": "saṃskāra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of the sūtra; translated here as the technical Yoga term “latent impression/disposition,” since the bhāṣya treats saṃskāras as a store producing pratyayas.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃskāra Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "anyasaṃskārapratibandhī",
+   "surface_in_sandhi": "'nyasaṃskārapratibandhī",
+   "lemma": "anyasaṃskārapratibandhin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "anyān saṃskārān pratibadhnāti iti",
+    "members": [
+     "anya",
+     "saṃskāra",
+     "pratibandhin"
+    ]
+   },
+   "note": "Predicate adjective of saṃskāraḥ. The final member pratibandhin is taken actively: “obstructing/blocking.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anyasaṃskārapratibandhin as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The pronoun tad in the compound is not left as a vague “that”; Vyāsa identifies the source as samādhi-prajñā, and then describes the succeeding saṃskāras as prajñā-made.",
+   "options_considered": [
+    "born of that in a merely deictic, unspecified sense",
+    "born of samādhi itself alone",
+    "born of samādhi-prajñā / made by prajñā"
+   ],
+   "chosen": "tajjaḥ = born from samādhi-prajñā / produced by that prajñā",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samādhiprajñāprabhavaḥ saṃskāro vyutthānasaṃskārāśayaṃ bādhate.",
+     "translation": "The saṃskāra whose origin is samādhi-prajñā blocks the store of vyutthāna-saṃskāras."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tataḥ samādhijā prajñā, tataḥ prajñākṛtāḥ saṃskārā iti navo navaḥ saṃskārāśayo jāyate.",
+     "translation": "From that comes prajñā born of samādhi; from that, saṃskāras made by prajñā—thus a continually new store of saṃskāras arises."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The rendering “latent impression” is chosen over a generic “formation” because Vyāsa places these saṃskāras in an āśaya and says that pratyayas arise from them unless they are overpowered.",
+   "options_considered": [
+    "formation/preparation in a general sense",
+    "mental cultivation/training",
+    "latent impression or disposition producing mental presentations"
+   ],
+   "chosen": "saṃskāra as a latent impression/disposition that can produce pratyayas",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "samādhiprajñāprabhavaḥ saṃskāro vyutthānasaṃskārāśayaṃ bādhate.\nvyutthānasaṃskārābhibhavāt tatprabhavāḥ pratyayā na bhavanti.",
+     "translation": "The saṃskāra born from samādhi-prajñā blocks the store of vyutthāna-saṃskāras. Because the vyutthāna-saṃskāras are overpowered, the pratyayas produced by them do not occur."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The “other” saṃskāras are specified by the bhāṣya as vyutthāna-saṃskāras, not the prajñā-made saṃskāras themselves nor every saṃskāra without distinction.",
+   "options_considered": [
+    "all other saṃskāras indiscriminately",
+    "other prajñā-made saṃskāras",
+    "vyutthāna-saṃskāras, the ordinary dispositions of emergence from samādhi"
+   ],
+   "chosen": "anya-saṃskāras = vyutthāna-saṃskāras, the other/ordinary emerging dispositions",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "samādhiprajñāprabhavaḥ saṃskāro vyutthānasaṃskārāśayaṃ bādhate.\nvyutthānasaṃskārābhibhavāt tatprabhavāḥ pratyayā na bhavanti.",
+     "translation": "The saṃskāra born from samādhi-prajñā blocks the store of vyutthāna-saṃskāras. Because the vyutthāna-saṃskāras are overpowered, the pratyayas produced by them do not occur."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Although pratibandhin can mean either impeded or impeding in different contexts, here Vyāsa recasts the sūtra with the active finite verb bādhate and explains the result as abhibhava, overpowering, of the vyutthāna-saṃskāras.",
+   "options_considered": [
+    "obstructed by other saṃskāras",
+    "meeting with an obstacle",
+    "actively obstructing other saṃskāras"
+   ],
+   "chosen": "pratibandhī is active: “obstructing/blocking”",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "samādhiprajñāprabhavaḥ saṃskāro vyutthānasaṃskārāśayaṃ bādhate.\nvyutthānasaṃskārābhibhavāt tatprabhavāḥ pratyayā na bhavanti.",
+     "translation": "The saṃskāra born from samādhi-prajñā blocks the store of vyutthāna-saṃskāras. Because the vyutthāna-saṃskāras are overpowered, the pratyayas produced by them do not occur."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The bhāṣya explicitly rejects the worry that this superior saṃskāra would make the citta sādhikāra, fit for further purposive activity; rather, because it conduces to kleśa-destruction, it withdraws the citta from its own activity.",
+   "options_considered": [
+    "the new saṃskāra simply adds another binding disposition",
+    "the new saṃskāra creates further ordinary mental activity",
+    "the prajñā-made saṃskāra suppresses ordinary dispositions and leads the citta to subside"
+   ],
+   "chosen": "the prajñā-made saṃskāra does not bind the citta to further ordinary activity",
+   "evidence": [
+    {
+     "lines": [
+      7,
+      8
+     ],
+     "quote": "na te prajñākṛtāḥ saṃskārāḥ kleśakṣayahetutvāc cittam adhikāraviśiṣṭaṃ kurvanti.\ncittaṃ hi te svakāryād avasādayanti.",
+     "translation": "No: those prajñā-made saṃskāras, because they are a cause of the destruction of the kleśas, do not make the citta qualified for further function. Rather, they cause the citta to subside from its own activity."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The latent impression (saṃskāra) born of that [samādhi-prajñā] obstructs the other latent impressions—the vyutthāna-saṃskāras.",
+ "one_shot_delta": [
+  "A commentary-blind translation might leave “born of that” vague; Vyāsa identifies it as born from samādhi-prajñā and as prajñā-made.",
+  "It might read pratibandhī passively as “obstructed by other impressions”; Vyāsa’s bādhate makes it active: it blocks them.",
+  "It might take “other saṃskāras” as all saṃskāras whatsoever; Vyāsa narrows them to vyutthāna-saṃskāras, whose products no longer arise.",
+  "It might assume that this new saṃskāra perpetuates mental activity; Vyāsa says the prajñā-made saṃskāras do not make the citta sādhikāra, but make it subside from its own function."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments tad + jaḥ and anya + saṃskāra + pratibandhī as component tokens; this apparatus treats tajjaḥ and anyasaṃskārapratibandhī as the two inflected compound words of the sūtra, while retaining ByT5’s nominal masculine nominative singular analysis for the final members.",
+  "ByT5 does not decide the semantic direction of pratibandhin; following Vyāsa’s active gloss bādhate, I analyze anyasaṃskārapratibandhī as “obstructing other saṃskāras,” not “obstructed by other saṃskāras.”"
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3118,
+   "completion_tokens": 8904,
+   "reasoning_tokens": 6632
+  },
+  "est_cost": 0.1429,
+  "reverified": true
+ },
+ "mula": "tajjaḥ saṃskāro 'nyasaṃskārapratibandhī",
+ "commentary_lines": [
+  "samādhiprajñāprabhavaḥ saṃskāro vyutthānasaṃskārāśayaṃ bādhate.",
+  "vyutthānasaṃskārābhibhavāt tatprabhavāḥ pratyayā na bhavanti.",
+  "pratyayanirodhe samādhir upatiṣṭhate.",
+  "tataḥ samādhijā prajñā, tataḥ prajñākṛtāḥ saṃskārā iti navo navaḥ saṃskārāśayo jāyate.",
+  "tataś ca prajñā, tataś ca saṃskārā iti.",
+  "katham asau saṃskārātiśayaś cittaṃ sādhikāraṃ na kariṣyatīti.",
+  "na te prajñākṛtāḥ saṃskārāḥ kleśakṣayahetutvāc cittam adhikāraviśiṣṭaṃ kurvanti.",
+  "cittaṃ hi te svakāryād avasādayanti.",
+  "khyātiparyavasānaṃ hi cittaceṣṭitam iti.",
+  "1.50",
+  "kiṃ cāsya bhavati"
+ ]
+}

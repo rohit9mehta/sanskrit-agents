@@ -1,0 +1,708 @@
+{
+ "unit": "16",
+ "analysis": [
+  {
+   "surface": "pūṣan",
+   "surface_in_sandhi": "pūṣann",
+   "lemma": "pūṣan",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative to the sun as nourisher; the commentary derives the name from nourishing the world.",
+   "verification": {
+    "status": "pass",
+    "detail": "pūṣan Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "ekarṣe",
+   "surface_in_sandhi": "ekarṣe",
+   "lemma": "ekarṣi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "ekaḥ ṛṣiḥ; bhāṣye: eka eva ṛṣati gacchati",
+    "members": [
+     "eka",
+     "ṛṣi"
+    ]
+   },
+   "note": "One word, not two; although formally eka+ṛṣi, Śaṅkara glosses it by eka eva ṛṣati gacchati, so the translation follows “sole traverser” rather than simply “one seer.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ekarṣi as Pum/Sambodhana/Eka: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "yama",
+   "surface_in_sandhi": "yama",
+   "lemma": "yama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative; glossed as the restrainer/controller of all.",
+   "verification": {
+    "status": "pass",
+    "detail": "yama Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "sūrya",
+   "surface_in_sandhi": "sūrya",
+   "lemma": "sūrya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative; Śaṅkara explains the name by taking in rays, vital breaths, and essences.",
+   "verification": {
+    "status": "pass",
+    "detail": "sūrya Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "prājāpatya",
+   "surface_in_sandhi": "prājāpatya",
+   "lemma": "prājāpatya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative patronymic/substantive: offspring of Prajāpati.",
+   "verification": {
+    "status": "pass",
+    "detail": "prājāpatya Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "vyūha",
+   "surface_in_sandhi": "vyūha",
+   "lemma": "ūh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ūh",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Second-person singular imperative; the commentary glosses the sense as vigamaya, “make go away, remove.”",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-ūh Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "raśmīn",
+   "surface_in_sandhi": "raśmīn",
+   "lemma": "raśmi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative plural object of vyūha; the commentary adds svān, “your own.”",
+   "verification": {
+    "status": "pass",
+    "detail": "raśmi Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "samūha",
+   "surface_in_sandhi": "samūha",
+   "lemma": "ūh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ūh",
+    "prefixes": [
+     "sam"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lot",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Second-person singular imperative; glossed as ekīkuru and, in the unsegmented line, apparently upasaṃhara.",
+   "verification": {
+    "status": "pass",
+    "detail": "sam-ūh Lot/Madhyama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tejaḥ",
+   "surface_in_sandhi": "tejaḥ",
+   "lemma": "tejas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular object of samūha; line 2 appears under-segmented around upasaṃharate tejastāpakaṃ, but the intended gloss is clearly “heat-making light.”",
+   "verification": {
+    "status": "pass",
+    "detail": "tejas Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "yat",
+   "surface_in_sandhi": "yat",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular relative pronoun agreeing with rūpam and correlated with tat.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic genitive singular, glossed by tava. Masculine linga is supplied for a checkable subanta analysis according to the masculine solar addressee; the personal-pronoun form itself is not distinct by gender.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "rūpam",
+   "surface_in_sandhi": "rūpaṃ",
+   "lemma": "rūpa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular, governed by paśyāmi through the relative-correlative construction.",
+   "verification": {
+    "status": "pass",
+    "detail": "rūpa Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "kalyāṇatamam",
+   "surface_in_sandhi": "kalyāṇatamaṃ",
+   "lemma": "kalyāṇatama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Superlative adjective agreeing with rūpam; glossed as atyantaśobhanam.",
+   "verification": {
+    "status": "pass",
+    "detail": "kalyāṇatama Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tat",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular correlative to yat, object of paśyāmi.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic genitive singular; Śaṅkara construes it with tava/ātmanas prasāda, “your own favor.” Masculine linga is supplied for a checkable subanta analysis according to the masculine solar addressee; the personal-pronoun form itself is not distinct by gender.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "paśyāmi",
+   "surface_in_sandhi": "paśyāmi",
+   "lemma": "paś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "paś",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "First-person singular present: “I behold.”",
+   "verification": {
+    "status": "pass",
+    "detail": "paś Lat/Uttama/Eka: pass"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yo",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular relative pronoun introducing the puruṣa clause.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "'sāv",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First of two masculine nominative singular demonstratives; in sandhi yaḥ asau asau gives yo 'sāv asau.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asau",
+   "surface_in_sandhi": "asau",
+   "lemma": "adas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second masculine nominative singular demonstrative, with puruṣaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "adas Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "puruṣaḥ",
+   "surface_in_sandhi": "puruṣaḥ",
+   "lemma": "puruṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate/head of the relative clause; the commentary locates him in the solar disk and gives traditional derivations of puruṣa.",
+   "verification": {
+    "status": "pass",
+    "detail": "puruṣa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saḥ",
+   "surface_in_sandhi": "so",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular correlative to yaḥ: “he/that one.”",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "aham",
+   "surface_in_sandhi": "'ham",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First-person nominative singular pronoun. Masculine linga is supplied for a checkable subanta analysis in context of the masculine puruṣa with whom the speaker identifies; the form aham itself is common to speakers of any gender.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "asmi",
+   "surface_in_sandhi": "asmi",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "First-person singular present of “be.”",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lat/Uttama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate as “O Pūṣan (nourisher), O ekarṣi (sole traverser), O Yama (restrainer), O Sūrya, O Prājāpatya (offspring of Prajāpati),” not as unrelated deities or as a separate “one sage.”",
+   "options_considered": [
+    "several distinct deities are invoked",
+    "ekarṣi means simply “one sage/seer”",
+    "the names are solar vocatives with commentary-specific etymologies"
+   ],
+   "chosen": "The opening five forms are vocatives to the one solar deity, each rendered by Śaṅkara’s etymological sense.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "he pūṣan! jagataḥ poṣaṇātpūṣā ravistathaika eva ṛṣati gacchati ityekarṣiḥ-- he ekarṣe! tathā sarvasya saṃyamanādyamaḥ-- he yama! tathā raśmīnāṃ prāṇānāṃ rasānāñca svīkaraṇāt sūryaḥ-- he sūrya! prajāpaterapatyaṃ prājāpatyaḥ-- he prājāpatya!",
+     "translation": "“O Pūṣan: because he nourishes the world he is Pūṣan, the Sun. Likewise, because he alone moves/goes, he is ekarṣi—O ekarṣi. Likewise, because of restraining all, he is Yama—O Yama. Likewise, because of taking in rays, vital breaths, and essences, he is Sūrya—O Sūrya. The offspring of Prajāpati is Prājāpatya—O Prājāpatya.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Take raśmīn as the accusative object of the imperative vyūha, with vyūha in the sense of vigamaya, “make depart/remove,” rather than “arrange” or “marshal.”",
+   "options_considered": [
+    "arrange the rays",
+    "spread out the rays",
+    "remove/disperse your own rays"
+   ],
+   "chosen": "vyūha raśmīn means “disperse/remove your own rays.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vyūha vigamaya raśmīnsvān",
+     "translation": "“Disperse—make go away—your own rays.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Take tejaḥ as neuter accusative singular, the object of samūha; the commentary glosses samūha by ekīkuru and apparently by upasaṃhara, and defines tejas as heat-making light. The transmitted line is under-segmented around upasaṃharate tejastāpakaṃ, so the segmentation is noted rather than silently normalized.",
+   "options_considered": [
+    "make a heap of splendor",
+    "collect the rays",
+    "withdraw/contract the scorching brilliance"
+   ],
+   "chosen": "samūha tejaḥ means “draw together/withdraw the burning light.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "samūha ekīkuru upasaṃharate tejastāpakaṃ jyotiḥ",
+     "translation": "“Samūha: make one/collect; withdraw your heat-making light.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Render kalyāṇatamam according to the gloss atyantaśobhanam, and construe te as genitive (“of yours/your own”), not as an unrelated dative.",
+   "options_considered": [
+    "kalyāṇatama as merely morally good",
+    "te as dative “for you”",
+    "the most auspicious/beautiful form of yours, seen by your favor"
+   ],
+   "chosen": "The “form” is the sun’s most auspicious/beautiful form, beheld through his own favor.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "yatte tava rūpaṃ kalyāṇatamam atyantaśobhanaṃ tatte tavātmanaḥ prasādāt paśyāmi",
+     "translation": "“That form of yours which is kalyāṇatama, exceedingly beautiful, that I behold through the favor of your own self.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Translate puruṣa as “person (puruṣa)” with the solar location supplied by the commentary; Śaṅkara supports the term by person-shapedness and by the traditional “lying in the city” derivation.",
+   "options_considered": [
+    "an ordinary man",
+    "the visible physical sun only",
+    "the person in the solar disk"
+   ],
+   "chosen": "puruṣaḥ is the yonder person in the solar disk, not a generic human being.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yo 'sāvādityamaṇḍalastho",
+     "translation": "“Who is yonder, situated in the solar disk.”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "puruṣaḥ puruṣākāratvāt",
+     "translation": "“He is puruṣa because he has the form of a person.”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "puri śayanādvā puruṣaḥ",
+     "translation": "“Or he is puruṣa because he lies in the city.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Do not read the speaker as merely begging a favor like a servant; the commentary explicitly rejects that framing before glossing so 'ham asmi by bhavāmi.",
+   "options_considered": [
+    "a servant’s prayer for a vision only",
+    "a future transformation only",
+    "an assertion of identity with that puruṣa"
+   ],
+   "chosen": "so 'ham asmi is an identity assertion: “that am I / I am he.”",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "kiñcāhaṃ na tu tvāṃ bhṛtyavadyāce",
+     "translation": "“Moreover, I do not beg you like a servant.”"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "so 'hamasmi bhavāmi",
+     "translation": "“That I am; I am/become that.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "O Pūṣan (nourisher), O ekarṣi (sole traverser), O Yama (restrainer), O Sūrya, O Prājāpatya (offspring of Prajāpati):\ndisperse your rays; draw together your scorching brilliance.\nThat form of yours which is most auspiciously beautiful—through your own favor—I behold.\nThat person (puruṣa) who is yonder, yonder in the solar disk: that am I.",
+ "one_shot_delta": [
+  "A commentary-blind rendering would likely translate ekarṣi as “one seer/sage”; Śaṅkara instead derives it from eka eva ṛṣati gacchati, “he alone goes.”",
+  "It might take vyūha as “arrange” the rays; the bhāṣya gloss vigamaya requires “disperse/remove.”",
+  "It might miss that tejaḥ is the accusative object of samūha and that the phrase means withdrawing the scorching light, not praising splendor in general.",
+  "It might take the final puruṣa as an ordinary “man”; the commentary locates him in the solar disk and reads the conclusion as identity, not mere servile petition."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 split ekarṣe into eka + ṛṣe; the printed mūla and the commentary’s “ityekarṣiḥ-- he ekarṣe” show a single vocative singular stem ekarṣi.",
+  "ByT5 gives prefixed verbal lemmas vyūh and samūh; following the required format, these are recorded as bare root ūh with prefixes vi and sam.",
+  "For tejaḥ I specify accusative singular, not merely the ambiguous neuter singular form, because the commentary glosses it as the object of samūha/upasaṃhara in line 2.",
+  "For both occurrences of te I specify genitive singular, following Śaṅkara’s gloss tava/tavātmanaḥ in line 3."
+ ],
+ "open_questions": [
+  "Line 2 appears under-segmented: upasaṃharate tejastāpakaṃ is best read through the surface noise as upasaṃhara te tejas tāpakaṃ jyotiḥ; the apparatus cites the transmitted wording and flags the issue.",
+  "Line 4 contains unproofread-looking forms such as vyāhṛtyavayavaḥ and prāṇabuddhayātmanā; they are not needed for the core translation, so I rely only on the clear portions about the solar disk, puruṣa, and so 'ham asmi."
+ ],
+ "verification_summary": {
+  "pass": 23,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 17710,
+   "completion_tokens": 21021,
+   "reasoning_tokens": 12289
+  },
+  "est_cost": 0.3684,
+  "reverified": true
+ },
+ "mula": "pūṣann ekarṣe yama sūrya prājāpatya vyūha raśmīn samūha tejaḥ | yat te rūpaṃ kalyāṇatamaṃ tat te paśyāmi yo 'sāv asau puruṣaḥ so 'ham asmi",
+ "commentary_lines": [
+  "he pūṣan! jagataḥ poṣaṇātpūṣā ravistathaika eva ṛṣati gacchati ityekarṣiḥ-- he ekarṣe! tathā sarvasya saṃyamanādyamaḥ-- he yama! tathā raśmīnāṃ prāṇānāṃ rasānāñca svīkaraṇāt sūryaḥ-- he sūrya! prajāpaterapatyaṃ prājāpatyaḥ-- he prājāpatya! vyūha vigamaya raśmīnsvān /",
+  "samūha ekīkuru upasaṃharate tejastāpakaṃ jyotiḥ /",
+  "yatte tava rūpaṃ kalyāṇatamam atyantaśobhanaṃ tatte tavātmanaḥ prasādāt paśyāmi /",
+  "kiñcāhaṃ na tu tvāṃ bhṛtyavadyāce yo 'sāvādityamaṇḍalastho vyāhṛtyavayavaḥ puruṣaḥ puruṣākāratvātpūrṇaṃ vānena prāṇabuddhayātmanā jagatsamastamiti puruṣaḥ puri śayanādvā puruṣaḥ so 'hamasmi bhavāmi"
+ ]
+}

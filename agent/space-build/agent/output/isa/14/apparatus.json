@@ -1,0 +1,498 @@
+{
+ "unit": "14",
+ "analysis": [
+  {
+   "surface": "saṃbhūtim",
+   "surface_in_sandhi": "saṃbhūtiṃ",
+   "lemma": "sambhūti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Morphology is of the printed form sambhūti/saṃbhūti. Śaṅkara construes the intended sense as asambhūti by a-varṇa-lopa; see J1.",
+   "verification": {
+    "status": "pass",
+    "detail": "sambhūti Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vināśam",
+   "surface_in_sandhi": "vināśaṃ",
+   "lemma": "vināśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara takes vināśa not as abstract destruction alone, but as the perishable effect/dharmin named from its property of destruction; see J2.",
+   "verification": {
+    "status": "pass",
+    "detail": "vināśa Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yas",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun, subject of veda.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter accusative singular with ubhayam: ‘that pair/both’.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "veda",
+   "surface_in_sandhi": "vedo",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Pāṇinianly treated here as Laṭ/present in sense, ‘knows’. The form is perfect-like, but a regular Liṭ analysis of √vid yields forms such as viveda; the earlier Liṭ claim is therefore not used.",
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ubhayam",
+   "surface_in_sandhi": "bhayaṃ",
+   "lemma": "ubhaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object-complement to tad: ‘both’. Its initial u is coalesced with final -a of veda in vedobhayaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "ubhaya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial: ‘together’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vināśena",
+   "surface_in_sandhi": "vināśena",
+   "lemma": "vināśa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental construed by Śaṅkara as ‘by its worship’, specifically Hiraṇyagarbha-upāsana; see J2.",
+   "verification": {
+    "status": "pass",
+    "detail": "vināśa Pum/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "mṛtyum",
+   "surface_in_sandhi": "mṛtyuṃ",
+   "lemma": "mṛtyu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara specifies this ‘death’ as non-lordship and defects such as adharma and desire; see J3.",
+   "verification": {
+    "status": "pass",
+    "detail": "mṛtyu Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tīrtvā",
+   "surface_in_sandhi": "tīrtvā",
+   "lemma": "tṝ",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "tṝ",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive in -tvā: ‘having crossed/passed beyond’; Śaṅkara glosses with atītya, see J3.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "saṃbhūtyā",
+   "surface_in_sandhi": "saṃbhūtyā",
+   "lemma": "sambhūti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Morphology is of the printed saṃbhūtyā. Śaṅkara explicitly construes the sense as asambhūtyā, ‘by worship of the unmanifest’; see J1.",
+   "verification": {
+    "status": "pass",
+    "detail": "sambhūti Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "amṛtam",
+   "surface_in_sandhi": "mṛtam",
+   "lemma": "amṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized neuter object of aśnute. Śaṅkara limits its sense here to prakṛtilaya, dissolution into prakṛti; see J4. Initial a is absorbed in saṃbhūtyāmṛtam.",
+   "verification": {
+    "status": "pass",
+    "detail": "amṛta Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "aśnute",
+   "surface_in_sandhi": "aśnute",
+   "lemma": "aś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "aś",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada present, ‘attains/enjoys’ here, not physical eating; see J4.",
+   "verification": {
+    "status": "pass",
+    "detail": "aś Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate the term as ‘asambhūti, the unmanifest’, while recording the printed morphology as sambhūti. This is not a generic ‘birth/production’ here.",
+   "options_considered": [
+    "Literal sambhūti as birth, production, manifestation",
+    "Śaṅkara’s asambhūti as the unmanifest/avyākṛta, reached by reading a-varṇa-lopa"
+   ],
+   "chosen": "The two printed forms saṃbhūtim/saṃbhūtyā are understood, in Śaṅkara’s interpretation, as asambhūtim/asambhūtyā: the unmanifest, the avyākṛta, and its worship.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sambhūtiṃ ca vināśaṃ cetyatrāvarṇalopena nirdeśo draṣṭavyaḥ prakṛtilayaphalaśrutyanurodhāt",
+     "translation": "In the expression ‘sambhūtiṃ ca vināśaṃ ca’, the statement is to be seen as made with elision of the vowel a, because that agrees with the scriptural statement of a fruit consisting in dissolution into prakṛti."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "asambhūtyā avyākṛtopāsanayā amṛtaṃ prakṛtilayalakṣaṇamaśnute",
+     "translation": "By asambhūti, that is, by worship of the unmanifest, he attains the deathless, whose mark is dissolution into prakṛti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Do not translate vināśena as ‘by destruction’ in the abstract. In Śaṅkara’s construal, the thing called vināśa is the kārya whose property is destruction; the instrumental is upāsanā-instrumental.",
+   "options_considered": [
+    "vināśa as sheer destruction/annihilation",
+    "vināśa as the perishable effect named from its destructibility",
+    "vināśena as a bare instrumental ‘by destruction’",
+    "vināśena as ‘by its upāsana’, specifically Hiraṇyagarbha-upāsana"
+   ],
+   "chosen": "vināśa denotes the perishable effect/dharmin, and vināśena means ‘by worship of that’, identified in the commentary with Hiraṇyagarbha-upāsana.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vināśo dharmo yasya kāryasya sa tena dharmiṇā abhedena ucyate vināśa iti, tena tadupāsanena",
+     "translation": "The effect whose property is destruction is, by non-difference from the possessor of that property, called ‘vināśa’; by that, by worship of it..."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "hiraṇyagarbhopāsanenāpti hyāṇimādiprāptiḥ phalam",
+     "translation": "The line is unproofread here; understood in the standard segmentation as ‘by worship of Hiraṇyagarbha, indeed, attainment of aṇimā and the like is the fruit.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Translate mṛtyu as ‘death’ but make clear from the commentary that ordinary biological death is not the whole sense here. The crossing is an overcoming of anaiśvarya and related defects.",
+   "options_considered": [
+    "mṛtyu as ordinary physical death only",
+    "mṛtyu as limitation/non-lordship and defect-born mortality in Śaṅkara’s gloss",
+    "tīrtvā as merely ‘swimming across’",
+    "tīrtvā as ‘having passed beyond/overcome’"
+   ],
+   "chosen": "mṛtyu is the state of non-lordship and defect-born limitation; tīrtvā means ‘having passed beyond’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "anaiśvaryamadharmakāmādidoṣajātaṃ ca mṛtyuṃ tīrtvā",
+     "translation": "Having crossed death consisting in non-lordship and the mass of defects such as adharma and desire..."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "tenānaiśvaryādimṛtyumatītya",
+     "translation": "Thereby having passed beyond death such as non-lordship..."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Do not read amṛtam here as unqualified final liberation. Śaṅkara glosses it as a specific result: dissolution into prakṛti through worship of the unmanifest.",
+   "options_considered": [
+    "amṛtam as absolute immortality/final mokṣa without qualification",
+    "amṛtam as Śaṅkara’s prakṛtilaya-lakṣaṇa result",
+    "aśnute as literal eating/consuming",
+    "aśnute as attaining or enjoying a result"
+   ],
+   "chosen": "amṛtam is the fruit characterized as prakṛti-laya; aśnute is ‘attains/enjoys’.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "asambhūtyā avyākṛtopāsanayā amṛtaṃ prakṛtilayalakṣaṇamaśnute",
+     "translation": "By asambhūti, by worship of the unmanifest, he attains the deathless, marked by dissolution into prakṛti."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "prakṛtilayaphalaśrutyanurodhāt",
+     "translation": "Because it accords with the scriptural statement of the fruit as dissolution into prakṛti."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The relative yaḥ is the subject of veda; tad ubhayam is the neuter accusative object summarizing the two preceding accusatives; saha is adverbial ‘together’.",
+   "options_considered": [
+    "tad as an independent adverb with no relation to ubhayam",
+    "tad ubhayam as a neuter accusative object phrase governed by veda",
+    "saha as a postposition governing an instrumental",
+    "saha as adverbial ‘together’"
+   ],
+   "chosen": "yas ... tad ubhayam saha veda is construed as ‘who knows that pair, both together’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "He who knows that pair together—\nasambhūti, the unmanifest (the text’s saṃbhūti read with a-elision), and vināśa, the perishable effect—\nhaving crossed death (mṛtyu) by vināśa, that is, by its worship,\nattains the deathless (amṛta), the state marked by dissolution into prakṛti, by asambhūti.",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely render saṃbhūti as ‘birth/production/manifestation’; Śaṅkara instead reads it as asambhūti, the unmanifest, through a-varṇa-lopa.",
+  "It might take vināśena as ‘by destruction’; Śaṅkara takes vināśa as the perishable effect and the instrumental as referring to its worship, specifically Hiraṇyagarbha-upāsana.",
+  "It might translate amṛtam as unrestricted immortality or final liberation; Śaṅkara glosses it as prakṛtilaya, dissolution into prakṛti.",
+  "It might take mṛtyu as ordinary death alone; Śaṅkara identifies it with anaiśvarya and defect-born limitation such as adharma and kāma."
+ ],
+ "analyzer_disagreements": [
+  "saṃbhūtim and saṃbhūtyā: ByT5’s morphological lemma sambhūti is retained for the printed form, but the translation follows Śaṅkara’s semantic construal as asambhūti by a-varṇa-lopa (J1).",
+  "tīrtvā: ByT5 gives root tṛ; I analyze the absolutive as from √tṝ ‘cross/pass beyond’, confirmed by Śaṅkara’s atītya in line 1."
+ ],
+ "open_questions": [
+  "Commentary line 1 is visibly unproofread around ‘hiraṇyagarbhopāsanenāpti hyāṇimādiprāptiḥ’; I cite it verbatim but understand it in the standard sense ‘hiraṇyagarbhopāsanena hy aṇimādiprāptiḥ phalam’. The suspected surface corruption is not used as an independent doctrinal claim."
+ ],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13044,
+   "completion_tokens": 22754,
+   "reasoning_tokens": 15729
+  },
+  "est_cost": 0.3804,
+  "reverified": true
+ },
+ "mula": "saṃbhūtiṃ ca vināśaṃ ca yas tad vedobhayaṃ saha | vināśena mṛtyuṃ tīrtvā saṃbhūtyāmṛtam aśnute",
+ "commentary_lines": [
+  "sambhūtiṃ ca vināśaṃ ca yastadvedobhayaṃ saha vināśo dharmo yasya kāryasya sa tena dharmiṇā abhedena ucyate vināśa iti, tena tadupāsanenānaiśvaryamadharmakāmādidoṣajātaṃ ca mṛtyuṃ tīrtvā-- hiraṇyagarbhopāsanenāpti hyāṇimādiprāptiḥ phalam, tenānaiśvaryādimṛtyumatītya asambhūtyā avyākṛtopāsanayā amṛtaṃ prakṛtilayalakṣaṇamaśnute /",
+  "sambhūtiṃ ca vināśaṃ cetyatrāvarṇalopena nirdeśo draṣṭavyaḥ prakṛtilayaphalaśrutyanurodhāt"
+ ]
+}

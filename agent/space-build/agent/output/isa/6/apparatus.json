@@ -1,0 +1,511 @@
+{
+ "unit": "6",
+ "analysis": [
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yas",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun; Śaṅkara identifies its referent as a renunciant seeker of liberation (J1).",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tu",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Contrastive/enclitic particle, “but.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sarvāṇi",
+   "surface_in_sandhi": "sarvāṇi",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative plural neuter agreeing with bhūtāni.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "bhūtāni",
+   "surface_in_sandhi": "bhūtāny",
+   "lemma": "bhūta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of anupaśyati with sarvāṇi; Śaṅkara scopes it as beings from the unmanifest through the immobile (J2).",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūta Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ātmani",
+   "surface_in_sandhi": "ātmany",
+   "lemma": "ātman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular; not merely spatial, since Śaṅkara glosses it as not seeing beings as different from the Self (J3).",
+   "verification": {
+    "status": "pass",
+    "detail": "ātman Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evā",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Restrictive: “alone/only,” attached to ātmani in the commentary’s construal (J3).",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anupaśyati",
+   "surface_in_sandhi": "ānupaśyati",
+   "lemma": "dṛś",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dṛś",
+    "prefixes": [
+     "anu"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present active 3rd singular from √dṛś with prefix anu, with paśya- as the present stem; the second-pāda object ātmānam shares this verb.",
+   "verification": {
+    "status": "pass",
+    "detail": "anu-dṛś Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvabhūteṣu",
+   "surface_in_sandhi": "sarvabhūteṣu",
+   "lemma": "sarvabhūta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "karmadharaya",
+    "vigraha": "sarvāṇi ca tāni bhūtāni",
+    "members": [
+     "sarva",
+     "bhūta"
+    ]
+   },
+   "note": "Locative plural compound, construed by Śaṅkara as “in those very beings” already referred to by sarvāṇi bhūtāni (J4, J8).",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sarvabhūta as Napumsaka/Saptami/Bahu: pass; relation karmadharaya: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Connects the second seeing with the first: “and.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ātmānam",
+   "surface_in_sandhi": "ātmānaṃ",
+   "lemma": "ātman",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative singular object of the supplied anupaśyati in the second construction; Śaṅkara takes it as the same undifferentiated Self in all beings (J4).",
+   "verification": {
+    "status": "pass",
+    "detail": "ātman Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tataḥ",
+   "surface_in_sandhi": "tato",
+   "lemma": "tatas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival adverb: Śaṅkara glosses it as “from/because of that very seeing” (J5).",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negation of vijugupsate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijugupsate",
+   "surface_in_sandhi": "vijugupsate",
+   "lemma": "gup",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "gup",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Desiderative present middle in form, here lexicalized as “loathe/shrink from”; Śaṅkara fixes the sense as ghṛṇāṃ na karoti, “does not feel loathing” (J6). No separate schema field is available for desiderative/san.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-gup Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The translation therefore makes the implicit subject explicit as “the renunciant seeker of liberation,” not merely an indefinite “whoever.”",
+   "options_considered": [
+    "plain indefinite: “whoever”",
+    "contextually specified subject: “the renunciant seeker of liberation who”]},{"
+   ],
+   "chosen": "yaḥ refers, in Śaṅkara’s construal, to a parivrāj mumukṣu, a renunciant seeker of liberation.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "yaḥ parivrāḍ mumukṣuḥ",
+     "translation": "“The one who” is a wandering renunciant, a seeker of liberation."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The commentary prevents narrowing bhūtāni to only living creatures in an ordinary sense; it covers the whole range “from the unmanifest down to the immobile.”",
+   "options_considered": [
+    "ordinary living creatures only",
+    "all beings/entities from the unmanifest to the immobile"
+   ],
+   "chosen": "sarvāṇi bhūtāni means all beings without restriction, from avyakta through sthāvara.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvāṇi bhūtānyavyaktādīni sthāvarāntāni",
+     "translation": "All beings: beginning with the unmanifest and ending with the immovable."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "“Sees all beings in the Self alone” is translated with “alone” and interpreted as seeing no being as other than the Self.",
+   "options_considered": [
+    "spatial/container sense: beings located inside the self",
+    "identity/non-difference sense: beings not seen as apart from the Self"
+   ],
+   "chosen": "ātmani eva is read as non-difference from the Self, not as a merely spatial location “inside oneself.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ātmanyevānupaśyatyātmavyatiriktāni na paśyatītyarthaḥ",
+     "translation": "He sees [them] in the Self alone; the meaning is that he does not see them as different from the Self."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The second construction is not a claim about many separate individual selves; Śaṅkara states that the same own Self is seen as the Self of all beings, nirviśeṣa, without distinction.",
+   "options_considered": [
+    "the individual self placed among many beings",
+    "the same undifferentiated Self as the Self of all beings"
+   ],
+   "chosen": "sarvabhūteṣu cātmānam means seeing one’s own Self as the Self of those very beings, the undifferentiated Self in all.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sarvabhūteṣu ca teṣveva cātmānaṃ teṣām api bhūtānāṃ svamātmānamātmatvena",
+     "translation": "And in all beings, in those very ones, [he sees] the Self, his own Self, as the Self also of those beings."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avyaktādīnāṃ sthāvarāntānāmahamevātmeti sarvabhūteṣu cātmānaṃ nirviśeṣaṃ",
+     "translation": "“I alone am the Self of the beings from the unmanifest to the immovable”; [he sees] the Self in all beings as without distinction."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The final clause is rendered “from that very seeing,” not merely temporal “then.”",
+   "options_considered": [
+    "temporal: “then”",
+    "causal/ablatival: “from that very vision”]},{"
+   ],
+   "chosen": "tataḥ is causal/ablatival: “from/because of that very seeing.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sa tatastasmādeva darśanānna vijugupsate",
+     "translation": "He, therefore—from that very seeing—does not feel loathing."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The translation avoids meanings from √gup such as “protect/hide” and renders the lexicalized desiderative according to Śaṅkara’s gloss ghṛṇā.",
+   "options_considered": [
+    "“protects/hides himself” from vi-√gup",
+    "“shrinks from/loathes,” here negated"
+   ],
+   "chosen": "vijugupsate means “feels loathing/revulsion,” negated here.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vijugupsāṃ ghṛṇāṃ na karoti",
+     "translation": "He does not perform/feel vijugupsā, loathing."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "sarvā hi ghṛṇātmano 'nyadduṣṭaṃ paśyato bhavati",
+     "translation": "All loathing belongs to one who sees something other than the Self as foul."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "ātmānamevātyantaviśuddhaṃ nirantaraṃ paśyato na ghṛṇānimittam arthāntaramastīti",
+     "translation": "For one seeing the Self alone as utterly pure and unbroken, there is no other thing that could be an occasion for loathing."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "“He does not feel loathing” is kept as present indicative consequence; it is not translated “he should not loathe.”",
+   "options_considered": [
+    "injunctive/prohibitive force: “he should not loathe”",
+    "descriptive/resultative force: “he does not feel loathing"
+   ],
+   "chosen": "The last clause is descriptive consequence, not a fresh prohibition or injunction.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "prāptasyaivānuvādo 'yam",
+     "translation": "This is merely a restatement of what has already been obtained/entailed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "The compound is analyzed grammatically as sarvāṇi ca tāni bhūtāni, with the whole compound stem sarvabhūta inflected in the locative plural neuter.",
+   "options_considered": [
+    "karmadhāraya: “all beings”",
+    "ṣaṣṭhī-tatpuruṣa: “beings of all”",
+    "bahuvrīhi: “having all beings”]},{"
+   ],
+   "chosen": "sarvabhūteṣu is a locative plural karmadhāraya compound, sarvabhūta-: “all beings.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "But the renunciant seeker of liberation (parivrāj mumukṣu) who sees all beings in the Self (ātman) alone, and the Self in all beings—from that very seeing he does not feel loathing.",
+ "one_shot_delta": [
+  "A commentary-blind translation might take ātmany as a literal location “inside oneself”; Śaṅkara says it means not seeing beings as different from the Self.",
+  "It might take ātmānam in all beings as a plurality of individual selves; Śaṅkara insists on one’s own Self as the undifferentiated Self of all beings.",
+  "It might render tato simply as “then”; the commentary glosses it as tasmād eva darśanāt, “from/because of that very seeing.”",
+  "It might mistranslate vijugupsate from √gup as “protects/hides,” or suppose that the knower merely refrains from despising the beings; Śaṅkara glosses it as absence of ghṛṇā, loathing, because no non-Self object remains.",
+  "It might read the final clause as a moral injunction; Śaṅkara calls it an anuvāda, a restatement of what is already entailed."
+ ],
+ "analyzer_disagreements": [
+  "The tagger splits sarva_bhūteṣu; I treat sarvabhūteṣu as one inflected compound stem sarvabhūta, locative plural neuter, with samāsa analysis supplied.",
+  "The tagger lemmatizes anupaśyati as anupaś; Pāṇinian verification rejects anu-√paś for this form, so I analyze anupaśyati as from root √dṛś with prefix anu, yielding the paśya- present stem.",
+  "The tagger lemmatizes vijugupsate as vijugups; I analyze it as vi + desiderative of root gup, while retaining present 3rd singular Kartari semantics. The commentary supports the lexical sense “loathe.”",
+  "The tagger’s tatas segmentation is normalized to pausal surface tataḥ and printed sandhi tato before na."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 13,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12646,
+   "completion_tokens": 20702,
+   "reasoning_tokens": 13823
+  },
+  "est_cost": 0.3485,
+  "reverified": true
+ },
+ "mula": "yas tu sarvāṇi bhūtāny ātmany evānupaśyati | sarvabhūteṣu cātmānaṃ tato na vijugupsate",
+ "commentary_lines": [
+  "yaḥ parivrāḍ mumukṣuḥ sarvāṇi bhūtānyavyaktādīni sthāvarāntāni ātmanyevānupaśyatyātmavyatiriktāni na paśyatītyarthaḥ, sarvabhūteṣu ca teṣveva cātmānaṃ teṣām api bhūtānāṃ svamātmānamātmatvena yathāsya dehasya kāryakaraṇasaṅdhātasyātmā ahaṃ sarvapratyayasākṣibhūtaścetayitā kevalo nirguṇo 'nenaiva svarūpeṇāvyaktādīnāṃ sthāvarāntānāmahamevātmeti sarvabhūteṣu cātmānaṃ nirviśeṣaṃ yastvanupaśyati sa tatastasmādeva darśanānna vijugupsate vijugupsāṃ ghṛṇāṃ na karoti /",
+  "prāptasyaivānuvādo 'yam /",
+  "sarvā hi ghṛṇātmano 'nyadduṣṭaṃ paśyato bhavati, ātmānamevātyantaviśuddhaṃ nirantaraṃ paśyato na ghṛṇānimittam arthāntaramastīti prāptameva /",
+  "tato na vijugupsata iti"
+ ]
+}

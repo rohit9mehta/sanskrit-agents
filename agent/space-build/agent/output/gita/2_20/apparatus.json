@@ -1,0 +1,693 @@
+{
+ "unit": "2.20",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates jāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "jāyate",
+   "surface_in_sandhi": "jāyate",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jan",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Intransitive present, ‘is born/arises’; Śaṅkara glosses notpadyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "jan Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "mriyate",
+   "surface_in_sandhi": "mriyate",
+   "lemma": "mṛ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "mṛ",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Intransitive middle present, ‘dies’.",
+   "verification": {
+    "status": "pass",
+    "detail": "mṛ Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here not disjunctive ‘or’ but cārtha, ‘and/also’, according to Śaṅkara.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kadācit",
+   "surface_in_sandhi": "kadācin",
+   "lemma": "kadācit",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara says it is connected with all denials of modification.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "avyaya not in kosha or MW"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nāyaṃ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sandhied with ayam as nāyaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "nāyaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular pronoun referring to the ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhūtvā",
+   "surface_in_sandhi": "bhūtvā",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive/gerund from √bhū: ‘having been / having come to be’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhavitā",
+   "surface_in_sandhi": "bhavitā",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lut",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Periphrastic future 3rd singular: ‘will be / will come to be’; Śaṅkara’s gloss uses the parallel agent-future gantā.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhū Lut/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "vā",
+   "surface_in_sandhi": "vā",
+   "lemma": "vā",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Used by Śaṅkara to supply the alternative abhūtvā vā bhavitā.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates the future-being construction in the double denial explained by Śaṅkara.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhūyaḥ",
+   "surface_in_sandhi": "bhūyaḥ",
+   "lemma": "bhūyas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial ‘again’; Śaṅkara glosses with punaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ajaḥ",
+   "surface_in_sandhi": "ajo",
+   "lemma": "aja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na jātaḥ / na jāyate iti",
+    "members": [
+     "a",
+     "ja"
+    ]
+   },
+   "note": "‘Unborn’; Śaṅkara derives it from the denial of jāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem aja as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "nityaḥ",
+   "surface_in_sandhi": "nityaḥ",
+   "lemma": "nitya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "‘Eternal’; Śaṅkara derives it from the denial of mriyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "nitya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śāśvataḥ",
+   "surface_in_sandhi": "śāśvato",
+   "lemma": "śāśvata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara takes this as denying decay/decline, apakṣaya.",
+   "verification": {
+    "status": "pass",
+    "detail": "śāśvata Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular pronoun; again refers to the ātmā.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "purāṇaḥ",
+   "surface_in_sandhi": "purāṇo",
+   "lemma": "purāṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Not merely ‘old/worn out’: Śaṅkara explains purāpi nava eva, denying growth/increase.",
+   "verification": {
+    "status": "pass",
+    "detail": "purāṇa Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates the passive verb hanyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hanyate",
+   "surface_in_sandhi": "hanyate",
+   "lemma": "han",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "han",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive present, but Śaṅkara states that √han is to be understood here in the sense of vipariṇāma, ‘transformation’, not literal killing.",
+   "verification": {
+    "status": "pass",
+    "detail": "han Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "hanyamāne",
+   "surface_in_sandhi": "hanyamāne",
+   "lemma": "hanyamāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular neuter present passive participle from √han, agreeing with śarīre; with śarīre forms a locative absolute.",
+   "verification": {
+    "status": "pass",
+    "detail": "hanyamāna Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "śarīre",
+   "surface_in_sandhi": "śarīre",
+   "lemma": "śarīra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: ‘when/in the body’; part of the locative absolute hanyamāne śarīre.",
+   "verification": {
+    "status": "pass",
+    "detail": "śarīra Napumsaka/Saptami/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The verse’s masculine pronoun is not taken as the body or the empirical person; Śaṅkara repeatedly identifies the subject as ayam ātmā and says all worldly transformations are denied in the ātmā.",
+   "options_considered": [
+    "ayam as a merely deictic ‘this one’ without identifying the referent",
+    "ayam as the body or embodied empirical person",
+    "ayam as the ātmā taught in the preceding context"
+   ],
+   "chosen": "ayam refers to the ātmā, so the translation says ‘this Self (ātman)’.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "yasmāt ayam ātmā bhūtvā bhavana-kriyām anubhūya paścāt abhavitā abhāvaṃ gantā na bhūyaḥ punaḥ, tasmāt na mriyate |",
+     "translation": "Because this is ‘this ātman’, Śaṅkara identifies the subject of the clause as the Self."
+    },
+    {
+     "lines": [
+      26,
+      27
+     ],
+     "quote": "asmin mantre ṣaḍ-bhāva-vikārā laukika-vastu-vikriyā ātmani pratiṣidhyante |\nsarva-prakāra-vikriyā-rahita ātmā iti vākyārthaḥ |",
+     "translation": "In this mantra the six modes of worldly change are denied in the ātman; the sentence-meaning is that the ātman is free from every kind of transformation."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The first vā is rendered conjunctively, not as a genuine alternative ‘or’; kadācit is construed with the denials of birth and death, indeed with the denials of all transformations.",
+   "options_considered": [
+    "vā as disjunctive ‘or’",
+    "vā as conjunctive ‘and/also’",
+    "kadācit modifying only mriyate",
+    "kadācit modifying all denials of transformation"
+   ],
+   "chosen": "‘He is not born, and he does not die, ever.’",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "quote": "na jāyate notpadyate, jani-lakṣaṇā vastu-vikriyā na ātmano vidyate ity arthaḥ |\ntathā na mriyate vā |\nvā-śabdaḥ cārthe |\nna mriyate ca iti antyā vināśa-lakṣaṇā vikriyā pratiṣidhyate |",
+     "translation": "‘He is not born’ means no birth-type modification exists in the Self; likewise he does not die. The word vā has the sense of ca, ‘and’, and the final destruction-type modification is denied."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "kadācic chabdaḥ sarva-vikriyā-pratiṣedhaiḥ saṃbadhyate -- na kadācit jāyate, na kadācit mriyate, ity evam |",
+     "translation": "The word kadācit is connected with all the denials of transformation: never is he born, never does he die, and so on."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compact second pāda is expanded following Śaṅkara into a twofold denial: the Self is not something that, after being, goes to non-being; nor is it like a body, something that, after non-being, comes into being. Bhūyaḥ is taken as ‘again’ (punaḥ).",
+   "options_considered": [
+    "only ‘having been, he will be again’",
+    "only ‘having once existed, he will not exist again’",
+    "a twofold Śaṅkara-style denial of both post-existence non-being and prior-nonbeing-to-being"
+   ],
+   "chosen": "‘Nor, after having been, will this one fail to be again; nor, after not having been, will he come to be again.’",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "yasmāt ayam ātmā bhūtvā bhavana-kriyām anubhūya paścāt abhavitā abhāvaṃ gantā na bhūyaḥ punaḥ, tasmāt na mriyate |",
+     "translation": "Śaṅkara explains the death-denial: the Self is not one that, after having been, later goes to non-existence; bhūyaḥ is glossed as punaḥ, ‘again’."
+    },
+    {
+     "lines": [
+      8,
+      9,
+      10
+     ],
+     "quote": "vā-śabdāt na-śabdāc ca ayam ātmā abhūtvā vā bhavitā dehavat na bhūyaḥ |\ntasmāt na jāyate |\nyo hi abhūtvā bhavitā sa jāyata ity ucyate |",
+     "translation": "From vā and na Śaṅkara also supplies the birth-denial: the Self is not, like a body, one that after not having been will come to be again; one that does so is said to be born."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The adjectives are not mere epithets. Śaṅkara correlates them with the denial of specific bhāva-vikāras: birth, death, decline, and growth. Purāṇa therefore cannot mean ‘old/worn out’ in the ordinary sense; it is ‘old’ while remaining ever new, because the partless Self does not increase.",
+   "options_considered": [
+    "purāṇa as simply ‘old’ or ‘worn out’",
+    "śāśvata as a generic synonym of nitya only",
+    "the adjectives as technical denials of specific transformations"
+   ],
+   "chosen": "ajaḥ, nityaḥ, śāśvataḥ, purāṇaḥ are rendered as ‘unborn, eternal, undecaying, ancient-yet-ever-new’.",
+   "evidence": [
+    {
+     "lines": [
+      13
+     ],
+     "quote": "yasmād evaṃ tasmāt ajaḥ, yasmāt na mriyate tasmāt nityaś ca |",
+     "translation": "Because the Self is not born, it is ajaḥ; because it does not die, it is nityaḥ."
+    },
+    {
+     "lines": [
+      14,
+      15,
+      16,
+      17,
+      18
+     ],
+     "quote": "yadyapi ādy-antayor vikriyayoḥ pratiṣedhe sarvā vikriyāḥ pratiṣiddhā bhavanti, tathāpi madhya-bhāvinīnāṃ vikriyāṇāṃ sva-śabdair eva pratiṣedhaḥ kartavyo 'nuktānām api yauvanādi-samasta-vikriyāṇāṃ pratiṣedho yathā syāt ity āha-- śāśvata ity ādinā |\nśāśvata iti apakṣaya-lakṣaṇā vikriyā pratiṣidhyate |\nśaśvad-bhavaḥ śāśvataḥ |\nna apakṣīyate svarūpeṇa, niravayavatvāt |\nnāpi guṇa-kṣayeṇa apakṣayaḥ, nirguṇatvāt |",
+     "translation": "Although denying beginning and end already denies all transformations, the middle transformations are denied by their own words. Śāśvata denies the transformation called decline; the Self does not decline in its own nature or through loss of qualities."
+    },
+    {
+     "lines": [
+      19,
+      20,
+      21
+     ],
+     "quote": "apakṣaya-viparītāpi vṛddhi-lakṣaṇā vikriyā pratiṣidhyate --- purāṇa iti |\nyo hi avayavāgamena upacīyate sa vardhate abhinava iti ca ucyate |\nayaṃ tu ātmā niravayavatvāt purāpi nava eveti purāṇaḥ na vardhate ity arthaḥ |",
+     "translation": "Purāṇa denies the opposite of decline, namely growth. What grows by the addition of parts is called new; but this partless Self is even formerly new—purāṇa—and so does not grow."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although the surface verb is from √han, Śaṅkara explicitly says that here √han must be understood in the sense of vipariṇāma in order to avoid repetition after mriyate. The locative absolute therefore means ‘when the body is being transformed’.",
+   "options_considered": [
+    "literal killing/slaying",
+    "destruction identical with mriyate",
+    "vipariṇāma, transformation/change, as Śaṅkara’s intended sense"
+   ],
+   "chosen": "hanyate and hanyamāne are translated by ‘is transformed / being transformed’, not by literal ‘is slain / being slain’.",
+   "evidence": [
+    {
+     "lines": [
+      22,
+      23,
+      24
+     ],
+     "quote": "tathā na hanyate |\nhantiḥ atra vipariṇāmārthe draṣṭavyo 'punaruktatāyai |\nna vipariṇamyate ity arthaḥ |",
+     "translation": "Similarly, ‘he is not hanyate’; here han is to be seen as having the meaning of transformation, to avoid repetition. The meaning is: he is not transformed."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "He is not born; he does not die, ever.\nNor, after having been, will this one fail to be again;\nnor, after not having been, will he come to be again.\nUnborn, eternal, undecaying, ancient-yet-ever-new is this Self (ātman);\nhe is not transformed (vipariṇāma) when the body is being transformed.",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely render vā as ‘or’; Śaṅkara says the first vā has the force of ca, ‘and’.",
+  "It might attach kadācit only to ‘dies’; Śaṅkara attaches it to all the denials of transformation.",
+  "It might flatten nāyaṃ bhūtvā bhavitā vā na bhūyaḥ into only one existential claim; Śaṅkara extracts a twofold denial, covering both death as becoming non-existent after being and birth as coming into being after non-being.",
+  "It might translate purāṇa simply as ‘old’; Śaṅkara requires the paradoxical sense ‘ancient yet ever new’, because the partless Self does not grow.",
+  "It would almost certainly translate hanyate/hanyamāne as ‘is slain/when the body is slain’; Śaṅkara explicitly takes √han here as vipariṇāma, ‘transformation’, to avoid repeating the earlier denial of death."
+ ],
+ "analyzer_disagreements": [
+  "mriyate: ByT5 marks Pv; I analyze √mṛ mriyate as an intransitive middle present in Kartari prayoga, ‘dies’, not a passive ‘is died’.",
+  "bhavitā: ByT5’s SFu tag is treated as too broad/misleading for this form; I specify luṭ/periphrastic future 3rd singular, supported by Śaṅkara’s gantā gloss at line 6.",
+  "kadācit: ByT5 segments kadācid; the printed sandhi is kadācin before nāyaṃ, while the pausal/pre-sandhi form required here is kadācit."
+ ],
+ "open_questions": [
+  "Commentary line 25 in the supplied plaintext appears to read śarīrāḥ where the verse and construction require śarīre; I treat this as a plaintext error, not as a meaningful variant."
+ ],
+ "verification_summary": {
+  "pass": 20,
+  "fail": 0,
+  "unsupported": 1,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 6057,
+   "completion_tokens": 17962,
+   "reasoning_tokens": 13307
+  },
+  "est_cost": 0.2876,
+  "reverified": true
+ },
+ "mula": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre",
+ "commentary_lines": [
+  "na jāyate notpadyate, jani-lakṣaṇā vastu-vikriyā na ātmano vidyate ity arthaḥ |",
+  "tathā na mriyate vā |",
+  "vā-śabdaḥ cārthe |",
+  "na mriyate ca iti antyā vināśa-lakṣaṇā vikriyā pratiṣidhyate |",
+  "kadācic chabdaḥ sarva-vikriyā-pratiṣedhaiḥ saṃbadhyate -- na kadācit jāyate, na kadācit mriyate, ity evam |",
+  "yasmāt ayam ātmā bhūtvā bhavana-kriyām anubhūya paścāt abhavitā abhāvaṃ gantā na bhūyaḥ punaḥ, tasmāt na mriyate |",
+  "yo hi bhūtvā na bhavitā sa mriyata ity ucyate lokā |",
+  "vā-śabdāt na-śabdāc ca ayam ātmā abhūtvā vā bhavitā dehavat na bhūyaḥ |",
+  "tasmāt na jāyate |",
+  "yo hi abhūtvā bhavitā sa jāyata ity ucyate |",
+  "naivam ātmā |",
+  "ato na jāyate |",
+  "yasmād evaṃ tasmāt ajaḥ, yasmāt na mriyate tasmāt nityaś ca |",
+  "yadyapi ādy-antayor vikriyayoḥ pratiṣedhe sarvā vikriyāḥ pratiṣiddhā bhavanti, tathāpi madhya-bhāvinīnāṃ vikriyāṇāṃ sva-śabdair eva pratiṣedhaḥ kartavyo 'nuktānām api yauvanādi-samasta-vikriyāṇāṃ pratiṣedho yathā syāt ity āha-- śāśvata ity ādinā |",
+  "śāśvata iti apakṣaya-lakṣaṇā vikriyā pratiṣidhyate |",
+  "śaśvad-bhavaḥ śāśvataḥ |",
+  "na apakṣīyate svarūpeṇa, niravayavatvāt |",
+  "nāpi guṇa-kṣayeṇa apakṣayaḥ, nirguṇatvāt |",
+  "apakṣaya-viparītāpi vṛddhi-lakṣaṇā vikriyā pratiṣidhyate --- purāṇa iti |",
+  "yo hi avayavāgamena upacīyate sa vardhate abhinava iti ca ucyate |",
+  "ayaṃ tu ātmā niravayavatvāt purāpi nava eveti purāṇaḥ na vardhate ity arthaḥ |",
+  "tathā na hanyate |",
+  "hantiḥ atra vipariṇāmārthe draṣṭavyo 'punaruktatāyai |",
+  "na vipariṇamyate ity arthaḥ |",
+  "hanyamāne vipariṇamyamāne 'pi śarīrāḥ |",
+  "asmin mantre ṣaḍ-bhāva-vikārā laukika-vastu-vikriyā ātmani pratiṣidhyante |",
+  "sarva-prakāra-vikriyā-rahita ātmā iti vākyārthaḥ |",
+  "yasmād evaṃ tasmāt ubhau tau na vijānītaḥ iti pūrveṇa mantreṇa asya saṃbandhaḥ ||bhgs_2.20||",
+  "ya enaṃ vetti hantāram ityanena mantreṇa hanana-kriyāyāḥ kartā karma ca na bhavati iti pratijñāya, na jāyate ity anena avikriyatvaṃ hetum uktvā pratijñātārtham upasaṃharati--"
+ ]
+}

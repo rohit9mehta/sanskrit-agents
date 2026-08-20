@@ -1,0 +1,227 @@
+{
+ "unit": "1.45",
+ "analysis": [
+  {
+   "surface": "sūkṣmaviṣayatvam",
+   "surface_in_sandhi": "sūkṣmaviṣayatvaṃ",
+   "lemma": "sūkṣmaviṣayatva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sūkṣmo viṣayo yasya, tasya bhāvaḥ",
+    "members": [
+     "sūkṣma",
+     "viṣaya"
+    ]
+   },
+   "note": "The final -m is restored as the pre-sandhi pausal form; in the printed text it is anusvāra before ca. The -tva abstracts the preceding compound: ‘the condition of having a subtle object’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sūkṣmaviṣayatva as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The vowel is lengthened by savarṇadīrgha with the following initial a- of aliṅga-.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "aliṅgaparyavasānam",
+   "surface_in_sandhi": "liṅgaparyavasānam",
+   "lemma": "aliṅgaparyavasāna",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "aliṅgaṃ paryavasānaṃ yasya tat",
+    "members": [
+     "aliṅga",
+     "paryavasāna"
+    ]
+   },
+   "note": "Predicate to sūkṣmaviṣayatvam. The initial a- is absorbed in the preceding cā- in the printed cāliṅga-.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem aliṅgaparyavasāna as Napumsaka/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The bhāṣya repeatedly explains the relevant relation as ‘X is the subtle object’ of the preceding level. This supports taking sūkṣmaviṣaya as a bahuvrīhi-type expression—‘one whose object is subtle’—abstracted by -tva.",
+   "options_considered": [
+    "sūkṣma-viṣayatva as ‘subtle objecthood’ in the sense of having subtle objects",
+    "sūkṣma-viṣayatva as ‘the subtlety of objects’",
+    "viṣaya as a general ‘territory/domain’ rather than the meditative object"
+   ],
+   "chosen": "sūkṣmaviṣayatva = ‘the condition of having a subtle object’, not merely ‘subtlety of the object-domain’.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "quote": "pārthivasyāṇor gandhatanmātraṃ sūkṣmo viṣayaḥ. āpyasya rasatanmātram. taijasasya rūpatanmātram. vāyavīyasya sparśatanmātram. ākāśasya śabdatanmātram iti. teṣām ahaṃkāraḥ. asyāpi liṅgamātraṃ sūkṣmo viṣayaḥ. liṅgamātrasyāpy aliṅgaṃ sūkṣmo viṣayaḥ.",
+     "translation": "For the earth-atom the smell-tanmātra is the subtle object; for the watery, the taste-tanmātra; for the fiery, the form-tanmātra; for the airy, the touch-tanmātra; for space, the sound-tanmātra. For these, ahaṃkāra; for that too, the liṅga-mātra is the subtle object; and for the liṅga-mātra too, the aliṅga is the subtle object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The bhāṣya makes the aliṅga the last subtle object and explicitly says there is nothing subtler beyond it in this series. It then raises the possible objection that puruṣa is subtle, but answers that puruṣa is not the anvayin/material-continuing cause of the liṅga; hence unsurpassed subtlety is explained in the pradhāna.",
+   "options_considered": [
+    "the endpoint is aliṅga/pradhāna",
+    "the endpoint is puruṣa because puruṣa is subtle",
+    "aliṅga is merely ‘absence of signs’ without the Sāṃkhya pradhāna reference"
+   ],
+   "chosen": "aliṅgaparyavasānam = ‘having the aliṅga as its endpoint’; aliṅga here is the pradhāna, not puruṣa.",
+   "evidence": [
+    {
+     "lines": [
+      8,
+      9
+     ],
+     "quote": "liṅgamātrasyāpy aliṅgaṃ sūkṣmo viṣayaḥ. na cāliṅgāt paraṃ sūkṣmam asti.",
+     "translation": "For the liṅga-mātra too, the aliṅga is the subtle object. And there is nothing subtle beyond the aliṅga."
+    },
+    {
+     "lines": [
+      10,
+      11,
+      12,
+      13
+     ],
+     "quote": "nanv asti puruṣaḥ sūkṣma iti satyam. yathā liṅgāt param aliṅgasya saukṣmyaṃ na caivaṃ puruṣasya. kiṃtu, liṅgasyānvayikāraṇaṃ puruṣo na bhavati, hetus tu bhavatīti. ataḥ pradhāne saukṣmyaṃ niratiśayaṃ vyākhyātam.",
+     "translation": "‘But is there not puruṣa, which is subtle?’ True; but the subtlety of the aliṅga is beyond the liṅga in a way that is not the case for puruṣa. Rather, puruṣa is not the continuing cause of the liṅga, though it is a causal condition. Therefore unsurpassed subtlety has been explained in the pradhāna."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The neuter -am forms are construed as a nominal sentence: ‘subtle-objectedness is aliṅga-ended’. The compound is not ‘the termination of the aliṅga’ but ‘that whose termination is the aliṅga’, because the commentary’s sequence culminates at aliṅga/pradhāna.",
+   "options_considered": [
+    "bahuvrīhi: ‘having aliṅga as endpoint’",
+    "tatpuruṣa/genitive: ‘termination of aliṅga’",
+    "locative sense: ‘ending in the aliṅga’"
+   ],
+   "chosen": "aliṅgaparyavasānam is a bahuvrīhi predicate agreeing with sūkṣmaviṣayatvam.",
+   "evidence": [
+    {
+     "lines": [
+      8,
+      9,
+      13
+     ],
+     "quote": "liṅgamātrasyāpy aliṅgaṃ sūkṣmo viṣayaḥ. na cāliṅgāt paraṃ sūkṣmam asti. ataḥ pradhāne saukṣmyaṃ niratiśayaṃ vyākhyātam.",
+     "translation": "For the liṅga-mātra too, the aliṅga is the subtle object. There is nothing subtle beyond the aliṅga. Therefore unsurpassed subtlety has been explained in the pradhāna."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The forms are formally ambiguous between nominative and accusative neuter singular, but the sūtra has no finite verb governing an accusative object. The most economical construction is subject plus predicate: ‘the condition of having subtle objects is aliṅga-ended’.",
+   "options_considered": [
+    "nominative subject and nominative predicate",
+    "accusative object under an implied verb"
+   ],
+   "chosen": "Both sūkṣmaviṣayatvam and aliṅgaparyavasānam are read as Prathamā Ekavacana in a nominal sentence.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "And the condition of having subtle objects has the unmarked (aliṅga, the pradhāna) as its endpoint.",
+ "one_shot_delta": [
+  "Without the bhāṣya one might extend the culmination to puruṣa on the ground that puruṣa is subtle; Vyāsa explicitly considers this and excludes it as the endpoint of this causal series.",
+  "One might translate aliṅga generically as ‘absence of marks’; the commentary directs it to the Sāṃkhya pradhāna as the unsurpassed subtle terminus.",
+  "One might flatten sūkṣmaviṣayatva into ‘the subtlety of objects’; the bhāṣya instead lays out a hierarchy in which each prior level has a subtler object."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 represents tvam as the final simple item tva_SNNe; here the analyzable inflected word is the full derived compound stem sūkṣmaviṣayatva, Napuṃsaka Prathamā Ekavacana.",
+  "ByT5 represents paryavasānam under the simple lemma paryavasāna with aliṅga as a compound pre-member; here the inflected word is the full compound stem aliṅgaparyavasāna, Napuṃsaka Prathamā Ekavacana.",
+  "The tagger does not mark the external sandhi ca + aliṅga- > cāliṅga-; the apparatus separates ca and aliṅgaparyavasānam and notes the shared ā."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3259,
+   "completion_tokens": 8288,
+   "reasoning_tokens": 6142
+  },
+  "est_cost": 0.1341,
+  "reverified": true
+ },
+ "mula": "44 sūkṣmaviṣayatvaṃ cāliṅgaparyavasānam",
+ "commentary_lines": [
+  "pārthivasyāṇor gandhatanmātraṃ sūkṣmo viṣayaḥ.",
+  "āpyasya rasatanmātram.",
+  "taijasasya rūpatanmātram.",
+  "vāyavīyasya sparśatanmātram.",
+  "ākāśasya śabdatanmātram iti.",
+  "teṣām ahaṃkāraḥ.",
+  "asyāpi liṅgamātraṃ sūkṣmo viṣayaḥ.",
+  "liṅgamātrasyāpy aliṅgaṃ sūkṣmo viṣayaḥ.",
+  "na cāliṅgāt paraṃ sūkṣmam asti.",
+  "nanv asti puruṣaḥ sūkṣma iti satyam.",
+  "yathā liṅgāt param aliṅgasya saukṣmyaṃ na caivaṃ puruṣasya.",
+  "kiṃtu, liṅgasyānvayikāraṇaṃ puruṣo na bhavati, hetus tu bhavatīti.",
+  "ataḥ pradhāne saukṣmyaṃ niratiśayaṃ vyākhyātam.",
+  "1.45",
+  "tā eva sabījaḥ samādhiḥ"
+ ]
+}

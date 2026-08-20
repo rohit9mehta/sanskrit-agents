@@ -1,0 +1,278 @@
+{
+ "unit": "1.24",
+ "analysis": [
+  {
+   "surface": "kleśakarmavipākāśayaiḥ",
+   "surface_in_sandhi": "kleśakarmavipākāśayair",
+   "lemma": "kleśakarmavipākāśaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "kleśāḥ ca karmāṇi ca vipākaḥ ca āśayāḥ ca",
+    "members": [
+     "kleśa",
+     "karman",
+     "vipāka",
+     "āśaya"
+    ]
+   },
+   "note": "An itaretara-dvandva; the masculine instrumental plural follows the final member āśaya. The bhāṣya glosses the four members separately. Line 4 prints vāsanā with a singular ending before plural āśayāḥ; I take it collectively/as likely intended plural vāsanāḥ, since it defines āśayāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kleśakarmavipākāśaya as Pum/Trtiya/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "aparāmṛṣṭaḥ",
+   "surface_in_sandhi": "aparāmṛṣṭaḥ",
+   "lemma": "aparāmṛṣṭa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na parāmṛṣṭaḥ",
+    "members": [
+     "nañ",
+     "parāmṛṣṭa"
+    ]
+   },
+   "note": "Privative past-participial adjective used as a nominative singular qualifier of puruṣaviśeṣaḥ/īśvaraḥ; the instrumental compound supplies what does not touch him.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem aparāmṛṣṭa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "puruṣaviśeṣaḥ",
+   "surface_in_sandhi": "puruṣaviśeṣa",
+   "lemma": "puruṣaviśeṣa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "puruṣāṇāṃ viśeṣaḥ",
+    "members": [
+     "puruṣa",
+     "viśeṣa"
+    ]
+   },
+   "note": "The pausal nominative singular puruṣaviśeṣaḥ loses visarga before īśvaraḥ in the printed sandhi. Rendered idiomatically as “a special/distinctive puruṣa.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem puruṣaviśeṣa as Pum/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "īśvaraḥ",
+   "surface_in_sandhi": "īśvaraḥ",
+   "lemma": "īśvara",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The defined term of the sūtra, in apposition to aparāmṛṣṭaḥ puruṣaviśeṣaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "īśvara Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The initial instrumental compound is not a nested relation such as “the deposit of the fruition of afflicted action”; it is a four-member coordinate compound whose members have the bhāṣya’s Yoga-technical senses.",
+   "options_considered": [
+    "a nested tatpuruṣa: “deposits of the fruition of afflicted action”",
+    "a four-member coordinate dvandva: kleśa, karman, vipāka, āśaya"
+   ],
+   "chosen": "Coordinate dvandva: afflictions, actions, fruition, and latent impressions/deposits.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "quote": "avidyādayaḥ kleśāḥ.\nkuśalākuśalāni karmāṇi.\ntatphalaṃ vipākaḥ.\ntadanuguṇā vāsanā āśayāḥ.",
+     "translation": "Afflictions are ignorance and the rest. Actions are wholesome and unwholesome. Fruition is the fruit of that. The āśayas are the corresponding vāsanā[s]; the printed singular vāsanā is treated collectively/as likely for plural because it glosses plural āśayāḥ."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The bhāṣya construes aparāmṛṣṭaḥ experientially. Kleśas and the rest reside in the mind but are predicated of puruṣa because puruṣa is the enjoyer/experiencer of their fruit; Īśvara is the one not touched by that bhoga.",
+   "options_considered": [
+    "literal physical contact with a puruṣa",
+    "moral-experiential contact/ascription through bhoga of the fruits"
+   ],
+   "chosen": "“Untouched by” means not contacted by these factors through the experience of their fruits; the instrumental is the contacting/affecting factor.",
+   "evidence": [
+    {
+     "lines": [
+      5,
+      6,
+      7
+     ],
+     "quote": "te ca manasi vartamānāḥ puruṣe vyapadiśyante, sa hi tatphalasya bhokteti.\nyathā jayaḥ parājayo vā yoddhṛṣu vartamānaḥ svāmini vyapadiśyate.\nyo hy anena bhogenāparāmṛṣṭaḥ sa puruṣaviśeṣa īśvaraḥ.",
+     "translation": "And these, while existing in the mind, are predicated of puruṣa, for he is the experiencer of their fruit. Just as victory or defeat, though residing in the warriors, is predicated of the lord. For he who is untouched by this experience is that special puruṣa, Īśvara."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The commentary raises the possible confusion with liberated kevalins only to distinguish Īśvara from them: liberated selves have a prior bondage-limit, and prakṛtilīnas may have a future one, but Īśvara has neither and is always free.",
+   "options_considered": [
+    "Īśvara as one among many liberated kevalins",
+    "Īśvara as uniquely and eternally free"
+   ],
+   "chosen": "Īśvara is an eternally free distinctive puruṣa, not merely one liberated puruṣa among many kevalins.",
+   "evidence": [
+    {
+     "lines": [
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     "quote": "kaivalyaṃ prāptās tarhi santi ca bahavaḥ kevalinaḥ.\nte hi trīṇi bandhanāni cchittvā kaivalyaṃ prāptā īśvarasya ca tatsaṃbandho na bhūto na bhāvī.\nyathā muktasya pūrvā bandhakoṭiḥ prajñāyate naivam īśvarasya.\nyathā vā prakṛtilīnasyottarā bandhakoṭiḥ saṃbhāvyate naivam īśvarasya.\nsa tu sadaiva muktaḥ sadaiveśvara iti.",
+     "translation": "Objection: then there are many kevalins who have attained isolation. For they attained isolation after cutting the three bonds; but for Īśvara, relation to that [bondage] has not existed and will not exist. As a prior limit of bondage is known for a liberated one, not so for Īśvara. Or as a later limit of bondage is possible for one dissolved into prakṛti, not so for Īśvara. He, however, is always free, always Īśvara."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya explains īśvara through aiśvarya that is free from equality and superiority; hence the word is not merely a generic “master/capable one.”",
+   "options_considered": [
+    "generic lord/master/capable one",
+    "the unique Lord whose lordship is neither equalled nor surpassed"
+   ],
+   "chosen": "Translate īśvaraḥ as “the Lord,” with unique, unsurpassed lordship, and take it in apposition to puruṣaviśeṣaḥ.",
+   "evidence": [
+    {
+     "lines": [
+      18,
+      21,
+      26,
+      27
+     ],
+     "quote": "tac ca tasyaiśvaryaṃ sāmyātiśayavinirmuktam.\ntasmād yatra kāṣṭhāprāptir aiśvaryasya sa īśvara iti.\ntasmād yasya sāmyātiśayair vinirmuktam aiśvaryaṃ sa eveśvaraḥ.\nsa ca puruṣaviśeṣa iti.",
+     "translation": "And that lordship of his is free from equality and superiority. Therefore, where lordship has reached its culmination, that is Īśvara. Therefore he whose lordship is free from equals and superiors—he alone is Īśvara. And he is a special puruṣa."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The formal samāsa analysis of puruṣaviśeṣaḥ is taken as a genitival tatpuruṣa rather than a bahuvrīhi; this is a grammatical decision, while the bhāṣya supplies the semantic contrast with other puruṣas/kevalins elsewhere.",
+   "options_considered": [
+    "karmadhāraya: viśiṣṭaḥ puruṣaḥ",
+    "ṣaṣṭhī-tatpuruṣa: puruṣāṇāṃ viśeṣaḥ",
+    "bahuvrīhi: one whose puruṣa is distinctive"
+   ],
+   "chosen": "ṣaṣṭhī-tatpuruṣa: puruṣāṇāṃ viśeṣaḥ, rendered idiomatically “a special/distinctive puruṣa.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "The Lord (īśvara) is a special puruṣa: untouched by afflictions (kleśa, ignorance and the rest), by actions (karman, wholesome and unwholesome), by their fruition (vipāka), and by the corresponding latent impressions/deposits (āśaya).",
+ "one_shot_delta": [
+  "A commentary-blind translation might read kleśakarmavipākāśaya as a single nested causal chain; Vyāsa’s line-by-line gloss makes it a coordinate four-item list.",
+  "It might translate āśaya as a literal “seat/resting-place”; the bhāṣya defines it as the corresponding vāsanā, i.e. a latent impression/deposit.",
+  "It might miss that kleśas and the rest are said to reside in the mind and are only predicated of puruṣa because of fruit-experience; this explains the force of aparāmṛṣṭaḥ.",
+  "It might identify Īśvara with an ordinary liberated kevalin; the bhāṣya explicitly distinguishes Īśvara as always free, with no past or future bondage, and as uniquely unsurpassed in lordship."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4226,
+   "completion_tokens": 17425,
+   "reasoning_tokens": 14847
+  },
+  "est_cost": 0.2741,
+  "reverified": true
+ },
+ "mula": "kleśakarmavipākāśayair aparāmṛṣṭaḥ puruṣaviśeṣa īśvaraḥ",
+ "commentary_lines": [
+  "avidyādayaḥ kleśāḥ.",
+  "kuśalākuśalāni karmāṇi.",
+  "tatphalaṃ vipākaḥ.",
+  "tadanuguṇā vāsanā āśayāḥ.",
+  "te ca manasi vartamānāḥ puruṣe vyapadiśyante, sa hi tatphalasya bhokteti.",
+  "yathā jayaḥ parājayo vā yoddhṛṣu vartamānaḥ svāmini vyapadiśyate.",
+  "yo hy anena bhogenāparāmṛṣṭaḥ sa puruṣaviśeṣa īśvaraḥ.",
+  "kaivalyaṃ prāptās tarhi santi ca bahavaḥ kevalinaḥ.",
+  "te hi trīṇi bandhanāni cchittvā kaivalyaṃ prāptā īśvarasya ca tatsaṃbandho na bhūto na bhāvī.",
+  "yathā muktasya pūrvā bandhakoṭiḥ prajñāyate naivam īśvarasya.",
+  "yathā vā prakṛtilīnasyottarā bandhakoṭiḥ saṃbhāvyate naivam īśvarasya.",
+  "sa tu sadaiva muktaḥ sadaiveśvara iti.",
+  "yo 'sau prakṛṣṭasattvopādānād īśvarasya śāśvatika utkarṣaḥ sa kiṃ sanimitta āhosvin nirnimitta iti.",
+  "tasya śāstraṃ nimittam.",
+  "śāstraṃ punaḥ kiṃnimittam, prakṛṣṭasattvanimittam.",
+  "etayoḥ śāstrotkarṣayor īśvarasattve vartamānayor anādiḥ saṃbandhaḥ.",
+  "etasmād etad bhavati sadaiveśvaraḥ sadaiva mukta iti.",
+  "tac ca tasyaiśvaryaṃ sāmyātiśayavinirmuktam.",
+  "na tāvad aiśvaryāntareṇa tad atiśayyate.",
+  "yad evātiśayi syāt tad eva tat syāt.",
+  "tasmād yatra kāṣṭhāprāptir aiśvaryasya sa īśvara iti.",
+  "na ca tatsamānam aiśvaryam asti.",
+  "kasmāt, dvayos tulyayor ekasmin yugapatkāmite 'rthe navam idam astu purāṇam idam astv ity ekasya siddhāv itarasya prākāmyavighātād ūnatvaṃ prasaktam.",
+  "dvayoś ca tulyayor yugapatkāmitārthaprāptir nāsti.",
+  "arthasya viruddhatvāt.",
+  "tasmād yasya sāmyātiśayair vinirmuktam aiśvaryaṃ sa eveśvaraḥ.",
+  "sa ca puruṣaviśeṣa iti.",
+  "1.24",
+  "kiṃ ca"
+ ]
+}

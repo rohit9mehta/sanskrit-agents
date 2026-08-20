@@ -1,0 +1,249 @@
+{
+ "unit": "1.7",
+ "analysis": [
+  {
+   "surface": "pratyakṣānumānāgamāḥ",
+   "surface_in_sandhi": "pratyakṣānumānāgamāḥ",
+   "lemma": "pratyakṣānumānāgama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "pratyakṣaṃ ca anumānaṃ ca āgamaś ca",
+    "members": [
+     "pratyakṣa",
+     "anumāna",
+     "āgama"
+    ]
+   },
+   "note": "An itaretara-dvandva naming three distinct pramāṇas; the final member āgama is masculine in the bhāṣya, hence the masculine nominative plural ending.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem pratyakṣānumānāgama as Pum/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "pramāṇāni",
+   "surface_in_sandhi": "pramāṇāni",
+   "lemma": "pramāṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate nominative neuter plural: here, not merely ‘measure’ but the valid-cognition means/functions defined by the bhāṣya as vṛttis.",
+   "verification": {
+    "status": "pass",
+    "detail": "pramāṇa Napumsaka/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is not to be read as a single hybrid instrument such as ‘perception-inference-tradition’; the bhāṣya separately defines pratyakṣa, anumāna, and āgama. This supports translating the sūtra as an enumerative nominal sentence: ‘Direct perception, inference, and authoritative testimony are pramāṇas.’",
+   "options_considered": [
+    "one three-member dvandva enumerating separate pramāṇas",
+    "a single compound notion combining perception, inference, and tradition",
+    "three independent syntactic words with no compound relation"
+   ],
+   "chosen": "pratyakṣānumānāgamāḥ is a three-member dvandva list of pramāṇas.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "indriyapraṇālikayā cittasya bāhyavastūparāgāt tadviṣayā sāmānyaviśeṣātmano 'rthasya viśeṣāvadhāraṇapradhānā vṛttiḥ pratyakṣaṃ pramāṇam.",
+     "translation": "Through the channel of the senses, because the mind is colored by the external object, the mental function whose object is the thing as general-and-particular and which is chiefly ascertainment of the particular is perception as a pramāṇa."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "anumeyasya tulyajātīyeṣv anuvṛtto bhinnajātīyebhyo vyāvṛttaḥ saṃbandho yas tadviṣayā sāmānyāvadhāraṇapradhānā vṛttir anumānam.",
+     "translation": "Inference is the mental function, chiefly ascertainment of the general, whose object is the relation of the inferable that recurs among things of the same class and is excluded from things of a different class."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "āptena dṛṣṭo 'numito vārthaḥ paratra svabodhasaṃkrāntaye śabdenopadiśyate, śabdāt tadarthaviṣayā vṛttiḥ śrotur āgamaḥ.",
+     "translation": "An object seen or inferred by a trustworthy person is taught by words to another for the transmission of his own cognition; from the word, the listener’s mental function whose object is that meaning is āgama."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Although pratyakṣa can generally mean ‘visible/direct’ ([MW s.v. pratyakṣa, 674,2]), the commentary defines the technical pramāṇa as a citta-vṛtti produced through the senses and directed to an external object, with priority given to particular determination. Hence ‘direct perception,’ not merely ‘manifestness’ or ‘what is before the eyes.’",
+   "options_considered": [
+    "direct perception",
+    "visible or manifest thing",
+    "immediate actuality"
+   ],
+   "chosen": "pratyakṣa = direct perception, a sense-mediated mental function chiefly ascertaining particulars.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "indriyapraṇālikayā cittasya bāhyavastūparāgāt tadviṣayā sāmānyaviśeṣātmano 'rthasya viśeṣāvadhāraṇapradhānā vṛttiḥ pratyakṣaṃ pramāṇam.",
+     "translation": "Through the channel of the senses, because the mind is colored by the external object, the mental function whose object is the thing as general-and-particular and which is chiefly ascertainment of the particular is perception as a pramāṇa."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The dictionary also records an unrelated sense ‘permission’ ([MW s.v. anumāna, 36,3]), but the bhāṣya explicitly describes anumāna as cognition grounded in a relation/pervasion concerning an inferable object and illustrates it with examples. Therefore the required sense is ‘inference.’",
+   "options_considered": [
+    "inference",
+    "permission or consent",
+    "mere reflection"
+   ],
+   "chosen": "anumāna = inference.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "anumeyasya tulyajātīyeṣv anuvṛtto bhinnajātīyebhyo vyāvṛttaḥ saṃbandho yas tadviṣayā sāmānyāvadhāraṇapradhānā vṛttir anumānam.",
+     "translation": "Inference is the mental function, chiefly ascertainment of the general, whose object is the relation of the inferable that recurs among things of the same class and is excluded from things of a different class."
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "yathā deśāntaraprāpter gatimac candratārakaṃ caitravat, vindhyaś cāprāptir agatiḥ.",
+     "translation": "For example: because they reach another place, the moon and stars have motion, like Caitra; and the Vindhya, since it does not reach another place, lacks motion."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary does not treat āgama as mere ‘arrival’ or ‘origin’ ([MW s.v. āgama, 129,3]); it defines it as a listener’s cognition arising from words taught by an āpta, one who has seen or inferred the object. Lines 7–8 further make the authority condition explicit: testimony ‘wavers’ when the speaker lacks credibility or seen/inferred grounding, and is non-wavering when the original speaker has such grounding.",
+   "options_considered": [
+    "authoritative verbal testimony",
+    "scriptural tradition in a broad, unqualified sense",
+    "arrival/coming/origin"
+   ],
+   "chosen": "āgama = authoritative verbal testimony/instruction.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "āptena dṛṣṭo 'numito vārthaḥ paratra svabodhasaṃkrāntaye śabdenopadiśyate, śabdāt tadarthaviṣayā vṛttiḥ śrotur āgamaḥ.",
+     "translation": "An object seen or inferred by a trustworthy person is taught by words to another for the transmission of his own cognition; from the word, the listener’s mental function whose object is that meaning is āgama."
+    },
+    {
+     "lines": [
+      7,
+      8
+     ],
+     "quote": "yasyāśraddheyārtho vaktā na dṛṣṭānumitārthaḥ sa āgamaḥ plavate. mūlavaktari tu dṛṣṭānumitārthe nirviplavaḥ syāt.",
+     "translation": "That āgama wavers when its speaker is not credible and has not seen or inferred the object. But when the original speaker has seen or inferred the object, it is non-wavering."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "The sūtra’s pramāṇas are not physical ‘measures’ in the ordinary lexical sense ([MW s.v. pramāṇa, 685,3]). The bhāṣya repeatedly identifies each pramāṇa with a vṛtti and even states the fruit as the puruṣa’s cognition of the citta-vṛtti. Therefore ‘means of valid cognition’ is appropriate, while remembering the Yoga-bhāṣya’s vṛtti-analysis.",
+   "options_considered": [
+    "means of valid cognition",
+    "proofs in a merely logical sense",
+    "measures/standards in the physical sense"
+   ],
+   "chosen": "pramāṇāni = means/functions of valid cognition, specifically citta-vṛttis in this context.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vṛttiḥ pratyakṣaṃ pramāṇam.",
+     "translation": "The mental function is perception as a pramāṇa."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "phalam aviśiṣṭaḥ pauruṣeyaś cittavṛttibodhaḥ.",
+     "translation": "The result is the puruṣa’s awareness of the mental function, not distinct from it."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tadviṣayā sāmānyāvadhāraṇapradhānā vṛttir anumānam.",
+     "translation": "Inference is the mental function, chiefly general ascertainment, whose object is that relation."
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "śabdāt tadarthaviṣayā vṛttiḥ śrotur āgamaḥ.",
+     "translation": "From the word, the listener’s mental function whose object is that meaning is āgama."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Direct perception (pratyakṣa), inference (anumāna), and authoritative verbal testimony (āgama) are the means of valid cognition (pramāṇa).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render āgama as ‘tradition’ or even ‘arrival’; Vyāsa makes it verbal testimony from an āpta, grounded in seeing or inference.",
+  "It might miss that pratyakṣa, anumāna, and āgama are treated here as citta-vṛttis, not merely external instruments or abstract epistemic categories.",
+  "It might translate pratyakṣa as simply ‘visible’ and overlook the bhāṣya’s emphasis on sense-channel contact with an external object and particular ascertainment."
+ ],
+ "analyzer_disagreements": [],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2965,
+   "completion_tokens": 5938,
+   "reasoning_tokens": 3583
+  },
+  "est_cost": 0.098,
+  "reverified": true
+ },
+ "mula": "6 pratyakṣānumānāgamāḥ pramāṇāni",
+ "commentary_lines": [
+  "indriyapraṇālikayā cittasya bāhyavastūparāgāt tadviṣayā sāmānyaviśeṣātmano 'rthasya viśeṣāvadhāraṇapradhānā vṛttiḥ pratyakṣaṃ pramāṇam.",
+  "phalam aviśiṣṭaḥ pauruṣeyaś cittavṛttibodhaḥ.",
+  "pratisaṃvedī puruṣa ity upariṣṭād upapādayiṣyāmaḥ.",
+  "anumeyasya tulyajātīyeṣv anuvṛtto bhinnajātīyebhyo vyāvṛttaḥ saṃbandho yas tadviṣayā sāmānyāvadhāraṇapradhānā vṛttir anumānam.",
+  "yathā deśāntaraprāpter gatimac candratārakaṃ caitravat, vindhyaś cāprāptir agatiḥ.",
+  "āptena dṛṣṭo 'numito vārthaḥ paratra svabodhasaṃkrāntaye śabdenopadiśyate, śabdāt tadarthaviṣayā vṛttiḥ śrotur āgamaḥ.",
+  "yasyāśraddheyārtho vaktā na dṛṣṭānumitārthaḥ sa āgamaḥ plavate.",
+  "mūlavaktari tu dṛṣṭānumitārthe nirviplavaḥ syāt.",
+  "1.7",
+  "viparyayo mithyājñānam atadrūpapratiṣṭham"
+ ]
+}

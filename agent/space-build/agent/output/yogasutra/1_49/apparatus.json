@@ -1,0 +1,245 @@
+{
+ "unit": "1.49",
+ "analysis": [
+  {
+   "surface": "śrutānumānaprajñābhyām",
+   "surface_in_sandhi": "śrutānumānaprajñābhyām",
+   "lemma": "śrutānumānaprajñā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Panchami",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "śrutaprajñā ca anumānaprajñā ca",
+    "members": [
+     "śrutaprajñā",
+     "anumānaprajñā"
+    ]
+   },
+   "note": "The ending -bhyām is taken as ablative dual with anya, “different from.” The compound is understood as the pair: śruta-prajñā and anumāna-prajñā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem śrutānumānaprajñā as Stri/Panchami/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "anyaviṣayā",
+   "surface_in_sandhi": "anyaviṣayā",
+   "lemma": "anyaviṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "anyaḥ viṣayaḥ yasyāḥ sā",
+    "members": [
+     "anya",
+     "viṣaya"
+    ]
+   },
+   "note": "Feminine nominative singular, qualifying the supplied sā prajñā in the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anyaviṣaya as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "viśeṣārthatvāt",
+   "surface_in_sandhi": "viśeṣārthatvāt",
+   "lemma": "viśeṣārthatva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "viśeṣaḥ arthaḥ yasyāḥ sā, tasyā bhāvaḥ",
+    "members": [
+     "viśeṣa",
+     "artha"
+    ]
+   },
+   "note": "Ablative of cause: “because of being viśeṣārtha.” Here artha is taken as object/content, not purpose; -tva is the abstract-forming suffix in the stem viśeṣārthatva.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem viśeṣārthatva as Napumsaka/Panchami/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Translate śrutānumānaprajñābhyām as “from the insights/cognitions of scriptural testimony and inference,” not merely “from what is heard and inferred.”",
+   "options_considered": [
+    "śruta as ordinary “what has been heard”",
+    "śruta as āgama-vijñāna, cognition from authoritative testimony",
+    "anumāna as a separate prajñā paired with śruta-prajñā"
+   ],
+   "chosen": "śruta means āgama-vijñāna, and anumāna is the parallel inferential cognition; together they form the two prajñās contrasted with samādhi-prajñā.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "śrutam āgamavijñānaṃ tat sāmānyaviṣayam.",
+     "translation": "Śruta is knowledge from authoritative tradition; it has a general object."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tathānumānaṃ sāmānyaviṣayam eva.",
+     "translation": "Likewise inference too has a general object."
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "tasmāc chrutānumānaprajñābhyām anyaviṣayā sā prajñā viśeṣārthatvād iti.",
+     "translation": "Therefore that prajñā has an object different from the prajñās of śruta and inference, because it has the particular as its object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Supply “that insight” as the subject and construe anyaviṣayā as feminine singular bahuvrīhi, “having a different object.”",
+   "options_considered": [
+    "anyaviṣayā as an independent plural, “other objects”",
+    "anyaviṣayā as feminine singular qualifying an understood prajñā",
+    "anyaviṣayā as referring to śruta/anumāna rather than to samādhi-prajñā"
+   ],
+   "chosen": "anyaviṣayā qualifies sā prajñā, the samādhi-born insight, as having an object different from śruta- and anumāna-prajñā.",
+   "evidence": [
+    {
+     "lines": [
+      9
+     ],
+     "quote": "tasmāc chrutānumānaprajñābhyām anyaviṣayā sā prajñā viśeṣārthatvād iti.",
+     "translation": "Therefore that prajñā has an object different from the prajñās of śruta and inference, because it has the particular as its object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Construe it with anya in the sense “different from,” yielding “different from the two cognitions of testimony and inference.”",
+   "options_considered": [
+    "instrumental dual: “different by means of the two cognitions”",
+    "ablative dual: “different from the two cognitions”"
+   ],
+   "chosen": "The -bhyām ending in śrutānumānaprajñābhyām is ablative dual.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "Take viśeṣa as the particular not accessible to scripture, inference, or ordinary perception, and artha as object/content rather than purpose.",
+   "options_considered": [
+    "viśeṣārthatvāt as “because of a special purpose”",
+    "viśeṣārthatvāt as “because it has particulars as its object”",
+    "viśeṣa as a mere species/general class"
+   ],
+   "chosen": "viśeṣārthatvāt means “because its object is the particular.”",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "tasmāc chrutānumānaviṣayo na viśeṣaḥ kaścid astīti.",
+     "translation": "Therefore no particular at all is an object of śruta and inference."
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "na cāsya sūkṣmavyavahitaviprakṛṣṭasya vastuno lokapratyakṣeṇa grahaṇam asti.",
+     "translation": "Nor is there grasping of this subtle, hidden, or remote thing by ordinary perception."
+    },
+    {
+     "lines": [
+      8
+     ],
+     "quote": "na cāsya viśeṣasyāpramāṇakasyābhāvo 'stīti samādhiprajñānirgrāhya eva sa viśeṣo bhavati bhūtasūkṣmagato vā puruṣagato vā.",
+     "translation": "And it is not that this particular, because lacking a means of knowledge, is nonexistent; rather that particular is graspable only by samādhi-prajñā, whether it belongs to subtle elements or to puruṣa."
+    },
+    {
+     "lines": [
+      9
+     ],
+     "quote": "tasmāc chrutānumānaprajñābhyām anyaviṣayā sā prajñā viśeṣārthatvād iti.",
+     "translation": "Therefore that prajñā has an object different from the prajñās of śruta and inference, because it has the particular as its object."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "That insight (prajñā) has an object different from the insights of scriptural testimony (śruta/āgama) and inference (anumāna), because its object is the particular (viśeṣa).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render śruta as simply “what is heard”; Vyāsa specifies śruta as āgamavijñāna, cognition from authoritative tradition, and says it has only a general object.",
+  "It might take viśeṣārthatvāt as “because of a special purpose”; the bhāṣya makes viśeṣa the particular grasped by samādhi-prajñā and denied as an object of śruta and anumāna.",
+  "It might follow the analyzer’s anyaviṣayāḥ and read “other objects” in the plural; line 9 supplies sā prajñā, confirming feminine singular “that prajñā has a different object.”"
+ ],
+ "analyzer_disagreements": [
+  "ByT5 prints/analyzes anya_viṣayāḥ as viṣaya_PNM, but the unit has anyaviṣayā; the bhāṣya’s sā prajñā (line 9) confirms feminine nominative singular qualifying prajñā, not masculine nominative plural.",
+  "ByT5 leaves śrutānumānaprajñābhyām only as a dual feminine form; I resolve -bhyām as ablative dual, not instrumental, because anya in the sense “different from” governs separation.",
+  "ByT5 segments viśeṣa_artha_tvāt as though tva were the nominal base separately; I analyze the word as the neuter ablative singular of the abstract stem viśeṣārthatva, with -tva as suffix."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 3,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3735,
+   "completion_tokens": 6104,
+   "reasoning_tokens": 4082
+  },
+  "est_cost": 0.1028,
+  "reverified": true
+ },
+ "mula": "śrutānumānaprajñābhyām anyaviṣayā viśeṣārthatvāt",
+ "commentary_lines": [
+  "śrutam āgamavijñānaṃ tat sāmānyaviṣayam.",
+  "na hy āgamena śakyo viśeṣo 'bhidhātum, kasmāt, na hi viśeṣeṇa kṛtasaṃketaḥ śabda iti.",
+  "tathānumānaṃ sāmānyaviṣayam eva.",
+  "yatra prāptis tatra gatir yatrāprāptis tatra na bhavati gatir ity uktam.",
+  "anumānena ca sāmānyenopasaṃhāraḥ.",
+  "tasmāc chrutānumānaviṣayo na viśeṣaḥ kaścid astīti.",
+  "na cāsya sūkṣmavyavahitaviprakṛṣṭasya vastuno lokapratyakṣeṇa grahaṇam asti.",
+  "na cāsya viśeṣasyāpramāṇakasyābhāvo 'stīti samādhiprajñānirgrāhya eva sa viśeṣo bhavati bhūtasūkṣmagato vā puruṣagato vā.",
+  "tasmāc chrutānumānaprajñābhyām anyaviṣayā sā prajñā viśeṣārthatvād iti.",
+  "1.49",
+  "samādhiprajñāpratilambhe yoginaḥ prajñākṛtaḥ saṃskāro navo navo jāyate"
+ ]
+}

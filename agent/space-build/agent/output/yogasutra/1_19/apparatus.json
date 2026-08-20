@@ -1,0 +1,186 @@
+{
+ "unit": "1.19",
+ "analysis": [
+  {
+   "surface": "bhavapratyayaḥ",
+   "surface_in_sandhi": "bhavapratyayo",
+   "lemma": "bhavapratyaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "bhavaḥ pratyayo yasya saḥ",
+    "members": [
+     "bhava",
+     "pratyaya"
+    ]
+   },
+   "note": "Predicate adjective/noun in the masculine nominative singular; the subject is left implicit by the sūtra-context.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem bhavapratyaya as Pum/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "videhaprakṛtilayānām",
+   "surface_in_sandhi": "videhaprakṛtilayānām",
+   "lemma": "videhaprakṛtilaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "videhāś ca prakṛtilayāś ca",
+    "members": [
+     "videha",
+     "prakṛtilaya"
+    ]
+   },
+   "note": "A dvandva denoting two classes. The second member prakṛtilaya is itself to be understood as ‘one whose mind is merged in prakṛti’, as the bhāṣya’s prakṛtilīne shows.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem videhaprakṛtilaya as Pum/Sasthi/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is read as a predicate: the relevant state has bhava as its pratyaya, i.e. its condition or basis. Vyāsa explains the videha case through their own residual saṃskāras and their particular ongoing mode of existence, not through an asserted doctrine or belief.",
+   "options_considered": [
+    "‘belief/conviction in existence’",
+    "‘cognition whose object is existence’",
+    "‘conditioned by birth/state of being’"
+   ],
+   "chosen": "bhavapratyayaḥ = ‘conditioned by birth/state of being’, not ‘belief in existence’.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "videhānāṃ devānāṃ bhavapratyayaḥ. te hi svasaṃskāramātropayogena cittena kaivalyapadam ivānubhavantaḥ svasaṃskāravipākaṃ tathājātīyakam ativāhayanti.",
+     "translation": "For the bodiless gods it is bhava-conditioned. For, with a mind whose use is only their own saṃskāra, they experience as it were the state of kaivalya and pass through the ripening of their own saṃskāra of that kind."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The genitive videhānām is not left as a vague class of ‘bodiless ones’; Vyāsa explicitly glosses them as devas.",
+   "options_considered": [
+    "bodiless/incorporeal beings in general",
+    "dead persons",
+    "the bodiless gods"
+   ],
+   "chosen": "videha means the bodiless gods.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "videhānāṃ devānāṃ bhavapratyayaḥ.",
+     "translation": "For the bodiless gods it is bhava-conditioned."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Vyāsa first treats the videhas and then introduces prakṛtilayāḥ with tathā, showing that the sūtra names two distinct classes, not a single entity such as ‘bodiless dissolution in prakṛti’.",
+   "options_considered": [
+    "one compound meaning ‘bodiless dissolution of prakṛti’",
+    "a genitive dependent only on laya, ‘of the dissolution of bodiless prakṛti’",
+    "a dvandva: ‘of the videhas and the prakṛtilayas’"
+   ],
+   "chosen": "videhaprakṛtilayānām is a dvandva of two groups: videhas and prakṛtilayas.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      3
+     ],
+     "quote": "videhānāṃ devānāṃ bhavapratyayaḥ. tathā prakṛtilayāḥ sādhikāre cetasi prakṛtilīne kaivalyapadam ivānubhavanti, yāvan na punar āvartate 'dhikāravaśāc cittam iti.",
+     "translation": "For the bodiless gods it is bhava-conditioned. Likewise, the prakṛtilayas, while the mind with its mandate remains merged in prakṛti, experience as it were the state of kaivalya, until the mind returns again under the force of its mandate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya says their mind is prakṛtilīna and that they experience kaivalya only iva, ‘as it were’, until the mind returns. Thus the translation ‘absorbed in prakṛti’ should not be taken as final kaivalya.",
+   "options_considered": [
+    "those whose prakṛti is destroyed",
+    "those finally liberated into kaivalya",
+    "those whose mind is absorbed/merged in prakṛti for a time"
+   ],
+   "chosen": "prakṛtilaya denotes those absorbed/merged in prakṛti, not final liberated persons.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tathā prakṛtilayāḥ sādhikāre cetasi prakṛtilīne kaivalyapadam ivānubhavanti, yāvan na punar āvartate 'dhikāravaśāc cittam iti.",
+     "translation": "Likewise, the prakṛtilayas, while the mind with its mandate remains merged in prakṛti, experience as it were the state of kaivalya, until the mind returns again under the force of its mandate."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For the bodiless gods and for those absorbed in prakṛti, [it is] conditioned by birth or state of being (bhava-pratyaya).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render pratyaya as ‘belief’ and produce ‘belief in existence’; Vyāsa’s explanation points instead to a condition based on their mode of being and residual saṃskāras.",
+  "It might miss that videha is glossed as deva: ‘the bodiless gods’.",
+  "It might parse videhaprakṛtilayānām as one opaque compound; Vyāsa treats videhas and prakṛtilayas as two distinct groups.",
+  "It might take prakṛtilaya as actual liberation; Vyāsa’s iva and the eventual return of the mind show that it only resembles kaivalya."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 treats bhava + pratyayaḥ only as a prefixed compound member plus final simple noun; I take the inflected stem as the whole compound bhavapratyaya, specifically a bahuvrīhi predicate, because the sūtra predicates it of an implicit subject and Vyāsa applies it to the videha/prakṛtilaya classes.",
+  "ByT5 treats videha + prakṛti + layānām as compound prefixes plus final laya_PGM. Vyāsa separates videhāḥ and prakṛtilayāḥ as two groups, so I analyze the whole inflected stem as the masculine genitive plural dvandva videhaprakṛtilaya, not simply ‘of dissolutions’."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 2886,
+   "completion_tokens": 7808,
+   "reasoning_tokens": 6142
+  },
+  "est_cost": 0.1258,
+  "reverified": true
+ },
+ "mula": "bhavapratyayo videhaprakṛtilayānām",
+ "commentary_lines": [
+  "videhānāṃ devānāṃ bhavapratyayaḥ.",
+  "te hi svasaṃskāramātropayogena cittena kaivalyapadam ivānubhavantaḥ svasaṃskāravipākaṃ tathājātīyakam ativāhayanti.",
+  "tathā prakṛtilayāḥ sādhikāre cetasi prakṛtilīne kaivalyapadam ivānubhavanti, yāvan na punar āvartate 'dhikāravaśāc cittam iti.",
+  "1.19",
+  "śraddhāvīryasmṛtisamādhiprajñāpūrvaka itareṣām"
+ ]
+}

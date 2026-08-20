@@ -1,0 +1,450 @@
+{
+ "unit": "2.51",
+ "analysis": [
+  {
+   "surface": "yasmāt",
+   "surface_in_sandhi": "yasmāt",
+   "lemma": "yasmāt",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival relative used causally: “since/because.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "karmajam",
+   "surface_in_sandhi": "karmajaṃ",
+   "lemma": "karmaja",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "karmabhyo jātam",
+    "members": [
+     "karman",
+     "ja"
+    ]
+   },
+   "note": "Agrees with phalam despite intervening words.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem karmaja as Napumsaka/Dvitiya/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "buddhi-yuktāḥ",
+   "surface_in_sandhi": "buddhi-yuktā",
+   "lemma": "buddhi-yukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "buddhyā yuktaḥ; bhāṣya: samatva-buddhyā yuktaḥ",
+    "members": [
+     "buddhi",
+     "yukta"
+    ]
+   },
+   "note": "Pausal form restores the visarga lost before hi; a participial adjective, but inflected here as a subanta compound. The verifier reported a tool_error for this compound-stem derivation and logged the tatpuruṣa relation as unsupported; I retain the analysis because buddhi-yuktaḥ, -yuktau, -yuktāḥ is the regular masculine nominative plural inflection of the -a stem buddhi-yukta, and the bhāṣya’s samatva-buddhi-yuktāḥ supports the compound relation.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem buddhi-yukta as Pum/Prathama/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hi",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic causal/emphatic particle.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "phalam",
+   "surface_in_sandhi": "phalaṃ",
+   "lemma": "phala",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of tyaktvā; modified by karmajam.",
+   "verification": {
+    "status": "pass",
+    "detail": "phala Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tyaktvā",
+   "surface_in_sandhi": "tyaktvā",
+   "lemma": "tyaj",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "tyaj",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive in -tvā: “having abandoned.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "manīṣiṇaḥ",
+   "surface_in_sandhi": "manīṣiṇaḥ",
+   "lemma": "manīṣin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantivized adjective: “the wise/knowers.”",
+   "verification": {
+    "status": "pass",
+    "detail": "manīṣin Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "janma-bandha-vinirmuktāḥ",
+   "surface_in_sandhi": "janma-bandha-vinirmuktāḥ",
+   "lemma": "janma-bandha-vinirmukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "janmaiva bandhaḥ; janma-bandhāt vinirmuktaḥ",
+    "members": [
+     "janman",
+     "bandha",
+     "vinirmukta"
+    ]
+   },
+   "note": "Nested janma-bandha is explained by the bhāṣya as karmadhāraya: “birth itself is bondage”; the whole is a participial tatpuruṣa, “released from birth-bondage.” The verifier reported a tool_error for this compound-stem derivation and logged the tatpuruṣa relation as unsupported; I retain the analysis because janma-bandha-vinirmuktaḥ, -vinirmuktau, -vinirmuktāḥ is the regular masculine nominative plural inflection of the -a stem janma-bandha-vinirmukta, and Śaṅkara explicitly gives the ablative relation janma-bandhāt vinirmuktāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem janma-bandha-vinirmukta as Pum/Prathama/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "padam",
+   "surface_in_sandhi": "padaṃ",
+   "lemma": "pada",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative goal/object with gacchanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "pada Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "gacchanti",
+   "surface_in_sandhi": "gacchanty",
+   "lemma": "gam",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "gam",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present indicative active, 3rd plural: “they go/reach.”",
+   "verification": {
+    "status": "pass",
+    "detail": "gam Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "anāmayam",
+   "surface_in_sandhi": "anāmayam",
+   "lemma": "anāmaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "na vidyate āmayaḥ yasmin tat",
+    "members": [
+     "an",
+     "āmaya"
+    ]
+   },
+   "note": "Qualifies padam; the bhāṣya glosses it as free from all affliction.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anāmaya as Napumsaka/Dvitiya/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Force of yasmāt/hi",
+   "options_considered": [
+    "ablatival/source sense, “from which”",
+    "causal connective, “since/because/for”"
+   ],
+   "chosen": "Take yasmāt with hi causally: “for/since …,” governing the whole statement.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "hi yasmāt",
+     "translation": "“for, since/because.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Syntactic connection of karmajam",
+   "options_considered": [
+    "take karmajam with the nearer buddhi-yuktāḥ",
+    "take karmajam as a separate substantive, “what is born of action”",
+    "take karmajam as an adjective of phalam despite separation"
+   ],
+   "chosen": "karmajam modifies phalam, not buddhi-yuktāḥ: “the fruit born from actions.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "karmajaṃ phalaṃ tyaktvā iti vyavahitena sambandhaḥ |",
+     "translation": "“The construction, despite separation, is: ‘having abandoned the action-born fruit.’”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "iṣṭāniṣṭa-deha-prāptiḥ karmajaṃ phalaṃ karmabhyo jātaṃ",
+     "translation": "“The action-born fruit, born from actions, is the obtaining of desirable and undesirable bodies.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Sense of buddhi-yuktāḥ",
+   "options_considered": [
+    "ordinary intelligence or cleverness",
+    "general meditative concentration",
+    "the primary padagloss: equanimity-buddhi; with Śaṅkara’s broader contextual alternative as ultimate-reality-vision"
+   ],
+   "chosen": "buddhi-yuktāḥ means “endowed with the buddhi of equanimity,” not merely “intelligent.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "buddhi-yuktāḥ samatva-buddhi-yuktāḥ santaḥ",
+     "translation": "“being buddhi-yukta means being endowed with the buddhi of sameness/equanimity.”"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "athavā buddhi-yogād dhanaṃjaya ity ārabhya paramārtha-darśana-lakṣaṇaiva sarvataḥ saṃplutodaka-sthānīyā karma-yogaja-sattva-śuddha-janitā buddhir darśitā",
+     "translation": "“Or, from ‘buddhi-yoga, O Dhanaṃjaya’ onward, the buddhi shown is characterized by vision of ultimate reality, born of purity of sattva produced by karma-yoga.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Sense of manīṣiṇaḥ",
+   "options_considered": [
+    "poets or inspired singers",
+    "merely thoughtful persons",
+    "wise knowers/jñānins"
+   ],
+   "chosen": "manīṣiṇaḥ is rendered “the wise/knowers.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "manīṣiṇaḥ jñānino bhūtvā",
+     "translation": "“manīṣins, having become knowers.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Compound relation and scope in janma-bandha-vinirmuktāḥ",
+   "options_considered": [
+    "released from bonds caused by a particular birth",
+    "released only after death from future births",
+    "released, even while living, from bondage consisting in birth itself"
+   ],
+   "chosen": "janma-bandha is “the bondage that is birth”; vinirmuktāḥ means released from that bondage even while living.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "janma-bandha-vinirmuktāḥ janmaiva bandhaḥ janma-bandhaḥ tena vinirmuktāḥ jīvanta eva janma-bandhāt vinirmuktāḥ santaḥ",
+     "translation": "“janma-bandha-vinirmuktaḥ: birth itself is bondage; from that they are released—released from birth-bondage while still living.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Meaning of pada and anāmaya",
+   "options_considered": [
+    "a literal footstep or step",
+    "a merely disease-free place",
+    "the affliction-free supreme station, i.e. liberation"
+   ],
+   "chosen": "padaṃ anāmayam is the affliction-free supreme station of Viṣṇu, called liberation (mokṣa).",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "padaṃ paramaṃ viṣṇoḥ mokṣākhyaṃ gacchanti anāmayaṃ sarvopadrava-rahitam ity arthaḥ",
+     "translation": "“They go to the supreme pada of Viṣṇu, called mokṣa; anāmaya means free from every affliction.”"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "For the wise, endowed with the buddhi of equanimity, having abandoned the action-born fruit—the obtaining of desirable and undesirable bodies—are freed, even while living, from the bondage that is birth, and go to the affliction-free station (pada), the supreme station of Viṣṇu called liberation (mokṣa).",
+ "one_shot_delta": [
+  "A commentary-blind translation could attach karmajam to the nearer buddhi-yuktāḥ and produce “action-born intelligence”; Śaṅkara explicitly connects karmajaṃ with phalaṃ despite the separation.",
+  "It could render buddhi-yuktāḥ as merely “intelligent” or “rational”; the bhāṣya makes it samatva-buddhi, the buddhi of equanimity.",
+  "It could take janma-bandha as a loose “bond of birth”; Śaṅkara specifies that birth itself is bondage and that the release is while living.",
+  "It could translate padaṃ anāmayam as a generic “disease-free place/step”; the bhāṣya identifies it as Viṣṇu’s supreme pada, called mokṣa, free from all afflictions."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segments compounded expressions into members (karma + ja, buddhi + yukta, janma + bandha + vinirmukta); here they are reported as single inflected compound stems, as required for word-level analysis of compounds.",
+  "ByT5 gives yuktāḥ and vinirmuktāḥ under verbal/participial roots yuj and vinirmuc; here the inflected items are analyzed as subanta participial adjectives with the whole compound stems buddhi-yukta and janma-bandha-vinirmukta.",
+  "The printed sandhi form buddhi-yuktā hi lacks the pausal visarga; the analysis records surface buddhi-yuktāḥ and surface_in_sandhi buddhi-yuktā."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 13832,
+   "completion_tokens": 16980,
+   "reasoning_tokens": 11247
+  },
+  "est_cost": 0.2962,
+  "reverified": true
+ },
+ "mula": "yasmāt - karmajaṃ buddhi-yuktā hi phalaṃ tyaktvā manīṣiṇaḥ | janma-bandha-vinirmuktāḥ padaṃ gacchanty anāmayam",
+ "commentary_lines": [
+  "karmajaṃ phalaṃ tyaktvā iti vyavahitena sambandhaḥ |",
+  "iṣṭāniṣṭa-deha-prāptiḥ karmajaṃ phalaṃ karmabhyo jātaṃ buddhi-yuktāḥ samatva-buddhi-yuktāḥ santaḥ hi yasmāt phalaṃ tyaktvā parityajya manīṣiṇaḥ jñānino bhūtvā, janma-bandha-vinirmuktāḥ janmaiva bandhaḥ janma-bandhaḥ tena vinirmuktāḥ jīvanta eva janma-bandhāt vinirmuktāḥ santaḥ, padaṃ paramaṃ viṣṇoḥ mokṣākhyaṃ gacchanti anāmayaṃ sarvopadrava-rahitam ity arthaḥ |",
+  "athavā buddhi-yogād dhanaṃjaya ity ārabhya paramārtha-darśana-lakṣaṇaiva sarvataḥ saṃplutodaka-sthānīyā karma-yogaja-sattva-śuddha-janitā buddhir darśitā, sākṣāt-sukṛta-duṣkṛta-prahāṇādi-hetutva-śravaṇāt ||bhgs_2.51||",
+  "yogānuṣṭhāna-janita-sattva-śuddhajā buddhiḥ kadā prāpsyate ity ucyate ---"
+ ]
+}

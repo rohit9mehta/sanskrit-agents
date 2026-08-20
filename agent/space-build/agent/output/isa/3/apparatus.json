@@ -1,0 +1,602 @@
+{
+ "unit": "3",
+ "analysis": [
+  {
+   "surface": "asuryāḥ",
+   "surface_in_sandhi": "asuryā",
+   "lemma": "asurya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with lokāḥ; Śaṅkara takes it from asura-context, not as 'sunless'. Final -āḥ appears as -ā before nāma.",
+   "verification": {
+    "status": "pass",
+    "detail": "asurya Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "nāma",
+   "surface_in_sandhi": "nāma",
+   "lemma": "nāma",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Expletive particle according to Śaṅkara, not an operative 'by name'.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative qualifying lokāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "lokāḥ",
+   "surface_in_sandhi": "lokā",
+   "lemma": "loka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Grammatically masculine plural; Śaṅkara glosses the referent as karmaphalāni, janmāni.",
+   "verification": {
+    "status": "pass",
+    "detail": "loka Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "andhena",
+   "surface_in_sandhi": "andhena",
+   "lemma": "andha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental singular qualifying tamasā; glossed as adarśanātmaka, 'of the nature of non-seeing'.",
+   "verification": {
+    "status": "pass",
+    "detail": "andha Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tamasā",
+   "surface_in_sandhi": "tamasā",
+   "lemma": "tamas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental of means with āvṛtāḥ; Śaṅkara equates it with ajñāna, ignorance.",
+   "verification": {
+    "status": "pass",
+    "detail": "tamas Napumsaka/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "āvṛtāḥ",
+   "surface_in_sandhi": "āvṛtāḥ",
+   "lemma": "āvṛta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past passive participle from ā-√vṛ; glossed by ācchāditāḥ. The initial ā is coalesced in tamasāvṛtāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "āvṛta Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tān",
+   "surface_in_sandhi": "tāṃs",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of abhigacchanti, referring back to lokāḥ/janmāni; printed as tāṃs before te.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative plural subject of abhigacchanti, correlative with ye ke ca ... janāḥ; not enclitic 'of you'.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pretya",
+   "surface_in_sandhi": "pretyā",
+   "lemma": "pretya",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "i",
+    "prefixes": [
+     "pra"
+    ],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Absolutive from pra-√i; Śaṅkara glosses it as tyaktvā imaṃ deham, 'having left this body'.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "abhigacchanti",
+   "surface_in_sandhi": "ābhigacchanti",
+   "lemma": "gam",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "gam",
+    "prefixes": [
+     "abhi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present active 3rd plural; the initial a is coalesced in pretyābhigacchanti.",
+   "verification": {
+    "status": "pass",
+    "detail": "abhi-gam Lat/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ye",
+   "surface_in_sandhi": "ye",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun introducing the subject clause.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ke",
+   "surface_in_sandhi": "ke",
+   "lemma": "kim",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative/indefinite pronoun with the pronominal stem kim; with ca, forms the indefinite relative sense 'whoever/any who'. This replaces the tagger's lemma ka because the verifier derives ke from kim rather than from ka.",
+   "verification": {
+    "status": "pass",
+    "detail": "kim Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction; in ye ke ca it helps yield the indefinite 'whoever'.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ātmahanaḥ",
+   "surface_in_sandhi": "ātmahano",
+   "lemma": "ātmahan",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "ātmānaṃ ghnanti iti ātmahanaḥ",
+    "members": [
+     "ātman",
+     "han"
+    ]
+   },
+   "note": "Pausal form from the checked mūla is ātmahanaḥ, appearing as ātmahano before janāḥ. Commentary line 6 prints ātmahanāḥ, likely normalization or textual noise, but its gloss confirms the compound sense. Although the verifier reports ātmahānaḥ for the claimed stem, I retain ātmahan- Pum Prathama Bahu as the Vedic/special -han compound form required by the mūla sandhi and by Śaṅkara's ātmānaṃ ghnanti gloss; changing to ātmahānaḥ or ātmahanāḥ would contradict the checked mūla.",
+   "verification": {
+    "status": "fail",
+    "detail": "compound stem ātmahan as Pum/Prathama/Bahu: fail; relation tatpurusa: unsupported (logged)",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "ātmahānaḥ"
+    ]
+   }
+  },
+  {
+   "surface": "janāḥ",
+   "surface_in_sandhi": "janāḥ",
+   "lemma": "jana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject noun in the relative clause; Śaṅkara identifies these janāḥ as avidvāṃsaḥ, the ignorant.",
+   "verification": {
+    "status": "pass",
+    "detail": "jana Pum/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first word is not rendered 'sunless' or 'spiritual/divine'; Śaṅkara derives the sense through asura, saying that, relative to the non-dual state of the supreme Self, even gods and others are asuras, and their worlds are asuryāḥ.",
+   "options_considered": [
+    "asuric/demonic worlds",
+    "sunless worlds",
+    "spiritual or divine worlds"
+   ],
+   "chosen": "asuryāḥ = asuric/belonging to asuras, qualifying lokāḥ",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "asuryāḥ paramātmabhāvamadvayamapekṣya devādayo 'pyasurāsteṣāñca svabhūtā lokā asuryā nāma /",
+     "translation": "‘Asuryāḥ’: in comparison with the non-dual state of the supreme Self, even gods and the rest are asuras; and the worlds belonging to them are called/as such asuryāḥ."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The particle nāma should not make the clause mean 'those worlds are named/called ...' in any strong way, because Śaṅkara expressly calls it an anarthaka nipāta, a semantically empty particle.",
+   "options_considered": [
+    "'by name/called' as a predicative naming expression",
+    "an emphatic/expletive particle with no independent meaning"
+   ],
+   "chosen": "nāma is left as an expletive, at most lightly represented by 'indeed'",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "nāmaśabdo 'narthako nipātaḥ /",
+     "translation": "The word nāma is a meaningless particle."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Rather than taking lokāḥ only as spatial worlds or heavens/hells, the commentary glosses them as karmaphalāni and then as janmāni, because they are seen and experienced.",
+   "options_considered": [
+    "external cosmological regions only",
+    "karmic results/births to be experienced"
+   ],
+   "chosen": "lokāḥ are understood as karmic fruits, specifically births/existences",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "te lokāḥ karmaphalāni /",
+     "translation": "Those worlds are the fruits of action."
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "lokyante dṛśyante bhujyanta iti janmāni /",
+     "translation": "They are births, because they are ‘looked at,’ seen, and experienced. The printed bhujyanta appears unproofread, probably for bhujyante."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The darkness is not merely physical darkness. Śaṅkara glosses andha as adarśanātmaka and tamas as ajñāna, and glosses āvṛtāḥ with ācchāditāḥ.",
+   "options_considered": [
+    "physical darkness",
+    "hellish darkness only",
+    "ignorance that blinds/non-seeing darkness"
+   ],
+   "chosen": "andhena tamasā = by blind darkness, i.e. non-seeing ignorance; āvṛtāḥ = covered/concealed",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "andhenādarśanātmakenājñānena tamasāvṛtā ācchāditāḥ",
+     "translation": "Covered by blind, non-perceptive ignorance as darkness—concealed."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara explicitly glosses pretya as leaving this body and takes the object tān as extending to births down to immobile ones; thus the movement is post-mortem attainment according to karma, not merely ordinary approaching in life.",
+   "options_considered": [
+    "having merely gone forth",
+    "after death/having left the body",
+    "abhigacchanti as 'understand'",
+    "abhigacchanti as 'go to/attain'"
+   ],
+   "chosen": "pretya = after death, having left this body; abhigacchanti = they go to/attain those births",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tāṃsthāvarāntānpretya tyaktvemaṃ dehamabhigacchanti yathākarma yathāśrutam /",
+     "translation": "Having died—having abandoned this body—they go to those [births/worlds], down to immobile ones, according to karma and according to what has been heard."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The compound is explained as ‘those who kill the Self,’ but Śaṅkara immediately makes this metaphorical: the Self is existent and eternal; through ignorance its proper fruit—awareness of deathlessness and the like—is concealed as though killed. The people meant are avidvāṃsaḥ.",
+   "options_considered": [
+    "literal suicides",
+    "people who ritually kill a self/soul",
+    "ignorant people who, through avidyā, obscure the realization of the Self"
+   ],
+   "chosen": "ātmahanaḥ janāḥ are the ignorant who obscure the Self, not literal suicides",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "ātmānaṃ ghnantītyātmahanāḥ /",
+     "translation": "They are ‘self-killers’ because they kill the Self. The form ātmahanāḥ is printed in the commentary, but the checked mūla has ātmahano = pausal ātmahanaḥ."
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "ke te janāḥ ye 'vidvāṃsaḥ /",
+     "translation": "Who are those people? Those who are ignorant."
+    },
+    {
+     "lines": [
+      8,
+      9
+     ],
+     "quote": "kathaṃ ta ātmānaṃ nityaṃ hiṃsanti / avidyādoṣeṇa vidyamānasyātmanaḥ tiraskaraṇāt vidyamānasya ātmano yatkāryaṃ phalamajarāmaratvādisaṃvedanalakṣaṇaṃ taddhatasyeva tirobhūtaṃ bhavatīti prākṛtāvidvāṃso janāḥ janāḥ ātmahana ucyante /",
+     "translation": "How do they constantly injure the Self? Because, through the fault of ignorance, they conceal the existent Self; the fruit of the existent Self, marked by awareness of freedom from old age and death, becomes hidden as though killed. Thus ordinary ignorant people are called self-killers."
+    },
+    {
+     "lines": [
+      10
+     ],
+     "quote": "tena hyātmahananadoṣeṇa saṃsaranti te",
+     "translation": "For by that fault of self-killing they transmigrate."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The pronouns are construed correlatively with te as the subject of abhigacchanti; the commentary’s question ‘Who are those people?’ and answer ‘the ignorant’ confirms that te is the people mentioned by the relative clause, not a second-person or possessive pronoun.",
+   "options_considered": [
+    "te as enclitic ‘of you/to you’",
+    "te as nominative plural ‘they’ correlative with ye ke ca",
+    "ye ke ca as simple interrogative ‘who?’",
+    "ye ke ca as indefinite relative ‘whoever/all who’"
+   ],
+   "chosen": "ye ke ca ... janāḥ is an indefinite relative subject: ‘whatever people / all who’",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "ke te janāḥ ye 'vidvāṃsaḥ /",
+     "translation": "Who are those people? Those who are ignorant."
+    },
+    {
+     "lines": [
+      10
+     ],
+     "quote": "saṃsaranti te",
+     "translation": "They transmigrate."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Asuric—nāma being only an expletive—are those worlds,\nthe fruits of action, births, covered by blind darkness, by ignorance.\nTo those, down even to immobile forms, after death, having left this body, go\nwhatever ignorant people are killers of the Self (ātma-hanaḥ).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render asuryāḥ as ‘sunless’; Śaṅkara instead takes it as asuric in relation to asuras.",
+  "It might translate nāma strongly as ‘called by name’; Śaṅkara says it is an expletive particle.",
+  "It might treat lokāḥ simply as external worlds; Śaṅkara glosses them as karmic fruits, births/existences to be experienced.",
+  "It might take andhena tamasā as physical darkness only; Śaṅkara identifies it as ignorance of the nature of non-seeing.",
+  "It might read ātmahanaḥ as literal suicides; Śaṅkara explains them as ignorant people who conceal the ever-existent Self as though killing it."
+ ],
+ "analyzer_disagreements": [
+  "The top-level api_seg omitted asuryāḥ, but local_S/local_SLM, the checked mūla, and the commentary require it; it is analyzed as asurya- Pum Prathama Bahu.",
+  "ByT5 lemmatizes āvṛtāḥ as āvṛ; here the inflected word is given as the subanta stem āvṛta, with a note that it is a past passive participle from ā-√vṛ.",
+  "ByT5 gives pretya as pre; here it is analyzed explicitly as the absolutive pretya from pra + √i.",
+  "ByT5 lemmatizes abhigacchanti as abhigam; per the required format, the bare root is gam with prefix abhi.",
+  "ByT5 lemmatizes ke as ka; revised to kim because the Pāṇinian pronominal stem kim derives m. nom. pl. ke, while the verifier rejected ka for this surface.",
+  "ByT5 splits ātma_hanaḥ into two tokens; per the compound-analysis requirement it is treated as one inflected compound stem ātmahan with tatpuruṣa samāsa."
+ ],
+ "open_questions": [
+  "Line 4 prints bhujyanta; given the unproofread caveat, this appears to stand for bhujyante, but the intended gloss janmāni is clear.",
+  "Line 6 prints ātmahanāḥ, whereas the checked mūla’s sandhi ātmahano requires pausal ātmahanaḥ from stem ātmahan; the commentary is therefore cited for the gloss ātmānaṃ ghnanti, not for the exact mūla form."
+ ],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15198,
+   "completion_tokens": 27128,
+   "reasoning_tokens": 18943
+  },
+  "est_cost": 0.4525,
+  "reverified": true
+ },
+ "mula": "asuryā nāma te lokā andhena tamasāvṛtāḥ | tāṃste pretyābhigacchanti ye ke cātmahano janāḥ",
+ "commentary_lines": [
+  "asuryāḥ paramātmabhāvamadvayamapekṣya devādayo 'pyasurāsteṣāñca svabhūtā lokā asuryā nāma /",
+  "nāmaśabdo 'narthako nipātaḥ /",
+  "te lokāḥ karmaphalāni /",
+  "lokyante dṛśyante bhujyanta iti janmāni /",
+  "andhenādarśanātmakenājñānena tamasāvṛtā ācchāditāḥ tāṃsthāvarāntānpretya tyaktvemaṃ dehamabhigacchanti yathākarma yathāśrutam /",
+  "ātmānaṃ ghnantītyātmahanāḥ /",
+  "ke te janāḥ ye 'vidvāṃsaḥ /",
+  "kathaṃ ta ātmānaṃ nityaṃ hiṃsanti /",
+  "avidyādoṣeṇa vidyamānasyātmanaḥ tiraskaraṇāt vidyamānasya ātmano yatkāryaṃ phalamajarāmaratvādisaṃvedanalakṣaṇaṃ taddhatasyeva tirobhūtaṃ bhavatīti prākṛtāvidvāṃso janāḥ janāḥ ātmahana ucyante /",
+  "tena hyātmahananadoṣeṇa saṃsaranti te"
+ ]
+}

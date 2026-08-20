@@ -1,0 +1,622 @@
+{
+ "unit": "2.12",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tu",
+   "surface_in_sandhi": "tv",
+   "lemma": "tu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "External sandhi: tu + eva appears as tv eva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evāhaṃ",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-token evāhaṃ = eva + aham.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "aham",
+   "surface_in_sandhi": "evāhaṃ",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First-person pronoun. The form itself is common to all genders, but in this context it refers to Kṛṣṇa and is recorded as masculine for the nominal analysis.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "jātu",
+   "surface_in_sandhi": "jātu",
+   "lemma": "jātu",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nāsaṃ",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-token nāsaṃ = na + āsam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "āsam",
+   "surface_in_sandhi": "nāsaṃ",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lan",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Imperfect first singular: ‘I was’; printed in the sandhi-token nāsaṃ = na + āsam, with final m represented by anusvāra before na.",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lan/Uttama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tvam",
+   "surface_in_sandhi": "tvaṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun. The form itself is common to all genders, but in this context it refers to Arjuna and is recorded as masculine for the nominal analysis. Pausal tvam appears as tvaṃ before neme.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "neme",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-token neme = na + ime.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ime",
+   "surface_in_sandhi": "neme",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative plural, agreeing with janādhipāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "janādhipāḥ",
+   "surface_in_sandhi": "janādhipāḥ",
+   "lemma": "janādhipa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "janānām adhipaḥ",
+    "members": [
+     "jana",
+     "adhipa"
+    ]
+   },
+   "note": "In apposition to ime: ‘these lords/rulers of men.’",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem janādhipa as Pum/Prathama/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "caiva",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-token caiva = ca + eva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "caiva",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed in the sandhi-token caiva = ca + eva.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhaviṣyāmaḥ",
+   "surface_in_sandhi": "bhaviṣyāmaḥ",
+   "lemma": "bhū",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "bhū",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Simple future, first plural: ‘we shall be/exist.’",
+   "verification": {
+    "status": "pass",
+    "detail": "bhū Lrt/Uttama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sarve",
+   "surface_in_sandhi": "sarve",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative plural qualifying vayam as ‘we all,’ in the male group of Kṛṣṇa, Arjuna, and the kings.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "vayam",
+   "surface_in_sandhi": "vayam",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First-person pronoun. The form itself is common to all genders, but in this context it denotes the male group of Kṛṣṇa, Arjuna, and the kings and is recorded as masculine for the nominal analysis.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ataḥ",
+   "surface_in_sandhi": "ataḥ",
+   "lemma": "atas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablatival adverb; Śaṅkara expands it as ‘from this, from the destruction of the body.’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "param",
+   "surface_in_sandhi": "param",
+   "lemma": "param",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial param with ablatival ataḥ: ‘after/beyond this,’ not an adjectival accusative here.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The first na takes scope over the whole past non-existence assertion, while jātu is glossed as kadācit, ‘at any time.’ The commentary explicitly turns na ... nāsam into kintv āsam eva, ‘rather I existed indeed,’ and supplies the parallel predicates for tvam and janādhipāḥ. Line 4 is textually awkward as printed, but its clear positive gloss and the parallel with line 3 support the same construal for the kings.",
+   "options_considered": [
+    "‘I was not’ as a simple past denial of existence",
+    "negated non-existence: ‘I never was not’",
+    "a claim only about bodily historical survival"
+   ],
+   "chosen": "The past clauses express negated non-existence, hence positive past existence: ‘never did I not exist; nor you; nor these lords of men.’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "na tv eva jātu kadācid ahaṃ nāsam kintv āsam eva |",
+     "translation": "‘Not indeed ever, at any time, was I not; rather, I existed indeed.’"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "atīteṣu dehotpatti-vināśeṣu ghaṭādiṣu viyad iva nitya eva aham āsam ity abhiprāyaḥ |",
+     "translation": "‘The intention is: through past productions and destructions of bodies, like space in pots and the like, I was eternal indeed.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tathā na tvaṃ nāsīḥ, kintv āsīr eva |",
+     "translation": "‘Likewise, not were you not; rather, you were indeed.’"
+    },
+    {
+     "lines": [
+      4
+     ],
+     "quote": "tathā neme janādhipā āsan",
+     "translation": "‘Likewise, these lords of men were ...’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara glosses na caiva na bhaviṣyāmaḥ with kintu bhaviṣyāma eva, so bhaviṣyāmaḥ is existential ‘we shall be,’ not merely ‘we shall become.’ He also expands ataḥ param as ato 'smād deha-vināśāt param uttara-kāle 'pi, fixing the sense as the later time after this body’s destruction.",
+   "options_considered": [
+    "future non-existence: ‘we shall not be’",
+    "mere becoming into another state",
+    "continued existence: ‘we shall be’",
+    "ataḥ param as ‘higher than this’ rather than ‘after this’"
+   ],
+   "chosen": "The future clause denies future non-existence: ‘we shall all never not exist’; ataḥ param means ‘after this,’ specified as after the body’s destruction.",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "tathā na caiva na bhaviṣyāmaḥ, kintu bhaviṣyāma eva, sarve vayam ato 'smād deha-vināśāt param uttara-kāle 'pi |",
+     "translation": "‘Likewise, not indeed shall we not be; rather, we shall be indeed, all of us, after this—after this destruction of the body—even in the later time.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The translation includes ‘in Self-nature (ātma-svarūpa)’ because Śaṅkara states this as the artha of the verse. The plural is retained grammatically, but its doctrinal force is restricted by line 7: it follows empirical identification with bodies, not an intention to assert Self-difference.",
+   "options_considered": [
+    "the pronouns refer only to perishable bodies",
+    "the plural asserts many ultimately distinct selves",
+    "the plural is conventional, while the intended referent is eternal Self-nature"
+   ],
+   "chosen": "The verse is to be understood with respect to eternal Self-nature, while the plural ‘we all’ does not imply real division of the Self.",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "triṣv api kāleṣu nityā ātma-svarūpeṇa ity arthaḥ |",
+     "translation": "‘The meaning is: eternal in all three times, by Self-nature.’"
+    },
+    {
+     "lines": [
+      7
+     ],
+     "quote": "dehābhedānuvṛttyā bahu-vacanam, nātma-bhedābhiprāyeṇa ||bhgs_2.12||",
+     "translation": "‘The plural is because of the continuance of identification/non-difference with bodies, not with an intention of difference in the Self.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The commentary does not unpack the compound. On grammar, ime janādhipāḥ is a masculine nominative plural noun phrase, and janādhipa is best analysed as janānām adhipaḥ, a genitive tatpuruṣa. It is not vocative and not taken as a proper name.",
+   "options_considered": [
+    "karmadhāraya: ‘men who are lords’",
+    "ṣaṣṭhī-tatpuruṣa: ‘lords of men’",
+    "unanalysed proper name/title"
+   ],
+   "chosen": "janādhipāḥ is a nominative plural ṣaṣṭhī-tatpuruṣa, ‘lords/rulers of men.’",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Yet indeed, never at any time did I not exist, nor you, nor these lords of men;\nand indeed, after this [body’s destruction], we all shall never not exist—in Self-nature (ātma-svarūpa).",
+ "one_shot_delta": [
+  "A commentary-blind translation might miss the double negation and render the verse as if Kṛṣṇa denied past or future existence; Śaṅkara repeatedly glosses it as positive existence: āsam eva, āsīr eva, bhaviṣyāma eva.",
+  "It might take ataḥ param vaguely as ‘beyond this’ or ‘higher than this’; Śaṅkara specifies ‘after this body’s destruction, in the later time also’ (line 5).",
+  "It might read the plural ‘we all’ as a doctrine of many ultimately separate selves; Śaṅkara explicitly says the plural is not intended to assert Self-difference (line 7)."
+ ],
+ "analyzer_disagreements": [
+  "ByT5’s bhaviṣyāmaḥ_bhū_PFu1In is normalized to the requested Pāṇinian description: root bhū, Kartari, Lrt, Uttama Bahu; this is not a substantive disagreement.",
+  "ByT5 did not mark janādhipāḥ as a compound; I add the required ṣaṣṭhī-tatpuruṣa analysis janānām adhipaḥ.",
+  "ByT5 left ataḥ and param without explicit morphology; I analyse both as avyayas, with param construed adverbially with ataḥ on the basis of the commentary at line 5.",
+  "Revision after verifier report: aham, tvam, and vayam are now supplied with masculine linga in addition to their already-given prathamā vibhakti and vacana; the pronoun forms are gender-common, but the present referents are masculine."
+ ],
+ "open_questions": [
+  "Commentary line 4 appears textually awkward: ‘tathā neme janādhipā āsan kintv āsann eva’ is redundant and likely reflects a lost na or other minor corruption. I rely only on its clear positive-existence sense and on the parallel gloss in line 3."
+ ],
+ "verification_summary": {
+  "pass": 21,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 15235,
+   "completion_tokens": 20816,
+   "reasoning_tokens": 13569
+  },
+  "est_cost": 0.3579,
+  "reverified": true
+ },
+ "mula": "na tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ | na caiva na bhaviṣyāmaḥ sarve vayam ataḥ param",
+ "commentary_lines": [
+  "na tv eva jātu kadācid ahaṃ nāsam kintv āsam eva |",
+  "atīteṣu dehotpatti-vināśeṣu ghaṭādiṣu viyad iva nitya eva aham āsam ity abhiprāyaḥ |",
+  "tathā na tvaṃ nāsīḥ, kintv āsīr eva |",
+  "tathā neme janādhipā āsan kintv āsann eva |",
+  "tathā na caiva na bhaviṣyāmaḥ, kintu bhaviṣyāma eva, sarve vayam ato 'smād deha-vināśāt param uttara-kāle 'pi |",
+  "triṣv api kāleṣu nityā ātma-svarūpeṇa ity arthaḥ |",
+  "dehābhedānuvṛttyā bahu-vacanam, nātma-bhedābhiprāyeṇa ||bhgs_2.12||",
+  "tatra katham iva nitya ātmeti dṛṣṭāntam āha -"
+ ]
+}

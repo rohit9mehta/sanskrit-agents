@@ -1,0 +1,674 @@
+{
+ "unit": "4",
+ "analysis": [
+  {
+   "surface": "anejat",
+   "surface_in_sandhi": "anejad",
+   "lemma": "anejat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na ejat",
+    "members": [
+     "an",
+     "ejat"
+    ]
+   },
+   "note": "Neuter nominative singular, construed with the neuter subject ‘tat/ātmatattva’; nominative and accusative are formally identical. The bhāṣya explicitly resolves it as privative: anejat = na ejat.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem anejat as Napumsaka/Prathama/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "ekam",
+   "surface_in_sandhi": "ekaṃ",
+   "lemma": "eka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agrees with the neuter ātman-principle; the bhāṣya has taccaikaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "eka Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "manasaḥ",
+   "surface_in_sandhi": "manaso",
+   "lemma": "manas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of comparison with javīyaḥ: ‘swifter than the mind.’",
+   "verification": {
+    "status": "pass",
+    "detail": "manas Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "javīyaḥ",
+   "surface_in_sandhi": "javīyo",
+   "lemma": "javīyas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Comparative adjective, neuter nominative singular agreeing with the ātman-principle.",
+   "verification": {
+    "status": "pass",
+    "detail": "javīyas Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nai",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enat",
+   "surface_in_sandhi": "enad",
+   "lemma": "enad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of āpnuvan; Śaṅkara glosses it as etat prakṛtam ātmatattvam, ‘this self-principle now under discussion.’",
+   "verification": {
+    "status": "pass",
+    "detail": "enad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "devāḥ",
+   "surface_in_sandhi": "devā",
+   "lemma": "deva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Grammatically masculine nominative plural; Śaṅkara interprets the ‘shining ones’ here as the eye and other sense-organs.",
+   "verification": {
+    "status": "pass",
+    "detail": "deva Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "āpnuvan",
+   "surface_in_sandhi": "āpnuvan",
+   "lemma": "āp",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "āp",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lan",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Vedic augmentless imperfect/injunctive in sense; the bhāṣya glosses as na prāptavantaḥ, ‘did not attain/reach.’",
+   "verification": {
+    "status": "pass",
+    "detail": "āp Lan/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pūrvam",
+   "surface_in_sandhi": "pūrvam",
+   "lemma": "pūrvam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial accusative lexicalized as an indeclinable: ‘before, beforehand.’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "arṣat",
+   "surface_in_sandhi": "arṣat",
+   "lemma": "arṣat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial stem from √ṛṣ, neuter accusative singular agreeing with enat: ‘this, gone/rushing before.’ This replaces the earlier finite Lan analysis; the bhāṣya’s pūrvam eva gataṃ supports the participial/resultative construal.",
+   "verification": {
+    "status": "pass",
+    "detail": "arṣat Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter nominative singular subject of atyeti; refers to the ātmatattva.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dhāvataḥ",
+   "surface_in_sandhi": "dhāvato",
+   "lemma": "dhāvat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial stem used substantively/adjectivally with anyān: ‘the others who run.’",
+   "verification": {
+    "status": "pass",
+    "detail": "dhāvat Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "anyān",
+   "surface_in_sandhi": "'nyān",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of atyeti; Śaṅkara identifies the ‘others’ as mind, speech, senses, etc., distinct from the self.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "atyeti",
+   "surface_in_sandhi": "atyeti",
+   "lemma": "i",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "i",
+    "prefixes": [
+     "ati"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present 3rd singular: ‘passes beyond, outstrips.’",
+   "verification": {
+    "status": "pass",
+    "detail": "ati-i Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tiṣṭhat",
+   "surface_in_sandhi": "tiṣṭhat",
+   "lemma": "tiṣṭhat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present participial adjective, neuter nominative singular agreeing with tat; Śaṅkara takes it to indicate the self’s own changelessness.",
+   "verification": {
+    "status": "pass",
+    "detail": "tiṣṭhat Napumsaka/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "tasmin",
+   "surface_in_sandhi": "tasminn",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular: ‘in that,’ glossed as tasminn ātmatattve sati, in the self-principle as the existent substratum.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "apaḥ",
+   "surface_in_sandhi": "apo",
+   "lemma": "ap",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Formally feminine accusative plural of ap, the form commonly meaning ‘waters.’ It is not translated ‘waters’ here, because Śaṅkara explicitly glosses apaḥ as karmāṇi, ‘actions/works.’",
+   "verification": {
+    "status": "pass",
+    "detail": "ap Stri/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "mātariśvā",
+   "surface_in_sandhi": "mātariśvā",
+   "lemma": "mātariśvan",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine nominative singular; Śaṅkara identifies Mātariśvan here with Vāyu, the life-bearing cosmic principle.",
+   "verification": {
+    "status": "pass",
+    "detail": "mātariśvan Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dadhāti",
+   "surface_in_sandhi": "dadhāti",
+   "lemma": "dhā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dhā",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Present 3rd singular: ‘places/allots’; Śaṅkara gives vibhajati as the main explanation and dhārayati as an alternative.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhā Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The privative compound is read literally as na ejat and is then defined as absence of kampana/calana, namely not falling away from its own state. This fixes the translation ‘unmoving’ and justifies adding the interpretive force ‘changeless.’",
+   "options_considered": [
+    "‘unmoving’ as a simple physical predicate",
+    "‘not trembling/shaking’ with the stronger Vedāntic sense of changelessness",
+    "taking anejat as two separate words an + ejat"
+   ],
+   "chosen": "anejat means ‘unmoving, not shaking,’ i.e. changeless in its own nature, not merely physically still.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "anejat na ejat / ejṛ kampane, kampanaṃ calanaṃ svāvasthāpracyutistadvarjitaṃ sarvadaikarūpamityarthaḥ /",
+     "translation": "‘Anejat’ means ‘not ejat.’ The root ejṛ means trembling; trembling is motion, falling away from one’s own state. Devoid of that, always of one form—this is the meaning."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The bhāṣya explicitly glosses manas as saṅkalpa/vikalpa/antaḥkaraṇa and explains why the self is called faster than it: when the mind swiftly goes even to Brahmaloka, the appearance of self-consciousness is grasped as if already there first.",
+   "options_considered": [
+    "genitive ‘of the mind’",
+    "ablative comparison ‘than the mind’",
+    "understanding manas as generic ‘thought’ without the antaḥkaraṇa nuance"
+   ],
+   "chosen": "manasaḥ is an ablative of comparison, and manas is the internal organ characterized by resolve and doubt; javīyaḥ means ‘swifter than the mind.’",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "taccaikaṃ sarvabhūteṣu manasaḥ saṅkalpādilakṣaṇād javīyo javavattaram /",
+     "translation": "And that one in all beings is swifter than the mind, which is characterized by resolve and the like—more possessed of speed."
+    },
+    {
+     "lines": [
+      6,
+      7
+     ],
+     "quote": "manaso 'ntaḥkaraṇasya saṅkalpavikalpalakṣaṇasyopādheranuvarttanād ... tasmin manasi brahmalokādīn drutaṃ gacchati sati prathamaṃ prāpta ivātmacaitanyāvabhāso gṛhyate 'to manaso javīya ityāha /",
+     "translation": "Because it follows the limiting adjunct, the mind, the internal organ characterized by resolve and doubt ... when that mind goes swiftly to Brahmaloka and the like, the appearance of self-consciousness is apprehended as if it had arrived first; therefore he says ‘swifter than the mind.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara derives devāḥ from dyotana and identifies them with the eye and other senses. He glosses āpnuvan as prāptavantaḥ and says that even the mere appearance of the self does not become an object for the senses because their operation is mediated by the mind.",
+   "options_considered": [
+    "‘gods’ in the ordinary mythological sense",
+    "‘shining ones’ as the sense-organs",
+    "taking āpnuvan as ‘obtained’ in a general sense rather than epistemically ‘attained as object’"
+   ],
+   "chosen": "devāḥ are the sense-organs, not the gods as independent deities; na āpnuvan means ‘did not reach/attain/objectify this self-principle.’",
+   "evidence": [
+    {
+     "lines": [
+      8,
+      9
+     ],
+     "quote": "nainaddevā dyotanāddevāścakṣurādīnīndriyāṇyetatprakṛtamātmatattvaṃ nāpnuvanna prāptavantaḥ / tebhyo mano javīyaḥ manovyāpāravyavahitatvād ābhāsamātramapi ātmano naiva devānāṃ viṣayībhavati /",
+     "translation": "‘The devāḥ’: because of illumination they are devāḥ, the eye and other sense-organs. They did not reach—did not attain—this self-principle now under discussion. The mind is swifter than them; because they are separated by the operation of the mind, not even a mere appearance of the self becomes an object for the senses."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The bhāṣya glosses the phrase as pūrvam eva gataṃ and grounds it in all-pervasiveness like space. It also states that worldly changes belong to adjuncts, while in its own unconditioned form the self is changeless.",
+   "options_considered": [
+    "literal locomotion of the self",
+    "priority by all-pervasiveness, with apparent motion due to adjuncts",
+    "temporal priority only, without the Vedāntic qualification"
+   ],
+   "chosen": "pūrvam arṣat means ‘gone before beforehand,’ but this motion is only from the standpoint of limiting adjuncts; in itself the self is all-pervasive and changeless.",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "yasmājjavanānmanaso 'pi pūrvamarṣat pūrvameva gataṃ vyomavadvyāpitvāt sarvavyāpi tadātmatattva sarvasaṃsāradharmavarjitaṃ svena nirupādhikena svarūpeṇāvikriyameva sadupādhikṛtāḥ sarvāḥ saṃsāravikriyā anubhavatītyavivekināṃ mūḍhānāmanekamiva ca pratidehaṃ pratyavabhāsata ityetadāha /",
+     "translation": "Because, before even the swift mind, it is gone before—already gone—since, being pervasive like space, that self-principle is all-pervasive, devoid of all worldly attributes, and, in its own unconditioned form, changeless; yet, for the undiscriminating and deluded, it experiences all worldly changes produced by adjuncts and appears as though many in each body. This is what he says."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Śaṅkara identifies the other runners and glosses atyeti as ‘as if passing beyond.’ He then says that tiṣṭhat itself shows the intended ‘as if’: the self itself is changeless.",
+   "options_considered": [
+    "the self literally runs faster than other moving entities",
+    "the self figuratively outstrips mind, speech, and senses while remaining changeless",
+    "taking dhāvataḥ as genitive singular ‘of the running one’"
+   ],
+   "chosen": "dhāvato ’nyān atyeti tiṣṭhat means ‘standing still, it outstrips the other runners’; the ‘others’ are mind, speech, senses, etc., distinct from the self, and the outstripping is figurative.",
+   "evidence": [
+    {
+     "lines": [
+      11,
+      12
+     ],
+     "quote": "taddhāvato drutaṃ gacchato 'nyānātmavilakṣaṇānmanovāgindriyaprabhṛtīnatyeti atītya gacchati iva / ivārthaṃ svayameva darśayati tiṣṭhaditi svayamavikriyameva sadityarthaḥ /",
+     "translation": "That, the others who run, who go swiftly—mind, speech, senses, and the like, distinct from the self—it outstrips, as though going beyond them. The word ‘standing’ itself shows the sense ‘as though’: the meaning is that it itself is simply changeless."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Śaṅkara glosses tasmin as tasminn ātmatattve sati, nityacaitanyasvabhāve, and concludes that all modifications of instruments and effects occur only when the eternal consciousness-self exists as their basis.",
+   "options_considered": [
+    "‘in it’ as a vague spatial locative",
+    "locative of ontological dependence: in the self-principle as substratum",
+    "locative referring to the mind"
+   ],
+   "chosen": "tasmin is locative in the self-principle as the ever-conscious substratum in which all activities occur.",
+   "evidence": [
+    {
+     "lines": [
+      13
+     ],
+     "quote": "tasminnātmatattve sati nityacaitanyasvabhāve",
+     "translation": "When that self-principle exists, whose nature is eternal consciousness..."
+    },
+    {
+     "lines": [
+      17
+     ],
+     "quote": "sarvā hi kāryakaraṇādivikriyā nityacaitanyātmasvarūpe sarvāspadabhūte satyeva bhavantītyarthaḥ",
+     "translation": "For all modifications of effects, instruments, and so on occur only when the eternal-consciousness nature of the self exists as the basis of all."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Śaṅkara directly identifies mātariśvā with vāyu and elaborates it as the bearer of all living breaths, the activity-principle, the sūtra in which the aggregates of effects and instruments are woven.",
+   "options_considered": [
+    "Mātariśvan as Agni or a mythic fire-bringer",
+    "Mātariśvan as ordinary wind only",
+    "Mātariśvan as Vāyu/sūtra, the cosmic life/activity principle"
+   ],
+   "chosen": "mātariśvā is Vāyu, the life-bearing, activity-formed cosmic principle called sūtra, not primarily Agni in this passage.",
+   "evidence": [
+    {
+     "lines": [
+      13
+     ],
+     "quote": "mātariśvā vāyuḥ sarvaprāṇabhṛt kriyātmako yadāśrayāṇi kāryakaraṇajātāni yasminnotāni protāni ca yatsūtrasaṃjñakaṃ sarvasya jagato vighārayitṛ sa mātariśvā",
+     "translation": "Mātariśvan is Vāyu, the bearer of all breaths, of the nature of activity; the aggregates of effects and instruments have it as support, are woven warp and woof in it, it is called the sūtra, the sustainer of the whole world—that is Mātariśvan."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Śaṅkara explicitly glosses apaḥ as karmāṇi and specifies both living beings’ movements and cosmic functions such as burning, shining, raining. He glosses dadhāti as vibhajati, then adds dhārayati as an alternative supported by śruti.",
+   "options_considered": [
+    "apaḥ as ‘waters’ and dadhāti as ‘places’",
+    "apaḥ translated as ‘actions/works’ and dadhāti as ‘allots/distributes’",
+    "including Śaṅkara’s alternative ‘supports’"
+   ],
+   "chosen": "apaḥ is translated as ‘actions/works’ on Śaṅkara’s authority, and dadhāti primarily means ‘allots/distributes,’ with ‘supports’ as Śaṅkara’s alternative.",
+   "evidence": [
+    {
+     "lines": [
+      13
+     ],
+     "quote": "apaḥ karmāṇi prāṇināṃ ceṣṭālakṣaṇāni, agnyādityaparjanyādīnāṃ jvalanadahanaprakāśābhivarṣaṇādilakṣaṇāni dadhāti vibhajati ityarthaḥ /",
+     "translation": "Apaḥ means actions: those of living beings, characterized as movements, and those of fire, sun, rain-cloud, and so on, characterized by blazing, burning, shining, raining, and the like. Dadhāti means ‘distributes/allots.’"
+    },
+    {
+     "lines": [
+      14,
+      15,
+      16
+     ],
+     "quote": "dhārayatīti vā\"bhīṣāsmādvātaḥ pavate\" (tai. u. 2 / 8 / 1) ityādi śrutibhyaḥ /",
+     "translation": "Or it means ‘supports,’ on the basis of scriptural passages such as ‘from fear of him the wind blows’ (Taittirīya Upaniṣad 2.8.1)."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Unmoving, one, swifter than the mind—\nthe senses, the “shining ones” (devāḥ), did not reach this,\nalready gone before.\nStanding still, it outstrips the other runners.\nIn that self-principle, Mātariśvan, the Wind, allots the actions.",
+ "one_shot_delta": [
+  "A commentary-blind translation would likely render devāḥ as ‘gods’; Śaṅkara instead takes them as the eye and other sense-organs.",
+  "It would likely render apaḥ as ‘waters’; Śaṅkara explicitly glosses it as karmāṇi, ‘actions/works.’",
+  "It might take the verse’s motion language literally, as if the self actually runs or moves; Śaṅkara insists that all motion is only figurative or due to adjuncts, while the self is in itself avikriya, changeless.",
+  "It might miss that tasmin is not merely spatial ‘in it’ but dependence on the self-principle as the eternal-consciousness substratum of all activities."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 segmented anejat as an + ejat; following the bhāṣya’s anejat na ejat, it is treated as a single privative nañ-tatpuruṣa adjective in the mūla.",
+  "pūrvam was tagged as a nominal form; here it is treated as an adverbial avyaya, supported by Śaṅkara’s pūrvam eva gataṃ."
+ ],
+ "open_questions": [
+  "The form apaḥ is formally feminine accusative plural and commonly means ‘waters’; Śaṅkara nevertheless glosses its referent here as karmāṇi, ‘actions/works.’ The apparatus therefore keeps the checkable feminine morphology while translating according to the bhāṣya."
+ ],
+ "verification_summary": {
+  "pass": 19,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 19613,
+   "completion_tokens": 23791,
+   "reasoning_tokens": 13310
+  },
+  "est_cost": 0.4157,
+  "reverified": true
+ },
+ "mula": "anejad ekaṃ manaso javīyo nainaddevā āpnuvanpūrvamarṣat | taddhāvato 'nyānatyeti tiṣṭhat tasminn apo mātariśvā dadhāti",
+ "commentary_lines": [
+  "anejat na ejat /",
+  "ejṛ kampane, kampanaṃ calanaṃ svāvasthāpracyutistadvarjitaṃ sarvadaikarūpamityarthaḥ /",
+  "taccaikaṃ sarvabhūteṣu manasaḥ saṅkalpādilakṣaṇād javīyo javavattaram /",
+  "kathaṃ viruddhamucyate dhruvaṃ niścalamidaṃ manaso javīya iti ca /",
+  "naiṣa doṣaḥ /",
+  "nirupādhyupādhimattvenopapatteḥ tatra nirupādhikena svena rūpeṇocyate anejadekamiti manaso 'ntaḥkaraṇasya saṅkalpavikalpalakṣaṇasyopādheranuvarttanād iha dehasthasya manaso brahmalokādidūragamanaṃ saṅkalpena kṣaṇamātrādbhavatītyato manaso javiṣṭhatvaṃ loke prasiddham /",
+  "tasmin manasi brahmalokādīn drutaṃ gacchati sati prathamaṃ prāpta ivātmacaitanyāvabhāso gṛhyate 'to manaso javīya ityāha /",
+  "nainaddevā dyotanāddevāścakṣurādīnīndriyāṇyetatprakṛtamātmatattvaṃ nāpnuvanna prāptavantaḥ /",
+  "tebhyo mano javīyaḥ manovyāpāravyavahitatvād ābhāsamātramapi ātmano naiva devānāṃ viṣayībhavati /",
+  "yasmājjavanānmanaso 'pi pūrvamarṣat pūrvameva gataṃ vyomavadvyāpitvāt sarvavyāpi tadātmatattva sarvasaṃsāradharmavarjitaṃ svena nirupādhikena svarūpeṇāvikriyameva sadupādhikṛtāḥ sarvāḥ saṃsāravikriyā anubhavatītyavivekināṃ mūḍhānāmanekamiva ca pratidehaṃ pratyavabhāsata ityetadāha /",
+  "taddhāvato drutaṃ gacchato 'nyānātmavilakṣaṇānmanovāgindriyaprabhṛtīnatyeti atītya gacchati iva /",
+  "ivārthaṃ svayameva darśayati tiṣṭhaditi svayamavikriyameva sadityarthaḥ /",
+  "tasminnātmatattve sati nityacaitanyasvabhāve mātariśvā vāyuḥ sarvaprāṇabhṛt kriyātmako yadāśrayāṇi kāryakaraṇajātāni yasminnotāni protāni ca yatsūtrasaṃjñakaṃ sarvasya jagato vighārayitṛ sa mātariśvā; apaḥ karmāṇi prāṇināṃ ceṣṭālakṣaṇāni, agnyādityaparjanyādīnāṃ jvalanadahanaprakāśābhivarṣaṇādilakṣaṇāni dadhāti vibhajati ityarthaḥ /",
+  "dhārayatīti vā\"bhīṣāsmādvātaḥ pavate\" (tai. u. 2 /",
+  "8 /",
+  "1) ityādi śrutibhyaḥ /",
+  "sarvā hi kāryakaraṇādivikriyā nityacaitanyātmasvarūpe sarvāspadabhūte satyeva bhavantītyarthaḥ"
+ ]
+}

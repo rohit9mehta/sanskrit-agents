@@ -1,0 +1,369 @@
+{
+ "unit": "2.4",
+ "analysis": [
+  {
+   "surface": "katham",
+   "surface_in_sandhi": "kathaṃ",
+   "lemma": "katham",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative adverb; final -m appears as anusvāra before bh- in the printed sandhi form.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhīṣmam",
+   "surface_in_sandhi": "bhīṣmam",
+   "lemma": "bhīṣma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular proper name, one of the two objects of pratiyotsyāmi.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhīṣma Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "aham",
+   "surface_in_sandhi": "ahaṃ",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "First-person pronoun; suppletive nominative singular aham. Final -m appears as anusvāra before s- in the printed sandhi form. The form itself is not gender-marked; linga is supplied as Pum because the speaker, Arjuna, is male and because the verifier requires a linga value for subanta claims.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṃkhye",
+   "surface_in_sandhi": "saṃkhye",
+   "lemma": "saṃkhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular used in the lexical sense ‘battle/conflict’ rather than ‘enumeration’.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃkhya Napumsaka/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "droṇam",
+   "surface_in_sandhi": "droṇaṃ",
+   "lemma": "droṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Masculine accusative singular proper name, coordinated with bhīṣmam by ca. Final -m appears as anusvāra before c- in the printed sandhi form.",
+   "verification": {
+    "status": "pass",
+    "detail": "droṇa Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic conjunction joining bhīṣmam and droṇam.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "madhusūdana",
+   "surface_in_sandhi": "madhusūdana",
+   "lemma": "madhusūdana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "madhuṃ sūdayati iti",
+    "members": [
+     "madhu",
+     "sūdana"
+    ]
+   },
+   "note": "Vocative singular epithet of Kṛṣṇa, not a common-noun predicate here.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem madhusūdana as Pum/Sambodhana/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "iṣubhiḥ",
+   "surface_in_sandhi": "iṣubhiḥ",
+   "lemma": "iṣu",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Trtiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Instrumental plural, ‘with arrows’. The stem iṣu may be masculine or feminine lexically; the ByT5 masculine analysis is retained, and the form is identical for the feminine.",
+   "verification": {
+    "status": "pass",
+    "detail": "iṣu Pum/Trtiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "pratiyotsyāmi",
+   "surface_in_sandhi": "pratiyotsyāmi",
+   "lemma": "yudh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "yudh",
+    "prefixes": [
+     "prati"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "First singular simple future: ‘I shall fight against’. Vidyut-prakriya reports the Ātmanepada result pratiyotsye for this claim; I retain Lṛṭ, kartari, uttama, eka of prati-√yudh because the printed Gītā form pratiyotsyāmi is the Parasmaipada future and MW s.v. pratiyudh gives both Ā. and P. forms. The response schema has no separate pada field.",
+   "verification": {
+    "status": "fail",
+    "detail": "prati-yudh Lrt/Uttama/Eka: fail",
+    "flag": "UNVERIFIED",
+    "claim_derives": [
+     "pratiyotsye"
+    ]
+   }
+  },
+  {
+   "surface": "pūjārhau",
+   "surface_in_sandhi": "pūjārhāv",
+   "lemma": "pūjārha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "pūjām arhati iti",
+    "members": [
+     "pūjā",
+     "arha"
+    ]
+   },
+   "note": "Sandhi: pūjārhau + arisūdana → pūjārhāv arisūdana. Accusative dual adjective-compound in apposition to Bhīṣma and Droṇa.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem pūjārha as Pum/Dvitiya/Dvi: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "arisūdana",
+   "surface_in_sandhi": "arisūdana",
+   "lemma": "arisūdana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "arīn sūdayati iti",
+    "members": [
+     "ari",
+     "sūdana"
+    ]
+   },
+   "note": "Vocative singular compound epithet, ‘slayer of foes’. The supplied MW excerpt for ari is abbreviated, pointing elsewhere; the standard contextual sense is ‘foe/enemy’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem arisūdana as Pum/Sambodhana/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The supplied commentary is silent. Grammatically katham is an indeclinable interrogative; MW s.v. katham, 247,2 gives ‘how? in what manner?’ and also notes that it can simply introduce an interrogation. With the future first singular pratiyotsyāmi, the natural construal is ‘How shall I fight …?’ rather than an indefinite ‘somehow’.",
+   "options_considered": [
+    "‘How shall I …?’ as a direct/rhetorical question",
+    "‘Somehow I shall …’ with an indefinite sense",
+    "A separate exclamation unconnected with pratiyotsyāmi"
+   ],
+   "chosen": "katham is an interrogative of manner/possibility: ‘How shall I …?’",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The supplied commentary is silent. Although saṃkhya can relate to counting, MW s.v. saṃkhya, 1128,1 gives the neuter sense ‘conflict, battle, war’ and notes this sense as occurring ‘only in loc.’; the locative saṃkhye therefore means ‘in battle’.",
+   "options_considered": [
+    "‘in battle/conflict’",
+    "‘in reckoning/enumeration’",
+    "‘in Sāṃkhya doctrine’"
+   ],
+   "chosen": "saṃkhye is locative singular meaning ‘in battle’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "The supplied commentary is silent. MW s.v. pratiyudh, 669,2 glosses prati-√yudh as ‘to fight against’ with an accusative object; hence bhīṣmam and droṇam are governed by pratiyotsyāmi. MW s.v. iṣu, 168,3 gives ‘an arrow’, so iṣubhiḥ is ‘with arrows’. The masculine accusatives and the later accusative dual pūjārhau also show that Bhīṣma and Droṇa are personal names here, not common nouns such as ‘terrible’ or ‘vessel/measure’ from the abbreviated dictionary excerpts.",
+   "options_considered": [
+    "‘fight against Bhīṣma and Droṇa with arrows’",
+    "‘fight for/on behalf of Bhīṣma and Droṇa’",
+    "Take bhīṣma/droṇa as common nouns rather than names"
+   ],
+   "chosen": "bhīṣmam and droṇam are coordinated accusative objects of pratiyotsyāmi; iṣubhiḥ is the instrumental means.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The supplied commentary is silent. The printed pūjārhāv is explained by external sandhi from pūjārhau before a- in arisūdana. MW s.v. pūjā, 641,1 gives ‘honour, worship, respect, reverence’, and MW s.v. arha, 93,3 gives ‘meriting, deserving, worthy of’. Since the verse has two accusative singular names, bhīṣmam and droṇam, pūjārhau is best taken as masculine accusative dual apposition to them: ‘the two worthy of reverence’.",
+   "options_considered": [
+    "Accusative dual compound qualifying Bhīṣma and Droṇa",
+    "Nominative dual predicate unrelated to the accusatives",
+    "Two separate words pūjā and arhau"
+   ],
+   "chosen": "pūjārhau is an accusative dual compound adjective: ‘the two worthy of reverence’.",
+   "evidence": [],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J5",
+   "decision": "The supplied commentary is silent. Both forms are masculine vocative singulars in -a. MW s.v. madhusūdana, 780,3 includes both the literal ‘destroyer of honey’/‘a bee’ and the epic name ‘destroyer of the demon Madhu, N. of Viṣṇu-Kṛṣṇa’; in this address to Kṛṣṇa the latter is required. MW s.v. sūdana, 1242,2 gives the ifc. sense ‘killing, destroying’, so ari-sūdana is ‘slayer of foes’.",
+   "options_considered": [
+    "Vocative epithets: ‘O Madhusūdana … O slayer of foes’",
+    "Literal common-noun madhusūdana as ‘bee/destroyer of honey’",
+    "Treat arisūdana as two separate words rather than one vocative compound"
+   ],
+   "chosen": "madhusūdana and arisūdana are vocative epithets addressed to Kṛṣṇa.",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "How shall I, in battle, fight with arrows against Bhīṣma and Droṇa, O Madhusūdana—those two worthy of reverence, O slayer of foes?",
+ "one_shot_delta": [
+  "The supplied Śaṅkara-bhāṣya is silent on this unit, so there is no Śaṅkara-specific corrective evidence to add.",
+  "A sandhi-blind or analyzer-only rendering might split pūjārhāv into pūjā + arhau; it is instead pūjārhau, an accusative dual compound meaning ‘the two worthy of reverence’.",
+  "A dictionary-first rendering might take madhusūdana literally as ‘destroyer of honey’ or ‘bee’; here it is the vocative Kṛṣṇa-epithet ‘Madhusūdana’.",
+  "The abbreviated dictionary excerpts for bhīṣma and droṇa list common senses, but the grammar and epic context require the personal names Bhīṣma and Droṇa as accusative objects."
+ ],
+ "analyzer_disagreements": [
+  "ByT5’s local_SLM split pūjārhāv as pūjā + arhau; I analyze the printed pūjārhāv as the sandhi-form of one compound adjective pūjārhau (< pūjā-arha), masculine accusative dual, because au + a gives āv before arisūdana and it agrees with the two accusative objects bhīṣmam and droṇam.",
+  "ByT5’s local_SLM split arisūdana as ari + sūdana with sūdana as the inflected vocative; I analyze arisūdana as the inflected compound stem ari-sūdana, masculine vocative singular."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 1,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11434,
+   "completion_tokens": 19889,
+   "reasoning_tokens": 14333
+  },
+  "est_cost": 0.3326,
+  "reverified": true
+ },
+ "mula": "kathaṃ bhīṣmam ahaṃ saṃkhye droṇaṃ ca madhusūdana | iṣubhiḥ pratiyotsyāmi pūjārhāv arisūdana",
+ "commentary_lines": []
+}

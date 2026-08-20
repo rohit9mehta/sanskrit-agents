@@ -1,0 +1,379 @@
+{
+ "unit": "2.62",
+ "analysis": [
+  {
+   "surface": "dhyāyataḥ",
+   "surface_in_sandhi": "dhyāyato",
+   "lemma": "dhyāyat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Present active participial stem, from √dhyai/√dhyā; construed with puṃsaḥ and taking viṣayān as its accusative object.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhyāyat Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "viṣayān",
+   "surface_in_sandhi": "viṣayān",
+   "lemma": "viṣaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object of dhyāyataḥ; rendered contextually as sense-objects.",
+   "verification": {
+    "status": "pass",
+    "detail": "viṣaya Pum/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "puṃsaḥ",
+   "surface_in_sandhi": "puṃsaḥ",
+   "lemma": "puṃs",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive singular; generic masculine rendered as “person.”",
+   "verification": {
+    "status": "pass",
+    "detail": "puṃs Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṅgaḥ",
+   "surface_in_sandhi": "saṅgas",
+   "lemma": "saṅga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of upajāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṅga Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "teṣu",
+   "surface_in_sandhi": "teṣū",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers back to viṣayān; in the printed saṃhitā teṣu + upajāyate appears as teṣūpajāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Saptami/Bahu: pass"
+   }
+  },
+  {
+   "surface": "upajāyate",
+   "surface_in_sandhi": "upajāyate",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jan",
+    "prefixes": [
+     "upa"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada intransitive/kartari: “arises, comes into being”; printed in sandhi as part of teṣūpajāyate, with initial u coalesced.",
+   "verification": {
+    "status": "pass",
+    "detail": "upa-jan Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṅgāt",
+   "surface_in_sandhi": "saṅgāt",
+   "lemma": "saṅga",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of source/cause: “from attachment.”",
+   "verification": {
+    "status": "pass",
+    "detail": "saṅga Pum/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṃjāyate",
+   "surface_in_sandhi": "saṃjāyate",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jan",
+    "prefixes": [
+     "saṃ"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada intransitive/kartari: “is born, arises.”",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃ-jan Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kāmaḥ",
+   "surface_in_sandhi": "kāmaḥ",
+   "lemma": "kāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of saṃjāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "kāma Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "kāmāt",
+   "surface_in_sandhi": "kāmāt",
+   "lemma": "kāma",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of source/cause: “from desire.”",
+   "verification": {
+    "status": "pass",
+    "detail": "kāma Pum/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "krodhaḥ",
+   "surface_in_sandhi": "krodho",
+   "lemma": "krodha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of abhijāyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "krodha Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "abhijāyate",
+   "surface_in_sandhi": "'bhijāyate",
+   "lemma": "jan",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "jan",
+    "prefixes": [
+     "abhi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada intransitive/kartari: “is born, arises”; avagraha in the printed text marks loss of initial a after krodho.",
+   "verification": {
+    "status": "pass",
+    "detail": "abhi-jan Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "With no commentary on this unit, the syntax is decided by agreement and government. dhyāyataḥ agrees with puṃsaḥ in masculine genitive singular, while viṣayān supplies the object of the mental act. The phrase is therefore rendered “for a person dwelling on the sense-objects,” not “from meditating.” The masculine puṃsaḥ is rendered generically as “person.”",
+   "options_considered": [
+    "dhyāyataḥ as ablative cause: “from meditating”",
+    "dhyāyataḥ as genitive singular participle qualifying puṃsaḥ, with viṣayān as object"
+   ],
+   "chosen": "dhyāyataḥ and puṃsaḥ as genitive singulars: “for/of a person contemplating”; viṣayān as the accusative object of the participle",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J2",
+   "decision": "The dictionary range of viṣaya includes sphere/range, including the range of eyes, ears, mind, etc. In this psychological sequence of contemplation, attachment, desire, and anger, “sense-objects” is the appropriate contextual rendering, rather than “territories” or merely “topics.”",
+   "options_considered": [
+    "territories/domains",
+    "topics or objects in general",
+    "sense-objects"
+   ],
+   "chosen": "viṣayān = “sense-objects”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J3",
+   "decision": "saṅga is construed with the locative teṣu, yielding “attachment to/in regard to them.” The ablatives saṅgāt and kāmāt mark the source or cause in the sequence: desire arises from attachment, anger from desire.",
+   "options_considered": [
+    "neutral association/contact only",
+    "attachment or clinging toward the objects",
+    "purely temporal ‘after attachment/desire’ rather than source-causal ablatives"
+   ],
+   "chosen": "saṅgaḥ teṣu = “attachment to them”; saṅgāt and kāmāt as source/causal ablatives",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  },
+  {
+   "id": "J4",
+   "decision": "The three ātmanepada finite verbs are read as intransitive kartari forms of √jan with prefixes upa, saṃ, and abhi. The translation therefore presents a causal arising, not a passive construction requiring an external agent: attachment arises, desire is born, anger is born.",
+   "options_considered": [
+    "passive ‘is produced’ by an implied external maker",
+    "intransitive ‘arises/is born/comes into being’"
+   ],
+   "chosen": "upajāyate, saṃjāyate, abhijāyate as intransitive kartari forms of √jan: “arises/is born”",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": ""
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For a person dwelling on sense-objects (viṣaya),\nattachment (saṅga) to them arises;\nfrom attachment desire (kāma) is born;\nfrom desire anger (krodha) is born.",
+ "one_shot_delta": [
+  "No Śaṅkara-bhāṣya line is supplied for this unit, so there is no commentarial gloss to override the grammar. The main risk is grammatical: taking dhyāyataḥ as ablative “from meditating” rather than as a genitive participle qualifying puṃsaḥ.",
+  "A commentary-blind or context-blind rendering might translate viṣaya as “territories” or “domains” and saṅga as neutral “association,” missing the verse’s psychological chain: sense-object contemplation → attachment → desire → anger.",
+  "It might also treat the -jāyate verbs as passives with an implied agent, whereas the verse can be read straightforwardly as intransitive arising/becoming."
+ ],
+ "analyzer_disagreements": [
+  "dhyāyataḥ: ByT5 gives the verbal lemma/root dhyā; here it is represented as the subanta present-participial stem dhyāyat, because the requested format asks for nominal stem plus case/gender/number for participles.",
+  "upajāyate, saṃjāyate, abhijāyate: ByT5 gives prefixed verbal lemmas upajan/saṃjan/abhijan; here these are decomposed into bare root jan plus prefixes upa/saṃ/abhi, per the required schema. The finite-verb features are otherwise retained."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3929,
+   "completion_tokens": 10517,
+   "reasoning_tokens": 8194
+  },
+  "est_cost": 0.1695,
+  "reverified": true
+ },
+ "mula": "dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate | saṅgāt saṃjāyate kāmaḥ kāmāt krodho 'bhijāyate",
+ "commentary_lines": []
+}

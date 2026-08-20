@@ -1,0 +1,485 @@
+{
+ "unit": "13",
+ "analysis": [
+  {
+   "surface": "anyat",
+   "surface_in_sandhi": "anyad",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative neuter with understood phalam, supplied by the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "eva",
+   "surface_in_sandhi": "evā",
+   "lemma": "eva",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Emphatic; sandhied with following āhuḥ as evā-.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "āhuḥ",
+   "surface_in_sandhi": "āhuḥ",
+   "lemma": "ah",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ah",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Defective verb ‘to say’; perfect 3rd plural.",
+   "verification": {
+    "status": "pass",
+    "detail": "ah Lit/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "saṃbhavāt",
+   "surface_in_sandhi": "saṃbhavād",
+   "lemma": "saṃbhava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of source/cause: from saṃbhava as an upāsanā, not a comparative ablative with anya.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃbhava Pum/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "anyat",
+   "surface_in_sandhi": "anyad",
+   "lemma": "anya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Again accusative neuter with understood phalam.",
+   "verification": {
+    "status": "pass",
+    "detail": "anya Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "āhuḥ",
+   "surface_in_sandhi": "āhur",
+   "lemma": "ah",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "ah",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Visarga becomes r before the following vowel.",
+   "verification": {
+    "status": "pass",
+    "detail": "ah Lit/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "asaṃbhavāt",
+   "surface_in_sandhi": "asaṃbhavāt",
+   "lemma": "asaṃbhava",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na saṃbhavaḥ",
+    "members": [
+     "a-/nañ",
+     "saṃbhava"
+    ]
+   },
+   "note": "Ablative of source/cause: from asaṃbhava/asambhūti as an upāsanā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem asaṃbhava as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "iti",
+   "surface_in_sandhi": "iti",
+   "lemma": "iti",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Marks the preceding statement as what has been heard.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "śuśruma",
+   "surface_in_sandhi": "śuśruma",
+   "lemma": "śru",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "śru",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Uttama"
+   },
+   "samasa": null,
+   "note": "Perfect 1st plural: ‘we have heard’.",
+   "verification": {
+    "status": "pass",
+    "detail": "śru Lit/Uttama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "dhīrāṇām",
+   "surface_in_sandhi": "dhīrāṇāṃ",
+   "lemma": "dhīra",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Substantive masculine plural, ‘of/from the wise’; the bhāṣya supplies vacanam.",
+   "verification": {
+    "status": "pass",
+    "detail": "dhīra Pum/Sasthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ye",
+   "surface_in_sandhi": "ye",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun referring to the dhīrāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "naḥ",
+   "surface_in_sandhi": "nas",
+   "lemma": "mad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Caturthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic dative plural, ‘to us’; the same form can also serve as genitive. The linga value Pum is supplied only as the required formal subanta feature for this gender-neutral personal pronoun, not as a semantic masculine claim.",
+   "verification": {
+    "status": "pass",
+    "detail": "mad Pum/Caturthi/Bahu: pass"
+   }
+  },
+  {
+   "surface": "tat",
+   "surface_in_sandhi": "tad",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative object of vicacakṣire; scoped by the bhāṣya as the result of worship of the manifest and unmanifest.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Napumsaka/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "vicacakṣire",
+   "surface_in_sandhi": "vicacakṣire",
+   "lemma": "cakṣ",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "cakṣ",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lit",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada perfect form; the bhāṣya glosses it with vyākhyātavanta, ‘they explained’.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-cakṣ Lit/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The neuter anyat is not left as an unspecified ‘something else’, nor is saṃbhavāt taken as the object of a simple comparative ‘other than saṃbhava’. Śaṅkara supplies phalam and glosses anyad eva with pṛthag eva, so the verse contrasts distinct results.",
+   "options_considered": [
+    "‘something else’ with no supplied noun",
+    "‘other than saṃbhava’ as a direct comparative",
+    "‘a distinct fruit/result from the relevant worship’"
+   ],
+   "chosen": "anyat eva = ‘quite/separately different is the fruit’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "anyadeva pṛthagevāhuḥ phalaṃ sambhavātsambhūteḥ kāryabrahmopāsanādaṇimādyaiśvaryalakṣaṇaṃ vyākhyātavanta ityarthaḥ",
+     "translation": "‘Different indeed’ means ‘separate indeed’; they explained the fruit from saṃbhava/sambhūti, from worship of the effect-Brahman, characterized by lordly powers beginning with aṇimā."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "ye nastadvicacakṣire vyākṛtāvyākṛtopāsanaphalaṃ vyākhyātavanta ityarthaḥ",
+     "translation": "Those who explained that to us explained the fruit of worship of the manifest and the unmanifest."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Śaṅkara identifies saṃbhava with sambhūti and with kārya-brahmopāsanā. Thus the ablative denotes the source/cause, namely that upāsanā, not mere ‘birth’, ‘coming into being’, or an abstract metaphysical ‘existence’.",
+   "options_considered": [
+    "‘from birth/coming-into-being’ in a general sense",
+    "‘from existence’",
+    "‘from worship of the manifested/effect-Brahman’"
+   ],
+   "chosen": "saṃbhavāt = ‘from saṃbhava/sambhūti, worship of the effect-Brahman’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "sambhavātsambhūteḥ kāryabrahmopāsanādaṇimādyaiśvaryalakṣaṇaṃ",
+     "translation": "From saṃbhava, from sambhūti, from worship of the effect-Brahman, whose mark/result is lordly power beginning with aṇimā."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "vyākṛtāvyākṛtopāsanaphalaṃ",
+     "translation": "The fruit of worship of the manifest and the unmanifest."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The commentary takes the second ablative as the counterpart of saṃbhava: asambhūti/avyākṛta-upāsanā. Line 2 is visibly unproofread around ‘asambhūtekhyākṛtād’; I do not rely on that corrupt-looking segment alone, but the following avyākṛtopāsanāt and line 3’s vyākṛtāvyākṛtopāsanaphalam fix the intended sense.",
+   "options_considered": [
+    "‘from impossibility/non-happening’",
+    "‘from destruction/non-existence’",
+    "‘from worship of the unmanifest, asaṃbhava/asambhūti’"
+   ],
+   "chosen": "asaṃbhavāt = ‘from asaṃbhava/asambhūti, worship of the unmanifest’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tathā cānyadāhuḥ asambhavādasambhūtekhyākṛtād avyākṛtopāsanāt",
+     "translation": "Likewise they said another [fruit] from asambhava/asambhūti … from worship of the unmanifest; the printed middle segment appears corrupt/unsegmented."
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "vyākṛtāvyākṛtopāsanaphalaṃ vyākhyātavanta ityarthaḥ",
+     "translation": "They explained the fruit of worship of the manifest and the unmanifest."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The genitive dhīrāṇām is construed with an understood vacanam in the bhāṣya. Therefore the verse says that this teaching was received from the wise, not merely that ‘we heard wise men’.",
+   "options_considered": [
+    "‘we heard the wise men’ as a direct object",
+    "‘we heard of the wise’",
+    "‘we heard the teaching of/from the wise’"
+   ],
+   "chosen": "śuśruma dhīrāṇām = ‘we have heard the teaching/from the wise’",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "ityevaṃ śuśruma dhīraṇāṃ vacanaṃ",
+     "translation": "Thus we heard the speech/teaching of the wise. The printed dhīraṇāṃ is an unproofread spelling for dhīrāṇām."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although vi-√cakṣ can mean ‘see distinctly’, Śaṅkara glosses it as vyākhyātavanta, ‘they explained’. The object is tat, and naḥ is the recipient, ‘to us’. The scope of tat is the just-mentioned fruit of worship of the manifest and unmanifest.",
+   "options_considered": [
+    "‘who saw/perceived that of us’",
+    "‘who declared our that’ with naḥ as genitive",
+    "‘who explained that to us’"
+   ],
+   "chosen": "ye naḥ tad vicacakṣire = ‘who explained that to us’",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "ye nastadvicacakṣire vyākṛtāvyākṛtopāsanaphalaṃ vyākhyātavanta ityarthaḥ",
+     "translation": "Those who explained that to us—i.e. explained the fruit of worship of the manifest and the unmanifest."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Quite different, they say, is the fruit from saṃbhava (sambhūti: worship of the effect-Brahman, kārya-brahman);\ndifferent, they say, is the fruit from asaṃbhava (asambhūti: worship of the unmanifest, avyākṛta).\nThus have we heard from the wise,\nwho explained that to us.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render saṃbhava/asaṃbhava as abstract ‘being/non-being’ or ‘birth/non-birth’; Śaṅkara instead reads them as two upāsanās: of the effect-Brahman/manifest and of the unmanifest.",
+  "It might miss the supplied phalam and translate ‘different from saṃbhava’ rather than ‘a different fruit from the worship called saṃbhava’.",
+  "It might take vicacakṣire in its visual sense ‘saw/perceived’; the bhāṣya explicitly glosses it as ‘explained’ (vyākhyātavanta).",
+  "It might take naḥ as genitive ‘our’; in context and in the commentary it is dative, ‘to us’."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 tagged naḥ as mad_PG, i.e. genitive plural; I take it as dative plural, ‘to us’, because tat is the object and the bhāṣya glosses ye nas tad vicacakṣire as ‘they explained that to us’ (line 3).",
+  "ByT5 gives vicakṣ as the verbal lemma; per the requested format I analyze this as bare root cakṣ with prefix vi."
+ ],
+ "open_questions": [
+  "Commentary line 2 is unproofread around ‘asambhūtekhyākṛtād’; the translation relies on the clear avyākṛtopāsanāt in line 2 and vyākṛtāvyākṛtopāsanaphalam in line 3.",
+  "Commentary line 3 prints dhīraṇāṃ, evidently for dhīrāṇām; this does not affect the interpretation."
+ ],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "isa",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12937,
+   "completion_tokens": 17689,
+   "reasoning_tokens": 11258
+  },
+  "est_cost": 0.3041,
+  "reverified": true
+ },
+ "mula": "anyad evāhuḥ saṃbhavād anyad āhur asaṃbhavāt | iti śuśruma dhīrāṇāṃ ye nas tad vicacakṣire",
+ "commentary_lines": [
+  "anyadeva pṛthagevāhuḥ phalaṃ sambhavātsambhūteḥ kāryabrahmopāsanādaṇimādyaiśvaryalakṣaṇaṃ vyākhyātavanta ityarthaḥ /",
+  "tathā cānyadāhuḥ asambhavādasambhūtekhyākṛtād avyākṛtopāsanāt /",
+  "yaduktamandhantamaḥ praviśantīti prakṛtilaya iti ca paurāṇikairucyata ityevaṃ śuśruma dhīraṇāṃ vacanaṃ ye nastadvicacakṣire vyākṛtāvyākṛtopāsanaphalaṃ vyākhyātavanta ityarthaḥ"
+ ]
+}

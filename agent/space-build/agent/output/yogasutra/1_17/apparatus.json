@@ -1,0 +1,187 @@
+{
+ "unit": "1.17",
+ "analysis": [
+  {
+   "surface": "vitarkavicārānandāsmitārūpānugamāt",
+   "surface_in_sandhi": "vitarkavicārānandāsmitārūpānugamāt",
+   "lemma": "vitarkavicārānandāsmitārūpānugama",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "vitarka-vicāra-ānanda-asmitā-rūpaiḥ anugamaḥ",
+    "members": [
+     "vitarka",
+     "vicāra",
+     "ānanda",
+     "asmitā",
+     "rūpa",
+     "anugama"
+    ]
+   },
+   "note": "Ablative singular of cause. The head is anugama; internal compound sandhi, e.g. ānanda + asmitā → ānandāsmitā and rūpa + anugama → rūpānugama, is retained in the surface form.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vitarkavicārānandāsmitārūpānugama as Pum/Panchami/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saṃprajñātaḥ",
+   "surface_in_sandhi": "saṃprajñātaḥ",
+   "lemma": "saṃprajñāta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominal -ta adjective/participle used technically; masculine nominative singular agreeing with the implied samādhiḥ supplied by the bhāṣya.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃprajñāta Pum/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The four list-members are not translated by their broad dictionary senses alone. Vyāsa gives technical glosses, so vitarka is not merely ‘conjecture’ and asmitā is not simply ‘egoism’; the translation follows these bhāṣya definitions.",
+   "options_considered": [
+    "ordinary MW-style meanings such as conjecture, investigation, pleasure, egoism",
+    "Vyāsa’s technical definitions of the four terms"
+   ],
+   "chosen": "vitarka = coarse engagement of the mind with its support; vicāra = subtle consideration/engagement; ānanda = delight; asmitā = unitary I-am awareness.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "quote": "vitarkaś cittasyālambane sthūla ābhogaḥ. sūkṣmo vicāraḥ. ānando hlādaḥ. ekātmikā saṃvid asmitā.",
+     "translation": "Vitarka is a coarse engagement of the mind with its support. Vicāra is subtle. Ānanda is delight. Asmitā is a unitary awareness."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The bhāṣya immediately recasts the item as samādhiḥ and later as samādhayaḥ. Therefore the English supplies ‘[samādhi]’ and renders saṃprajñāta as the technical ‘cognitive’ concentration. The English ‘cognitive’ is also supported by derivation from sam-pra-√jñā, ‘to know accurately’ (MW s.v. samprajñā, 1174,1).",
+   "options_considered": [
+    "saṃprajñātaḥ as a standalone passive adjective, ‘known/recognized’",
+    "saṃprajñātaḥ as a masculine adjective naming an implied samādhiḥ"
+   ],
+   "chosen": "saṃprajñātaḥ qualifies an implied samādhiḥ; the sūtra defines a kind of samādhi, not an isolated predicate ‘is known’.",
+   "evidence": [
+    {
+     "lines": [
+      5,
+      9
+     ],
+     "quote": "tatra prathamaś catuṣṭayānugataḥ samādhiḥ savitarkaḥ. sarva ete sālambanāḥ samādhayaḥ.",
+     "translation": "There the first samādhi, accompanied by the tetrad, is savitarka. All these are samādhis with a support."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Vyāsa glosses the sūtra’s anugama by anugataḥ and then distinguishes the first, second, third, and fourth samādhis through presence or absence of vitarka, vicāra, ānanda, and asmitā. Thus ‘accompaniment by the forms’ should be read in this staged technical sense.",
+   "options_considered": [
+    "all four terms are simply simultaneous in every case",
+    "the terms mark a fourfold sequence of saṃprajñāta samādhi explained by Vyāsa"
+   ],
+   "chosen": "anugamāt is a causal ablative: ‘because of accompaniment/being accompanied’; the accompaniment is mapped across four samādhi-modes rather than treated only as one undifferentiated co-presence.",
+   "evidence": [
+    {
+     "lines": [
+      5,
+      6,
+      7,
+      8
+     ],
+     "quote": "tatra prathamaś catuṣṭayānugataḥ samādhiḥ savitarkaḥ. dvitīyo vitarkavikalaḥ savicāraḥ. tṛtīyo vicāravikalaḥ sānandaḥ. caturthas tadvikalo 'smitāmātra iti.",
+     "translation": "There the first samādhi, accompanied by the tetrad, is with vitarka. The second, lacking vitarka, is with vicāra. The third, lacking vicāra, is with ānanda. The fourth, lacking that, is asmitā alone."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Vyāsa does not explicitly gloss rūpa. The choice rests on grammar and dictionary: MW s.v. rūpa, 885,3 gives ‘form, shape’ and notes ifc. uses such as ‘having the form/appearance of’. In this compound, ‘forms/modes’ best connects rūpa with Vyāsa’s fourfold catuṣṭaya.",
+   "options_considered": [
+    "colour/beauty/outward appearance",
+    "form/mode in compound with the four technical terms"
+   ],
+   "chosen": "rūpa is rendered ‘forms/modes’.",
+   "evidence": [
+    {
+     "lines": [],
+     "quote": "",
+     "translation": "No explicit bhāṣya gloss of rūpa is available here; the decision is grammatical and lexical."
+    }
+   ],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "Because of accompaniment by the forms—coarse object-engagement (vitarka), subtle consideration (vicāra), delight (ānanda), and I-am awareness (asmitā)—[the samādhi] is cognitive (saṃprajñāta).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render vitarka, vicāra, ānanda, and asmitā as ordinary ‘conjecture, investigation, pleasure, egoism’; Vyāsa instead defines them technically as coarse support-engagement, subtle engagement, delight, and unitary awareness.",
+  "It might miss the implied head samādhiḥ and translate saṃprajñātaḥ as merely ‘known’ or ‘recognized’; the bhāṣya treats it as a type of samādhi.",
+  "It might say simply that all four factors are always present together; Vyāsa distinguishes a fourfold progression: savitarka, savicāra, sānanda, and asmitāmātra."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 gives saṃprajñātaḥ with lemma samprajñā; I analyse the inflected nominal stem as saṃprajñāta, because -aḥ is masculine nominative singular and the bhāṣya supplies the masculine head samādhiḥ/samādhayaḥ at lines 5 and 9.",
+  "ByT5 marks the first sequence mainly as compound components plus anugamāt; I record the whole inflected compound stem vitarkavicārānandāsmitārūpānugama in ablative singular, since in a Sanskrit compound the case ending is borne only by the final member."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 2,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 3042,
+   "completion_tokens": 11076,
+   "reasoning_tokens": 9241
+  },
+  "est_cost": 0.1753,
+  "reverified": true
+ },
+ "mula": "vitarkavicārānandāsmitārūpānugamāt saṃprajñātaḥ",
+ "commentary_lines": [
+  "vitarkaś cittasyālambane sthūla ābhogaḥ.",
+  "sūkṣmo vicāraḥ.",
+  "ānando hlādaḥ.",
+  "ekātmikā saṃvid asmitā.",
+  "tatra prathamaś catuṣṭayānugataḥ samādhiḥ savitarkaḥ.",
+  "dvitīyo vitarkavikalaḥ savicāraḥ.",
+  "tṛtīyo vicāravikalaḥ sānandaḥ.",
+  "caturthas tadvikalo 'smitāmātra iti.",
+  "sarva ete sālambanāḥ samādhayaḥ.",
+  "1.17",
+  "ath"
+ ]
+}

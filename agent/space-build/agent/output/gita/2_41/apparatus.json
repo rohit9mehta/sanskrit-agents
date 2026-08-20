@@ -1,0 +1,449 @@
+{
+ "unit": "2.41",
+ "analysis": [
+  {
+   "surface": "vyavasāyātmikā",
+   "surface_in_sandhi": "vyavasāyātmikā",
+   "lemma": "vyavasāyātmikā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "vyavasāyaḥ, niścayaḥ, ātmā/svabhāvaḥ yasyāḥ sā",
+    "members": [
+     "vyavasāya",
+     "ātmikā"
+    ]
+   },
+   "note": "Corrected from the earlier compound stem vyavasāyātmaka: the verifier rightly notes that vyavasāyātmaka as Stri/Prathama/Eka would give vyavasāyātmakā, whereas the printed/commented form is vyavasāyātmikā. This is the feminine -ā stem corresponding to -ātmaka/-ātmikā. I retain the bahuvrīhi analysis on semantic and commentarial grounds, though the verifier logged the relation as unsupported.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vyavasāyātmikā as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "buddhiḥ",
+   "surface_in_sandhi": "buddhir",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject with vyavasāyātmikā and ekā.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ekā",
+   "surface_in_sandhi": "ekeha",
+   "lemma": "eka",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed together with iha as ekeha by ā + i → e sandhi; Śaṅkara emphasizes ekā eva, “one alone.”",
+   "verification": {
+    "status": "pass",
+    "detail": "eka Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "iha",
+   "surface_in_sandhi": "ekeha",
+   "lemma": "iha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Printed together with ekā as ekeha; Śaṅkara takes iha as iha śreyo-mārge, “here, on the path to the highest good.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "kuru-nandana",
+   "surface_in_sandhi": "kuru-nandana",
+   "lemma": "kuru-nandana",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "kurūṇāṃ nandanaḥ",
+    "members": [
+     "kuru",
+     "nandana"
+    ]
+   },
+   "note": "Vocative address to Arjuna; the bhāṣya repeats it without further gloss. The verifier reported a tool_error, not a derivational contradiction, so the analysis is retained.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem kuru-nandana as Pum/Sambodhana/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bahu-śākhāḥ",
+   "surface_in_sandhi": "bahu-śākhā",
+   "lemma": "bahu-śākhā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "bahvyaḥ śākhāḥ yāsāṃ tāḥ",
+    "members": [
+     "bahu",
+     "śākhā"
+    ]
+   },
+   "note": "Predicate adjective agreeing with buddhayaḥ. The bhāṣya’s printed bahvvayaḥ is likely an orthographic error for bahvyaḥ, but the immediately following yāsāṃ construction establishes the bahuvrīhi sense. The verifier reported a tool_error and logged the relation as unsupported; I retain the analysis because Śaṅkara explicitly gives the bahuvrīhi-style vigraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem bahu-śākhā as Stri/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "hi",
+   "surface_in_sandhi": "hy",
+   "lemma": "hi",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Explanatory particle, here rendered “for”; in sandhi before anantāḥ it appears as hy.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "anantāḥ",
+   "surface_in_sandhi": "anantāś",
+   "lemma": "ananta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Predicate adjective agreeing with buddhayaḥ; Śaṅkara explains the endlessness by proliferation through branch-distinctions.",
+   "verification": {
+    "status": "pass",
+    "detail": "ananta Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "ca",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Coordinates bahu-śākhāḥ and anantāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "buddhayaḥ",
+   "surface_in_sandhi": "buddhayo",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Plural subject of the second hemistich.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "avyavasāyinām",
+   "surface_in_sandhi": "'vyavasāyinām",
+   "lemma": "avyavasāyin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Genitive dependent on buddhayaḥ: “the understandings of the avyavasāyins.” Śaṅkara defines these as those lacking discriminative understanding born of valid knowledge.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyavasāyin Pum/Sasthi/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The compound is not taken as “effortful” or merely “purposive”; Śaṅkara explicitly equates vyavasāyātmikā with niścaya-svabhāvā and connects this buddhi with valid cognition.",
+   "options_considered": [
+    "“effortful/strenuous” from vyavasāya as exertion",
+    "“purposive intention” in a general sense",
+    "“settled-determination-natured understanding”"
+   ],
+   "chosen": "vyavasāyātmikā buddhiḥ = “understanding whose nature is settled determination.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "vyavasāyātmikā niścaya-svabhāvā",
+     "translation": "‘Vyavasāyātmikā’ means ‘having determination as its nature.’"
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "samyak-pramāṇa-janitatvāt",
+     "translation": "Because it is produced by a correct means of knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "ekā is emphatic, not merely numeral, and iha is not “in this world” but “on the śreyas-path” in Śaṅkara’s construal.",
+   "options_considered": [
+    "“one” as a mere count without emphasis",
+    "“here” meaning “in this world”",
+    "“one alone here/on the path to the highest good”"
+   ],
+   "chosen": "ekā iha = “one alone here, on the path to the highest good.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ekā eva buddhir",
+     "translation": "The understanding is one alone."
+    },
+    {
+     "lines": [
+      1
+     ],
+     "quote": "iha śreyo-mārge",
+     "translation": "Here, on the path to the highest good."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The compound qualifies buddhayaḥ and is not an independent noun phrase “many branches”; Śaṅkara gives the yāsām-bahuvrīhi vigraha and glosses it as bahu-bhedāḥ.",
+   "options_considered": [
+    "“many branches” as a noun phrase",
+    "“having many scriptural branches” in a narrow Vedic-recensional sense",
+    "“many-branched/many-divided contrary understandings”"
+   ],
+   "chosen": "bahu-śākhāḥ = bahuvrīhi, “many-branched,” i.e. “many-divided.”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tā buddhayo bahu-śākhāḥ bahvvayaḥ śākhāḥ yāsāṃ tāḥ bahu-śākhāḥ, bahu-bhedā ity etat",
+     "translation": "Those understandings are ‘many-branched’: those whose branches are many (printed bahvvayaḥ, likely for bahvyaḥ), that is, many-divided."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yāḥ punar itarā viparīta-buddhayaḥ",
+     "translation": "But the other ones are contrary understandings."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The endlessness is the unlimited proliferation of these contrary understandings by branch and sub-branch, not merely an abstract epithet; Śaṅkara explicitly says the buddhayaḥ are anantāḥ by pratiśākhā-bheda.",
+   "options_considered": [
+    "“eternal” in a metaphysical sense",
+    "“very many” as mere hyperbole",
+    "“endless through proliferating branch-distinctions”"
+   ],
+   "chosen": "anantāḥ = “endless,” predicated of the plural buddhayaḥ.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "pratiśākhā-bhedena hy anantā ca buddhayaḥ",
+     "translation": "For by the distinction of each branch the understandings too are endless."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "yāsāṃ śākhā-bheda-pracāra-vaśāt ananto 'pāro 'nuparataḥ saṃsāro nitya-pratato vistīrṇo bhavati",
+     "translation": "Because of the spread of their branch-distinctions, saṃsāra becomes endless, boundless, unceasing, ever-extended, and vast."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although the dictionary may suggest ‘inactive/negligent,’ Śaṅkara defines the avyavasāyins epistemically: they lack pramāṇa-generated viveka-buddhi. The genitive answers keṣām, “of whom?” and depends on buddhayaḥ.",
+   "options_considered": [
+    "“of the inactive/negligent”",
+    "“of those without business/enterprise”",
+    "“of those lacking settled discriminative understanding”"
+   ],
+   "chosen": "avyavasāyinām = “of the irresolute,” specifically those lacking valid-knowledge-born discriminative understanding.",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "keṣām ? avyavasāyināṃ pramāṇa-janita-viveka-buddhi-rahitānām ity arthaḥ",
+     "translation": "Of whom? Of the avyavasāyins, that is, of those bereft of discriminative understanding born of a means of knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The commentary only repeats the address; the compound relation is decided grammatically from Kuru + nandana as a standard vocative address to Arjuna.",
+   "options_considered": [
+    "taking kuru as an imperative of √kṛ",
+    "taking nandana as a separate nominative",
+    "vocative compound kurūṇāṃ nandanaḥ"
+   ],
+   "chosen": "kuru-nandana is a vocative ṣaṣṭhī-tatpuruṣa, “O delight/descendant of the Kurus.”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "On this path to the highest good, O delight of the Kurus,\nthe understanding (buddhi) whose nature is settled determination is one alone;\nfor the understandings of the irresolute (avyavasāyin)\nare many-branched and endless.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render vyavasāya as “effort” and avyavasāyinām as “inactive/negligent”; Śaṅkara instead makes the contrast one of pramāṇa-born determinative understanding versus the lack of such discriminative understanding.",
+  "It might translate iha simply as “in this world”; Śaṅkara narrows it to “on the path to the highest good” (śreyo-mārga).",
+  "It might miss that bahu-śākhāḥ is explicitly a bahuvrīhi, “those whose branches are many,” glossed as “many-divided,” and that anantāḥ refers to the endless proliferation of these contrary buddhis."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 api_seg gives vyavasāya_ātmakā, but the unit text and the local analyses read vyavasāyātmikā; I now analyze the printed feminine compound stem as vyavasāyātmikā rather than the mfn stem vyavasāyātmaka, since the latter derives vyavasāyātmakā.",
+  "ByT5 segments vyavasāyātmikā and bahu-śākhāḥ into their members; per instruction, I give each as a single compound subanta with a whole-compound stem and add samāsa analysis.",
+  "ByT5 treats kuru and nandana as separate compound/member tokens; I analyze the printed address kuru-nandana as one vocative tatpuruṣa compound."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 11,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12608,
+   "completion_tokens": 22159,
+   "reasoning_tokens": 15930
+  },
+  "est_cost": 0.3702,
+  "reverified": true
+ },
+ "mula": "vyavasāyātmikā buddhir ekeha kuru-nandana | bahu-śākhā hy anantāś ca buddhayo 'vyavasāyinām",
+ "commentary_lines": [
+  "vyavasāyātmikā niścaya-svabhāvā ekā eva buddhir itara-viparīta-buddhi-śākhā-bhedasya vādhikā, samyak-pramāṇa-janitatvāt, iha śreyo-mārge |",
+  "he kurunandana ! yāḥ punar itarā viparīta-buddhayaḥ, yāsāṃ śākhā-bheda-pracāra-vaśāt ananto 'pāro 'nuparataḥ saṃsāro nitya-pratato vistīrṇo bhavati, pramāṇa-janita-viveka-buddhi-nimitta-vaśāc ca uparatāsv ananta-bheda-buddhiṣu saṃsāro 'py uparamate tā buddhayo bahu-śākhāḥ bahvvayaḥ śākhāḥ yāsāṃ tāḥ bahu-śākhāḥ, bahu-bhedā ity etat |",
+  "pratiśākhā-bhedena hy anantā ca buddhayaḥ |",
+  "keṣām ? avyavasāyināṃ pramāṇa-janita-viveka-buddhi-rahitānām ity arthaḥ ||bhgs_2.41||",
+  "yeṣāṃ vyavasāyātmikā buddhir nāsti te--"
+ ]
+}

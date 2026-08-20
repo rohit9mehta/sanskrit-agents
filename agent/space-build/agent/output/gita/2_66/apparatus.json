@@ -1,0 +1,570 @@
+{
+ "unit": "2.66",
+ "analysis": [
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nāsti",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sandhi with following asti: na + asti > nāsti.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "asti",
+   "surface_in_sandhi": "nāsti",
+   "lemma": "as",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "as",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Existential use, negated by preceding na.",
+   "verification": {
+    "status": "pass",
+    "detail": "as Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "buddhiḥ",
+   "surface_in_sandhi": "buddhir",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara restricts the sense to buddhi whose object is ātma-svarūpa.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayuktasya",
+   "surface_in_sandhi": "ayuktasya",
+   "lemma": "ayukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na yuktaḥ",
+    "members": [
+     "nañ",
+     "yukta"
+    ]
+   },
+   "note": "Used substantively, ‘of/for the uncollected one’; glossed as asamāhitāntaḥ-karaṇasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ayukta as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cāyuktasya",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sandhi with following ayuktasya: ca + ayuktasya > cāyuktasya.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ayuktasya",
+   "surface_in_sandhi": "cāyuktasya",
+   "lemma": "ayukta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na yuktaḥ",
+    "members": [
+     "nañ",
+     "yukta"
+    ]
+   },
+   "note": "Same substantive genitive construal as the first ayuktasya; in sandhi with preceding ca.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem ayukta as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "bhāvanā",
+   "surface_in_sandhi": "bhāvanā",
+   "lemma": "bhāvanā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Commentarial sense: ātma-jñānābhiniveśa, not generic imagination.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhāvanā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cābhāvayataḥ",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Sandhi with following abhāvayataḥ: ca + abhāvayataḥ > cābhāvayataḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "abhāvayataḥ",
+   "surface_in_sandhi": "cābhāvayataḥ",
+   "lemma": "abhāvayat",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na bhāvayan",
+    "members": [
+     "nañ",
+     "bhāvayat"
+    ]
+   },
+   "note": "Present-participial adjective used substantively; Śaṅkara glosses it as one not doing/cultivating ātma-jñānābhiniveśa.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem abhāvayat as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "śāntiḥ",
+   "surface_in_sandhi": "śāntir",
+   "lemma": "śānti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Visarga sandhi before following vowel: śāntiḥ > śāntir; glossed as upaśamaḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "śānti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "aśāntasya",
+   "surface_in_sandhi": "aśāntasya",
+   "lemma": "aśānta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "na śāntaḥ",
+    "members": [
+     "nañ",
+     "śānta"
+    ]
+   },
+   "note": "Privative/nañ-tatpuruṣa, used substantively: ‘of one without quietude’.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem aśānta as Pum/Sasthi/Eka: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "kutaḥ",
+   "surface_in_sandhi": "kutaḥ",
+   "lemma": "kutas",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Interrogative adverb used rhetorically with implied asti: ‘whence/how could there be?’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sukham",
+   "surface_in_sandhi": "sukham",
+   "lemma": "sukha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Nominative subject of the implied existential verb in the rhetorical question.",
+   "verification": {
+    "status": "pass",
+    "detail": "sukha Napumsaka/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The commentary defines nāsti by absence/non-existence and explicitly supplies asti in the second and third negative clauses, so the repeated construction is existential rather than a mere predicative ‘is not’.",
+   "options_considered": [
+    "existential absence: “there is no X”",
+    "simple predication: “X is not”"
+   ],
+   "chosen": "Render the negative clauses as existential: “there is no …”.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "nāsti na vidyate na bhavatīty arthaḥ",
+     "translation": "‘nāsti’ means ‘is not found, does not exist / does not occur.’"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "na ca asti ayuktasya bhāvanā ātma-jñānābhiniveśaḥ |",
+     "translation": "‘Nor is there, for the ayukta, bhāvanā—absorption in Self-knowledge.’"
+    },
+    {
+     "lines": [
+      3
+     ],
+     "quote": "tathā -- na cāsty abhāvayata ātma-jñānābhiniveśam akurvataḥ śāntir upaśamaḥ |",
+     "translation": "‘Likewise, there is no śānti—quieting—for one not doing absorption in Self-knowledge.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Buddhi is not translated as generic intelligence or practical cleverness; Śaṅkara specifies its object as ātma-svarūpa.",
+   "options_considered": [
+    "generic intellect/reason",
+    "practical judgement",
+    "Self-directed understanding"
+   ],
+   "chosen": "buddhi = understanding directed to the nature of the Self.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "buddhiḥ ātma-svarūpa-viṣayā",
+     "translation": "‘Buddhi’ is ‘having the nature of the Self as its object.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The genitive ayuktasya is construed substantively of a person, and its sense is fixed by the gloss asamāhitāntaḥ-karaṇasya, not merely ‘unyoked’ in a physical sense.",
+   "options_considered": [
+    "physically unyoked/unharnessed",
+    "unconnected in general",
+    "mentally uncollected, with unsamāhita antaḥkaraṇa"
+   ],
+   "chosen": "ayuktasya = ‘for/of the uncollected one’, i.e. one whose inner organ is not composed.",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ayuktasya asamāhitāntaḥ-karaṇasya",
+     "translation": "‘Of the ayukta’ means ‘of one whose inner organ is not collected/composed.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The word is not taken as imagination, production, or contemplation in general; Śaṅkara glosses it as ātma-jñānābhiniveśa.",
+   "options_considered": [
+    "imagination/mental construction",
+    "generic meditation or contemplation",
+    "absorption in Self-knowledge"
+   ],
+   "chosen": "bhāvanā = absorption or devoted application in Self-knowledge.",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "bhāvanā ātma-jñānābhiniveśaḥ",
+     "translation": "‘Bhāvanā’ is ‘absorption/intent application in Self-knowledge.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although the dictionary head can suggest ‘unconscious’ or ‘unwise’, the bhāṣya reads the form as a genitive participial substantive and supplies its object: ātma-jñānābhiniveśam akurvataḥ.",
+   "options_considered": [
+    "unconscious/unwise as a lexical adjective",
+    "one who does not contemplate/cultivate",
+    "a finite verb form"
+   ],
+   "chosen": "abhāvayataḥ = ‘of one who does not cultivate/do that absorption’.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "abhāvayata ātma-jñānābhiniveśam akurvataḥ",
+     "translation": "‘Of one not doing/carrying out absorption in Self-knowledge.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The translation uses ‘quietude’ rather than a broad social ‘peace’, because the commentary defines śānti as upaśama.",
+   "options_considered": [
+    "peace in a general or social sense",
+    "cessation/quieting of inner disturbance"
+   ],
+   "chosen": "śānti = quietude/quieting (upaśama), and aśānta = one lacking that quietude.",
+   "evidence": [
+    {
+     "lines": [
+      3
+     ],
+     "quote": "śāntir upaśamaḥ",
+     "translation": "‘Śānti’ is ‘quieting, subsidence.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The last pāda is not promising ordinary pleasure from objects. Śaṅkara explains that happiness is the senses’ withdrawal from thirst for objects; object-directed craving is suffering, and with craving present not even the slightest trace of happiness is possible.",
+   "options_considered": [
+    "ordinary pleasure in sense-objects",
+    "happiness as the absence/cessation of sense-object craving"
+   ],
+   "chosen": "sukha is not sense-object craving; it is possible only with withdrawal from craving, so kutaḥ sukham is rhetorical: ‘whence happiness?’",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "aśāntasya kutaḥ sukham ? indriyāṇāṃ hi viṣaya-sevā-tṛṣṇātaḥ nivṛttir yā tat-sukham, na viṣaya-viṣayā tṛṣṇā |",
+     "translation": "‘For the unquieted, whence happiness? For the withdrawal of the senses from the thirst to frequent objects—that is happiness, not craving whose object is sense-objects.’"
+    },
+    {
+     "lines": [
+      5
+     ],
+     "quote": "duḥkham eva hi sā |",
+     "translation": "‘For that [craving] is only suffering.’"
+    },
+    {
+     "lines": [
+      6
+     ],
+     "quote": "na tṛṣṇāyāṃ satyāṃ sukhasya gandha-mātram apy upapadyate ity arthaḥ ||bhgs_2.66||",
+     "translation": "‘When craving exists, not even the merest scent of happiness is possible—this is the meaning.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "There is no understanding (buddhi) of the Self’s nature for the uncollected (ayukta);\nnor, for the uncollected, is there absorption in Self-knowledge (bhāvanā).\nAnd for one who does not cultivate that, there is no quietude (śānti);\nfor the unquieted, whence happiness (sukha)?",
+ "one_shot_delta": [
+  "A commentary-blind translation might render buddhi as ordinary ‘intellect’; the bhāṣya restricts it to understanding whose object is the Self’s nature.",
+  "It might take bhāvanā as imagination or generic meditation; Śaṅkara defines it as ātma-jñānābhiniveśa, absorption in Self-knowledge.",
+  "It might follow the dictionary sense of abhāvayat as ‘unconscious/unwise’; the commentary instead construes abhāvayataḥ as ‘of one not cultivating/doing that absorption’.",
+  "It might understand sukha as sense pleasure; Śaṅkara explicitly denies that object-directed craving is happiness and says happiness is withdrawal from such craving."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 writes the final interrogative surface as kutas; I retain the printed/pāusal surface kutaḥ and use kutas only as the indeclinable lemma. No other morphological override is made."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 15,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4366,
+   "completion_tokens": 16691,
+   "reasoning_tokens": 13308
+  },
+  "est_cost": 0.2635,
+  "reverified": true
+ },
+ "mula": "nāsti buddhirayuktasya na cāyuktasya bhāvanā | na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham",
+ "commentary_lines": [
+  "nāsti na vidyate na bhavatīty arthaḥ, buddhiḥ ātma-svarūpa-viṣayā ayuktasya asamāhitāntaḥ-karaṇasya |",
+  "na ca asti ayuktasya bhāvanā ātma-jñānābhiniveśaḥ |",
+  "tathā -- na cāsty abhāvayata ātma-jñānābhiniveśam akurvataḥ śāntir upaśamaḥ |",
+  "aśāntasya kutaḥ sukham ? indriyāṇāṃ hi viṣaya-sevā-tṛṣṇātaḥ nivṛttir yā tat-sukham, na viṣaya-viṣayā tṛṣṇā |",
+  "duḥkham eva hi sā |",
+  "na tṛṣṇāyāṃ satyāṃ sukhasya gandha-mātram apy upapadyate ity arthaḥ ||bhgs_2.66||",
+  "ayuktasya kasmād buddhir nāsti ity ucyate -"
+ ]
+}

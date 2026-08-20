@@ -1,0 +1,498 @@
+{
+ "unit": "2.30",
+ "analysis": [
+  {
+   "surface": "dehī",
+   "surface_in_sandhi": "dehī",
+   "lemma": "dehin",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Glossed by the bhāṣya as śarīrī, “the embodied one.”",
+   "verification": {
+    "status": "pass",
+    "detail": "dehin Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "nityam",
+   "surface_in_sandhi": "nityam",
+   "lemma": "nityam",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Adverbial: “always,” glossed as sarvadā sarvāvasthāsu.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "avadhyaḥ",
+   "surface_in_sandhi": "avadhyo",
+   "lemma": "avadhya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal avadhyaḥ; in sandhi before ayam, -aḥ becomes -o and the initial a- of ayam is represented by avagraha.",
+   "verification": {
+    "status": "pass",
+    "detail": "avadhya Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "'yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers back to the dehī: “this embodied one.”",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "dehe",
+   "surface_in_sandhi": "dehe",
+   "lemma": "deha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Locative singular; the bhāṣya glosses dehe as śarīre, “in the body.”",
+   "verification": {
+    "status": "pass",
+    "detail": "deha Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "sarvasya",
+   "surface_in_sandhi": "sarvasya",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Formally m./n. genitive singular; encoded as masculine following the analyzer’s generic-substantive reading, with the bhāṣya supplying prāṇi-jātasya, “of every living being/class.”",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "bhārata",
+   "surface_in_sandhi": "bhārata",
+   "lemma": "bhārata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sambodhana",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Vocative address to Arjuna, “O Bhārata.”",
+   "verification": {
+    "status": "pass",
+    "detail": "bhārata Pum/Sambodhana/Eka: pass"
+   }
+  },
+  {
+   "surface": "tasmāt",
+   "surface_in_sandhi": "tasmāt",
+   "lemma": "tasmāt",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Indeclinable causal connective, “therefore.”",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "sarvāṇi",
+   "surface_in_sandhi": "sarvāṇi",
+   "lemma": "sarva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Accusative plural agreeing with bhūtāni; object-scope clarified by the bhāṣya’s uddiśya.",
+   "verification": {
+    "status": "pass",
+    "detail": "sarva Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "bhūtāni",
+   "surface_in_sandhi": "bhūtāni",
+   "lemma": "bhūta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Dvitiya",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Here “beings,” not “elements”; the bhāṣya specifies Bhīṣma and others as included.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūta Napumsaka/Dvitiya/Bahu: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Negates śocitum arhasi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "tvam",
+   "surface_in_sandhi": "tvaṃ",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Second-person pronoun; masculine is supplied by the context of address to Arjuna, though the form tvam is common across genders.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "śocitum",
+   "surface_in_sandhi": "śocitum",
+   "lemma": "śuc",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": "śuc",
+    "prefixes": [],
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Tumun infinitive śocitum, “to grieve”; the schema encodes it as an indeclinable verbal form, not as a tiṅanta lakāra form.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "arhasi",
+   "surface_in_sandhi": "arhasi",
+   "lemma": "arh",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "arh",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Madhyama"
+   },
+   "samasa": null,
+   "note": "Present active 2nd singular: “you are fit/entitled”; with na and an infinitive, “you ought not.”",
+   "verification": {
+    "status": "pass",
+    "detail": "arh Lat/Madhyama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "dehī is not taken as the gross body itself. The bhāṣya glosses it as śarīrī, the possessor of a body, so the translation keeps “embodied one” rather than “body.”",
+   "options_considered": [
+    "the body",
+    "a living creature merely as an organism",
+    "the embodied one / embodied self"
+   ],
+   "chosen": "“the embodied one (dehī)”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "dehī śarīrī",
+     "translation": "“dehī” means “the embodied one / the possessor of a body.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "nityam is adverbial, qualifying the unslayability as holding at all times and in all conditions, not merely an attributive adjective “eternal” attached to dehī in English.",
+   "options_considered": [
+    "eternal as an adjective",
+    "always / at all times as an adverb"
+   ],
+   "chosen": "“always”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "nityaṃ sarvadā sarvāvasthāsu",
+     "translation": "“nityam” means “always, in all states.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "avadhyaḥ is read ontologically, not as a merely moral injunction “not to be killed.” Śaṅkara grounds it in partlessness and eternality and explicitly says that even when the body is being killed, this dehī is not killed.",
+   "options_considered": [
+    "should not be killed as a moral rule",
+    "inviolable by social/religious status",
+    "unslayable because partless and eternal"
+   ],
+   "chosen": "“unslayable / cannot be slain”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avadhyaḥ niravayavatvān nityatvāc ca",
+     "translation": "It is “unslayable” because it is partless and eternal."
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "dehe vadhyamāne 'py ayaṃ dehī na vadhyo yasmāt",
+     "translation": "Because, even when the body is being killed, this embodied one is not to be slain / is not slain."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "dehe is the locative “in the body,” and sarvasya is construed with an implied living being/class, not as “in all of the body.” The commentary glosses dehe by śarīre and expands sarvasya as prāṇi-jātasya.",
+   "options_considered": [
+    "in all of the body",
+    "in everyone’s body / in the body of every living being",
+    "in the body belonging to the All"
+   ],
+   "chosen": "“in the body of every living being”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "dehe śarīre",
+     "translation": "“dehe” means “in the body.”"
+    },
+    {
+     "lines": [
+      2
+     ],
+     "quote": "sarvasya prāṇi-jātasya dehe",
+     "translation": "“in the body of every living being/class.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "tasmāt is causal-conclusive, picking up Śaṅkara’s yasmāt: because the dehī is not slain, therefore Arjuna should not grieve.",
+   "options_considered": [
+    "from that place/source",
+    "after that",
+    "therefore, for that reason"
+   ],
+   "chosen": "“therefore” as the conclusion from the dehī’s unslayability",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "na vadhyo yasmāt, tasmād",
+     "translation": "“because [it] is not slain, therefore …”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "sarvāṇi bhūtāni is taken as the accusative object-domain of grieving, not as “all elements.” Śaṅkara’s uddiśya makes the accusative relation explicit and his bhīṣmādīni identifies the relevant beings as persons on the battlefield and the living beings associated with them.",
+   "options_considered": [
+    "all material elements",
+    "all past things/events",
+    "all beings, especially Bhīṣma and the others, as the objects of grief"
+   ],
+   "chosen": "“with regard to all beings (bhūtāni), such as Bhīṣma and the others”",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tasmād bhīṣmādīni sarvāṇi bhūtāni uddiśya na tvaṃ śocitum arhasi",
+     "translation": "Therefore, with all beings such as Bhīṣma and the others in view, you ought not to grieve."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "The construction na + infinitive śocitum + arhasi is rendered idiomatically as “you ought not to grieve.” This rests on Sanskrit grammar and MW s.v. arh, 93,3: arh with an infinitive can mean “to be allowed/required to do”; the commentary does not separately gloss arhasi here.",
+   "options_considered": [
+    "you are unable to grieve",
+    "you do not deserve grief as a possession",
+    "you ought not / are not fit to grieve"
+   ],
+   "chosen": "“you ought not to grieve”",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "The embodied one (dehī), this one, is always unslayable\nin the body of every living being, O Bhārata.\nTherefore, with regard to all beings (bhūtāni),\nyou ought not to grieve.",
+ "one_shot_delta": [
+  "A commentary-blind translation might render avadhyaḥ as a moral “must not be killed”; Śaṅkara makes it metaphysical: the dehī is not slain even when the body is killed.",
+  "It might take dehe sarvasya as “in the whole body” or “in all of the body”; the bhāṣya construes it as “in the body of every living being.”",
+  "It might translate bhūtāni as “elements”; Śaṅkara points to Bhīṣma and others, so “beings” is required here.",
+  "It might flatten nityam into the adjective “eternal”; the bhāṣya glosses it adverbially as “always, in all states.”"
+ ],
+ "analyzer_disagreements": [
+  "tvam: supplied masculine linga for the subanta analysis because the verifier requires linga/vibhakti/vacana and the addressee Arjuna is masculine; the surface form itself is common across genders.",
+  "śocitum: the analyzer marks an infinitive (In). Since the response schema has no separate infinitive category, I encode the tumun infinitive as pos=avyaya with root śuc; this is an encoding adaptation, not a lexical disagreement."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 14,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 12068,
+   "completion_tokens": 14580,
+   "reasoning_tokens": 8701
+  },
+  "est_cost": 0.2549,
+  "reverified": true
+ },
+ "mula": "dehī nityam avadhyo 'yaṃ dehe sarvasya bhārata | tasmāt sarvāṇi bhūtāni na tvaṃ śocitum arhasi",
+ "commentary_lines": [
+  "dehī śarīrī nityaṃ sarvadā sarvāvasthāsu avadhyaḥ niravayavatvān nityatvāc ca |",
+  "tatra avadhyo 'yaṃ dehe śarīre sarvasya sarva-gatatvāt sthāvarādiṣu sthito 'pi sarvasya prāṇi-jātasya dehe vadhyamāne 'py ayaṃ dehī na vadhyo yasmāt, tasmād bhīṣmādīni sarvāṇi bhūtāni uddiśya na tvaṃ śocitum arhasi ||bhgs_2.30||",
+  "iha paramārtha-tattvāpekṣāyāṃ śoko moho vā na saṃbhavatīty uktam |",
+  "na kevalaṃ paramārtha-tattvāpekṣāyām eva, kiṃ tu ---"
+ ]
+}

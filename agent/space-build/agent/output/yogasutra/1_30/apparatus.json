@@ -1,0 +1,397 @@
+{
+ "unit": "1.30",
+ "analysis": [
+  {
+   "surface": "vyādhistyānasaṃśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatvāni",
+   "surface_in_sandhi": "vyādhistyānasaṃśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatvāni",
+   "lemma": "vyādhistyānasaṃśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatva",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "vyādhiḥ ca styānam ca saṃśayaḥ ca pramādaḥ ca ālasyam ca aviratiḥ ca bhrāntidarśanam ca alabdhabhūmikatvam ca anavasthitatvam ca",
+    "members": [
+     "vyādhi",
+     "styāna",
+     "saṃśaya",
+     "pramāda",
+     "ālasya",
+     "avirati",
+     "bhrāntidarśana",
+     "alabdhabhūmikatva",
+     "anavasthitatva"
+    ]
+   },
+   "note": "One inflected enumerative dvandva in neuter nominative plural; the commentary counts these as nine obstacles.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vyādhistyānasaṃśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatva as Napumsaka/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "cittavikṣepāḥ",
+   "surface_in_sandhi": "cittavikṣepās",
+   "lemma": "cittavikṣepa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "cittasya vikṣepāḥ",
+    "members": [
+     "citta",
+     "vikṣepa"
+    ]
+   },
+   "note": "External visarga-sandhi before te gives -s; Vyāsa glosses the compound relation as cittasya vikṣepāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem cittavikṣepa as Pum/Prathama/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Demonstrative referring back to the masculine plural cittavikṣepāḥ/antarāyāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "antarāyāḥ",
+   "surface_in_sandhi": "'ntarāyāḥ",
+   "lemma": "antarāya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a is elided after te, represented by avagraha in the printed text.",
+   "verification": {
+    "status": "pass",
+    "detail": "antarāya Pum/Prathama/Bahu: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The long opening expression is not to be translated as an unstructured mass or as separate syntactic clauses; it is a list of nine items, later predicated as mind-distractions and obstacles.",
+   "options_considered": [
+    "one collective neuter singular sense",
+    "nine syntactically independent sentences",
+    "a nine-member enumerative dvandva"
+   ],
+   "chosen": "a nine-member dvandva naming the obstacles",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "navāntarāyāś cittasya vikṣepāḥ.",
+     "translation": "The nine obstacles are distractions of the mind."
+    },
+    {
+     "lines": [
+      14
+     ],
+     "quote": "ete cittavikṣepā nava yogamalā yogapratipakṣā yogāntarāyā ity abhidhīyante.",
+     "translation": "These nine distractions of the mind are called impurities of yoga, opponents of yoga, obstacles to yoga."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The genitive relation in cittavikṣepāḥ is supplied as ‘of the mind,’ and the obstacles are understood specifically as impediments to yoga, not merely obstacles in general.",
+   "options_considered": [
+    "scatterings in the mind as a locative relation",
+    "distractions of the mind as a genitive relation",
+    "obstacles in an unspecified domain",
+    "obstacles to yoga"
+   ],
+   "chosen": "cittavikṣepāḥ = distractions of the mind; antarāyāḥ = obstacles to yoga",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "navāntarāyāś cittasya vikṣepāḥ.",
+     "translation": "The nine obstacles are distractions of the mind."
+    },
+    {
+     "lines": [
+      14
+     ],
+     "quote": "ete cittavikṣepā nava yogamalā yogapratipakṣā yogāntarāyā ity abhidhīyante.",
+     "translation": "These nine distractions of the mind are called impurities of yoga, opponents of yoga, obstacles to yoga."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Vyādhi is rendered ‘disease,’ with the commentary specifying imbalance among bodily constituents, not simply mental unease.",
+   "options_considered": [
+    "generic affliction",
+    "mental disturbance",
+    "bodily disease/disorder"
+   ],
+   "chosen": "vyādhi as disease, a physiological disorder",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "vyādhir dhāturasakaraṇavaiṣamyam.",
+     "translation": "Disease is disequilibrium of the humors, fluids, and instruments/organs."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Styāna is not taken in its lexical sense of physical stiffness or density, but as the mind’s incapacity for action.",
+   "options_considered": [
+    "stiffness/density",
+    "sluggishness in general",
+    "mental incapacity/stagnation"
+   ],
+   "chosen": "styāna as mental stagnation or incapacity",
+   "evidence": [
+    {
+     "lines": [
+      5
+     ],
+     "quote": "styānam akarmaṇyatā cittasya.",
+     "translation": "Styāna is the mind’s incapacity for action."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Saṃśaya is translated ‘doubt,’ specifically a cognition that touches both alternatives, rather than vague uncertainty only.",
+   "options_considered": [
+    "general hesitation",
+    "logical doubt between alternatives",
+    "wrong cognition"
+   ],
+   "chosen": "saṃśaya as doubt between two alternatives",
+   "evidence": [
+    {
+     "lines": [
+      6
+     ],
+     "quote": "saṃśaya ubhayakoṭispṛg vijñānaṃ syād idam evaṃ naivaṃ syād iti.",
+     "translation": "Doubt is cognition touching both alternatives: ‘This may be so; it may not be so.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Pramāda is translated ‘heedlessness/negligence,’ not intoxication or madness, because Vyāsa defines it as failure to cultivate the means to samādhi.",
+   "options_considered": [
+    "intoxication",
+    "madness",
+    "negligent non-cultivation of samādhi’s means"
+   ],
+   "chosen": "pramāda as heedless non-cultivation of samādhi’s means",
+   "evidence": [
+    {
+     "lines": [
+      7
+     ],
+     "quote": "pramādaḥ samādhisādhanānām abhāvanam.",
+     "translation": "Pramāda is the non-cultivation of the means to samādhi."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Ālasya is rendered ‘sloth,’ with the commentary’s explanation that both body and mind fail to engage because of heaviness.",
+   "options_considered": [
+    "ordinary tiredness",
+    "moral laziness only",
+    "bodily and mental non-activity from heaviness"
+   ],
+   "chosen": "ālasya as slothful non-activity due to heaviness",
+   "evidence": [
+    {
+     "lines": [
+      8
+     ],
+     "quote": "ālasyaṃ kāyasya cittasya ca gurutvād apravṛttiḥ.",
+     "translation": "Sloth is non-activity of body and mind because of heaviness."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Avirati is not merely lack of restraint in the abstract; Vyāsa identifies it as craving whose nature is the mind’s conjunction with objects.",
+   "options_considered": [
+    "mere failure to stop",
+    "general intemperance",
+    "sensual craving/non-abstention"
+   ],
+   "chosen": "avirati as non-abstention, sensual craving",
+   "evidence": [
+    {
+     "lines": [
+      9
+     ],
+     "quote": "aviratiś cittasya viṣayasaṃprayogātmā gardhaḥ.",
+     "translation": "Avirati is craving, having as its nature the mind’s conjunction with sense-objects."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J9",
+   "decision": "The compound bhrāntidarśana is translated by its technical gloss ‘erroneous cognition,’ not as physical wandering of sight.",
+   "options_considered": [
+    "wandering vision",
+    "mistaken philosophical doctrine",
+    "erroneous cognition/false seeing"
+   ],
+   "chosen": "bhrāntidarśana as false seeing or erroneous cognition",
+   "evidence": [
+    {
+     "lines": [
+      10
+     ],
+     "quote": "bhrāntidarśanaṃ viparyayajñānam.",
+     "translation": "False seeing is erroneous cognition."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J10",
+   "decision": "The last two terms are taken specifically with respect to the stages/grounds of samādhi: first not attaining such a ground, then not remaining established in one that has been attained.",
+   "options_considered": [
+    "generic failure to get a position and generic instability",
+    "failure to gain any spiritual level",
+    "non-attainment of, and non-establishment in, a samādhi-ground"
+   ],
+   "chosen": "alabdhabhūmikatva and anavasthitatva as samādhi-stage non-attainment and instability",
+   "evidence": [
+    {
+     "lines": [
+      11
+     ],
+     "quote": "alabdhabhūmikatvaṃ samādhibhūmer alābhaḥ.",
+     "translation": "Non-attainment of a stage is failure to obtain the ground of samādhi."
+    },
+    {
+     "lines": [
+      12
+     ],
+     "quote": "anavasthitatvaṃ yal labdhāyāṃ bhūmau cittasyāpratiṣṭhā.",
+     "translation": "Instability is that non-establishment of the mind in a ground that has been attained."
+    },
+    {
+     "lines": [
+      13
+     ],
+     "quote": "samādhipratilambhe hi sati tadavasthitaṃ syād iti.",
+     "translation": "For when samādhi has been obtained, the mind would be established in it."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Disease (vyādhi), mental stagnation (styāna), doubt (saṃśaya), heedlessness (pramāda), sloth (ālasya), non-abstention or craving (avirati), false seeing (bhrāntidarśana), non-attainment of a stage (alabdhabhūmikatva), and instability (anavasthitatva): these are distractions of the mind (cittavikṣepāḥ); they are the obstacles (antarāyāḥ).",
+ "one_shot_delta": [
+  "A commentary-blind translation might render styāna from the dictionary as ‘stiffness’ or ‘density’; Vyāsa instead makes it the mind’s incapacity for action.",
+  "It might take alabdhabhūmikatva and anavasthitatva generically; the bhāṣya ties both to the grounds of samādhi.",
+  "It might translate avirati as only ‘intemperance’; Vyāsa defines it more sharply as craving constituted by conjunction with sense-objects.",
+  "It might miss the genitive compound relation in cittavikṣepāḥ and the specifically yogic force of antarāyāḥ, both made explicit by Vyāsa."
+ ],
+ "analyzer_disagreements": [
+  "The ByT5 output segments the initial string into many separate pieces, including vyādhiḥ as an independent masculine nominative singular and a/labdha/tva as separate units. I parse the printed sequence as one neuter nominative plural dvandva compound, since it is inflected once in -āni and Vyāsa explicitly counts the items as nava, lines 1 and 14.",
+  "ByT5’s local segmentation shows tyāna after vyādhiḥ; the compound member is styāna, as in the commentary definition styānam akarmaṇyatā cittasya, line 5.",
+  "ByT5 marks citta and vikṣepa as separate compound pieces. I give the inflected word cittavikṣepāḥ as a masculine nominative plural ṣaṣṭhī-tatpuruṣa, following Vyāsa’s gloss cittasya vikṣepāḥ, line 1.",
+  "For antarāyāḥ I record the printed sandhi form as 'ntarāyāḥ because te + antarāyāḥ is printed te 'ntarāyāḥ; the underlying pausal surface remains antarāyāḥ."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 4,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "yogasutra",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 4485,
+   "completion_tokens": 10702,
+   "reasoning_tokens": 7835
+  },
+  "est_cost": 0.174,
+  "reverified": true
+ },
+ "mula": "vyādhistyānasaṃśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatvāni cittavikṣepās te 'ntarāyāḥ",
+ "commentary_lines": [
+  "navāntarāyāś cittasya vikṣepāḥ.",
+  "sahaite cittavṛttibhir bhavanti.",
+  "eteṣām abhāve na bhavanti pūrvoktāś cittavṛttayaḥ.",
+  "vyādhir dhāturasakaraṇavaiṣamyam.",
+  "styānam akarmaṇyatā cittasya.",
+  "saṃśaya ubhayakoṭispṛg vijñānaṃ syād idam evaṃ naivaṃ syād iti.",
+  "pramādaḥ samādhisādhanānām abhāvanam.",
+  "ālasyaṃ kāyasya cittasya ca gurutvād apravṛttiḥ.",
+  "aviratiś cittasya viṣayasaṃprayogātmā gardhaḥ.",
+  "bhrāntidarśanaṃ viparyayajñānam.",
+  "alabdhabhūmikatvaṃ samādhibhūmer alābhaḥ.",
+  "anavasthitatvaṃ yal labdhāyāṃ bhūmau cittasyāpratiṣṭhā.",
+  "samādhipratilambhe hi sati tadavasthitaṃ syād iti.",
+  "ete cittavikṣepā nava yogamalā yogapratipakṣā yogāntarāyā ity abhidhīyante.",
+  "1.30",
+  "duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsā vikṣepasahabhuvaḥ"
+ ]
+}

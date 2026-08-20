@@ -1,0 +1,404 @@
+{
+ "unit": "2.34",
+ "analysis": [
+  {
+   "surface": "akīrtim",
+   "surface_in_sandhi": "akīrtiṃ",
+   "lemma": "akīrti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Object of kathayiṣyanti; modified by avyayām.",
+   "verification": {
+    "status": "pass",
+    "detail": "akīrti Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Appears in vowel sandhi with api as cāpi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "api",
+   "surface_in_sandhi": "pi",
+   "lemma": "api",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Initial a coalesces with preceding ca in cāpi.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "bhūtāni",
+   "surface_in_sandhi": "bhūtāni",
+   "lemma": "bhūta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Neuter plural subject of kathayiṣyanti; translated contextually as living beings/people.",
+   "verification": {
+    "status": "pass",
+    "detail": "bhūta Napumsaka/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "kathayiṣyanti",
+   "surface_in_sandhi": "kathayiṣyanti",
+   "lemma": "kath",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Bahu",
+    "root": "kath",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lrt",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Simple future, with kathay- stem; sense here is ‘will recount/tell’.",
+   "verification": {
+    "status": "pass",
+    "detail": "kath Lrt/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "te",
+   "surface_in_sandhi": "te",
+   "lemma": "tvad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic genitive singular, glossed by Śaṅkara as tava. The second-person pronoun form is not semantically gender-marked; Pum is recorded for the nominal feature set and agrees with the masculine addressee Arjuna.",
+   "verification": {
+    "status": "pass",
+    "detail": "tvad Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "avyayām",
+   "surface_in_sandhi": "'vyayām",
+   "lemma": "avyaya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Feminine accusative singular agreeing with akīrtim; glossed as dīrgha-kālām, ‘lasting a long time’.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya Stri/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "saṃbhāvitasya",
+   "surface_in_sandhi": "saṃbhāvitasya",
+   "lemma": "saṃbhāvita",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Past participial adjective used substantively: ‘of one held in esteem’.",
+   "verification": {
+    "status": "pass",
+    "detail": "saṃbhāvita Pum/Sasthi/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cā",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Appears in vowel sandhi with akīrtiḥ as cākīrtir.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "akīrtiḥ",
+   "surface_in_sandhi": "kīrtir",
+   "lemma": "akīrti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of atiricyate; initial a coalesces with preceding ca and final visarga appears as r before maraṇād.",
+   "verification": {
+    "status": "pass",
+    "detail": "akīrti Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "maraṇāt",
+   "surface_in_sandhi": "maraṇād",
+   "lemma": "maraṇa",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Napumsaka",
+    "vibhakti": "Panchami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Ablative of comparison with atiricyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "maraṇa Napumsaka/Panchami/Eka: pass"
+   }
+  },
+  {
+   "surface": "atiricyate",
+   "surface_in_sandhi": "atiricyate",
+   "lemma": "ric",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "ric",
+    "prefixes": [
+     "ati"
+    ],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive-form present with comparative/intransitive sense ‘exceeds, is worse than’, construed with ablative.",
+   "verification": {
+    "status": "pass",
+    "detail": "ati-ric Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The enclitic te is construed as genitive singular dependent on akīrtim, not as dative ‘to you’. Thus bhūtāni kathayiṣyanti te akīrtim means ‘people will tell of your disgrace’, not ‘will tell disgrace to you’.",
+   "options_considered": [
+    "genitive singular ‘your’",
+    "dative singular ‘to you’"
+   ],
+   "chosen": "te = tava, ‘your’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "te tava",
+     "translation": "te means ‘of you/your’ (tava)."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Although avyaya can mean ‘imperishable’ or ‘unchanging’, Śaṅkara glosses the accusative feminine here as dīrgha-kālām, so it qualifies akīrtim as a disgrace that lasts a long time.",
+   "options_considered": [
+    "metaphysically imperishable/immutable",
+    "long-lasting, enduring in reputation"
+   ],
+   "chosen": "avyayām = dīrgha-kālām, ‘long-lasting’",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "avyayāṃ dīrgha-kālām",
+     "translation": "avyayām means ‘of long duration’."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "The genitive saṃbhāvitasya is a substantive participial adjective referring to someone esteemed because of qualities such as being righteous and brave; it is not a finite or active notion such as ‘of one who has imagined/considered’.",
+   "options_considered": [
+    "one held in esteem/honour",
+    "one who has considered or imagined",
+    "one merely supposed/assumed"
+   ],
+   "chosen": "saṃbhāvitasya = ‘of one held in esteem’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "dharmātmā śūra ity evam ādibhiḥ guṇaiḥ saṃbhāvitasya",
+     "translation": "of one esteemed by qualities such as ‘righteous-souled’ and ‘brave’. "
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The ablative maraṇāt is comparative with atiricyate. Śaṅkara’s paraphrase makes the value judgment explicit: for an esteemed person, death is preferable to disgrace.",
+   "options_considered": [
+    "disgrace exceeds death in severity/is worse than death",
+    "disgrace merely survives beyond death",
+    "death exceeds disgrace"
+   ],
+   "chosen": "akīrtiḥ maraṇāt atiricyate = ‘disgrace is worse than death’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "akīrtiḥ maraṇāt atiricyate, saṃbhāvitasya ca akīrteḥ varaṃ maraṇam ity arthaḥ",
+     "translation": "disgrace surpasses death; the meaning is that, for one held in esteem, death is better than disgrace."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Grammatically the neuter plural bhūtāni is the subject of the third plural verb kathayiṣyanti. In context it is best rendered ‘people’ or ‘living beings’, not ‘elements’ or inert ‘things’.",
+   "options_considered": [
+    "living beings/people",
+    "the elements",
+    "things in general"
+   ],
+   "chosen": "bhūtāni = living beings/people as the plural subject",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "And people too will recount\n your long-lasting disgrace;\nand, for one who has been held in honour,\n disgrace is worse than death.",
+ "one_shot_delta": [
+  "A commentary-blind rendering might take te as dative, producing ‘they will tell infamy to you’; Śaṅkara fixes it as tava, ‘your’ (line 1).",
+  "It might render avyayām as a metaphysical ‘imperishable’; Śaṅkara’s dīrgha-kālām shows the intended sense is ‘long-lasting’ reputation (line 1).",
+  "It might miss that saṃbhāvitasya refers to a person esteemed for qualities like righteousness and courage; Śaṅkara supplies that social-honor context (line 2).",
+  "It might translate atiricyate blandly as ‘exceeds’; Śaṅkara’s paraphrase makes the practical force explicit: death is preferable to ill fame for such a person (line 2)."
+ ],
+ "analyzer_disagreements": [
+  "kathayiṣyanti: ByT5 gives lemma kathay; following the requested format I give the bare root kath, noting the kathay- stem formation.",
+  "te: ByT5 marks tvad only generally; Śaṅkara’s gloss te tava fixes the case as genitive singular rather than dative singular. I record masculine for the nominal feature set, since the addressed referent is Arjuna, while noting that the second-person form is not semantically gender-marked.",
+  "saṃbhāvitasya: ByT5 gives sambhāvay as lemma; I analyze the verse-form as an inflected nominal/participial stem saṃbhāvita, masculine genitive singular, as required for subantas.",
+  "atiricyate: ByT5 effectively gives the prefixed verbal base atiric; following the requested format I split this into bare root ric with prefix ati."
+ ],
+ "open_questions": [
+  "Commentary line 1 contains an apparent corrupt or intrusive ‘yuddhā’ between cāpi and bhūtāni; I have not relied on that reading."
+ ],
+ "verification_summary": {
+  "pass": 12,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 8968,
+   "completion_tokens": 13022,
+   "reasoning_tokens": 8192
+  },
+  "est_cost": 0.2222,
+  "reverified": true
+ },
+ "mula": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te 'vyayām | saṃbhāvitasya cākīrtir maraṇād atiricyate",
+ "commentary_lines": [
+  "akīrtiṃ cāpi yuddhā bhūtāni kathayiṣyanti te tava avyayāṃ dīrgha-kālām |",
+  "dharmātmā śūra ity evam ādibhiḥ guṇaiḥ saṃbhāvitasya ca akīrtiḥ maraṇāt atiricyate, saṃbhāvitasya ca akīrteḥ varaṃ maraṇam ity arthaḥ ||bhgs_2.34||",
+  "kiṃ ca--"
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "unit": "2.44",
+ "analysis": [
+  {
+   "surface": "bhogaiśvaryaprasaktānām",
+   "surface_in_sandhi": "bhogaiśvarya-prasaktānāṃ",
+   "lemma": "bhogaiśvaryaprasakta",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "tatpurusa",
+    "vigraha": "bhoge aiśvarye ca prasaktāḥ",
+    "members": [
+     "bhoga",
+     "aiśvarya",
+     "prasakta"
+    ]
+   },
+   "note": "Internal bhoga-aiśvarya is a dvandva; the external relation is ‘attached to enjoyment and lordly power.’ The masculine genitive plural refers to the persons being described. A verifier reported tool_error for the hyphenated compound claim; the analysis is retained with the unhyphenated compound stem bhogaiśvaryaprasakta.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem bhogaiśvaryaprasakta as Pum/Sasthi/Bahu: pass; relation tatpurusa: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "tayā",
+   "surface_in_sandhi": "tayā",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The feminine instrumental refers back to vāc, ‘speech’; Śaṅkara supplies tayā ... vācā. In the printed sandhi tayāpahṛta-, the following initial a of apahṛta is absorbed.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Stri/Trtiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "apahṛtacetasām",
+   "surface_in_sandhi": "pahṛta-cetasām",
+   "lemma": "apahṛtacetas",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Sasthi",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "apahṛtaṃ cetaḥ yeṣām",
+    "members": [
+     "apahṛta",
+     "cetas"
+    ]
+   },
+   "note": "Bahuvrīhi adjective of the same people: ‘those whose mind/intellect has been carried off’; Śaṅkara glosses this as their discriminating cognition being covered. A verifier reported tool_error for the hyphenated compound claim; the analysis is retained with the unhyphenated s-stem compound apahṛtacetas, whose masculine genitive plural is apahṛtacetasām.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem apahṛtacetas as Pum/Sasthi/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "vyavasāyātmikā",
+   "surface_in_sandhi": "vyavasāyātmikā",
+   "lemma": "vyavasāyātmikā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "vyavasāyaḥ ātmā svabhāvo yasyāḥ sā",
+    "members": [
+     "vyavasāya",
+     "ātmikā"
+    ]
+   },
+   "note": "Feminine nominative singular from the feminine ā-stem vyavasāyātmikā, agreeing with buddhiḥ. The verifier showed that the earlier stem vyavasāyātmaka would derive vyavasāyātmakā, not the attested vyavasāyātmikā.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem vyavasāyātmikā as Stri/Prathama/Eka: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "buddhiḥ",
+   "surface_in_sandhi": "buddhiḥ",
+   "lemma": "buddhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Subject of na vidhīyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "buddhi Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "samādhau",
+   "surface_in_sandhi": "samādhau",
+   "lemma": "samādhi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Saptami",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Śaṅkara here explicitly interprets samādhi as antaḥkaraṇa, buddhi—the inner organ/intellect—not as yogic trance.",
+   "verification": {
+    "status": "pass",
+    "detail": "samādhi Pum/Saptami/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vidhīyate",
+   "surface_in_sandhi": "vidhīyate",
+   "lemma": "dhā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "dhā",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Morphologically passive present, but Śaṅkara glosses the sense as na bhavati, ‘does not come to be/arise.’",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-dhā Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "bhogaiśvarya-prasaktānām describes people whose affection is fixed on the pair bhoga and aiśvarya, not merely ‘enjoyment of power’ or possession of wealth.",
+   "options_considered": [
+    "attached to enjoyment and lordly power",
+    "attached to the enjoyment of lordly power",
+    "endowed with enjoyment and lordly power"
+   ],
+   "chosen": "‘attached to enjoyment and lordly power,’ taking bhoga and aiśvarya as two objects of attachment",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "bhogaiśvarya-prasaktānāṃ bhogaḥ kartavyaḥ caiśvaryaṃ ca iti bhogaiśvaryayor eva praṇayavatāṃ tad-ātma-bhūtānām |",
+     "translation": "“For bhogaiśvarya-prasaktānām: thinking ‘enjoyment is to be pursued, and lordly power too’; those who have affection only for enjoyment and lordly power, who have become of that nature.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "The instrumental tayā refers to the preceding vāc, and apahṛta-cetasām is explained as a covering of viveka-prajñā, discriminating wisdom.",
+   "options_considered": [
+    "by that ritual-detail-rich speech, with minds carried away",
+    "by that enjoyment and power",
+    "whose minds are simply stolen away, with no further cognitive nuance"
+   ],
+   "chosen": "tayā = ‘by that speech rich in special ritual acts’; apahṛta-cetasām = ‘whose minds are carried away/whose discriminating cognition is covered’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "tayā kriyā-viśeṣa-bahulayā vācā apahṛta-cetasām ācchādita-viveka-prajñānāṃ",
+     "translation": "“By that speech, abundant in particular rites; of those whose minds are carried off, that is, whose discriminating cognition is covered.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Śaṅkara construes vyavasāyātmikā buddhiḥ as the determinate intellect relevant to Sāṅkhya or Yoga, not as any ordinary worldly resolve.",
+   "options_considered": [
+    "resolute intellect in Sāṅkhya or Yoga",
+    "ordinary practical determination",
+    "desire-driven resolve"
+   ],
+   "chosen": "‘the resolute/determinate intellect, whether in Sāṅkhya or in Yoga’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "vyavasāyātmikā sāṃkhye yoge vā buddhiḥ",
+     "translation": "“The vyavasāyātmikā intellect, in Sāṅkhya or in Yoga.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "The locative samādhau is not translated as ‘in meditative trance/concentration’; Śaṅkara defines samādhi etymologically as the inner instrument in which everything is assembled for the puruṣa’s experience.",
+   "options_considered": [
+    "in the inner organ/intellect",
+    "in meditative absorption",
+    "in concentration as a practice"
+   ],
+   "chosen": "samādhi here = the inner organ/intellect (antaḥkaraṇa, buddhi)",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "samādhau samādhīyate asmin puruṣopabhogāya sarvam iti samādhiḥ antaḥkaraṇaṃ buddhiḥ tasmin samādhau",
+     "translation": "“In samādhi: because everything is placed together in it for the enjoyment of the puruṣa, it is called samādhi—the inner organ, the intellect; in that samādhi.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Although vidhīyate can mean ‘is prescribed/enjoined,’ Śaṅkara rejects that as the operative sense here by glossing it with na bhavati.",
+   "options_considered": [
+    "does not arise / does not come to be",
+    "is not prescribed",
+    "is not ordained"
+   ],
+   "chosen": "na vidhīyate = ‘does not arise / does not come to be’",
+   "evidence": [
+    {
+     "lines": [
+      2
+     ],
+     "quote": "na vidhīyate na bhavati ity arthaḥ",
+     "translation": "“na vidhīyate means: it does not come to be.”"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "The compound relation of vyavasāyātmikā is analysed grammatically as a bahuvrīhi-like -ātmikā compound; the supplied commentary here gives scope but not a separate vigraha for the compound.",
+   "options_considered": [
+    "having determination as its nature",
+    "whose self is business/activity",
+    "consisting of enterprise in a worldly sense"
+   ],
+   "chosen": "vyavasāyātmikā as ‘having determination as its nature,’ hence ‘resolute/determinate’",
+   "evidence": [],
+   "depends_on_commentary": false
+  }
+ ],
+ "translation": "For those attached to enjoyment and lordly power,\nwhose minds are carried away by that speech rich in special rites,\nthe resolute intellect (vyavasāyātmikā buddhiḥ), whether in Sāṅkhya or in Yoga,\ndoes not arise in the samādhi—the inner organ (antaḥkaraṇa).",
+ "one_shot_delta": [
+  "A commentary-blind rendering would likely take samādhi as ‘meditative concentration’ or ‘trance’; Śaṅkara instead defines it here as the inner organ, the intellect.",
+  "It might translate na vidhīyate as ‘is not prescribed/enjoined’; Śaṅkara explicitly says the sense is na bhavati, ‘does not come to be.’",
+  "It might leave tayā vague or connect it to enjoyment and power; Śaṅkara identifies it as the preceding speech rich in ritual particulars.",
+  "It might compress bhogaiśvarya into ‘enjoyment of power’; Śaṅkara treats bhoga and aiśvarya as two cherished aims."
+ ],
+ "analyzer_disagreements": [
+  "ByT5 splits bhogaiśvarya-prasaktānām into bhoga + aiśvarya + prasaktānām; this apparatus treats the printed compound as one masculine genitive plural stem bhogaiśvaryaprasakta, preserving the tagger’s final-member genitive plural masculine analysis. The verified stem is given without editorial hyphen.",
+  "ByT5 splits apahṛta-cetasām into apahṛta + cetasām; this apparatus treats it as one bahuvrīhi adjective in masculine genitive plural, externally agreeing with the persons described. The verified stem is given without editorial hyphen.",
+  "ByT5 splits vyavasāyātmikā into vyavasāya + ātmikā/ātmaka; this apparatus treats it as one compound adjective modifying buddhiḥ, feminine nominative singular from the feminine stem vyavasāyātmikā. The earlier normalization to vyavasāyātmaka is rejected because it derives vyavasāyātmakā.",
+  "For vidhīyate, ByT5’s lemma vidhā is normalized to the bare root dhā with prefix vi, as requested; voice, lakāra, person, and number are otherwise retained."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 8,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.5-2026-04-23",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 2,
+  "usage": {
+   "prompt_tokens": 11583,
+   "completion_tokens": 23906,
+   "reasoning_tokens": 18432
+  },
+  "est_cost": 0.3933,
+  "reverified": true
+ },
+ "mula": "bhogaiśvarya-prasaktānāṃ tayāpahṛta-cetasām | vyavasāyātmikā buddhiḥ samādhau na vidhīyate",
+ "commentary_lines": [
+  "bhogaiśvarya-prasaktānāṃ bhogaḥ kartavyaḥ caiśvaryaṃ ca iti bhogaiśvaryayor eva praṇayavatāṃ tad-ātma-bhūtānām |",
+  "tayā kriyā-viśeṣa-bahulayā vācā apahṛta-cetasām ācchādita-viveka-prajñānāṃ vyavasāyātmikā sāṃkhye yoge vā buddhiḥ samādhau samādhīyate asmin puruṣopabhogāya sarvam iti samādhiḥ antaḥkaraṇaṃ buddhiḥ tasmin samādhau, na vidhīyate na bhavati ity arthaḥ ||bhgs_2.44||",
+  "ya evaṃ viveka-buddhi-rahitāḥ teṣāṃ kāmātmanāṃ yat phalaṃ tad āha -"
+ ]
+}
