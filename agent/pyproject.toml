@@ -12,6 +12,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "huggingface-hub>=1.23.0",
     "openpyxl>=3.1.5",
     "reportlab>=5.0.0",
 ]

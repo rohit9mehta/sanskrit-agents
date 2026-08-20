@@ -179,7 +179,7 @@ def ask(query: str, effort: str = "medium") -> dict:
     user = (f"QUESTION: {query}\n\nPASSAGES:\n" + "\n\n".join(passages)
             + "\n\nAnswer per the rules.")
 
-    from .reason import _chat
+    from .llm import chat as _chat
 
     answer, usage = _chat(
         [{"role": "system", "content": ANSWER_SYSTEM},
