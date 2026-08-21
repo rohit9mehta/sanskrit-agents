@@ -20,3 +20,15 @@ agent/data/raw/
 agent/data/cache/
 agent/data/vidyut-*/
 agent/data/mw/
+
+# Phase 3 prep: large, regenerable training data (scripts 27→28→31→32, ~10 min)
+agent/data/dcs/raw/
+agent/data/training/dcs_pool.jsonl
+agent/data/training/dcs_verified.jsonl
+agent/data/training/dcs_unverified.jsonl
+agent/data/training/synthetic_pool.jsonl
+agent/data/training/trainset_v1.jsonl
+agent/data/benchmark/results_smoke.jsonl
+agent/logs/dcs_arbitration.jsonl
+agent/logs/*.out
+agent/models/

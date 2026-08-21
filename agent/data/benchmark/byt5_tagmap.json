@@ -1,0 +1,551 @@
+{
+ "subanta|SAF": {
+  "features": [
+   "Dvitiya",
+   "Eka",
+   "Stri"
+  ],
+  "votes": 109,
+  "total": 111
+ },
+ "subanta|SAM": {
+  "features": [
+   "Dvitiya",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 178,
+  "total": 190
+ },
+ "tinanta|SPs3In": {
+  "features": [
+   "Lit",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 44,
+  "total": 52
+ },
+ "subanta|SANe": {
+  "features": [
+   "Dvitiya",
+   "Eka",
+   "Napumsaka"
+  ],
+  "votes": 150,
+  "total": 167
+ },
+ "subanta|PIM": {
+  "features": [
+   "Trtiya",
+   "Bahu",
+   "Pum"
+  ],
+  "votes": 88,
+  "total": 90
+ },
+ "tinanta|SPr1In": {
+  "features": [
+   "Lat",
+   "Uttama",
+   "Eka"
+  ],
+  "votes": 13,
+  "total": 13
+ },
+ "tinanta|SPs3InPv": {
+  "features": [
+   "Lun",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 3,
+  "total": 3
+ },
+ "subanta|SNF": {
+  "features": [
+   "Prathama",
+   "Eka",
+   "Stri"
+  ],
+  "votes": 147,
+  "total": 151
+ },
+ "subanta|SNNe": {
+  "features": [
+   "Prathama",
+   "Eka",
+   "Napumsaka"
+  ],
+  "votes": 145,
+  "total": 148
+ },
+ "subanta|SIF": {
+  "features": [
+   "Trtiya",
+   "Eka",
+   "Stri"
+  ],
+  "votes": 35,
+  "total": 35
+ },
+ "subanta|SINe": {
+  "features": [
+   "Trtiya",
+   "Eka",
+   "Napumsaka"
+  ],
+  "votes": 43,
+  "total": 45
+ },
+ "subanta|SLF": {
+  "features": [
+   "Saptami",
+   "Eka",
+   "Stri"
+  ],
+  "votes": 19,
+  "total": 19
+ },
+ "subanta|SLNe": {
+  "features": [
+   "Saptami",
+   "Eka",
+   "Napumsaka"
+  ],
+  "votes": 79,
+  "total": 84
+ },
+ "subanta|SDNe": {
+  "features": [
+   "Caturthi",
+   "Eka",
+   "Napumsaka"
+  ],
+  "votes": 7,
+  "total": 8
+ },
+ "subanta|PNM": {
+  "features": [
+   "Prathama",
+   "Bahu",
+   "Pum"
+  ],
+  "votes": 155,
+  "total": 169
+ },
+ "tinanta|PPs3In": {
+  "features": [
+   "Lit",
+   "Prathama",
+   "Bahu"
+  ],
+  "votes": 16,
+  "total": 16
+ },
+ "subanta|PNNe": {
+  "features": [
+   "Prathama",
+   "Bahu",
+   "Napumsaka"
+  ],
+  "votes": 28,
+  "total": 28
+ },
+ "subanta|SNM": {
+  "features": [
+   "Prathama",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 338,
+  "total": 338
+ },
+ "subanta|PGM": {
+  "features": [
+   "Sasthi",
+   "Bahu",
+   "Pum"
+  ],
+  "votes": 55,
+  "total": 57
+ },
+ "subanta|SDM": {
+  "features": [
+   "Caturthi",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 22,
+  "total": 22
+ },
+ "subanta|SBNe": {
+  "features": [
+   "Panchami",
+   "Eka",
+   "Napumsaka"
+  ],
+  "votes": 25,
+  "total": 25
+ },
+ "subanta|SBM": {
+  "features": [
+   "Panchami",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 28,
+  "total": 29
+ },
+ "subanta|SGNe": {
+  "features": [
+   "Sasthi",
+   "Eka",
+   "Napumsaka"
+  ],
+  "votes": 17,
+  "total": 18
+ },
+ "tinanta|P3ImIn": {
+  "features": [
+   "Lan",
+   "Prathama",
+   "Bahu"
+  ],
+  "votes": 7,
+  "total": 7
+ },
+ "subanta|SGM": {
+  "features": [
+   "Sasthi",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 102,
+  "total": 104
+ },
+ "subanta|SIM": {
+  "features": [
+   "Trtiya",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 67,
+  "total": 71
+ },
+ "subanta|PAF": {
+  "features": [
+   "Dvitiya",
+   "Bahu",
+   "Stri"
+  ],
+  "votes": 28,
+  "total": 29
+ },
+ "tinanta|SPr3In": {
+  "features": [
+   "Lat",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 66,
+  "total": 66
+ },
+ "tinanta|SPr3O": {
+  "features": [
+   "VidhiLin",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 19,
+  "total": 19
+ },
+ "subanta|PAM": {
+  "features": [
+   "Dvitiya",
+   "Bahu",
+   "Pum"
+  ],
+  "votes": 47,
+  "total": 47
+ },
+ "subanta|PINe": {
+  "features": [
+   "Trtiya",
+   "Bahu",
+   "Napumsaka"
+  ],
+  "votes": 31,
+  "total": 32
+ },
+ "subanta|SLM": {
+  "features": [
+   "Saptami",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 91,
+  "total": 93
+ },
+ "subanta|PGF": {
+  "features": [
+   "Sasthi",
+   "Bahu",
+   "Stri"
+  ],
+  "votes": 16,
+  "total": 16
+ },
+ "tinanta|SPr3InPv": {
+  "features": [
+   "Lat",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 19,
+  "total": 19
+ },
+ "subanta|PANe": {
+  "features": [
+   "Dvitiya",
+   "Bahu",
+   "Napumsaka"
+  ],
+  "votes": 33,
+  "total": 38
+ },
+ "subanta|SVM": {
+  "features": [
+   "Sambodhana",
+   "Eka",
+   "Pum"
+  ],
+  "votes": 11,
+  "total": 11
+ },
+ "tinanta|SPr2In": {
+  "features": [
+   "Lat",
+   "Madhyama",
+   "Eka"
+  ],
+  "votes": 4,
+  "total": 4
+ },
+ "subanta|PIF": {
+  "features": [
+   "Trtiya",
+   "Bahu",
+   "Stri"
+  ],
+  "votes": 6,
+  "total": 6
+ },
+ "tinanta|S3ImIn": {
+  "features": [
+   "Lan",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 20,
+  "total": 20
+ },
+ "subanta|PGNe": {
+  "features": [
+   "Sasthi",
+   "Bahu",
+   "Napumsaka"
+  ],
+  "votes": 9,
+  "total": 9
+ },
+ "tinanta|PPr3In": {
+  "features": [
+   "Lat",
+   "Prathama",
+   "Bahu"
+  ],
+  "votes": 36,
+  "total": 36
+ },
+ "subanta|PLM": {
+  "features": [
+   "Saptami",
+   "Bahu",
+   "Pum"
+  ],
+  "votes": 29,
+  "total": 29
+ },
+ "tinanta|S1ImIn": {
+  "features": [
+   "Lan",
+   "Uttama",
+   "Eka"
+  ],
+  "votes": 4,
+  "total": 4
+ },
+ "tinanta|SPr2Im": {
+  "features": [
+   "Lot",
+   "Madhyama",
+   "Eka"
+  ],
+  "votes": 18,
+  "total": 18
+ },
+ "tinanta|SFu3In": {
+  "features": [
+   "Lrt",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 6,
+  "total": 6
+ },
+ "subanta|PNF": {
+  "features": [
+   "Prathama",
+   "Bahu",
+   "Stri"
+  ],
+  "votes": 30,
+  "total": 32
+ },
+ "subanta|SGF": {
+  "features": [
+   "Sasthi",
+   "Eka",
+   "Stri"
+  ],
+  "votes": 14,
+  "total": 14
+ },
+ "subanta|PLF": {
+  "features": [
+   "Saptami",
+   "Bahu",
+   "Stri"
+  ],
+  "votes": 8,
+  "total": 8
+ },
+ "tinanta|PPr3Im": {
+  "features": [
+   "Lot",
+   "Prathama",
+   "Bahu"
+  ],
+  "votes": 3,
+  "total": 3
+ },
+ "tinanta|PPr3InPv": {
+  "features": [
+   "Lat",
+   "Prathama",
+   "Bahu"
+  ],
+  "votes": 3,
+  "total": 3
+ },
+ "subanta|DuNM": {
+  "features": [
+   "Prathama",
+   "Dvi",
+   "Pum"
+  ],
+  "votes": 11,
+  "total": 11
+ },
+ "tinanta|SPr3Im": {
+  "features": [
+   "Lot",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 5,
+  "total": 5
+ },
+ "subanta|DuNNe": {
+  "features": [
+   "Prathama",
+   "Dvi",
+   "Napumsaka"
+  ],
+  "votes": 3,
+  "total": 3
+ },
+ "tinanta|SPs3InPe": {
+  "features": [
+   "Lit",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 8,
+  "total": 8
+ },
+ "tinanta|SPr2O": {
+  "features": [
+   "VidhiLin",
+   "Madhyama",
+   "Eka"
+  ],
+  "votes": 6,
+  "total": 6
+ },
+ "tinanta|SPr3ImPv": {
+  "features": [
+   "Lot",
+   "Prathama",
+   "Eka"
+  ],
+  "votes": 5,
+  "total": 5
+ },
+ "subanta|PDM": {
+  "features": [
+   "Caturthi",
+   "Bahu",
+   "Pum"
+  ],
+  "votes": 3,
+  "total": 3
+ },
+ "subanta|PLNe": {
+  "features": [
+   "Saptami",
+   "Bahu",
+   "Napumsaka"
+  ],
+  "votes": 3,
+  "total": 4
+ },
+ "tinanta|PFu3In": {
+  "features": [
+   "Lrt",
+   "Prathama",
+   "Bahu"
+  ],
+  "votes": 3,
+  "total": 3
+ },
+ "tinanta|PPr1In": {
+  "features": [
+   "Lat",
+   "Uttama",
+   "Bahu"
+  ],
+  "votes": 3,
+  "total": 3
+ },
+ "subanta|SVF": {
+  "features": [
+   "Sambodhana",
+   "Eka",
+   "Stri"
+  ],
+  "votes": 5,
+  "total": 5
+ }
+}

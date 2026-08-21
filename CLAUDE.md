@@ -87,6 +87,31 @@ justifying each contested choice.
 - Then: run scoring, write the decision-gate memo (go/no-go for Phase 3)
 - LLM spend to date: ~$17.5 est (hard stop $25, authorized $50)
 
+## Phase 3 PREP: data + benchmark ready, training gated (2026-08-21)
+Everything post-training needs EXCEPT the go decision (which waits on the
+Phase 2 human eval) is built. Scripts 26–33; all outputs under agent/data/.
+- ✅ Curation (`26`): 10,633 pipeline verification records → 2,047 deduped
+  claims, 38 hard-negative pairs, `training/coverage.md` (genre skew
+  quantified: Lṛṅ 0, Luṅ 7, Bhāve 0, subanta:tinanta 6:1)
+- ✅ DCS sample (`27`, CC BY 4.0): 9 texts / 63k tokens, genre-stratified
+  (narrative/kāvya for past tenses); `28` arbitrated with vidyut → 13,065
+  gold claims (coarse DCS tags resolved by derivation)
+- ✅ Benchmark FROZEN (`29`): `data/benchmark/analyzer_benchmark_v1.jsonl`,
+  985 items (35 pipeline-hard + 950 DCS stratified), sha256 in MANIFEST.json.
+  NEVER train on it; `training/split_v1.json` lists excluded keys.
+- ✅ Synthetic (`31`): vidyut forward derivation, 34,719 pairs, flat across
+  all 10 lakāras × 3 prayogas and 8 vibhaktis × 3 vacanas
+- ✅ Train set (`32`): `training/trainset_v1.jsonl`, 46,379 records,
+  weighted (pipeline 1.5 / hard 3.0 / dcs 1.0 / synthetic 0.5)
+- ✅ Baseline scorer (`30`) + training skeleton (`33`, SFT of ByT5-Sanskrit
+  on our explicit `pos=… lakara=…` target format; `--smoke` proves plumbing)
+- Base-model memo: `data/benchmark/base_model_memo.md` (default: continue
+  from ByT5-Sanskrit; tie-break rule stated). Compute for a real run is
+  NOT covered by the $50 LLM authorization — separate decision.
+- Leaderboard of every scored model: `data/benchmark/leaderboard.md`
+- Critical path: aunty's grader CSV → `15_score_eval.py` → decision memo →
+  if go: `33_train_analyzer.py` full run → compare vs baseline_report.md
+
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern
 - Every translation output must carry its apparatus (analysis, commentary citation
