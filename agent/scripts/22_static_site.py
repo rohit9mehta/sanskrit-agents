@@ -21,8 +21,8 @@ import sys
 
 from shastrartha.canned import canned_answer
 from shastrartha.texts import PROJECT_ROOT
-from shastrartha.webui import (CANNED_QUESTIONS, apparatus_body, chips_html,
-                               md_lite, page, shelf_html)
+from shastrartha.webui import (ABOUT_HTML, CANNED_QUESTIONS, apparatus_body,
+                               chips_html, md_lite, page, shelf_html)
 
 DOCS = PROJECT_ROOT / "docs"
 
@@ -61,6 +61,7 @@ def main() -> int:
   <button onclick="free()">Ask</button>
 </div>
 <div class="samples">""" + chips + """</div>
+""" + ABOUT_HTML + """
 <div id="out"></div>
 <div class="note" style="margin-top:1rem">This page answers the curated
 questions above, pre-computed through the full pipeline. To ask anything in your
@@ -75,8 +76,12 @@ function render(q) {
   var d = A[q];
   var h = '<div class="answer">' + d.answer_html + '</div>';
   if (d.citations.length) {
-    h += '<div class="src"><b>Sources consulted:</b> ' + d.citations.map(function(c){
-      return '<a href="unit/' + c.slug + '/' + c.unit + '.html">' + c.key + '</a> (' + c.kind + ')';
+    var seen = {};
+    var uniq = d.citations.filter(function(c){
+      return seen[c.key] ? false : (seen[c.key] = true);
+    });
+    h += '<div class="src"><b>Sources consulted:</b> ' + uniq.map(function(c){
+      return '<a href="unit/' + c.slug + '/' + c.unit + '.html">' + c.key + '</a>';
     }).join(' · ') + '</div>';
   }
   document.getElementById('out').innerHTML = h;

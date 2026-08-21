@@ -29,8 +29,8 @@ sys.path.insert(0, str(Path(__file__).parent / "agent" / "src"))
 
 from shastrartha.ask import ask  # noqa: E402
 from shastrartha.llm import estimated_cost  # noqa: E402
-from shastrartha.webui import (apparatus_body, chips_html, md_lite,  # noqa: E402
-                               page, shelf_html)
+from shastrartha.webui import (ABOUT_HTML, apparatus_body, chips_html,  # noqa: E402
+                               md_lite, page, shelf_html)
 
 CANNED = json.loads((Path(__file__).parent / "canned.json").read_text(encoding="utf-8"))
 
@@ -122,6 +122,7 @@ HOME_BODY = """
   <button onclick="go()">Ask</button>
 </div>
 <div class="samples">Try: """ + CHIPS + """</div>
+""" + ABOUT_HTML + """
 <div class="spin" id="spin">Reading the commentaries…</div>
 <div id="out"></div>
 """ + "{shelf}" + """
@@ -145,8 +146,10 @@ async function go() {
   document.getElementById('spin').style.display = 'none';
   let h = '<div class="answer">' + linkCites(d.answer_html) + '</div>';
   if (d.citations && d.citations.length) {
-    h += '<div class="src"><b>Sources consulted:</b> ' + d.citations.map(c =>
-      `<a href="/unit/${c.slug}/${c.unit}">${c.key}</a> (${c.kind})`
+    const seen = new Set();
+    const uniq = d.citations.filter(c => !seen.has(c.key) && seen.add(c.key));
+    h += '<div class="src"><b>Sources consulted:</b> ' + uniq.map(c =>
+      `<a href="/unit/${c.slug}/${c.unit}">${c.key}</a>`
     ).join(' · ') + '</div>';
   }
   document.getElementById('out').innerHTML = h;

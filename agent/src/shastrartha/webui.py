@@ -62,7 +62,35 @@ td,th { border-bottom:1px solid var(--soft); padding:.35rem .5rem; text-align:le
 .shelf td { font-size:.92rem; }
 .note { color:#6b5f4e; font-size:.85rem; }
 .explain { color:#6b5f4e; font-size:.85rem; margin:-.2rem 0 .6rem; }
+.answer ul { margin:.2rem 0; padding-left:1.2rem; }
+.answer li { margin:.3rem 0; }
+.about { margin:.9rem 0 0; font-size:.92rem; color:#4a4136; }
+.about summary { cursor:pointer; color:var(--accent); font-size:.88rem; }
+.about[open] { background:#fff; border:1.5px solid var(--soft);
+  border-radius:10px; padding:.5rem .9rem .2rem; }
+.about p { margin:.55rem 0; }
 """
+
+# Collapsed one-line link on the home pages; opens to a short plain-language
+# explanation of the system. Pure HTML (<details>), so it works identically
+# on the live server and the static export.
+ABOUT_HTML = """
+<details class="about"><summary>What is this, and how is it different from
+Google Translate or a chatbot?</summary>
+<p>Every translation here was prepared ahead of time: each word of the
+Sanskrit was grammatically analyzed, ambiguities were settled by reading the
+tradition's own commentary on the passage (Śaṅkara, Sthiramati, Vyāsa), and
+each grammatical claim was re-derived with software implementing Pāṇini's
+grammar. The full working is kept — translation, word-by-word grammar, and
+the commentary lines that decided each hard call.</p>
+<p>The ask box composes its answers only from that library. Every claim
+carries a citation you can click through to the verse page and check.
+Questions the library doesn't cover are refused, not improvised.</p>
+<p>A translation app or a plain chatbot gives you a one-shot guess with no
+sources — and on difficult texts the guess flattens exactly the terms the
+commentators spent pages explaining. Here, nothing is shown without a source
+you can inspect.</p>
+</details>"""
 
 TITLE = "Śāstrārtha: ask the śāstras"
 SUBTITLE = ("Ask the śāstras. Every answer is cited to the tradition's own "
@@ -112,7 +140,27 @@ def md_lite(text: str) -> str:
     t = html.escape(text)
     t = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
     t = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"<i>\1</i>", t)
-    return t
+    # "- " lines become real lists. Rendered inside white-space:pre-wrap,
+    # so the list HTML must carry no newlines of its own.
+    out: list[str] = []
+    items: list[str] = []
+
+    def flush():
+        if items:
+            out.append("<ul>" + "".join(f"<li>{i}</li>" for i in items) + "</ul>")
+            items.clear()
+
+    for ln in t.split("\n"):
+        s = ln.strip()
+        if s.startswith("- "):
+            items.append(s[2:])
+        elif s == "" and items:
+            pass  # blank line between bullets: stay in the list
+        else:
+            flush()
+            out.append(ln)
+    flush()
+    return "\n".join(out)
 
 
 def units_of(slug: str) -> list[str]:

@@ -12,6 +12,15 @@
         "scripts/20_serve.py"
       ],
       "port": 8008
+    },
+    {
+      "name": "shastrartha-space-build",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "python3",
+        "/Users/rohitm/Documents/Projects/Sanskrit/agent/space-build/app.py"
+      ],
+      "port": 7860
     }
   ]
 }
