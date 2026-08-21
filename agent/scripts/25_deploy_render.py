@@ -8,6 +8,11 @@ Creates (or updates) a free-tier Python web service that runs
 agent/space-build/app.py straight from the public GitHub repo, sets the
 rate-limit env vars, waits for the first deploy, and prints the URL.
 
+NOTE: autoDeploy is set, but push-webhooks do NOT fire for API-created
+services without Render's GitHub App installed on the repo — after
+pushing, re-run this script (its update path triggers a deploy), or the
+site keeps serving the old commit (observed 2026-08-20).
+
 KEEP-WARM NOTE (deliberately NOT enabled — Rohit's call, 2026-08-12):
 free services spin down after 15 idle minutes and take ~1 min to wake.
 Render grants 750 free instance-hours/month (a full month is 744), so a
