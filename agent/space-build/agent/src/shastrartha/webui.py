@@ -68,31 +68,22 @@ TITLE = "Śāstrārtha: ask the śāstras"
 SUBTITLE = ("Ask the śāstras. Every answer is cited to the tradition's own "
             "commentaries, and every translation behind it is grammar-checked.")
 
-# Chips lead with the universal human question; the Sanskrit terminology
-# appears in the ANSWER, glossed and cited — never as the price of entry.
-# Each phrasing is retrieval-tested (lexical index, no stemming): the right
-# text ranks first and the doctrinally-right units sit in the top-10 the
-# LLM sees. Re-test after edits: scratchpad test_variants.py pattern.
+# A chip IS the question: the exact text on the chip is the exact query
+# asked on click — never a re-phrased stand-in (a box that rewrites what
+# you clicked reads as bait-and-switch). Keep the set small and first-visit
+# friendly; the Sanskrit terminology appears in the ANSWER, glossed and
+# cited — never as the price of entry. Each phrasing is retrieval-tested
+# (lexical index, no stemming). Answers are served from the store in
+# agent/data/canned_answers.json under these exact strings: re-phrasing a
+# chip means re-keying its entry (same answer) or deleting it so the next
+# site build recomputes it through ask().
 CANNED_QUESTIONS = [
-    ("Why shouldn't I grieve for those who die?", "on death and grief"),
-    ("How do I act without clinging to the fruits of my actions?",
-     "acting without clinging"),
-    ("What does a person of steady wisdom look like in daily life?",
-     "the person at peace"),
-    ("What happens to the soul when the body dies?", "the soul at death"),
-    ("What is yoga, in its oldest technical definition?", "what yoga actually means"),
-    ("How can a restless mind be made clear and steady?", "calming a restless mind"),
-    ("Does the repetition of Om actually do anything?", "what Om is for"),
-    ("What is the role of practice and dispassion in mastering the mind?",
-     "practice and letting go"),
-    ("Can I enjoy the world without being owned by it?", "enjoyment without possession"),
-    ("Can knowledge be as dangerous as ignorance?", "when knowledge misleads"),
-    ("Is it wrong to want to live a hundred years?", "a long and active life"),
-    ("Does the external world really exist outside consciousness?",
-     "is the world in the mind?"),
-    ("Does karma leave impressions in the mind?", "the seeds karma leaves"),
-    ("Does consciousness continue in dreamless sleep?", "the mind in deep sleep"),
-    ("What are the seven chakras?", "not covered — watch it refuse"),
+    "Why shouldn't I grieve for those who die?",
+    "How do I act without clinging to the fruits of my actions?",
+    "What happens to the soul when the body dies?",
+    "How can a restless mind be made clear and steady?",
+    "Is the world in the mind?",
+    "What are the seven chakras?",  # not in the library — the refusal demo
 ]
 
 
@@ -100,9 +91,9 @@ def chips_html(js_fn: str) -> str:
     """Question chips whose onclick survives HTML attribute quoting
     (questions contain both quote kinds; escape the JSON for the attr)."""
     out = []
-    for q, label in CANNED_QUESTIONS:
+    for q in CANNED_QUESTIONS:
         call = html.escape(f"return {js_fn}({json.dumps(q)})", quote=True)
-        out.append(f'<a href="#" onclick="{call}">{html.escape(label)}</a>')
+        out.append(f'<a href="#" onclick="{call}">{html.escape(q)}</a>')
     return "\n".join(out)
 
 

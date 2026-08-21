@@ -16,6 +16,7 @@ RL_GLOBAL_USD_PER_DAY, RL_MAX_QLEN.
 
 import json
 import os
+import re
 import sys
 import time
 from collections import defaultdict, deque
@@ -32,6 +33,15 @@ from shastrartha.webui import (apparatus_body, chips_html, md_lite,  # noqa: E40
                                page, shelf_html)
 
 CANNED = json.loads((Path(__file__).parent / "canned.json").read_text(encoding="utf-8"))
+
+
+def _norm_q(s: str) -> str:
+    """Case/spacing/trailing-punctuation-insensitive form, so a typed canned
+    question is served instantly instead of costing a live LLM call."""
+    return re.sub(r"\s+", " ", s).strip().strip("?.! ").casefold()
+
+
+CANNED_BY_NORM = {_norm_q(k): k for k in CANNED}
 
 PER_MIN = int(os.environ.get("RL_PER_MIN", "4"))
 PER_DAY = int(os.environ.get("RL_PER_DAY", "20"))
@@ -161,8 +171,9 @@ class H(BaseHTTPRequestHandler):
         self.wfile.write(data)
 
     def _api_ask(self, q: str) -> dict:
-        if q in CANNED:
-            c = CANNED[q]
+        hit = CANNED_BY_NORM.get(_norm_q(q))
+        if hit is not None:
+            c = CANNED[hit]
             return {"answer_html": c["answer_html_plain"],
                     "citations": c["citations"], "canned": True}
         if len(q) > MAX_QLEN:

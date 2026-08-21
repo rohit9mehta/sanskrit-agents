@@ -1,17 +1,19 @@
-"""Assemble the Hugging Face Space bundle into space-build/ (gitignored).
+"""Assemble the deployable ask-box bundle into space-build/ (committed:
+Render builds the web service straight from this directory of the GitHub
+repo, and scripts/24_deploy_space.py pushes it to the HF Space repo).
 
 Contents: app.py + Dockerfile + README (Space front-matter) + the minimal
 package slice (llm/ask/webui/normalize/texts) + apparatus JSONs + canned.json
-(pre-computed answers, cites left as [slug unit] for client-side linking).
-
-Deploy (scripts/24_deploy_space.py) pushes this directory to the Space repo.
+(pre-computed answers from agent/data/canned_answers.json, cites left as
+[slug unit] for client-side linking).
 """
 
 import json
 import shutil
 import sys
 
-from shastrartha.ask import TEXT_META, ask
+from shastrartha.ask import TEXT_META
+from shastrartha.canned import canned_answer
 from shastrartha.llm import MODEL
 from shastrartha.texts import AGENT_DIR, DATA_DIR
 from shastrartha.webui import CANNED_QUESTIONS, md_lite
@@ -85,14 +87,11 @@ def main() -> int:
 
     # canned answers (cites left un-linked; the client links them)
     canned = {}
-    for q, label in CANNED_QUESTIONS:
-        res = ask(q)
+    for q in CANNED_QUESTIONS:
+        res = canned_answer(q)
         canned[q] = {
-            "label": label,
             "answer_html_plain": md_lite(res["answer"]),
-            "citations": [
-                {"key": c["key"], "slug": c["slug"], "unit": c["unit"],
-                 "kind": c["kind"]} for c in res.get("citations", [])],
+            "citations": res["citations"],
         }
     (BUILD / "canned.json").write_text(
         json.dumps(canned, ensure_ascii=False), encoding="utf-8")

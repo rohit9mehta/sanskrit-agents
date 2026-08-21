@@ -4,8 +4,9 @@ The live server needs the OpenAI key for free-form questions; a public static
 page must not carry the key. So the static site ships:
   * every apparatus page (full library, browsable);
   * the shelf/coverage section;
-  * PRE-COMPUTED answers for the curated questions (computed here, once,
-    through the exact same ask() path — citations and refusal included);
+  * PRE-COMPUTED answers for the curated questions (from the committed
+    store, agent/data/canned_answers.json; a question the store lacks is
+    computed once through the exact same ask() path and persisted);
   * a free-text box that matches against the canned set and otherwise
     explains how to run the live version.
 
@@ -18,7 +19,7 @@ import json
 import re
 import sys
 
-from shastrartha.ask import ask
+from shastrartha.canned import canned_answer
 from shastrartha.texts import PROJECT_ROOT
 from shastrartha.webui import (CANNED_QUESTIONS, apparatus_body, chips_html,
                                md_lite, page, shelf_html)
@@ -44,17 +45,13 @@ def link_cites(html_text: str) -> str:
 
 def main() -> int:
     answers = {}
-    for q, label in CANNED_QUESTIONS:
-        res = ask(q)
+    for q in CANNED_QUESTIONS:
+        res = canned_answer(q)
         answers[q] = {
-            "label": label,
             "answer_html": link_cites(md_lite(res["answer"])),
-            "citations": [
-                {"key": c["key"], "slug": c["slug"], "unit": c["unit"],
-                 "kind": c["kind"]} for c in res.get("citations", [])
-            ],
+            "citations": res["citations"],
         }
-        print(("canned" if res.get("llm") else "refusal"), "|", q)
+        print("canned |", q)
 
     chips = chips_html("show")
     body = """
