@@ -68,23 +68,31 @@ TITLE = "Śāstrārtha: ask the śāstras"
 SUBTITLE = ("Ask the śāstras. Every answer is cited to the tradition's own "
             "commentaries, and every translation behind it is grammar-checked.")
 
+# Chips lead with the universal human question; the Sanskrit terminology
+# appears in the ANSWER, glossed and cited — never as the price of entry.
+# Each phrasing is retrieval-tested (lexical index, no stemming): the right
+# text ranks first and the doctrinally-right units sit in the top-10 the
+# LLM sees. Re-test after edits: scratchpad test_variants.py pattern.
 CANNED_QUESTIONS = [
-    ("What is the storehouse consciousness?", "storehouse consciousness"),
-    ("What are the three transformations of consciousness?", "three transformations"),
-    ("What does representation-only (vijñapti-mātra) mean?", "representation-only"),
-    ("What does the Gita say about acting without attachment to results?",
-     "karma without attachment"),
-    ("Why does Krishna tell Arjuna not to grieve for the dead?", "why not grieve"),
-    ("Who is the person of steady wisdom (sthita-prajna)?", "steady wisdom"),
-    ("What happens to the soul at death, according to the Gita?", "the soul at death"),
-    ("How does Vyasa define yoga?", "definition of yoga"),
-    ("What is the role of practice and dispassion in yoga?", "practice and dispassion"),
-    ("What does Patanjali say about Om?", "Om"),
-    ("How can the mind be made calm and clear?", "calming the mind"),
-    ("What does 'all this is pervaded by the Lord' mean?", "īśāvāsyam"),
-    ("What happens to one who worships only ignorance?", "worshipping ignorance"),
-    ("Can one wish to live a hundred years performing works?", "a hundred years of works"),
-    ("What are the yamas and niyamas?", "outside the library? watch it refuse"),
+    ("Why shouldn't I grieve for those who die?", "on death and grief"),
+    ("How do I act without clinging to the fruits of my actions?",
+     "acting without clinging"),
+    ("What does a person of steady wisdom look like in daily life?",
+     "the person at peace"),
+    ("What happens to the soul when the body dies?", "the soul at death"),
+    ("What is yoga, in its oldest technical definition?", "what yoga actually means"),
+    ("How can a restless mind be made clear and steady?", "calming a restless mind"),
+    ("Does the repetition of Om actually do anything?", "what Om is for"),
+    ("What is the role of practice and dispassion in mastering the mind?",
+     "practice and letting go"),
+    ("Can I enjoy the world without being owned by it?", "enjoyment without possession"),
+    ("Can knowledge be as dangerous as ignorance?", "when knowledge misleads"),
+    ("Is it wrong to want to live a hundred years?", "a long and active life"),
+    ("Does the external world really exist outside consciousness?",
+     "is the world in the mind?"),
+    ("Does karma leave impressions in the mind?", "the seeds karma leaves"),
+    ("Does consciousness continue in dreamless sleep?", "the mind in deep sleep"),
+    ("What are the seven chakras?", "not covered — watch it refuse"),
 ]
 
 

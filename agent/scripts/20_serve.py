@@ -26,7 +26,7 @@ CHIPS = chips_html("pre")
 
 HOME_BODY = """
 <div class="searchrow">
-  <input type="text" id="q" placeholder="e.g. What is the storehouse consciousness?"
+  <input type="text" id="q" placeholder="e.g. Why shouldn't I grieve for those who die?"
          onkeydown="if(event.key==='Enter')go()">
   <button onclick="go()">Ask</button>
 </div>

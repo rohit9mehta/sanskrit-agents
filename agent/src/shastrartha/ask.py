@@ -106,7 +106,22 @@ def build_index() -> tuple[list[Chunk], dict]:
         df.update(set(c.tokens))
     n = max(1, len(chunks))
     idf = {t: math.log(n / (1 + k)) + 1 for t, k in df.items()}
-    return chunks, {"idf": idf, "mula": mula_by_key}
+
+    # Unit adjacency (numeric order within each text) + each unit's
+    # translation chunk, for neighbor expansion in retrieve().
+    def _ukey(u: str):
+        try:
+            return [int(x) for x in u.split(".")]
+        except ValueError:
+            return [0]
+    unit_order = {slug: sorted({c.unit for c in chunks if c.slug == slug},
+                               key=_ukey) for slug in TEXT_META}
+    unit_pos = {(slug, u): i for slug, us in unit_order.items()
+                for i, u in enumerate(us)}
+    translation_chunk = {(c.slug, c.unit): c for c in chunks
+                         if c.kind == "translation"}
+    return chunks, {"idf": idf, "mula": mula_by_key, "unit_order": unit_order,
+                    "unit_pos": unit_pos, "translation_chunk": translation_chunk}
 
 
 @lru_cache(maxsize=1)
@@ -129,7 +144,29 @@ def retrieve(query: str, top_k: int = TOP_K) -> list[tuple[float, Chunk]]:
         if s > 0:
             scored.append((s, c))
     scored.sort(key=lambda x: -x[0])
-    return scored[:top_k]
+    top = scored[:top_k]
+
+    # Continuation expansion: sūtra-style units continue each other ("tataḥ
+    # ..." = "from that ..."), so the unit stating a topic's effect shares no
+    # vocabulary with the question that names the topic. For each matched
+    # unit (rank order), add the NEXT unit's translation chunk as context
+    # (score 0 = context, not a match), a few at most.
+    if top:
+        have = {(c.slug, c.unit) for _, c in top}
+        extras: list[tuple[float, Chunk]] = []
+        for _, c in top:
+            if len(extras) >= 5:
+                break
+            i = aux["unit_pos"].get((c.slug, c.unit))
+            units = aux["unit_order"][c.slug]
+            if i is None or i + 1 >= len(units) or (c.slug, units[i + 1]) in have:
+                continue
+            t = aux["translation_chunk"].get((c.slug, units[i + 1]))
+            if t is not None:
+                extras.append((0.0, t))
+                have.add((c.slug, units[i + 1]))
+        top += extras
+    return top
 
 
 ANSWER_SYSTEM = """You answer questions about Sanskrit śāstra using ONLY the numbered
