@@ -21,8 +21,12 @@ Method:
      lakāra (Lat, Lan, Lit, Lot, VidhiLin, ...) + puruṣa + vacana.
    - compounds: also give `samasa` with type, vigraha, and member stems.
    - indeclinables: pos "avyaya".
-   The ByT5 tagger's analysis is provided; adopt it unless the commentary or
-   grammar contradicts it — record every override in `analyzer_disagreements`.
+   ANALYZE carries `vyakarani` — our grammar analyzer (Vyākaraṇī, a ByT5-
+   Sanskrit model post-trained on verifier-derived gold) — giving each
+   segmented word's analysis in the verifier's own schema, plus the ByT5
+   segmenter/tagger output. Adopt Vyākaraṇī's analysis unless the commentary
+   or grammar contradicts it; ByT5's own tag is secondary. Record every
+   override of Vyākaraṇī in `analyzer_disagreements`.
    Lemma CITATION convention (verifier's): cite verbs by bare root with
    prefixes listed separately (vṛt + [pra], not pravṛt; jan not janay);
    cite nominals by the stem the kosha lists (sthita, tad, kim, śāśvatī).

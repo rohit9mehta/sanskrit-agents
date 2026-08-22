@@ -31,6 +31,15 @@ def default_analyze_fn():
         out["local_SLM"] = local_analyze(lines, task="SLM")
         out["slm_parsed"] = [parse_slm(o) for o in out["local_SLM"]]
         try:
+            from . import vyakarani
+            if vyakarani.available():
+                out["vyakarani"] = vyakarani.analyze_lines(lines, out["slm_parsed"])
+                out["analyzer"] = vyakarani.VYAKARANI_NAME
+            else:
+                out["analyzer"] = "byt5-sanskrit (vyakarani weights not found)"
+        except Exception as e:  # analyzer is advisory; never block the run
+            out["vyakarani"] = f"unavailable ({type(e).__name__}: {str(e)[:80]})"
+        try:
             from .lemma import canonical_hints
             hints = [h for parsed in out["slm_parsed"] for h in canonical_hints(parsed)]
             if hints:
@@ -110,7 +119,7 @@ def run_unit(slug: str, unit_id: str, analyze_fn, force: bool = False) -> dict:
         for k in ("prompt_tokens", "completion_tokens", "reasoning_tokens")
     }
     meta = {
-        "model": MODEL, "mode": "library", "text": slug, "attempts": attempts,
+        "model": MODEL, "analyzer": (analyze.get("analyzer") if isinstance(analyze, dict) else None), "mode": "library", "text": slug, "attempts": attempts,
         "usage": usage_total, "est_cost": round(estimated_cost(usage_total), 4),
     }
     merged = _merge(app, report, meta)
@@ -163,7 +172,7 @@ def run_verse(n: int, analyze_fn, force: bool = False, mode: str = "full") -> di
         for k in ("prompt_tokens", "completion_tokens", "reasoning_tokens")
     }
     meta = {
-        "model": MODEL,
+        "model": MODEL, "analyzer": (bundle.analyze.get("analyzer") if isinstance(getattr(bundle, "analyze", None), dict) else None),
         "mode": mode,
         "attempts": attempts,
         "usage": usage_total,

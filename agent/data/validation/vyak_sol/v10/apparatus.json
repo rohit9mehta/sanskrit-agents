@@ -1,0 +1,582 @@
+{
+ "verse": 10,
+ "analysis": [
+  {
+   "surface": "adyāḥ",
+   "surface_in_sandhi": "adyāḥ",
+   "lemma": "adya",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The short initial a is retained from the supplied bhāṣya reading and the canonical lemma adya is followed. Sthiramati, however, quotes and explains the intended form as ādyāḥ, ‘first-listed.’",
+   "verification": {
+    "status": "pass",
+    "detail": "adya Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sparśādayaḥ",
+   "surface_in_sandhi": "sparśādayaḥ",
+   "lemma": "sparśādi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sparśaḥ ādiḥ yeṣāṃ te",
+    "members": [
+     "sparśa",
+     "ādi"
+    ]
+   },
+   "note": "The whole compound denotes the mental factors whose first member is contact.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sparśādi as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "chandādhimokṣasmṛtayaḥ",
+   "surface_in_sandhi": "chandādhimokṣasmṛtayaḥ",
+   "lemma": "chandādhimokṣasmṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "chandaḥ ca adhimokṣaḥ ca smṛtiḥ ca",
+    "members": [
+     "chanda",
+     "adhimokṣa",
+     "smṛti"
+    ]
+   },
+   "note": "An itaretara-dvandva naming three of the five viniyata factors; its feminine gender follows the final member smṛti.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem chandādhimokṣasmṛti as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Conjoined with the instrumental dual samādhidhībhyām: ‘together with.’",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "samādhidhībhyām",
+   "surface_in_sandhi": "samādhidhībhyām",
+   "lemma": "samādhidhī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "samādhiḥ ca dhīḥ ca",
+    "members": [
+     "samādhi",
+     "dhī"
+    ]
+   },
+   "note": "An itaretara-dvandva in the instrumental dual, governed by saha; its gender follows final-member dhī.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem samādhidhī as Stri/Trtiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niyatāḥ",
+   "surface_in_sandhi": "niyatāḥ",
+   "lemma": "niyata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "A kta-derived stem from yam with prefix ni. The masculine plural is substantival with understood dharmāḥ; Sthiramati identifies the class as viniyata.",
+   "verification": {
+    "status": "pass",
+    "detail": "niyata Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "śraddhā",
+   "surface_in_sandhi": "śraddhā",
+   "lemma": "śraddhā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The final ā coalesces with the initial a of atha in the printed śraddhātha.",
+   "verification": {
+    "status": "pass",
+    "detail": "śraddhā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "tha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Its initial a is absorbed after śraddhā, producing printed śraddhātha. The commentary interprets it as transition to the next, wholesome class.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hrīḥ",
+   "surface_in_sandhi": "hrīr",
+   "lemma": "hrī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Final visarga appears as r before the following vowel: hrīr apatrapā.",
+   "verification": {
+    "status": "pass",
+    "detail": "hrī Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "apatrapā",
+   "surface_in_sandhi": "apatrapā",
+   "lemma": "apatrapā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The first verse-listed members śraddhā, hrī, and apatrapā begin the wholesome category according to the commentary.",
+   "verification": {
+    "status": "pass",
+    "detail": "apatrapā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Interpret adyāḥ according to Sthiramati’s ādyāḥ as ‘the first-listed,’ namely the omnipresent mental factors, rather than as a verb of ad or as ‘today’s.’",
+   "options_considered": [
+    "A second-person benedictive of ad, ‘may you eat’",
+    "A form of adya meaning ‘today’s’",
+    "The intended ādyāḥ, ‘first-listed,’ glossed as the omnipresent factors"
+   ],
+   "chosen": "The first-listed—the omnipresent factors",
+   "evidence": [
+    {
+     "lines": [
+      496
+     ],
+     "quote": "ādau nirdiṣṭatvād ādyāḥ sarvatragā ity arthaḥ",
+     "translation": "Because they were indicated at the beginning, they are ‘the first’; the meaning is ‘the omnipresent factors.’"
+    },
+    {
+     "lines": [
+      502,
+      503,
+      504
+     ],
+     "quote": "sparśamanaskārādayaḥ pañca dharmāḥ sarvacittam anugacchantīti sarvatragāḥ\ntathā hy eta ālayavijñāne kliṣṭe manasi pravṛttivijñāneṣu cāviśeṣeṇa\npravartante",
+     "translation": "The five factors beginning with contact and mental application accompany every mind and are therefore omnipresent. Thus they occur without distinction in the store consciousness, the afflicted mind, and the active consciousnesses."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Analyze sparśādayaḥ as a bahuvrīhi whose referents have contact as their first member, not merely as an opaque expression meaning ‘contact, etc.’",
+   "options_considered": [
+    "Tatpuruṣa relation",
+    "Elliptical coordination",
+    "Bahuvrīhi: ‘those whose beginning is contact’"
+   ],
+   "chosen": "Bahuvrīhi, sparśaḥ ādiḥ yeṣāṃ te",
+   "evidence": [
+    {
+     "lines": [
+      500
+     ],
+     "quote": "sparśa eṣām ādir iti sparśādayaḥ",
+     "translation": "Contact is the first of these; hence ‘those beginning with contact.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Take chandādhimokṣasmṛtayaḥ and samādhidhībhyām as two coordinative compounds joined by saha, together naming five factors.",
+   "options_considered": [
+    "Treat the apparent members as separate sandhied words",
+    "Read either compound as a determinative compound",
+    "Read both as dvandvas, with saha governing the instrumental dual"
+   ],
+   "chosen": "Aspiration, resolve, and mindfulness, together with concentration and discernment",
+   "evidence": [
+    {
+     "lines": [
+      505,
+      506,
+      507
+     ],
+     "quote": "viniyatān adhikṛtyāha\nchandādhimokṣasmṛtayaḥ saha\nsamādhidhībhyāṃ niyatāḥ",
+     "translation": "With reference to the determinate factors, he says: ‘Aspiration, resolve, and mindfulness, together with concentration and discernment, are determinate.’"
+    },
+    {
+     "lines": [
+      568
+     ],
+     "quote": "ete hi pañca dharmāḥ parasparaṃ vyatiricyāpi pravartante",
+     "translation": "For these five factors also occur separately from one another."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Construe masculine plural niyatāḥ substantivally with understood dharmāḥ, rather than forcing agreement with the feminine-final dvandva chandādhimokṣasmṛtayaḥ.",
+   "options_considered": [
+    "Predicate agreement with the feminine compound",
+    "Substantival masculine referring to the five dharmāḥ"
+   ],
+   "chosen": "The five are ‘determinate factors,’ with dharmāḥ understood",
+   "evidence": [
+    {
+     "lines": [
+      505
+     ],
+     "quote": "viniyatān adhikṛtyāha",
+     "translation": "With reference to the determinate [factors], he says."
+    },
+    {
+     "lines": [
+      568
+     ],
+     "quote": "ete hi pañca dharmāḥ parasparaṃ vyatiricyāpi pravartante",
+     "translation": "For these five factors also occur separately from one another."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Render niyatāḥ through Sthiramati’s technical category viniyata as factors restricted to a specific object, not generally as ‘restrained’ or ‘controlled.’",
+   "options_considered": [
+    "Restrained or controlled",
+    "Permanently fixed",
+    "Determinate or specific-object factors"
+   ],
+   "chosen": "Determinate factors (niyata; the viniyata class)",
+   "evidence": [
+    {
+     "lines": [
+      508,
+      509
+     ],
+     "quote": "viśeṣe niyatatvād viniyatāḥ\neṣāṃ hi viśeṣa eva viṣayo na sarvaḥ",
+     "translation": "They are ‘specifically determinate’ because they are determined with regard to a particular; their object is only a particular one, not every object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Translate chanda as ‘aspiration,’ an inclination toward an intended object or action, rather than as pleasure or metrical ‘chandas.’",
+   "options_considered": [
+    "Pleasure",
+    "Desire without qualification",
+    "Aspiration toward an intended object or activity"
+   ],
+   "chosen": "Aspiration (chanda)",
+   "evidence": [
+    {
+     "lines": [
+      510
+     ],
+     "quote": "tatra chando 'bhiprete vastuny abhilāṣaḥ",
+     "translation": "Here aspiration is inclination toward an intended object."
+    },
+    {
+     "lines": [
+      515
+     ],
+     "quote": "darśanaśravaṇādiprārthanā chandaḥ",
+     "translation": "Aspiration is the wish for seeing, hearing, and so forth."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Translate adhimokṣa as ‘resolve,’ emphasizing decisive fixation upon an object already ascertained.",
+   "options_considered": [
+    "Liberation",
+    "General belief",
+    "Resolve or decisive determination"
+   ],
+   "chosen": "Resolve (adhimokṣa)",
+   "evidence": [
+    {
+     "lines": [
+      517
+     ],
+     "quote": "adhimokṣo niścite vastuni tathaivāvadhāraṇam",
+     "translation": "Resolve is determination precisely in that way concerning an ascertained object."
+    },
+    {
+     "lines": [
+      524,
+      525
+     ],
+     "quote": "evam etan nānyathety avadhāraṇam\nadhimokṣaḥ",
+     "translation": "The determination ‘it is thus and not otherwise’ is resolve."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J8",
+   "decision": "Translate smṛti as ‘mindfulness,’ understood as non-loss and repeated recollection of a previously apprehended object.",
+   "options_considered": [
+    "Scripture or sacred tradition",
+    "Memory as a general faculty",
+    "Mindfulness or non-loss of the apprehended object"
+   ],
+   "chosen": "Mindfulness (smṛti)",
+   "evidence": [
+    {
+     "lines": [
+      529
+     ],
+     "quote": "smṛtiḥ saṃstute vastuny asaṃpramoṣaś cetaso 'bhilapanatā",
+     "translation": "Mindfulness is the mind’s non-loss and articulation concerning a familiar object."
+    },
+    {
+     "lines": [
+      533,
+      534
+     ],
+     "quote": "pūrvagṛhītasya vastunaḥ punaḥ punar ālambanākārasmaraṇam abhilapanatā\nabhilapanam evābhilapanatā",
+     "translation": "Articulation is repeated recollection of the objective aspect of a previously apprehended object; ‘articulateness’ is just articulation."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J9",
+   "decision": "Translate samādhi as ‘concentration,’ specifically one-pointedness of mind regarding an object to be examined.",
+   "options_considered": [
+    "A general combination or conjunction",
+    "Meditative trance without further specification",
+    "Concentration as mental one-pointedness"
+   ],
+   "chosen": "Concentration (samādhi)",
+   "evidence": [
+    {
+     "lines": [
+      538
+     ],
+     "quote": "samādhir upaparīkṣye vastuni cittasyaikāgratā",
+     "translation": "Concentration is the mind’s one-pointedness concerning an object to be examined."
+    },
+    {
+     "lines": [
+      541,
+      542
+     ],
+     "quote": "ekāgratā ekālambanatā\njñānasaṃniśrayadānakarmakaḥ",
+     "translation": "One-pointedness is having a single object; its function is to provide a basis for knowledge."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J10",
+   "decision": "Translate dhī as ‘discernment’ because Sthiramati explicitly equates it with prajñā and defines it as examination or discrimination.",
+   "options_considered": [
+    "Thought",
+    "Intelligence in a general sense",
+    "Discernment or wisdom (prajñā)"
+   ],
+   "chosen": "Discernment (dhī)",
+   "evidence": [
+    {
+     "lines": [
+      545
+     ],
+     "quote": "dhīḥ prajñā",
+     "translation": "Discernment is wisdom."
+    },
+    {
+     "lines": [
+      546,
+      547,
+      548
+     ],
+     "quote": "sāpy upaparīkṣya eva vastuni pravicayo yogāyogavihito 'nyathā\nveti\npravicinotīti pravicayaḥ",
+     "translation": "It too is discrimination concerning precisely an object to be examined, produced by correct method, by incorrect method, or otherwise. It discriminates; hence it is ‘discrimination.’"
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J11",
+   "decision": "Take atha as a transition to the immediately following wholesome category; śraddhā, hrī, and apatrapā therefore begin a new list rather than belonging to the five determinate factors.",
+   "options_considered": [
+    "Add the three nouns to the preceding five niyata factors",
+    "Treat atha as merely emphatic",
+    "Use atha to introduce the next, wholesome class"
+   ],
+   "chosen": "Next: faith, shame, and embarrassment—the opening members of the wholesome class",
+   "evidence": [
+    {
+     "lines": [
+      573,
+      574
+     ],
+     "quote": "tadanantaroddiṣṭās tv idānīṃ kuśalā vaktavyā ity ata āha\nśraddhātha hrīr apatrapā",
+     "translation": "But now the wholesome factors, indicated immediately after those, are to be stated; therefore he says: ‘Faith, then shame and embarrassment.’"
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "The first-listed—the omnipresent factors (sarvatraga)—are contact and the rest;\naspiration (chanda), resolve (adhimokṣa), and mindfulness (smṛti), together\nwith concentration (samādhi) and discernment (dhī), are the determinate factors (niyata, the viniyata class).\nNext: faith (śraddhā), shame (hrī), and embarrassment (apatrapā).",
+ "one_shot_delta": [
+  "A commentary-blind analysis could parse adyāḥ as a benedictive of ad (‘may you eat’) or as ‘today’s,’ missing Sthiramati’s explicit ādyāḥ, ‘first-listed,’ and its reference to the omnipresent factors.",
+  "It could translate niyatāḥ simply as ‘restrained’ or ‘fixed,’ missing the technical viniyata class whose members occur only with particular objects.",
+  "It could miss the two dvandvas and attach saha incorrectly; Sthiramati explicitly counts chanda, adhimokṣa, smṛti, samādhi, and dhī as five factors.",
+  "It could render dhī merely as ‘thought’ rather than prajñā or discernment, and could fail to recognize śraddhātha as the transition to the wholesome category."
+ ],
+ "analyzer_disagreements": [
+  "For adyāḥ, Vyākaraṇī proposed a second-person singular benedictive of ad. The supplied canonical lemma adya, nominative-plural syntax, and Sthiramati’s explicit explanation ādyāḥ sarvatragā rule out that verbal parse.",
+  "ByT5 split sparśādayaḥ into sparśa plus ādayaḥ, and Vyākaraṇī analyzed only ādayaḥ. Line 500 explicitly derives the whole bahuvrīhi sparśādayaḥ, so the adopted stem is sparśādi.",
+  "ByT5 split chandādhimokṣasmṛtayaḥ into three members, and Vyākaraṇī analyzed only smṛtayaḥ. The commentary treats the expression as three coordinated members of a five-factor set, so the adopted lemma is the whole dvandva stem chandādhimokṣasmṛti.",
+  "ByT5 split samādhidhībhyām into samādhi plus dhībhyām, and Vyākaraṇī assigned the latter the simple stem dhī. Its coordination under saha and the commentary’s count of five require the whole dvandva stem samādhidhī. The instrumental dual features themselves are retained."
+ ],
+ "open_questions": [
+  "The supplied verse has short-initial adyāḥ, whereas Sthiramati’s gloss and the vulgate have semantically expected ādyāḥ. The transmitted surface and canonical lemma adya are retained, but the translation follows the commentary’s explicit interpretation.",
+  "The present commentary span identifies śraddhā, hrī, and apatrapā as the beginning of the wholesome class but does not yet define their individual functions; accordingly, ‘shame’ and ‘embarrassment’ remain conservative provisional glosses rather than a fully differentiated doctrinal account."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.6-sol",
+  "analyzer": "vyakarani-v1",
+  "mode": "full",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 8169,
+   "completion_tokens": 12204,
+   "reasoning_tokens": 8106
+  },
+  "est_cost": 0.2768,
+  "retrieval": {
+   "anchor": [
+    495,
+    495
+   ],
+   "span": [
+    496,
+    574
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}
