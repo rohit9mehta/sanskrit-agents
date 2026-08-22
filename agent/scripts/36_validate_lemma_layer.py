@@ -47,7 +47,7 @@ def summarize(d):
         "overrides": len(d.get("analyzer_disagreements", [])),
         "attempts": run.get("attempts"),
         "tokens": tok,
-        "est_cost": run.get("est_cost"),
+        "est_cost": run.get("est_cost"), "model": run.get("model"),
         "verification": d.get("verification_summary"),
         "n_words": len(d.get("analysis", [])),
         "disagreements": d.get("analyzer_disagreements", []),
@@ -56,7 +56,12 @@ def summarize(d):
 
 
 def main():
-    targets = sys.argv[1:] or DEFAULT
+    global SCRATCH
+    argv = sys.argv[1:]
+    if "--out" in argv:
+        i = argv.index("--out"); SCRATCH = AGENT / "data" / "validation" / argv[i + 1]
+        argv = argv[:i] + argv[i + 2:]
+    targets = argv or DEFAULT
     pipeline.OUTPUT_DIR = SCRATCH
     SCRATCH.mkdir(parents=True, exist_ok=True)
     fn = default_analyze_fn()
@@ -78,6 +83,7 @@ def main():
         rows.append((t, summarize(old), summarize(new)))
 
     md = ["# Lemma-layer validation: stored vs re-run", "",
+          f"Re-run model: {rows[0][2]['model'] if rows else '?'} (stored: {rows[0][1]['model'] if rows else '?'})", "",
           "| unit | overrides old→new | attempts | tokens | est $ | verify (pass/fail/unsup) |",
           "|---|---|---|---|---|---|"]
     for t, o, n in rows:

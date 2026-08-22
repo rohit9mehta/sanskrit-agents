@@ -1,0 +1,520 @@
+{
+ "unit": "2.19",
+ "analysis": [
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "ya",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Relative pronoun; its visarga is lost before enam.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "enaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Enclitic accusative-singular form referring to the contextually indicated embodied self.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "idam Pum/Dvitiya/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "vetti",
+   "surface_in_sandhi": "vetti",
+   "lemma": "vid",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "vid",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "vid Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "hantāram",
+   "surface_in_sandhi": "hantāraṃ",
+   "lemma": "hantṛ",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Agent noun, construed predicatively with enam: “knows [him] as a killer.”",
+   "verification": {
+    "status": "pass",
+    "detail": "hantṛ Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "yaḥ",
+   "surface_in_sandhi": "yaś",
+   "lemma": "yad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The visarga becomes ś before c.",
+   "verification": {
+    "status": "pass",
+    "detail": "yad Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "ca",
+   "surface_in_sandhi": "cai",
+   "lemma": "ca",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Together with the following enam, this is the printed sandhi span cainaṃ: ca + enam → cai + naṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "enam",
+   "surface_in_sandhi": "naṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The initial e is absorbed in the preceding a + e → ai sandhi; with ca it constitutes the printed cainaṃ.",
+   "verification": {
+    "status": "unsupported",
+    "detail": "idam Pum/Dvitiya/Eka: unsupported"
+   }
+  },
+  {
+   "surface": "manyate",
+   "surface_in_sandhi": "manyate",
+   "lemma": "man",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "man",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada present, active in sense: “thinks, considers.”",
+   "verification": {
+    "status": "pass",
+    "detail": "man Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "hatam",
+   "surface_in_sandhi": "hatam",
+   "lemma": "hata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Dvitiya",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Kta-derived adjectival stem, agreeing with enam and functioning as the predicate complement of manyate.",
+   "verification": {
+    "status": "pass",
+    "detail": "hata Pum/Dvitiya/Eka: pass"
+   }
+  },
+  {
+   "surface": "ubhau",
+   "surface_in_sandhi": "ubhau",
+   "lemma": "ubha",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pronominal/adjectival ‘both,’ in apposition to tau.",
+   "verification": {
+    "status": "pass",
+    "detail": "ubha Pum/Prathama/Dvi: pass"
+   }
+  },
+  {
+   "surface": "tau",
+   "surface_in_sandhi": "tau",
+   "lemma": "tad",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Correlative demonstrative referring to the two relative-clause subjects.",
+   "verification": {
+    "status": "pass",
+    "detail": "tad Pum/Prathama/Dvi: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "vijānītaḥ",
+   "surface_in_sandhi": "vijānīto",
+   "lemma": "jñā",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Dvi",
+    "root": "jñā",
+    "prefixes": [
+     "vi"
+    ],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Ātmanepada present third dual; final visarga becomes o before na.",
+   "verification": {
+    "status": "pass",
+    "detail": "vi-jñā Lat/Prathama/Dvi: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "nā",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "With the following ayam, it forms the printed sandhi span nāyaṃ: na + ayam → nā + yaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "ayam",
+   "surface_in_sandhi": "yaṃ",
+   "lemma": "idam",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The initial a is absorbed by the preceding na; together they are printed nāyaṃ.",
+   "verification": {
+    "status": "pass",
+    "detail": "idam Pum/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "hanti",
+   "surface_in_sandhi": "hanti",
+   "lemma": "han",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "han",
+    "prefixes": [],
+    "prayoga": "Kartari",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "han Lat/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "na",
+   "surface_in_sandhi": "na",
+   "lemma": "na",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": null,
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hanyate",
+   "surface_in_sandhi": "hanyate",
+   "lemma": "han",
+   "morph": {
+    "pos": "tinanta",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": "Eka",
+    "root": "han",
+    "prefixes": [],
+    "prayoga": "Karmani",
+    "lakara": "Lat",
+    "purusha": "Prathama"
+   },
+   "samasa": null,
+   "note": "Passive present: “is killed.”",
+   "verification": {
+    "status": "pass",
+    "detail": "han Lat/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "The two occurrences of enam denote the embodied self currently under discussion; hantāram means the agent of killing, whereas hatam means that self regarded as the object killed through the body's destruction.",
+   "options_considered": [
+    "Take hantāram and hatam as unqualified general descriptions of a human killer and victim.",
+    "Take both accusatives as predicative descriptions of the indicated embodied self, with distinct agent and patient roles in the act of killing."
+   ],
+   "chosen": "Both are predicative accusatives construed with enam: “knows this embodied self as a killer” and “thinks it killed.”",
+   "evidence": [
+    {
+     "lines": [
+      1
+     ],
+     "quote": "ya enaṃ prakṛtaṃ dehinaṃ vetti vijānāti hantāraṃ hanana-kriyāyāḥ kartāraṃ ya ca enam anyo manyate hataṃ deha-hananena hato 'ham iti hanana-kriyāyāḥ karma-bhūtam",
+     "translation": "He glosses hantāram as the agent of the act of killing and hatam as what has become the object of that act, through the destruction of the body."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Tau ubhau refers jointly to the two persons introduced by the two relative clauses, not to two selves or to a killer and a separate victim.",
+   "options_considered": [
+    "Take ubhau tau as referring to two entities involved in killing.",
+    "Take them as the two mistaken cognizers: the one who regards the self as killer and the other who regards it as killed."
+   ],
+   "chosen": "“Those two” are the two persons holding the respective false views.",
+   "evidence": [
+    {
+     "lines": [
+      1,
+      2
+     ],
+     "quote": "ya ca enam anyo manyate hataṃ deha-hananena hato 'ham iti hanana-kriyāyāḥ karma-bhūtam | tau ubhau na vijānītaḥ na jñātavantau avivekena ātmānam",
+     "translation": "The commentator identifies a second person (anyaḥ) and then calls the pair tau ubhau."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Na vijānītaḥ is not merely failure to identify a fact; it means that the two lack discriminative knowledge of the Self and are ignorant of its true nature.",
+   "options_considered": [
+    "Translate simply, “the two do not know.”",
+    "Make explicit that their failure is ignorance of the Self's real nature."
+   ],
+   "chosen": "The translation retains “do not know,” while its referent is the Self's true nature.",
+   "evidence": [
+    {
+     "lines": [
+      2,
+      3
+     ],
+     "quote": "tau ubhau na vijānītaḥ na jñātavantau avivekena ātmānam | hantā ahaṃ, hato 'smy aham iti deha-hananena ātmānam ahaṃ pratyaya-viṣayaṃ yau vijānītaḥ tau ātma-svarūpānabhijñau ity arthaḥ",
+     "translation": "Śaṅkara glosses the expression as not having known the Self through non-discrimination, and states that the two are ignorant of the Self's own nature."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Hanti is active, “kills,” and hanyate is passive, “is killed”; both are denied of the Self respectively as agent and as object of the act of killing.",
+   "options_considered": [
+    "Treat the two verbs as a generic assertion that the self neither causes nor undergoes death.",
+    "Preserve the precise agency/patient contrast: the Self is neither the agent of killing nor the object acted upon."
+   ],
+   "chosen": "“This Self neither kills nor is killed.”",
+   "evidence": [
+    {
+     "lines": [
+      4
+     ],
+     "quote": "yasmāt na ayam atmā hanti na hanana-kriyāyāḥ kartā bhavati, na ca hanyate na ca karma bhavatīty arthaḥ, avikriyatvāt",
+     "translation": "Hanti is glossed as not being the agent (kartṛ) of the killing-action, and hanyate as not being its object (karman), because the Self is unmodifiable."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "He who knows this embodied self as a killer,\nand he who thinks it killed—\nthose two do not know; this Self neither kills nor is killed.",
+ "one_shot_delta": [
+  "A commentary-blind rendering may miss that hantāram and hatam are not symmetrical labels for two people: Śaṅkara construes them as the mistaken attribution of agenthood and patienthood in the killing-action to the one embodied self.",
+  "It may translate vijānītaḥ as merely “do not recognize,” without seeing that the stated defect is ignorance of the Self's proper nature (ātma-svarūpa).",
+  "It may flatten “neither kills nor is killed” into a generic denial of mortality, whereas the commentary expressly contrasts the Self's non-agency (kartṛtva) and non-objecthood (karmatva), grounded in its unchangeability."
+ ],
+ "analyzer_disagreements": [
+  "For enam, the analyzer cites enad. I cite the nominal lemma idam, the dictionary headword supplied for this demonstrative; enam is its enclitic masculine accusative singular form.",
+  "For ubhau, the analyzer's material links the form to verbal ubh and describes it as a kṛdanta. Here ubhau is instead the masculine nominative dual of the pronominal/adjectival stem ubha, agreeing appositionally with tau; the dual subject is confirmed by the commentary's “tau ubhau” (line 2)."
+ ],
+ "open_questions": [],
+ "verification_summary": {
+  "pass": 16,
+  "fail": 0,
+  "unsupported": 2,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.6-terra",
+  "mode": "library",
+  "text": "gita",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 5295,
+   "completion_tokens": 8508,
+   "reasoning_tokens": 4607
+  },
+  "est_cost": 0.1127
+ },
+ "mula": "ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam | ubhau tau na vijānīto nāyaṃ hanti na hanyate",
+ "commentary_lines": [
+  "ya enaṃ prakṛtaṃ dehinaṃ vetti vijānāti hantāraṃ hanana-kriyāyāḥ kartāraṃ ya ca enam anyo manyate hataṃ deha-hananena hato 'ham iti hanana-kriyāyāḥ karma-bhūtam |",
+  "tau ubhau na vijānītaḥ na jñātavantau avivekena ātmānam |",
+  "hantā ahaṃ, hato 'smy aham iti deha-hananena ātmānam ahaṃ pratyaya-viṣayaṃ yau vijānītaḥ tau ātma-svarūpānabhijñau ity arthaḥ |",
+  "yasmāt na ayam atmā hanti na hanana-kriyāyāḥ kartā bhavati, na ca hanyate na ca karma bhavatīty arthaḥ, avikriyatvāt ||bhgs_2.19||",
+  "katham avikriya ātmeti dvitīyo mantraḥ --"
+ ]
+}

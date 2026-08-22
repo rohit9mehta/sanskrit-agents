@@ -1,0 +1,489 @@
+{
+ "verse": 10,
+ "analysis": [
+  {
+   "surface": "ādyāḥ",
+   "surface_in_sandhi": "ādyāḥ",
+   "lemma": "ādi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Refers anaphorically to the dharmas stated first; the masculine plural is governed by the understood dharmāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "ādi Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "sparśādayaḥ",
+   "surface_in_sandhi": "sparśādayaḥ",
+   "lemma": "sparśādi",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "bahuvrihi",
+    "vigraha": "sparśa eṣām ādiḥ",
+    "members": [
+     "sparśa",
+     "ādi"
+    ]
+   },
+   "note": "The bhāṣya verse-reading retains the written visarga before chandādhimokṣa-; the vulgate's sparśādayaś is the sandhied graphic form. The difference has no syntactic or semantic consequence.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem sparśādi as Pum/Prathama/Bahu: pass; relation bahuvrihi: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "chandādhimokṣasmṛtayaḥ",
+   "surface_in_sandhi": "chandādhimokṣasmṛtayaḥ",
+   "lemma": "chandādhimokṣasmṛti",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "chandāś ca adhimokṣāś ca smṛtayaś ca",
+    "members": [
+     "chanda",
+     "adhimokṣa",
+     "smṛti"
+    ]
+   },
+   "note": "The compound's feminine plural follows its final member smṛti; niyatāḥ below is masculine plural because it predicates the understood pañca dharmāḥ.",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem chandādhimokṣasmṛti as Stri/Prathama/Bahu: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "saha",
+   "surface_in_sandhi": "saha",
+   "lemma": "saha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "It associates the preceding triad with the instrumental dual samādhidhībhyām for purposes of enumeration, not necessarily of simultaneous occurrence.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "samādhidhībhyām",
+   "surface_in_sandhi": "samādhidhībhyām",
+   "lemma": "samādhidhī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Trtiya",
+    "vacana": "Dvi",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": {
+    "type": "dvandva",
+    "vigraha": "samādhiś ca dhīś ca",
+    "members": [
+     "samādhi",
+     "dhī"
+    ]
+   },
+   "note": "Instrumental dual governed by saha: “with concentration and discernment.”",
+   "verification": {
+    "status": "pass",
+    "detail": "compound stem samādhidhī as Stri/Trtiya/Dvi: pass; relation dvandva: unsupported (logged)"
+   }
+  },
+  {
+   "surface": "niyatāḥ",
+   "surface_in_sandhi": "niyatāḥ",
+   "lemma": "niyata",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Pum",
+    "vibhakti": "Prathama",
+    "vacana": "Bahu",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "A declined kta-stem derived from yam with prefix ni. It predicates the five understood dharmāḥ and means restricted to a particular object, not mutual or necessary co-arising.",
+   "verification": {
+    "status": "pass",
+    "detail": "niyata Pum/Prathama/Bahu: pass"
+   }
+  },
+  {
+   "surface": "śraddhā",
+   "surface_in_sandhi": "śraddhā",
+   "lemma": "śraddhā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The first item in the ensuing enumeration of wholesome dharmas.",
+   "verification": {
+    "status": "pass",
+    "detail": "śraddhā Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "atha",
+   "surface_in_sandhi": "atha",
+   "lemma": "atha",
+   "morph": {
+    "pos": "avyaya",
+    "linga": null,
+    "vibhakti": null,
+    "vacana": null,
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Marks the transition from the completed account of the viniyata dharmas to the wholesome dharmas.",
+   "verification": {
+    "status": "pass",
+    "detail": "avyaya known to kosha"
+   }
+  },
+  {
+   "surface": "hrīḥ",
+   "surface_in_sandhi": "hrīr",
+   "lemma": "hrī",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "Pausal hrīḥ becomes hrīr before the following vowel in apatrapā.",
+   "verification": {
+    "status": "pass",
+    "detail": "hrī Stri/Prathama/Eka: pass"
+   }
+  },
+  {
+   "surface": "apatrapā",
+   "surface_in_sandhi": "apatrapā",
+   "lemma": "apatrapā",
+   "morph": {
+    "pos": "subanta",
+    "linga": "Stri",
+    "vibhakti": "Prathama",
+    "vacana": "Eka",
+    "root": null,
+    "prefixes": null,
+    "prayoga": null,
+    "lakara": null,
+    "purusha": null
+   },
+   "samasa": null,
+   "note": "The third item of the wholesome enumeration.",
+   "verification": {
+    "status": "pass",
+    "detail": "apatrapā Stri/Prathama/Eka: pass"
+   }
+  }
+ ],
+ "justifications": [
+  {
+   "id": "J1",
+   "decision": "Ādyāḥ means “those stated first,” and sparśādayaḥ denotes their class; the verse therefore supplies the understood classification “universally operative” (sarvatraga), rather than the temporal adverb “today.”",
+   "options_considered": [
+    "“today” or another sense of adya",
+    "“the first [ones]”: an anaphoric reference to the dharmas already listed",
+    "“the first [ones]” without the supplied classification sarvatraga"
+   ],
+   "chosen": "“Those first stated—those beginning with contact—are universally operative (sarvatraga).”",
+   "evidence": [
+    {
+     "lines": [
+      496
+     ],
+     "quote": "ādau nirdiṣṭatvād ādyāḥ sarvatragā ity arthaḥ",
+     "translation": "“Ādyāḥ” means sarvatragāḥ because they were stated at the beginning."
+    },
+    {
+     "lines": [
+      498,
+      499
+     ],
+     "quote": "sadāsparśamanaskāravitsaṃjñācetanānvitam\niti prathamato nirdiṣṭāḥ",
+     "translation": "The preceding verse had stated them first."
+    },
+    {
+     "lines": [
+      502,
+      503,
+      504
+     ],
+     "quote": "sparśamanaskārādayaḥ pañca dharmāḥ sarvacittam anugacchantīti sarvatragāḥ\ntathā hy eta ālayavijñāne kliṣṭe manasi pravṛttivijñāneṣu cāviśeṣeṇa\npravartante",
+     "translation": "The five beginning with contact accompany every mind and operate without distinction in ālayavijñāna, the afflicted manas, and the active consciousnesses."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J2",
+   "decision": "Sparśādayaḥ is an exocentric compound: “those whose beginning is contact,” not a simple coordinate phrase “contact and beginnings.”",
+   "options_considered": [
+    "A coordinate expression, “contact and so forth”",
+    "A bahuvrīhi, “those for whom contact is the beginning”"
+   ],
+   "chosen": "Bahuvrīhi: “those beginning with contact.”",
+   "evidence": [
+    {
+     "lines": [
+      500
+     ],
+     "quote": "sparśa eṣām ādir iti sparśādayaḥ",
+     "translation": "“Sparśādayaḥ” means those for whom sparśa is the beginning."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J3",
+   "decision": "Niyatāḥ means that the five dharmas are restricted to special, particular objects (viśeṣa), not that they are invariably present together or are simply “determined” in an unrestricted sense.",
+   "options_considered": [
+    "“Fixed/determined” without specification of what is restricted",
+    "“Necessarily co-arising”",
+    "“Restricted to particular objects”"
+   ],
+   "chosen": "“Restricted to particular objects.”",
+   "evidence": [
+    {
+     "lines": [
+      505,
+      506,
+      507,
+      508,
+      509
+     ],
+     "quote": "viniyatān adhikṛtyāha\nchandādhimokṣasmṛtayaḥ saha\nsamādhidhībhyāṃ niyatāḥ\nviśeṣe niyatatvād viniyatāḥ\neṣāṃ hi viśeṣa eva viṣayo na sarvaḥ",
+     "translation": "The passage concerns the viniyata dharmas: they are niyata with respect to a special object, not every object."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J4",
+   "decision": "Chanda is rendered “aspiration,” adhimokṣa “resolute ascertainment,” and smṛti “mindfulness/recollection,” because Sthiramati gives their respective technical definitions.",
+   "options_considered": [
+    "Chanda as a generic wish or metrical chandas",
+    "Adhimokṣa as mere approval or preference",
+    "Smṛti as generic memory only"
+   ],
+   "chosen": "“Aspiration (chanda), resolute ascertainment (adhimokṣa), and mindfulness (smṛti).”",
+   "evidence": [
+    {
+     "lines": [
+      510,
+      515,
+      516
+     ],
+     "quote": "tatra chando 'bhiprete vastuny abhilāṣaḥ\ndarśanaśravaṇādiprārthanā chandaḥ\nsa ca vīryārambhasaṃniśrayadānakarmakaḥ",
+     "translation": "Chanda is desire for an intended object, specifically wishing for seeing, hearing, and the like."
+    },
+    {
+     "lines": [
+      517,
+      522,
+      523,
+      524,
+      525,
+      526
+     ],
+     "quote": "adhimokṣo niścite vastuni tathaivāvadhāraṇam\nyenaivākāreṇa tan niścitam anityaduḥkhādyākāreṇa tenaivākāreṇa\ntasya vastunaś cetasy abhiniveśanam\nevam etan nānyathety avadhāraṇam\nadhimokṣaḥ\nsa cāsaṃhāryatākarmakaḥ",
+     "translation": "Adhimokṣa is unwavering ascertainment of an object precisely in its ascertained aspect."
+    },
+    {
+     "lines": [
+      529,
+      533,
+      535,
+      537
+     ],
+     "quote": "smṛtiḥ saṃstute vastuny asaṃpramoṣaś cetaso 'bhilapanatā\npūrvagṛhītasya vastunaḥ punaḥ punar ālambanākārasmaraṇam abhilapanatā\nsā punar avikṣepakarmikā\ncittasyālambanāntara ākārāntare vā vikṣepābhāvād avikṣepakarmikā",
+     "translation": "Smṛti is non-forgetting and repeated recollective apprehension of a previously experienced object; its function is non-distraction."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J5",
+   "decision": "Samādhi is “concentration” and dhī is “discernment”; samādhidhībhyām is a dual dvandva governed by saha.",
+   "options_considered": [
+    "Samādhi as merely a collective or union",
+    "Dhī as a generic thought",
+    "“With concentration and discernment”"
+   ],
+   "chosen": "“Together with concentration (samādhi) and discernment (dhī).”",
+   "evidence": [
+    {
+     "lines": [
+      538,
+      541,
+      542
+     ],
+     "quote": "samādhir upaparīkṣye vastuni cittasyaikāgratā\nekāgratā ekālambanatā\njñānasaṃniśrayadānakarmakaḥ",
+     "translation": "Samādhi is one-pointedness of mind on an object to be examined, i.e. having one support."
+    },
+    {
+     "lines": [
+      545,
+      546,
+      548,
+      550
+     ],
+     "quote": "dhīḥ prajñā\nsāpy upaparīkṣya eva vastuni pravicayo yogāyogavihito 'nyathā\npravicinotīti pravicayaḥ\nsaṃkīrṇasvasāmānyalakṣaṇeṣv iva dharmeṣu vivekāvabodhaḥ",
+     "translation": "Dhī is prajñā, discriminative examination and discerning awareness."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J6",
+   "decision": "Saha groups the preceding three and the following two into a list of five, but does not state that all five must occur together.",
+   "options_considered": [
+    "Saha entails simultaneous co-occurrence of all five",
+    "Saha makes an enumerative association of the three with the two"
+   ],
+   "chosen": "Enumerative association only; the five may occur separately.",
+   "evidence": [
+    {
+     "lines": [
+      568,
+      570,
+      571
+     ],
+     "quote": "ete hi pañca dharmāḥ parasparaṃ vyatiricyāpi pravartante\nevañ ca\nyatrādhimokṣas tatra nāvaśyam itarair api bhavitavyam\nevaṃ sarvatra vācyam",
+     "translation": "These five operate even separately from one another; where adhimokṣa occurs, the others need not necessarily occur, and the same is to be said throughout."
+    }
+   ],
+   "depends_on_commentary": true
+  },
+  {
+   "id": "J7",
+   "decision": "Atha is transitional—“then”—and śraddhā, hrī, and apatrapā begin the subsequent list of wholesome dharmas; they are not further members of the niyata group.",
+   "options_considered": [
+    "Atha as a mere connective “and,” continuing the restricted group",
+    "Atha as transition to a new, wholesome list"
+   ],
+   "chosen": "“Then: faith, shame, and moral scruple,” beginning the wholesome list.",
+   "evidence": [
+    {
+     "lines": [
+      572,
+      573,
+      574
+     ],
+     "quote": "uktā viniyatāḥ\ntadanantaroddiṣṭās tv idānīṃ kuśalā vaktavyā ity ata āha\nśraddhātha hrīr apatrapā",
+     "translation": "After the viniyata dharmas have been stated, the wholesome dharmas that were subsequently mentioned are now to be explained; then the verse names śraddhā, hrī, and apatrapā."
+    }
+   ],
+   "depends_on_commentary": true
+  }
+ ],
+ "translation": "Those first stated—those beginning with contact—are universally operative (sarvatraga);\naspiration (chanda), resolute ascertainment (adhimokṣa), and mindfulness (smṛti),\nwith concentration (samādhi) and discernment (dhī), are restricted to particular objects;\nthen: faith (śraddhā), shame (hrī), and moral scruple (apatrapā).",
+ "one_shot_delta": [
+  "A commentary-blind reading could misanalyse ādyāḥ as connected with adya (“today”), whereas Sthiramati explicitly takes it as “those stated first” and supplies their status as sarvatraga.",
+  "It could render niyatāḥ vaguely as “determined” or infer that the five always co-occur. The commentary defines their restriction by their particular objects and expressly says that the five can operate separately.",
+  "It could attach śraddhā, hrī, and apatrapā to the preceding niyata classification. The commentary marks them instead as the opening of the wholesome (kuśala) list.",
+  "It could flatten adhimokṣa into ordinary assent and smṛti into bare memory, missing their defined functions of unshakeable ascertainment and non-forgetting, non-distraction."
+ ],
+ "analyzer_disagreements": [
+  "adyāḥ: the tagger analyzes this as ad/adya. It is instead ādyāḥ, Prathama Bahu Pum of ādi, as required by Sthiramati's gloss “ādau nirdiṣṭatvād ādyāḥ” (trbh 496)."
+ ],
+ "open_questions": [
+  "The supplied commentary span classifies hrī and apatrapā as wholesome but does not separately define their distinct functions. Accordingly, the translation keeps their English renderings conservative rather than imposing a sharper distinction not stated in this span."
+ ],
+ "verification_summary": {
+  "pass": 10,
+  "fail": 0,
+  "unsupported": 0,
+  "tool_error": 0
+ },
+ "run": {
+  "model": "gpt-5.6-terra",
+  "mode": "full",
+  "attempts": 1,
+  "usage": {
+   "prompt_tokens": 7497,
+   "completion_tokens": 9260,
+   "reasoning_tokens": 5679
+  },
+  "est_cost": 0.1261,
+  "retrieval": {
+   "anchor": [
+    495,
+    495
+   ],
+   "span": [
+    496,
+    574
+   ],
+   "shared_with": null,
+   "requotes": []
+  }
+ }
+}

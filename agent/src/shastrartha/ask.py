@@ -210,7 +210,7 @@ def _validate_citations(answer: str, allowed: set[str]) -> tuple[str, list[str]]
     return answer, bad
 
 
-def ask(query: str, effort: str = "medium") -> dict:
+def ask(query: str, effort: str | None = None) -> dict:
     hits = retrieve(query)
     if not hits or hits[0][0] < MIN_SCORE:
         texts = ", ".join(sorted({TEXT_META[s]["title"] for s in
@@ -232,12 +232,12 @@ def ask(query: str, effort: str = "medium") -> dict:
     user = (f"QUESTION: {query}\n\nPASSAGES:\n" + "\n\n".join(passages)
             + "\n\nAnswer per the rules.")
 
-    from .llm import chat as _chat
+    from .llm import ASK_EFFORT, ASK_MODEL, chat as _chat
 
     answer, usage = _chat(
         [{"role": "system", "content": ANSWER_SYSTEM},
          {"role": "user", "content": user}],
-        str, tag="ask", effort=effort,
+        str, tag="ask", effort=effort or ASK_EFFORT, model=ASK_MODEL,
     )
     allowed = {c.key for _, c in hits}
     answer, bad = _validate_citations(answer, allowed)

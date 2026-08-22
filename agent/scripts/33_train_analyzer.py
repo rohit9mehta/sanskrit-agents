@@ -5,7 +5,7 @@ NOT RUN AT SCALE YET. `--smoke` proves the plumbing (tiny subset, few steps,
 MPS/CPU) so a real run is a flag flip once the eval gate says go.
 
 Task format (own, not ByT5's undocumented tags):
-  input : "A <sentence or surface> ‖ <surface>"
+  input : "A <surface> ‖ <sentence or surface>"
   target: "pos=tinanta root=gam prayoga=Kartari lakara=Lun purusha=Prathama vacana=Eka"
 A byte-level base (ByT5) reads IAST natively — the reason it's the default
 candidate (see data/benchmark/base_model_memo.md).
@@ -66,7 +66,9 @@ def parse_target(s: str) -> dict:
 
 
 def to_input(sentence: str | None, surface: str) -> str:
-    return f"A {sentence or surface} ‖ {surface}"
+    # surface FIRST: byte-level inputs get truncated at max_len and the
+    # target word must never be what falls off the end
+    return f"A {surface} ‖ {sentence or surface}"
 
 
 def load_trainset(limit=None, seed=0):

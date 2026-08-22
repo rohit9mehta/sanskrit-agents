@@ -422,3 +422,11 @@
 {"ts": "2026-08-22T01:10:57+00:00", "tag": "reason-isa-4", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 7347, "completion_tokens": 14199, "reasoning_tokens": 9216, "est_cost": 0.235026}
 {"ts": "2026-08-22T01:12:57+00:00", "tag": "reason-isa-4-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 12299, "completion_tokens": 9491, "reasoning_tokens": 4608, "est_cost": 0.179262}
 {"ts": "2026-08-22T01:18:00+00:00", "tag": "reason-v10", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 7497, "completion_tokens": 21045, "reasoning_tokens": 16473, "est_cost": 0.338166}
+{"ts": "2026-08-22T06:45:25+00:00", "tag": "reason-gita-2.19", "model": "gpt-5.6-sol", "prompt_tokens": 5295, "completion_tokens": 9455, "reasoning_tokens": 6431, "est_cost": 0.21028}
+{"ts": "2026-08-22T06:52:44+00:00", "tag": "reason-isa-4", "model": "gpt-5.6-sol", "prompt_tokens": 7348, "completion_tokens": 13783, "reasoning_tokens": 8783, "est_cost": 0.305052}
+{"ts": "2026-08-22T06:54:35+00:00", "tag": "reason-isa-4-retry", "model": "gpt-5.6-sol", "prompt_tokens": 12316, "completion_tokens": 5573, "reasoning_tokens": 611, "est_cost": 0.160724}
+{"ts": "2026-08-22T07:01:11+00:00", "tag": "reason-v10", "model": "gpt-5.6-sol", "prompt_tokens": 7497, "completion_tokens": 13538, "reasoning_tokens": 9200, "est_cost": 0.300748}
+{"ts": "2026-08-22T07:03:46+00:00", "tag": "reason-gita-2.19", "model": "gpt-5.6-terra", "prompt_tokens": 5295, "completion_tokens": 8508, "reasoning_tokens": 4607, "est_cost": 0.112686}
+{"ts": "2026-08-22T07:06:03+00:00", "tag": "reason-isa-4", "model": "gpt-5.6-terra", "prompt_tokens": 7348, "completion_tokens": 11060, "reasoning_tokens": 7014, "est_cost": 0.147416}
+{"ts": "2026-08-22T07:06:36+00:00", "tag": "reason-isa-4-retry", "model": "gpt-5.6-terra", "prompt_tokens": 11387, "completion_tokens": 4802, "reasoning_tokens": 785, "est_cost": 0.080398}
+{"ts": "2026-08-22T07:08:20+00:00", "tag": "reason-v10", "model": "gpt-5.6-terra", "prompt_tokens": 7497, "completion_tokens": 9260, "reasoning_tokens": 5679, "est_cost": 0.126114}

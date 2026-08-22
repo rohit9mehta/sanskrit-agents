@@ -10,15 +10,25 @@ import os
 from datetime import datetime, timezone
 from .texts import AGENT_DIR, DATA_DIR, LOGS_DIR, PROJECT_ROOT
 
-MODEL = "gpt-5.5-2026-04-23"  # verified available on the supplied key, 2026-07-15
+# Model roles (2026-08-21: moved to the GPT-5.6 suite; 5.5 retained in the
+# table because the 171 stored apparatuses and the human-eval packets were
+# produced with it).  SHASTRARTHA_MODEL overrides the reasoner for A/B runs.
+REASONER_MODEL = os.environ.get("SHASTRARTHA_MODEL", "gpt-5.6-sol")
+ASK_MODEL = os.environ.get("SHASTRARTHA_ASK_MODEL", "gpt-5.6-luna")
+MODEL = REASONER_MODEL  # back-compat alias (reason.py, runner meta)
 REASONING_EFFORT = "high"
+ASK_EFFORT = "medium"
 MAX_COMPLETION_TOKENS = 32000
 LLM_CACHE = DATA_DIR / "cache" / "llm"
 USAGE_LOG = LOGS_DIR / "llm_usage.jsonl"
 
-# Conservative $/1M estimates for cost accounting (exact gpt-5.5 pricing not
-# in local references; the run-level hard stop uses these upper bounds).
-PRICE_IN, PRICE_OUT = 3.0, 15.0
+# $/1M tokens (input, output). 5.6 per developers.openai.com/api/docs/models
+# (2026-08-21); 5.5 is the conservative estimate used since Phase 1.
+PRICES = {
+    "gpt-5.5-2026-04-23": (3.0, 15.0), "gpt-5.5": (3.0, 15.0),
+    "gpt-5.6-sol": (4.0, 20.0), "gpt-5.6-terra": (2.0, 12.0), "gpt-5.6-luna": (0.20, 1.20),
+}
+PRICE_IN, PRICE_OUT = PRICES.get(REASONER_MODEL, (4.0, 20.0))
 
 _client = None
 
@@ -43,9 +53,10 @@ def client():
     return _client
 
 
-def estimated_cost(usage: dict) -> float:
-    return (usage.get("prompt_tokens", 0) * PRICE_IN
-            + usage.get("completion_tokens", 0) * PRICE_OUT) / 1e6
+def estimated_cost(usage: dict, model: str | None = None) -> float:
+    pi, po = PRICES.get(model or REASONER_MODEL, (PRICE_IN, PRICE_OUT))
+    return (usage.get("prompt_tokens", 0) * pi
+            + usage.get("completion_tokens", 0) * po) / 1e6
 
 
 def total_spend() -> float:
@@ -57,22 +68,24 @@ def total_spend() -> float:
     )
 
 
-def _log_usage(tag: str, usage: dict) -> None:
+def _log_usage(tag: str, usage: dict, model: str) -> None:
     USAGE_LOG.parent.mkdir(parents=True, exist_ok=True)
     rec = {
         "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "tag": tag, "model": MODEL, **usage, "est_cost": estimated_cost(usage),
+        "tag": tag, "model": model, **usage, "est_cost": estimated_cost(usage, model),
     }
     with USAGE_LOG.open("a", encoding="utf-8") as f:
         f.write(json.dumps(rec) + "\n")
 
 
 def chat(messages: list[dict], response_format, tag: str, use_cache: bool = True,
-          effort: str | None = None):
-    """Structured-output chat call with disk cache. Returns (parsed_or_text, usage)."""
+          effort: str | None = None, model: str | None = None):
+    """Structured-output chat call with disk cache. Returns (parsed_or_text, usage).
+    `model` defaults to the reasoner; the ask-box passes ASK_MODEL."""
     effort = effort or REASONING_EFFORT
+    model = model or REASONER_MODEL
     payload = {
-        "model": MODEL, "messages": messages, "effort": effort,
+        "model": model, "messages": messages, "effort": effort,
         "schema": getattr(response_format, "__name__", str(response_format)),
     }
     key = hashlib.sha256(
@@ -85,7 +98,7 @@ def chat(messages: list[dict], response_format, tag: str, use_cache: bool = True
                   if response_format is not str else blob["parsed"])
         return parsed, blob["usage"]
 
-    kwargs = dict(model=MODEL, messages=messages,
+    kwargs = dict(model=model, messages=messages,
                   max_completion_tokens=MAX_COMPLETION_TOKENS)
     if effort:
         kwargs["reasoning_effort"] = effort
@@ -116,7 +129,8 @@ def chat(messages: list[dict], response_format, tag: str, use_cache: bool = True
     details = getattr(resp.usage, "completion_tokens_details", None)
     if details is not None and getattr(details, "reasoning_tokens", None) is not None:
         usage["reasoning_tokens"] = details.reasoning_tokens
-    _log_usage(tag, usage)
+    usage["est_cost"] = round(estimated_cost(usage, model), 4)
+    _log_usage(tag, usage, model)
 
     LLM_CACHE.mkdir(parents=True, exist_ok=True)
     cache_file.write_text(
