@@ -265,13 +265,16 @@ def _verbal(surface: str, lemma: str, tag: str) -> Canonical:
                      note="prefixes split by dhātupāṭha" if pre else "")
 
 
-def _kosha_krdanta_dhatu(surface: str):
+def _kosha_krdanta_dhatu(surface: str, root_slp1: str | None = None):
     """(bare_root_slp1, prefixes_iast, sanadi) from the first kosha entry
-    whose prātipadika is a Krdanta — authoritative prefix/root split."""
+    whose prātipadika is a Krdanta — authoritative prefix/root split.
+    With root_slp1, only entries of that root qualify."""
     _, entries = kosha_lookup(surface)
     for e in entries:
         pe = getattr(e, "pratipadika_entry", None)
         if pe is None or not str(pe).startswith("PratipadikaEntry.Krdanta"):
+            continue
+        if root_slp1 and _entry_root(e) not in (root_slp1, _cite_root(root_slp1)):
             continue
         de = pe.dhatu_entry
         pre = list(de.dhatu.prefixes or [])
@@ -301,10 +304,26 @@ def _krdanta_avyaya(surface: str, lemma: str, tag: str) -> Canonical:
                      root=to_iast(root), prefixes=pre, sanadi=san, note=kind)
 
 
-def _derive_krdanta_stem(surface: str, want: tuple) -> tuple[str | None, str | None]:
+def _entry_root(e) -> str | None:
+    try:
+        de = e.pratipadika_entry.dhatu_entry
+        pre = list(de.dhatu.prefixes or [])
+        bare, _ = _strip_prefixes(de.clean_text, pre)
+        aup = _root_from_aupadeshika(de.dhatu.aupadeshika)
+        return aup if _is_root(aup) else _cite_root(bare)
+    except Exception:
+        return None
+
+
+def _derive_krdanta_stem(surface: str, want: tuple, root_slp1: str | None = None
+                         ) -> tuple[str | None, str | None]:
     """Run the kosha's own Krdanta prātipadika through the engine → stem text
-    (sthita, ukta, viniyata). Prefers the entry matching the tagged features."""
+    (sthita, ukta, viniyata). Prefers the entry matching the tagged features.
+    If root_slp1 is given, only entries of THAT root qualify (the kosha files
+    dhāvataḥ under sṛ as well — we must not cite sarat for dhāv)."""
     _, entries = kosha_lookup(surface)
+    if root_slp1:
+        entries = [e for e in entries if _entry_root(e) in (root_slp1, _cite_root(root_slp1))]
     pref = ["kta", "ktavatu", "Satf", "SAnac", "kvasu", "kAnac", "tavya", "tavyat",
             "anIyar", "yat", "Ryat", "kyap", "lyuw", "Rvul", "tfc", "GaY", "ac", "ka"]
 
@@ -407,10 +426,12 @@ def _nominal(surface: str, lemma: str, tag: str, m) -> Canonical:
     if lemma_slp1 in krd:
         # ByT5 cited the root of a kṛdanta (kosha convention): the kosha's own
         # Krdanta prātipadika derives the stem (sthita, kṛta, arhat, ākhya)
-        stem, krt = _derive_krdanta_stem(surface, want)
+        own_root, own_pre = _split_prefixes(lemma_slp1)
+        own_root, _ = _strip_sanadi(own_root)
+        stem, krt = _derive_krdanta_stem(surface, want, own_root)
         if stem:
-            k = _kosha_krdanta_dhatu(surface)
-            root, pre, san = k if k else (None, [], None)
+            k = _kosha_krdanta_dhatu(surface, own_root)
+            root, pre, san = k if k else (own_root, own_pre, None)
             return Canonical(surface, lemma, to_iast(stem), "subanta",
                              root=to_iast(root) if root else None, prefixes=pre, sanadi=san,
                              note=f"kṛdanta stem derived by vidyut (krt {krt})")
@@ -437,13 +458,15 @@ def _nominal(surface: str, lemma: str, tag: str, m) -> Canonical:
                 note += f"; alternatives {[to_iast(x) for x in ranked[1:3]]}"
             return Canonical(surface, lemma, to_iast(pick), "subanta", note=note)
     if lemma_slp1 in krd or (krd and not basic) or (participle_tag and not basic):
-        k = _kosha_krdanta_dhatu(surface)
+        own_root, _ = _split_prefixes(lemma_slp1)
+        own_root, _ = _strip_sanadi(own_root)
+        k = _kosha_krdanta_dhatu(surface, own_root if _is_root(own_root) else None)
         if k:
             root, pre, san = k
         else:
             root, pre = _split_prefixes(lemma_slp1)
             root, san = _strip_sanadi(root)
-        stem, krt = _derive_krdanta_stem(surface, want)
+        stem, krt = _derive_krdanta_stem(surface, want, root)
         if not stem:
             stem, krt = _derive_krdanta_by_tag(surface, root, pre, san, _extra, want)
         if stem:

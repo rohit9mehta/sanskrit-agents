@@ -418,3 +418,7 @@
 {"ts": "2026-08-21T20:22:09+00:00", "tag": "ask", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 4096, "completion_tokens": 706, "reasoning_tokens": 512, "est_cost": 0.022878}
 {"ts": "2026-08-21T20:22:21+00:00", "tag": "ask", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 4694, "completion_tokens": 591, "reasoning_tokens": 512, "est_cost": 0.022947}
 {"ts": "2026-08-21T20:27:43+00:00", "tag": "ask", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 4376, "completion_tokens": 698, "reasoning_tokens": 512, "est_cost": 0.023598}
+{"ts": "2026-08-22T01:07:09+00:00", "tag": "reason-gita-2.19", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 5295, "completion_tokens": 8787, "reasoning_tokens": 5630, "est_cost": 0.14769}
+{"ts": "2026-08-22T01:10:57+00:00", "tag": "reason-isa-4", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 7347, "completion_tokens": 14199, "reasoning_tokens": 9216, "est_cost": 0.235026}
+{"ts": "2026-08-22T01:12:57+00:00", "tag": "reason-isa-4-retry", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 12299, "completion_tokens": 9491, "reasoning_tokens": 4608, "est_cost": 0.179262}
+{"ts": "2026-08-22T01:18:00+00:00", "tag": "reason-v10", "model": "gpt-5.5-2026-04-23", "prompt_tokens": 7497, "completion_tokens": 21045, "reasoning_tokens": 16473, "est_cost": 0.338166}
