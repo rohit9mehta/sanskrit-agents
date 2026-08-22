@@ -43,6 +43,8 @@ image = (
                     str(REMOTE / "scripts" / "33_train_analyzer.py"))
     .add_local_file(AGENT / "data" / "training" / "trainset_v1.jsonl",
                     str(REMOTE / "data" / "training" / "trainset_v1.jsonl"))
+    .add_local_file(AGENT / "data" / "training" / "trainset_v2.jsonl",
+                    str(REMOTE / "data" / "training" / "trainset_v2.jsonl"))
     .add_local_file(AGENT / "data" / "benchmark" / "analyzer_benchmark_v1.jsonl",
                     str(REMOTE / "data" / "benchmark" / "analyzer_benchmark_v1.jsonl"))
 )
@@ -51,14 +53,16 @@ image = (
 @app.function(image=image, gpu=os.environ.get("MODAL_GPU", "A100"), timeout=5 * 60 * 60,
               volumes={"/vol": vol})
 def train(run_name: str, base: str, epochs: float, lr: float, bs: int,
-          max_len: int, max_steps: int) -> dict:
+          max_len: int, max_steps: int, trainset: str = "trainset_v1.jsonl",
+          eval_only: bool = False) -> dict:
     out_dir = Path("/vol") / run_name
     out_dir.mkdir(parents=True, exist_ok=True)
     (REMOTE / "data" / "benchmark").mkdir(parents=True, exist_ok=True)
     cmd = [sys.executable, str(REMOTE / "scripts" / "33_train_analyzer.py"),
            "--base", base, "--out", str(out_dir / "model"),
            "--epochs", str(epochs), "--lr", str(lr), "--bs", str(bs),
-           "--max-len", str(max_len), "--max-steps", str(max_steps)]
+           "--max-len", str(max_len), "--max-steps", str(max_steps),
+           "--trainset", trainset] + (["--eval-only"] if eval_only else [])
     # stream the trainer's output (Modal relays stdout live) AND keep it on the volume
     lines = []
     with (out_dir / "train.log").open("w") as lf:
@@ -108,13 +112,14 @@ def fetch(run_name: str) -> dict:
 @app.local_entrypoint()
 def main(run_name: str = "analyzer-v1", base: str = "chronbmm/sanskrit5-multitask",
          epochs: float = 3.0, lr: float = 3e-4, bs: int = 16, max_len: int = 512,
-         max_steps: int = -1, fetch_only: bool = False):
+         max_steps: int = -1, fetch_only: bool = False, trainset: str = "trainset_v1.jsonl",
+         eval_only: bool = False):
     bench = AGENT / "data" / "benchmark"
     if fetch_only:
         r = fetch.remote(run_name)
     else:
         print(f"launching {run_name}: base={base} epochs={epochs} lr={lr} bs={bs}")
-        r = train.remote(run_name, base, epochs, lr, bs, max_len, max_steps)
+        r = train.remote(run_name, base, epochs, lr, bs, max_len, max_steps, trainset, eval_only)
         print(r.get("tail", "")[-1500:])
         if r.get("returncode"):
             print("TRAINING FAILED — stderr tail:\n", r.get("stderr_tail"))

@@ -108,11 +108,30 @@ def main():
         s = json.loads(line)
         add("synthetic", s["surface"], norm(s["claim"]), weight=0.5)
 
+    v2 = "--v2" in sys.argv
+    if v2:
+        # v2: a surface that carries >1 distinct gold claim is AMBIGUOUS without
+        # sentence context (vocative = nominative, acc. dual = nom. dual, …).
+        # Context-free synthetic items on such surfaces teach an arbitrary label
+        # (analyzer-v1 regressed on duals/vocatives) → drop them; keep the
+        # DCS/pipeline items (they have context). Repeat counts replace weights:
+        # pipeline ×2, dcs ×2, synthetic ×1.
+        by_surface = defaultdict(set)
+        for r in recs.values():
+            by_surface[r["surface"]].add(json.dumps(r["claim"], sort_keys=True))
+        ambiguous = {sfc for sfc, cl in by_surface.items() if len(cl) > 1}
+        before = len(recs)
+        recs = {k: r for k, r in recs.items()
+                if not (r["source"] == "synthetic" and r["surface"] in ambiguous)}
+        dropped["synthetic-ambiguous"] = before - len(recs)
+        for r in recs.values():
+            r["repeat"] = 1 if r["source"] == "synthetic" else 2
     out = []
     for i, (k, r) in enumerate(sorted(recs.items(), key=lambda kv: kv[0]), 1):
         r["id"] = f"tr-{i:06d}"
         out.append(r)
-    with (TRAIN / "trainset_v1.jsonl").open("w", encoding="utf-8") as f:
+    name = "trainset_v2.jsonl" if v2 else "trainset_v1.jsonl"
+    with (TRAIN / name).open("w", encoding="utf-8") as f:
         for r in out:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
@@ -120,7 +139,7 @@ def main():
     with_ctx = sum(1 for r in out if r["sentence"])
     with_neg = sum(1 for r in out if r["negatives"])
     lak = Counter(r["claim"].get("lakara") for r in out if r["claim"]["pos"] == "tinanta")
-    md = ["# Training set v1", "",
+    md = [f"# Training set {'v2' if v2 else 'v1'}", "",
           f"{len(out)} records (benchmark-excluded: {dict(dropped)}).", "",
           "| source | n |", "|---|---|",
           *[f"| {s} | {n} |" for s, n in by_src.most_common()], "",
@@ -128,8 +147,8 @@ def main():
           f"* with hard negatives: {with_neg}", "",
           "## Tinanta lakāra (all sources)", "", "| lakāra | n |", "|---|---|",
           *[f"| {k} | {n} |" for k, n in lak.most_common()], ""]
-    (TRAIN / "trainset_summary.md").write_text("\n".join(md), encoding="utf-8")
-    print(f"trainset_v1: {len(out)} records {dict(by_src)}; dropped {dict(dropped)}")
+    (TRAIN / ("trainset_v2_summary.md" if v2 else "trainset_summary.md")).write_text("\n".join(md), encoding="utf-8")
+    print(f"{name}: {len(out)} records {dict(by_src)}; dropped {dict(dropped)}")
     return 0
 
 

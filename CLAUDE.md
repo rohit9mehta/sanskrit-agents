@@ -143,6 +143,12 @@ Phase 2 human eval) is built. Scripts 26–33; all outputs under agent/data/.
   data/benchmark/runs/analyzer-v1/report.md; weights on Modal volume
   `shastrartha-models/analyzer-v1/model`. Scripts 33/34 are the trainer +
   launcher (`modal run scripts/34_train_modal.py --run-name <tag>`).
+- analyzer-v2 (2026-08-22): NEGATIVE. Dropping syncretic-surface synthetic
+  items (−7,096) + context ×2 → 90.3/95.0/87.4; duals/vocatives unchanged,
+  rare cells lost. Synthetic coverage is valuable; v1 remains the PoC. Run was
+  cancelled externally at 92% (checkpoint-9000 evaluated via `--eval-only`).
+  Open: why v1 dips on syncretic forms (context use? DCS label consistency?).
+  Narrative draft: agent/docs/demo_narrative.md.
 
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern

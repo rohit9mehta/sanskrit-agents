@@ -72,8 +72,10 @@ def to_input(sentence: str | None, surface: str) -> str:
     return f"A {surface} ‖ {sentence or surface}"
 
 
-def load_trainset(limit=None, seed=0):
-    rows = [json.loads(l) for l in (TRAIN / "trainset_v1.jsonl").open(encoding="utf-8")]
+def load_trainset(limit=None, seed=0, name="trainset_v1.jsonl"):
+    rows = [json.loads(l) for l in (TRAIN / name).open(encoding="utf-8")]
+    # v2 sets carry per-record repeat counts (context examples oversampled)
+    rows = [r for r in rows for _ in range(int(r.get("repeat", 1)))]
     if limit:
         random.Random(seed).shuffle(rows)
         rows = rows[:limit]
@@ -127,6 +129,9 @@ def main():
     ap.add_argument("--smoke", action="store_true",
                     help="200 examples, 20 steps, eval on 40 benchmark items")
     ap.add_argument("--max-steps", type=int, default=-1)
+    ap.add_argument("--trainset", default="trainset_v1.jsonl")
+    ap.add_argument("--eval-only", action="store_true",
+                    help="skip training; --base is a checkpoint dir to evaluate")
     ap.add_argument("--max-len", type=int, default=512,
                     help="input byte length cap (smoke uses 256)")
     args = ap.parse_args()
@@ -139,11 +144,14 @@ def main():
                               Seq2SeqTrainingArguments)
     from datasets import Dataset
 
-    rows = load_trainset(limit=200 if args.smoke else None)
+    rows = load_trainset(limit=200 if args.smoke else None, name=args.trainset)
     ex = build_examples(rows)
     print(f"examples: {len(ex)}  (e.g. {ex[0]['input'][:60]!r} → {ex[0]['target']!r})")
 
-    tok = AutoTokenizer.from_pretrained(args.base)
+    # Trainer checkpoints carry weights only; the byte tokenizer comes from the
+    # original base model in eval-only mode
+    tok = AutoTokenizer.from_pretrained(
+        "chronbmm/sanskrit5-multitask" if args.eval_only else args.base)
     model = AutoModelForSeq2SeqLM.from_pretrained(args.base)
 
     def enc(batch):
@@ -167,11 +175,12 @@ def main():
         use_cpu=(device == "cpu"), predict_with_generate=True,
         disable_tqdm=not args.smoke,                 # line logs stream better
     )
-    trainer = Seq2SeqTrainer(model=model, args=targs, train_dataset=ds,
-                             data_collator=DataCollatorForSeq2Seq(tok, model=model))
-    trainer.train()
-    if not args.smoke:
-        trainer.save_model(args.out); tok.save_pretrained(args.out)
+    if not args.eval_only:
+        trainer = Seq2SeqTrainer(model=model, args=targs, train_dataset=ds,
+                                 data_collator=DataCollatorForSeq2Seq(tok, model=model))
+        trainer.train()
+        if not args.smoke:
+            trainer.save_model(args.out); tok.save_pretrained(args.out)
 
     # eval on the frozen benchmark
     items = [json.loads(l) for l in (BENCH / "analyzer_benchmark_v1.jsonl").open(encoding="utf-8")]
