@@ -317,6 +317,8 @@ def _stem_candidates(stem_slp1: str) -> list[str]:
         out.append(stem_slp1[:-2])            # Atmavant → Atmavat
     if stem_slp1.endswith("vat"):
         out.append(stem_slp1[:-1] + "nt")
+    elif stem_slp1.endswith("at") and len(stem_slp1) > 3:   # śatṛ cited -at (kosha): vizIdat → vizIdant
+        out.append(stem_slp1[:-1] + "nt")
     return out
 
 

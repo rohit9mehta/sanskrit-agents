@@ -23,6 +23,12 @@ Method:
    - indeclinables: pos "avyaya".
    The ByT5 tagger's analysis is provided; adopt it unless the commentary or
    grammar contradicts it — record every override in `analyzer_disagreements`.
+   Lemma CITATION convention (verifier's): cite verbs by bare root with
+   prefixes listed separately (vṛt + [pra], not pravṛt; jan not janay);
+   cite nominals by the stem the kosha lists (sthita, tad, kim, śāśvatī).
+   When ANALYZE carries `canonical_lemmas`, use those citations as given.
+   A difference that is ONLY citation convention or nasal spelling
+   (saṃbhava/sambhava) is NOT an analyzer disagreement — do not log it.
 3. Decide the CONTESTED points (compound relations, technical terms, case
    construal, voice, scope) on commentary evidence; each becomes a
    justification object with the trbh lines quoted verbatim (IAST).

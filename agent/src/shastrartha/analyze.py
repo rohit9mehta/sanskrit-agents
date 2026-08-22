@@ -126,3 +126,38 @@ def parse_slm(output: str) -> list[dict]:
         else:
             parsed.append({"unparsed": token})
     return parsed
+
+
+# ---------------------------------------------------------------- cached local
+
+SLM_CACHE_DIR = DATA_DIR / "cache" / "byt5_slm"
+
+
+def local_analyze_cached(texts: list[str], task: str = "SLM",
+                         batch_size: int = 16) -> dict[str, str]:
+    """text → raw output for the local model, disk-cached per (task, text).
+    Length-sorted batches with a decode budget sized to the input (byte-level
+    output is ~2.5× the input; 1024 cap), so prose lines don't stall the
+    batch and verse lines don't over-decode."""
+    SLM_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+
+    def path(t: str):
+        key = hashlib.sha256((f"{task} " + t).encode()).hexdigest()[:24]
+        return SLM_CACHE_DIR / f"{key}.json"
+
+    out, missing = {}, []
+    for t in texts:
+        p = path(t)
+        if p.exists():
+            out[t] = json.loads(p.read_text(encoding="utf-8"))["output"]
+        else:
+            missing.append(t)
+    missing = sorted(set(missing), key=len)
+    for i in range(0, len(missing), batch_size):
+        batch = missing[i:i + batch_size]
+        budget = min(1024, 3 * max(len(b) for b in batch) + 64)
+        for t, o in zip(batch, local_analyze(batch, task=task, max_new_tokens=budget)):
+            path(t).write_text(json.dumps({"sentence": t, "output": o}, ensure_ascii=False),
+                               encoding="utf-8")
+            out[t] = o
+    return out

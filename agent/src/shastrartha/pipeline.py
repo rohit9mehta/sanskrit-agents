@@ -30,6 +30,13 @@ def default_analyze_fn():
         out["local_S"] = local_analyze(lines, task="S")
         out["local_SLM"] = local_analyze(lines, task="SLM")
         out["slm_parsed"] = [parse_slm(o) for o in out["local_SLM"]]
+        try:
+            from .lemma import canonical_hints
+            hints = [h for parsed in out["slm_parsed"] for h in canonical_hints(parsed)]
+            if hints:
+                out["canonical_lemmas"] = hints
+        except Exception as e:  # normalization is advisory; never block the run
+            out["canonical_lemmas"] = f"unavailable ({type(e).__name__})"
         return out
 
     return fn

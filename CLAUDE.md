@@ -111,6 +111,23 @@ Phase 2 human eval) is built. Scripts 26–33; all outputs under agent/data/.
 - Leaderboard of every scored model: `data/benchmark/leaderboard.md`
 - Critical path: aunty's grader CSV → `15_score_eval.py` → decision memo →
   if go: `33_train_analyzer.py` full run → compare vs baseline_report.md
+- DECISION 2026-08-21: training PARKED. Override audit (519 reasoner
+  overrides of ByT5 across 171 units): 46% segmentation/compound boundary
+  (interpretive — commentary decides), 33% lemma convention, 14% case/
+  number/gender, 1.5% tense/mood. The analyzer is not the bottleneck for
+  these texts; revisit training when scaling to narrative/kāvya genres (then
+  as joint segmentation+analysis).
+- ✅ Lemma-normalization layer (`src/shastrartha/lemma.py`, 2026-08-21):
+  ByT5 citations → verifier conventions (bare root + prefixes via kosha
+  dhātu entries; ṇic/san stripped; participle stems from kosha Basic entries
+  or derived by vidyut from the kosha's own Krdanta prātipadika; pronoun
+  citations; feminine stems). Wired into `pipeline.default_analyze_fn` as
+  `canonical_lemmas` hints + prompt rule (reasoner_v1/v2: cite canonical,
+  don't log convention-only overrides). Measured by `35_mine_lemmas.py`
+  (`--canonical` = residual): mismatches 218 → 80 of 1,459 aligned words
+  (14.9% → 5.5%); remaining residual is mostly reasoner inconsistency
+  (kim/ka, enad/etad/idam, -at/-ant) that the prompt rule now settles.
+  verify.py `_stem_candidates` gained the śatṛ -at→-ant fallback.
 
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern
