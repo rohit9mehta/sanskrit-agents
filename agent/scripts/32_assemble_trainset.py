@@ -113,7 +113,7 @@ def main():
         # v2: a surface that carries >1 distinct gold claim is AMBIGUOUS without
         # sentence context (vocative = nominative, acc. dual = nom. dual, …).
         # Context-free synthetic items on such surfaces teach an arbitrary label
-        # (analyzer-v1 regressed on duals/vocatives) → drop them; keep the
+        # (vyakarani-v1 regressed on duals/vocatives) → drop them; keep the
         # DCS/pipeline items (they have context). Repeat counts replace weights:
         # pipeline ×2, dcs ×2, synthetic ×1.
         by_surface = defaultdict(set)

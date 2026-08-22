@@ -1,4 +1,4 @@
-# analyzer-v1 vs ByT5 baseline — per stratum (features-full, lemma)
+# vyakarani-v1 vs ByT5 baseline — per stratum (features-full, lemma)
 
 Overall: features-full 90% → **92%**; lemma 93% → **96%**; claim 88% → **90%** (n=985)
 

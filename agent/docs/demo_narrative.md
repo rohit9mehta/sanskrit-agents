@@ -70,9 +70,9 @@ This is the part for researchers.
    it is a gold-data generator: 34,719 derivation-labelled pairs, flat across
    all 10 lakāras × 3 prayogas — including categories no corpus attests in
    quantity. Plus 13,065 vidyut-confirmed DCS claims and our own hard cases.
-3. **Teach the student.** Fine-tune ByT5-Sanskrit to emit our explicit schema
+3. **Teach the student — Vyākaraṇī ("the grammarian").** Fine-tune ByT5-Sanskrit to emit our explicit schema
    (`pos=tinanta root=gam lakara=Lun …`). 35 minutes on one A100, ~$2.
-4. **Grade on the sealed exam.** `analyzer-v1`: features 90.1 → 92.5%, lemma
+4. **Grade on the sealed exam.** Vyākaraṇī v1 (`vyakarani-v1`): features 90.1 → 92.5%, lemma
    93.3 → 95.6%, full claim 88.3 → 89.5%. **Aorist 5% → 80%. Periphrastic
    future 0 → 100%.** Our in-domain hard cases 69 → 74%.
    Regressions we understand: duals and vocatives dipped — syncretic forms
@@ -123,7 +123,7 @@ and one it can't ("what are the chakras" → "not on my shelf").
 | verification records logged | 10,768 |
 | analyzer benchmark | 985 items, frozen, sha256 in MANIFEST |
 | ByT5 baseline | 90.1% features / 88.3% claim; aorist 5% |
-| analyzer-v1 | 92.5% / 89.5%; aorist 80%; Luṭ 100% |
+| Vyākaraṇī v1 (`vyakarani-v1`) | 92.5% / 89.5%; aorist 80%; Luṭ 100% |
 | synthetic gold | 34,719 pairs, flat over 30 tense×voice cells |
 | DCS arbitrated gold | 13,065 claims |
 | lemma-normalization | reasoner overrides −60% on re-run; cost −37% |

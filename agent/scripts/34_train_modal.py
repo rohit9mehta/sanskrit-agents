@@ -3,9 +3,9 @@ via Modal, and bring the results home.
 
 One-time setup (human): `.venv/bin/modal token new` (browser login).
 Then:
-  .venv/bin/modal run scripts/34_train_modal.py --run-name analyzer-v1 \
+  .venv/bin/modal run scripts/34_train_modal.py --run-name vyakarani-v1 \
       --gpu A10G --epochs 3
-  .venv/bin/modal run scripts/34_train_modal.py --run-name analyzer-v1 --fetch
+  .venv/bin/modal run scripts/34_train_modal.py --run-name vyakarani-v1 --fetch
 
 What happens:
   * the container gets the SAME layout as this repo (/root/agent/scripts,
@@ -110,7 +110,7 @@ def fetch(run_name: str) -> dict:
 
 
 @app.local_entrypoint()
-def main(run_name: str = "analyzer-v1", base: str = "chronbmm/sanskrit5-multitask",
+def main(run_name: str = "vyakarani-v1", base: str = "chronbmm/sanskrit5-multitask",
          epochs: float = 3.0, lr: float = 3e-4, bs: int = 16, max_len: int = 512,
          max_steps: int = -1, fetch_only: bool = False, trainset: str = "trainset_v1.jsonl",
          eval_only: bool = False):

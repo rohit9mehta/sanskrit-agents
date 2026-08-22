@@ -22,7 +22,7 @@ reward is vidyut's verify_*_claim pass/fail — the "Pāṇini as reward" loop.
 Usage:
   .venv/bin/python scripts/33_train_analyzer.py --smoke
   .venv/bin/python scripts/33_train_analyzer.py --base chronbmm/sanskrit5-multitask \
-      --epochs 3 --out models/analyzer-v1
+      --epochs 3 --out models/vyakarani-v1
 """
 
 import argparse

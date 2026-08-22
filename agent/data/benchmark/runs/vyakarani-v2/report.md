@@ -1,4 +1,4 @@
-# analyzer-v2 — negative result (2026-08-22)
+# vyakarani-v2 — negative result (2026-08-22)
 
 Hypothesis: v1's regressions on duals/vocatives came from context-free
 synthetic items on syncretic surfaces (voc = nom, acc.du = nom.du) teaching an
