@@ -27,6 +27,7 @@ Usage:
 
 import argparse
 import json
+import os
 import random
 import sys
 from collections import Counter
@@ -152,14 +153,19 @@ def main():
         return m
 
     ds = Dataset.from_list(ex).map(enc, batched=True, remove_columns=["input", "target", "weight"])
-    device = "mps" if torch.backends.mps.is_available() else "cpu"
+    cuda = torch.cuda.is_available()
+    device = "cuda" if cuda else ("mps" if torch.backends.mps.is_available() else "cpu")
     targs = Seq2SeqTrainingArguments(
         output_dir=args.out, per_device_train_batch_size=args.bs,
         learning_rate=args.lr, num_train_epochs=args.epochs,
         max_steps=20 if args.smoke else args.max_steps,
-        logging_steps=5, save_strategy="no", report_to=[],
-        gradient_checkpointing=True,
+        logging_steps=5 if args.smoke else 50, report_to=[],
+        # checkpoints so a timeout is never a total loss (smoke: none)
+        save_strategy="no" if args.smoke else "steps", save_steps=1500, save_total_limit=1,
+        bf16=cuda,                                   # A10G/A100: ~3x over fp32
+        gradient_checkpointing=(not cuda),           # only needed on MPS/CPU memory
         use_cpu=(device == "cpu"), predict_with_generate=True,
+        disable_tqdm=not args.smoke,                 # line logs stream better
     )
     trainer = Seq2SeqTrainer(model=model, args=targs, train_dataset=ds,
                              data_collator=DataCollatorForSeq2Seq(tok, model=model))
@@ -179,7 +185,7 @@ def main():
         with torch.no_grad():
             g = model.generate(**e, max_new_tokens=96, num_beams=1)
         preds.extend(tok.batch_decode(g, skip_special_tokens=True))
-    tag = "smoke" if args.smoke else Path(args.out).name
+    tag = "smoke" if args.smoke else (os.environ.get("RUN_TAG") or Path(args.out).name)
     score_predictions(items, preds, tag)
     return 0
 

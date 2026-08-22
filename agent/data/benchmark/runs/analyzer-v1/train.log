@@ -1,0 +1,321 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+examples: 46379  (e.g. 'A ababalhethām ‖ ababalhethām' → 'pos=tinanta vacana=Dvi root=balh prayoga=Kartari lakara=Lun purusha=Madhyama')
+
+Loading weights:   0%|          | 0/252 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 252/252 [00:00<00:00, 2847.73it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+
+Map:   0%|          | 0/46379 [00:00<?, ? examples/s]
+Map:   2%|▏         | 1000/46379 [00:00<00:10, 4415.61 examples/s]
+Map:   4%|▍         | 2000/46379 [00:00<00:09, 4881.66 examples/s]
+Map:   6%|▋         | 3000/46379 [00:00<00:08, 5156.92 examples/s]
+Map:   9%|▊         | 4000/46379 [00:00<00:08, 5218.39 examples/s]
+Map:  11%|█         | 5000/46379 [00:00<00:08, 5131.27 examples/s]
+Map:  13%|█▎        | 6000/46379 [00:01<00:07, 5166.19 examples/s]
+Map:  15%|█▌        | 7000/46379 [00:01<00:07, 5242.31 examples/s]
+Map:  17%|█▋        | 8000/46379 [00:01<00:07, 5249.23 examples/s]
+Map:  19%|█▉        | 9000/46379 [00:01<00:07, 5325.81 examples/s]
+Map:  22%|██▏       | 10000/46379 [00:01<00:06, 5227.17 examples/s]
+Map:  24%|██▎       | 11000/46379 [00:02<00:06, 5124.99 examples/s]
+Map:  26%|██▌       | 12000/46379 [00:02<00:06, 5120.89 examples/s]
+Map:  28%|██▊       | 13000/46379 [00:02<00:09, 3498.58 examples/s]
+Map:  30%|███       | 14000/46379 [00:03<00:08, 3862.97 examples/s]
+Map:  32%|███▏      | 15000/46379 [00:03<00:07, 4153.40 examples/s]
+Map:  34%|███▍      | 16000/46379 [00:03<00:06, 4379.98 examples/s]
+Map:  37%|███▋      | 17000/46379 [00:03<00:06, 4606.64 examples/s]
+Map:  39%|███▉      | 18000/46379 [00:03<00:05, 4733.13 examples/s]
+Map:  41%|████      | 19000/46379 [00:03<00:05, 4887.49 examples/s]
+Map:  43%|████▎     | 20000/46379 [00:04<00:05, 4872.27 examples/s]
+Map:  45%|████▌     | 21000/46379 [00:04<00:05, 4915.68 examples/s]
+Map:  47%|████▋     | 22000/46379 [00:04<00:04, 4952.22 examples/s]
+Map:  50%|████▉     | 23000/46379 [00:04<00:04, 5031.06 examples/s]
+Map:  52%|█████▏    | 24000/46379 [00:04<00:04, 5029.29 examples/s]
+Map:  54%|█████▍    | 25000/46379 [00:05<00:04, 5055.75 examples/s]
+Map:  56%|█████▌    | 26000/46379 [00:05<00:04, 5054.31 examples/s]
+Map:  58%|█████▊    | 27000/46379 [00:05<00:03, 4999.88 examples/s]
+Map:  60%|██████    | 28000/46379 [00:05<00:03, 4982.98 examples/s]
+Map:  63%|██████▎   | 29000/46379 [00:05<00:03, 5030.80 examples/s]
+Map:  65%|██████▍   | 30000/46379 [00:06<00:03, 4974.55 examples/s]
+Map:  67%|██████▋   | 31000/46379 [00:06<00:03, 4996.02 examples/s]
+Map:  69%|██████▉   | 32000/46379 [00:06<00:02, 5007.06 examples/s]
+Map:  71%|███████   | 33000/46379 [00:06<00:02, 4993.12 examples/s]
+Map:  73%|███████▎  | 34000/46379 [00:06<00:02, 5022.28 examples/s]
+Map:  75%|███████▌  | 35000/46379 [00:07<00:02, 5061.59 examples/s]
+Map:  78%|███████▊  | 36000/46379 [00:07<00:02, 5072.49 examples/s]
+Map:  80%|███████▉  | 37000/46379 [00:07<00:01, 5123.37 examples/s]
+Map:  82%|████████▏ | 38000/46379 [00:07<00:01, 5146.27 examples/s]
+Map:  84%|████████▍ | 39000/46379 [00:07<00:01, 5124.75 examples/s]
+Map:  86%|████████▌ | 40000/46379 [00:08<00:01, 4989.54 examples/s]
+Map:  88%|████████▊ | 41000/46379 [00:08<00:01, 5031.53 examples/s]
+Map:  91%|█████████ | 42000/46379 [00:08<00:00, 5024.19 examples/s]
+Map:  93%|█████████▎| 43000/46379 [00:08<00:00, 4997.28 examples/s]
+Map:  95%|█████████▍| 44000/46379 [00:08<00:00, 5060.79 examples/s]
+Map:  97%|█████████▋| 45000/46379 [00:09<00:00, 5109.73 examples/s]
+Map:  99%|█████████▉| 46000/46379 [00:09<00:00, 5159.65 examples/s]
+Map: 100%|██████████| 46379/46379 [00:09<00:00, 4925.29 examples/s]
+[RANK 0] Detected kernel version 4.19.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+{'loss': '0.4207', 'grad_norm': '0.2459', 'learning_rate': '0.0002983', 'epoch': '0.01725'}
+{'loss': '0.06718', 'grad_norm': '0.3023', 'learning_rate': '0.0002966', 'epoch': '0.03449'}
+{'loss': '0.04852', 'grad_norm': '0.1811', 'learning_rate': '0.0002949', 'epoch': '0.05174'}
+{'loss': '0.03378', 'grad_norm': '0.221', 'learning_rate': '0.0002931', 'epoch': '0.06899'}
+{'loss': '0.03185', 'grad_norm': '0.2307', 'learning_rate': '0.0002914', 'epoch': '0.08624'}
+{'loss': '0.02927', 'grad_norm': '0.2437', 'learning_rate': '0.0002897', 'epoch': '0.1035'}
+{'loss': '0.02695', 'grad_norm': '0.07939', 'learning_rate': '0.000288', 'epoch': '0.1207'}
+{'loss': '0.02585', 'grad_norm': '0.3782', 'learning_rate': '0.0002862', 'epoch': '0.138'}
+{'loss': '0.0258', 'grad_norm': '0.232', 'learning_rate': '0.0002845', 'epoch': '0.1552'}
+{'loss': '0.02207', 'grad_norm': '0.1036', 'learning_rate': '0.0002828', 'epoch': '0.1725'}
+{'loss': '0.02405', 'grad_norm': '0.1417', 'learning_rate': '0.0002811', 'epoch': '0.1897'}
+{'loss': '0.02106', 'grad_norm': '0.1443', 'learning_rate': '0.0002793', 'epoch': '0.207'}
+{'loss': '0.0221', 'grad_norm': '0.1136', 'learning_rate': '0.0002776', 'epoch': '0.2242'}
+{'loss': '0.02219', 'grad_norm': '0.09695', 'learning_rate': '0.0002759', 'epoch': '0.2415'}
+{'loss': '0.02079', 'grad_norm': '0.1126', 'learning_rate': '0.0002742', 'epoch': '0.2587'}
+{'loss': '0.02051', 'grad_norm': '0.3067', 'learning_rate': '0.0002724', 'epoch': '0.276'}
+{'loss': '0.01949', 'grad_norm': '0.1495', 'learning_rate': '0.0002707', 'epoch': '0.2932'}
+{'loss': '0.01965', 'grad_norm': '0.1525', 'learning_rate': '0.000269', 'epoch': '0.3105'}
+{'loss': '0.01955', 'grad_norm': '0.08013', 'learning_rate': '0.0002673', 'epoch': '0.3277'}
+{'loss': '0.02104', 'grad_norm': '0.08358', 'learning_rate': '0.0002655', 'epoch': '0.3449'}
+{'loss': '0.01902', 'grad_norm': '0.07025', 'learning_rate': '0.0002638', 'epoch': '0.3622'}
+{'loss': '0.01762', 'grad_norm': '0.07231', 'learning_rate': '0.0002621', 'epoch': '0.3794'}
+{'loss': '0.01671', 'grad_norm': '0.05591', 'learning_rate': '0.0002604', 'epoch': '0.3967'}
+{'loss': '0.01667', 'grad_norm': '0.06854', 'learning_rate': '0.0002586', 'epoch': '0.4139'}
+{'loss': '0.01581', 'grad_norm': '0.05972', 'learning_rate': '0.0002569', 'epoch': '0.4312'}
+{'loss': '0.01744', 'grad_norm': '0.3794', 'learning_rate': '0.0002552', 'epoch': '0.4484'}
+{'loss': '0.0185', 'grad_norm': '0.1695', 'learning_rate': '0.0002535', 'epoch': '0.4657'}
+{'loss': '0.01851', 'grad_norm': '0.1388', 'learning_rate': '0.0002517', 'epoch': '0.4829'}
+{'loss': '0.01546', 'grad_norm': '0.1254', 'learning_rate': '0.00025', 'epoch': '0.5002'}
+{'loss': '0.01821', 'grad_norm': '0.1098', 'learning_rate': '0.0002483', 'epoch': '0.5174'}
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.85s/it]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.85s/it]
+{'loss': '0.01864', 'grad_norm': '0.08747', 'learning_rate': '0.0002466', 'epoch': '0.5347'}
+{'loss': '0.0165', 'grad_norm': '0.1138', 'learning_rate': '0.0002448', 'epoch': '0.5519'}
+{'loss': '0.01689', 'grad_norm': '0.09011', 'learning_rate': '0.0002431', 'epoch': '0.5692'}
+{'loss': '0.01596', 'grad_norm': '0.08159', 'learning_rate': '0.0002414', 'epoch': '0.5864'}
+{'loss': '0.01646', 'grad_norm': '0.099', 'learning_rate': '0.0002397', 'epoch': '0.6037'}
+{'loss': '0.01568', 'grad_norm': '0.09445', 'learning_rate': '0.0002379', 'epoch': '0.6209'}
+{'loss': '0.01718', 'grad_norm': '0.1559', 'learning_rate': '0.0002362', 'epoch': '0.6382'}
+{'loss': '0.01699', 'grad_norm': '0.1627', 'learning_rate': '0.0002345', 'epoch': '0.6554'}
+{'loss': '0.01468', 'grad_norm': '0.06939', 'learning_rate': '0.0002328', 'epoch': '0.6726'}
+{'loss': '0.01362', 'grad_norm': '0.05035', 'learning_rate': '0.000231', 'epoch': '0.6899'}
+{'loss': '0.01609', 'grad_norm': '0.07773', 'learning_rate': '0.0002293', 'epoch': '0.7071'}
+{'loss': '0.01561', 'grad_norm': '0.1001', 'learning_rate': '0.0002276', 'epoch': '0.7244'}
+{'loss': '0.01694', 'grad_norm': '0.05968', 'learning_rate': '0.0002259', 'epoch': '0.7416'}
+{'loss': '0.01455', 'grad_norm': '0.1129', 'learning_rate': '0.0002241', 'epoch': '0.7589'}
+{'loss': '0.01582', 'grad_norm': '0.09964', 'learning_rate': '0.0002224', 'epoch': '0.7761'}
+{'loss': '0.01383', 'grad_norm': '0.06149', 'learning_rate': '0.0002207', 'epoch': '0.7934'}
+{'loss': '0.01542', 'grad_norm': '0.1145', 'learning_rate': '0.000219', 'epoch': '0.8106'}
+{'loss': '0.01497', 'grad_norm': '0.06963', 'learning_rate': '0.0002172', 'epoch': '0.8279'}
+{'loss': '0.01431', 'grad_norm': '0.08654', 'learning_rate': '0.0002155', 'epoch': '0.8451'}
+{'loss': '0.01513', 'grad_norm': '0.1182', 'learning_rate': '0.0002138', 'epoch': '0.8624'}
+{'loss': '0.01393', 'grad_norm': '0.06534', 'learning_rate': '0.0002121', 'epoch': '0.8796'}
+{'loss': '0.01479', 'grad_norm': '0.1439', 'learning_rate': '0.0002103', 'epoch': '0.8969'}
+{'loss': '0.01501', 'grad_norm': '0.07831', 'learning_rate': '0.0002086', 'epoch': '0.9141'}
+{'loss': '0.01326', 'grad_norm': '0.0733', 'learning_rate': '0.0002069', 'epoch': '0.9314'}
+{'loss': '0.01387', 'grad_norm': '0.049', 'learning_rate': '0.0002052', 'epoch': '0.9486'}
+{'loss': '0.01447', 'grad_norm': '0.192', 'learning_rate': '0.0002034', 'epoch': '0.9659'}
+{'loss': '0.01397', 'grad_norm': '0.09245', 'learning_rate': '0.0002017', 'epoch': '0.9831'}
+{'loss': '0.01466', 'grad_norm': '0.1761', 'learning_rate': '0.0002', 'epoch': '1'}
+{'loss': '0.01064', 'grad_norm': '0.03861', 'learning_rate': '0.0001983', 'epoch': '1.018'}
+{'loss': '0.01227', 'grad_norm': '0.08417', 'learning_rate': '0.0001966', 'epoch': '1.035'}
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.55s/it]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.55s/it]
+{'loss': '0.01052', 'grad_norm': '0.05385', 'learning_rate': '0.0001948', 'epoch': '1.052'}
+{'loss': '0.01026', 'grad_norm': '0.1032', 'learning_rate': '0.0001931', 'epoch': '1.069'}
+{'loss': '0.01155', 'grad_norm': '0.04599', 'learning_rate': '0.0001914', 'epoch': '1.087'}
+{'loss': '0.01169', 'grad_norm': '0.05222', 'learning_rate': '0.0001897', 'epoch': '1.104'}
+{'loss': '0.0113', 'grad_norm': '0.03554', 'learning_rate': '0.0001879', 'epoch': '1.121'}
+{'loss': '0.009044', 'grad_norm': '0.04953', 'learning_rate': '0.0001862', 'epoch': '1.138'}
+{'loss': '0.009924', 'grad_norm': '0.04739', 'learning_rate': '0.0001845', 'epoch': '1.156'}
+{'loss': '0.01204', 'grad_norm': '0.04161', 'learning_rate': '0.0001828', 'epoch': '1.173'}
+{'loss': '0.01121', 'grad_norm': '0.09438', 'learning_rate': '0.000181', 'epoch': '1.19'}
+{'loss': '0.01161', 'grad_norm': '0.097', 'learning_rate': '0.0001793', 'epoch': '1.207'}
+{'loss': '0.0118', 'grad_norm': '0.04515', 'learning_rate': '0.0001776', 'epoch': '1.225'}
+{'loss': '0.01208', 'grad_norm': '0.1567', 'learning_rate': '0.0001759', 'epoch': '1.242'}
+{'loss': '0.01173', 'grad_norm': '0.09095', 'learning_rate': '0.0001741', 'epoch': '1.259'}
+{'loss': '0.01112', 'grad_norm': '0.3164', 'learning_rate': '0.0001724', 'epoch': '1.276'}
+{'loss': '0.01138', 'grad_norm': '0.06446', 'learning_rate': '0.0001707', 'epoch': '1.294'}
+{'loss': '0.01043', 'grad_norm': '0.07381', 'learning_rate': '0.000169', 'epoch': '1.311'}
+{'loss': '0.01187', 'grad_norm': '0.03392', 'learning_rate': '0.0001672', 'epoch': '1.328'}
+{'loss': '0.0114', 'grad_norm': '0.06903', 'learning_rate': '0.0001655', 'epoch': '1.345'}
+{'loss': '0.01179', 'grad_norm': '0.03431', 'learning_rate': '0.0001638', 'epoch': '1.363'}
+{'loss': '0.01088', 'grad_norm': '0.0666', 'learning_rate': '0.0001621', 'epoch': '1.38'}
+{'loss': '0.01093', 'grad_norm': '0.046', 'learning_rate': '0.0001603', 'epoch': '1.397'}
+{'loss': '0.01025', 'grad_norm': '0.06405', 'learning_rate': '0.0001586', 'epoch': '1.414'}
+{'loss': '0.01059', 'grad_norm': '0.09714', 'learning_rate': '0.0001569', 'epoch': '1.432'}
+{'loss': '0.009921', 'grad_norm': '0.05917', 'learning_rate': '0.0001552', 'epoch': '1.449'}
+{'loss': '0.01202', 'grad_norm': '0.1057', 'learning_rate': '0.0001534', 'epoch': '1.466'}
+{'loss': '0.01074', 'grad_norm': '0.06085', 'learning_rate': '0.0001517', 'epoch': '1.483'}
+{'loss': '0.01109', 'grad_norm': '0.06755', 'learning_rate': '0.00015', 'epoch': '1.501'}
+{'loss': '0.0106', 'grad_norm': '0.06001', 'learning_rate': '0.0001483', 'epoch': '1.518'}
+{'loss': '0.0104', 'grad_norm': '0.03311', 'learning_rate': '0.0001465', 'epoch': '1.535'}
+{'loss': '0.01049', 'grad_norm': '0.05708', 'learning_rate': '0.0001448', 'epoch': '1.552'}
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.35s/it]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.35s/it]
+{'loss': '0.01103', 'grad_norm': '0.04328', 'learning_rate': '0.0001431', 'epoch': '1.57'}
+{'loss': '0.009883', 'grad_norm': '0.03885', 'learning_rate': '0.0001414', 'epoch': '1.587'}
+{'loss': '0.0097', 'grad_norm': '0.08803', 'learning_rate': '0.0001396', 'epoch': '1.604'}
+{'loss': '0.009595', 'grad_norm': '0.03778', 'learning_rate': '0.0001379', 'epoch': '1.621'}
+{'loss': '0.01184', 'grad_norm': '0.02987', 'learning_rate': '0.0001362', 'epoch': '1.638'}
+{'loss': '0.01065', 'grad_norm': '0.05946', 'learning_rate': '0.0001345', 'epoch': '1.656'}
+{'loss': '0.01125', 'grad_norm': '0.03534', 'learning_rate': '0.0001327', 'epoch': '1.673'}
+{'loss': '0.01078', 'grad_norm': '0.04364', 'learning_rate': '0.000131', 'epoch': '1.69'}
+{'loss': '0.01023', 'grad_norm': '0.04806', 'learning_rate': '0.0001293', 'epoch': '1.707'}
+{'loss': '0.009863', 'grad_norm': '0.02602', 'learning_rate': '0.0001276', 'epoch': '1.725'}
+{'loss': '0.01053', 'grad_norm': '0.1426', 'learning_rate': '0.0001258', 'epoch': '1.742'}
+{'loss': '0.01027', 'grad_norm': '0.05748', 'learning_rate': '0.0001241', 'epoch': '1.759'}
+{'loss': '0.01103', 'grad_norm': '0.04985', 'learning_rate': '0.0001224', 'epoch': '1.776'}
+{'loss': '0.009702', 'grad_norm': '0.06413', 'learning_rate': '0.0001207', 'epoch': '1.794'}
+{'loss': '0.01039', 'grad_norm': '0.03094', 'learning_rate': '0.0001189', 'epoch': '1.811'}
+{'loss': '0.009676', 'grad_norm': '0.04394', 'learning_rate': '0.0001172', 'epoch': '1.828'}
+{'loss': '0.009345', 'grad_norm': '0.09409', 'learning_rate': '0.0001155', 'epoch': '1.845'}
+{'loss': '0.01089', 'grad_norm': '0.03062', 'learning_rate': '0.0001138', 'epoch': '1.863'}
+{'loss': '0.009546', 'grad_norm': '0.02406', 'learning_rate': '0.000112', 'epoch': '1.88'}
+{'loss': '0.009203', 'grad_norm': '0.06125', 'learning_rate': '0.0001103', 'epoch': '1.897'}
+{'loss': '0.009524', 'grad_norm': '0.04099', 'learning_rate': '0.0001086', 'epoch': '1.914'}
+{'loss': '0.009605', 'grad_norm': '0.04166', 'learning_rate': '0.0001069', 'epoch': '1.932'}
+{'loss': '0.009406', 'grad_norm': '0.03525', 'learning_rate': '0.0001051', 'epoch': '1.949'}
+{'loss': '0.009038', 'grad_norm': '0.04351', 'learning_rate': '0.0001034', 'epoch': '1.966'}
+{'loss': '0.009376', 'grad_norm': '0.02656', 'learning_rate': '0.0001017', 'epoch': '1.983'}
+{'loss': '0.008574', 'grad_norm': '0.04849', 'learning_rate': '9.997e-05', 'epoch': '2.001'}
+{'loss': '0.00785', 'grad_norm': '0.07222', 'learning_rate': '9.824e-05', 'epoch': '2.018'}
+{'loss': '0.00719', 'grad_norm': '0.09362', 'learning_rate': '9.652e-05', 'epoch': '2.035'}
+{'loss': '0.007537', 'grad_norm': '0.04377', 'learning_rate': '9.479e-05', 'epoch': '2.052'}
+{'loss': '0.007702', 'grad_norm': '0.03974', 'learning_rate': '9.307e-05', 'epoch': '2.07'}
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.75s/it]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.75s/it]
+{'loss': '0.007218', 'grad_norm': '0.04568', 'learning_rate': '9.134e-05', 'epoch': '2.087'}
+{'loss': '0.007537', 'grad_norm': '0.03185', 'learning_rate': '8.962e-05', 'epoch': '2.104'}
+{'loss': '0.007654', 'grad_norm': '0.0987', 'learning_rate': '8.789e-05', 'epoch': '2.121'}
+{'loss': '0.007052', 'grad_norm': '0.05276', 'learning_rate': '8.617e-05', 'epoch': '2.139'}
+{'loss': '0.007209', 'grad_norm': '0.02003', 'learning_rate': '8.444e-05', 'epoch': '2.156'}
+{'loss': '0.007444', 'grad_norm': '0.03794', 'learning_rate': '8.272e-05', 'epoch': '2.173'}
+{'loss': '0.007473', 'grad_norm': '0.05076', 'learning_rate': '8.099e-05', 'epoch': '2.19'}
+{'loss': '0.008341', 'grad_norm': '0.0314', 'learning_rate': '7.927e-05', 'epoch': '2.208'}
+{'loss': '0.007293', 'grad_norm': '0.02678', 'learning_rate': '7.754e-05', 'epoch': '2.225'}
+{'loss': '0.007569', 'grad_norm': '0.01547', 'learning_rate': '7.582e-05', 'epoch': '2.242'}
+{'loss': '0.007265', 'grad_norm': '0.03558', 'learning_rate': '7.409e-05', 'epoch': '2.259'}
+{'loss': '0.008448', 'grad_norm': '0.02633', 'learning_rate': '7.237e-05', 'epoch': '2.277'}
+{'loss': '0.007493', 'grad_norm': '0.04392', 'learning_rate': '7.065e-05', 'epoch': '2.294'}
+{'loss': '0.007399', 'grad_norm': '0.05492', 'learning_rate': '6.892e-05', 'epoch': '2.311'}
+{'loss': '0.007481', 'grad_norm': '0.0737', 'learning_rate': '6.72e-05', 'epoch': '2.328'}
+{'loss': '0.00739', 'grad_norm': '0.03765', 'learning_rate': '6.547e-05', 'epoch': '2.346'}
+{'loss': '0.007164', 'grad_norm': '0.0402', 'learning_rate': '6.375e-05', 'epoch': '2.363'}
+{'loss': '0.008041', 'grad_norm': '0.03119', 'learning_rate': '6.202e-05', 'epoch': '2.38'}
+{'loss': '0.007505', 'grad_norm': '0.02444', 'learning_rate': '6.03e-05', 'epoch': '2.397'}
+{'loss': '0.007168', 'grad_norm': '0.03301', 'learning_rate': '5.857e-05', 'epoch': '2.415'}
+{'loss': '0.007355', 'grad_norm': '0.02171', 'learning_rate': '5.685e-05', 'epoch': '2.432'}
+{'loss': '0.006472', 'grad_norm': '0.04387', 'learning_rate': '5.512e-05', 'epoch': '2.449'}
+{'loss': '0.008047', 'grad_norm': '0.04531', 'learning_rate': '5.34e-05', 'epoch': '2.466'}
+{'loss': '0.006586', 'grad_norm': '0.04507', 'learning_rate': '5.167e-05', 'epoch': '2.484'}
+{'loss': '0.006917', 'grad_norm': '0.0383', 'learning_rate': '4.995e-05', 'epoch': '2.501'}
+{'loss': '0.006867', 'grad_norm': '0.02118', 'learning_rate': '4.822e-05', 'epoch': '2.518'}
+{'loss': '0.007541', 'grad_norm': '0.1716', 'learning_rate': '4.65e-05', 'epoch': '2.535'}
+{'loss': '0.007049', 'grad_norm': '0.04893', 'learning_rate': '4.477e-05', 'epoch': '2.553'}
+{'loss': '0.007503', 'grad_norm': '0.05602', 'learning_rate': '4.305e-05', 'epoch': '2.57'}
+{'loss': '0.007352', 'grad_norm': '0.04571', 'learning_rate': '4.132e-05', 'epoch': '2.587'}
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.33s/it]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.33s/it]
+{'loss': '0.007485', 'grad_norm': '0.04622', 'learning_rate': '3.96e-05', 'epoch': '2.604'}
+{'loss': '0.007392', 'grad_norm': '0.03902', 'learning_rate': '3.788e-05', 'epoch': '2.622'}
+{'loss': '0.007119', 'grad_norm': '0.09226', 'learning_rate': '3.615e-05', 'epoch': '2.639'}
+{'loss': '0.006789', 'grad_norm': '0.05753', 'learning_rate': '3.443e-05', 'epoch': '2.656'}
+{'loss': '0.006886', 'grad_norm': '0.0389', 'learning_rate': '3.27e-05', 'epoch': '2.673'}
+{'loss': '0.006141', 'grad_norm': '0.02605', 'learning_rate': '3.098e-05', 'epoch': '2.691'}
+{'loss': '0.00692', 'grad_norm': '0.03304', 'learning_rate': '2.925e-05', 'epoch': '2.708'}
+{'loss': '0.0073', 'grad_norm': '0.01917', 'learning_rate': '2.753e-05', 'epoch': '2.725'}
+{'loss': '0.008173', 'grad_norm': '0.06465', 'learning_rate': '2.58e-05', 'epoch': '2.742'}
+{'loss': '0.007847', 'grad_norm': '0.02298', 'learning_rate': '2.408e-05', 'epoch': '2.76'}
+{'loss': '0.007297', 'grad_norm': '0.03223', 'learning_rate': '2.235e-05', 'epoch': '2.777'}
+{'loss': '0.006682', 'grad_norm': '0.02531', 'learning_rate': '2.063e-05', 'epoch': '2.794'}
+{'loss': '0.006734', 'grad_norm': '0.08105', 'learning_rate': '1.89e-05', 'epoch': '2.811'}
+{'loss': '0.006209', 'grad_norm': '0.05769', 'learning_rate': '1.718e-05', 'epoch': '2.829'}
+{'loss': '0.006756', 'grad_norm': '0.03513', 'learning_rate': '1.545e-05', 'epoch': '2.846'}
+{'loss': '0.006372', 'grad_norm': '0.02297', 'learning_rate': '1.373e-05', 'epoch': '2.863'}
+{'loss': '0.006953', 'grad_norm': '0.03376', 'learning_rate': '1.2e-05', 'epoch': '2.88'}
+{'loss': '0.00638', 'grad_norm': '0.07836', 'learning_rate': '1.028e-05', 'epoch': '2.898'}
+{'loss': '0.006188', 'grad_norm': '0.02236', 'learning_rate': '8.555e-06', 'epoch': '2.915'}
+{'loss': '0.007195', 'grad_norm': '0.04565', 'learning_rate': '6.83e-06', 'epoch': '2.932'}
+{'loss': '0.007273', 'grad_norm': '0.0302', 'learning_rate': '5.105e-06', 'epoch': '2.949'}
+{'loss': '0.007243', 'grad_norm': '0.02914', 'learning_rate': '3.38e-06', 'epoch': '2.967'}
+{'loss': '0.006331', 'grad_norm': '0.04668', 'learning_rate': '1.656e-06', 'epoch': '2.984'}
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.24s/it]
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.24s/it]
+{'train_runtime': '2122', 'train_samples_per_second': '65.56', 'train_steps_per_second': '4.098', 'train_loss': '0.01482', 'epoch': '3'}
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|██████████| 1/1 [00:04<00:00,  4.50s/it]
+Writing model shards: 100%|██████████| 1/1 [00:04<00:00,  4.50s/it]
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=96) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+leaderboard: | model | 985 | 92.5% | 95.6% | 89.5% |

@@ -6,3 +6,4 @@ features-full = all morph features right; claim = features + lemma. Rows appende
 |---|---|---|---|---|
 | byt5-sanskrit (baseline, learned+positional tag decode) | 985 | 90.1% | 93.3% | 88.3% |
 | smoke — plumbing only, 20 steps on 200 ex (NOT a result) | 40 | 0.0% | 0.0% | 0.0% |
+| analyzer-v1 — ByT5-Sanskrit SFT on trainset_v1 (3 ep, bf16, A100, 35 min) | 985 | 92.5% | 95.6% | 89.5% |

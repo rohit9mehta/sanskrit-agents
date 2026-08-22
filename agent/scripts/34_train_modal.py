@@ -17,9 +17,12 @@ What happens:
     agent/data/benchmark/ (weights stay on the volume; pull with
     `modal volume get shastrartha-models <run-name> agent/models/` if needed)
 
-Cost guard: timeout 5 h; A10G ≈ $1.10/h → a full run is single-digit dollars.
+Cost guard: timeout 5 h. A100 (default; MODAL_GPU overrides) ≈ $2.5/h; with bf16
+the 3-epoch run is ~1 h → a few dollars. (Run 1 on A10G in fp32 hit the 5 h
+timeout with buffered logs — hence bf16, checkpoints, and streaming now.)
 """
 
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -45,7 +48,7 @@ image = (
 )
 
 
-@app.function(image=image, gpu="A10G", timeout=5 * 60 * 60,
+@app.function(image=image, gpu=os.environ.get("MODAL_GPU", "A100"), timeout=5 * 60 * 60,
               volumes={"/vol": vol})
 def train(run_name: str, base: str, epochs: float, lr: float, bs: int,
           max_len: int, max_steps: int) -> dict:
@@ -56,8 +59,24 @@ def train(run_name: str, base: str, epochs: float, lr: float, bs: int,
            "--base", base, "--out", str(out_dir / "model"),
            "--epochs", str(epochs), "--lr", str(lr), "--bs", str(bs),
            "--max-len", str(max_len), "--max-steps", str(max_steps)]
-    log = subprocess.run(cmd, capture_output=True, text=True)
-    (out_dir / "train.log").write_text(log.stdout + "\n--- stderr ---\n" + log.stderr)
+    # stream the trainer's output (Modal relays stdout live) AND keep it on the volume
+    lines = []
+    with (out_dir / "train.log").open("w") as lf:
+        proc = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                                text=True, bufsize=1, env={**os.environ, "RUN_TAG": run_name})
+        for line in proc.stdout:
+            print(line, end="", flush=True)
+            lf.write(line); lf.flush()
+            lines.append(line)
+            if len(lines) % 200 == 0:
+                vol.commit()
+        proc.wait()
+
+    class _Log:  # keep the downstream code unchanged
+        returncode = proc.returncode
+        stdout = "".join(lines)
+        stderr = ""
+    log = _Log()
     bench = REMOTE / "data" / "benchmark"
     results = {}
     for p in bench.glob("results_*.jsonl"):
@@ -68,8 +87,8 @@ def train(run_name: str, base: str, epochs: float, lr: float, bs: int,
     (out_dir / "leaderboard_row.md").write_text(row + "\n")
     vol.commit()
     return {"returncode": log.returncode, "leaderboard_row": row,
-            "results_files": list(results), "tail": log.stdout[-3000:],
-            "stderr_tail": log.stderr[-2000:]}
+            "results_files": list(results), **results,   # contents too → written locally
+            "tail": log.stdout[-3000:], "stderr_tail": log.stderr[-2000:]}
 
 
 @app.function(image=image, volumes={"/vol": vol})

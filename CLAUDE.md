@@ -128,6 +128,21 @@ Phase 2 human eval) is built. Scripts 26–33; all outputs under agent/data/.
   (14.9% → 5.5%); remaining residual is mostly reasoner inconsistency
   (kim/ka, enad/etad/idam, -at/-ant) that the prompt rule now settles.
   verify.py `_stem_candidates` gained the śatṛ -at→-ant fallback.
+- 2026-08-22: models moved to GPT-5.6 — reasoner `gpt-5.6-sol` (high),
+  ask-box `gpt-5.6-luna` (medium); A/B vs terra in data/validation/ab_*.
+  Human eval packets remain 5.5 output (kept deliberately).
+- ✅ POST-TRAINING PoC DONE (2026-08-22, Modal A100, 35 min, ~$2; run 1 on
+  A10G fp32 timed out at 5 h — bf16/checkpoints/streaming added):
+  `analyzer-v1` = ByT5-Sanskrit SFT on trainset_v1 (46k, 3 ep) emitting our
+  explicit `pos=… lakara=…` schema. Benchmark (985): features 90.1→92.5%,
+  lemma 93.3→95.6%, claim 88.3→89.5%. Structural cells: aorist (Luṅ) 5→80%,
+  Luṭ 0→100%, pipeline-hard 69→74% (lemma 29→43%). Regressions: duals
+  (Dvitiya:Dvi 95→67%), vocative 96→78% — syncretic forms where context-free
+  synthetic data teaches an arbitrary label; v2 fix = drop/deweight syncretic
+  synthetic items, upweight DCS context. Report:
+  data/benchmark/runs/analyzer-v1/report.md; weights on Modal volume
+  `shastrartha-models/analyzer-v1/model`. Scripts 33/34 are the trainer +
+  launcher (`modal run scripts/34_train_modal.py --run-name <tag>`).
 
 ## Conventions
 - IAST transliteration throughout; keep Devanagari conversion as a display concern
